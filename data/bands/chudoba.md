@@ -1,0 +1,5 @@
+---
+name: Chudoba
+countries:
+  - poland
+---

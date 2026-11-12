@@ -1,0 +1,5 @@
+---
+name: Kofia
+countries:
+  - palestine
+---

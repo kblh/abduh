@@ -1,0 +1,5 @@
+---
+name: Adjagas
+countries:
+  - norway
+---

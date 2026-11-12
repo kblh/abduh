@@ -1,0 +1,5 @@
+---
+name: Fofoulah
+countries:
+  - senegal
+---

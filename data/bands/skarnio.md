@@ -1,0 +1,5 @@
+---
+name: Skarnio
+countries:
+  - spain
+---

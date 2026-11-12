@@ -1,0 +1,5 @@
+---
+name: Ranarim
+countries:
+  - sweden
+---

@@ -1,0 +1,5 @@
+---
+name: Megafon
+countries:
+  - denmark
+---

@@ -1,0 +1,5 @@
+---
+name: AfroCubism
+countries:
+  - cuba
+---

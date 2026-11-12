@@ -1,0 +1,5 @@
+---
+name: Niftys
+countries:
+  - austria
+---

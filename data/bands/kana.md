@@ -1,0 +1,5 @@
+---
+name: Kana
+countries:
+  - mauritius
+---

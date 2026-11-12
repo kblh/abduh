@@ -1,0 +1,5 @@
+---
+name: Strune
+countries:
+  - macedonia
+---

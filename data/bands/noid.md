@@ -1,0 +1,5 @@
+---
+name: Noid
+countries:
+  - russia
+---

@@ -1,0 +1,5 @@
+---
+name: Amarok
+countries:
+  - spain
+---

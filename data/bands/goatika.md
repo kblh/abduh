@@ -1,0 +1,5 @@
+---
+name: Goatika
+countries:
+  - russia
+---

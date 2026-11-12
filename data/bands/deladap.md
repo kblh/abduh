@@ -1,0 +1,5 @@
+---
+name: Deladap
+countries:
+  - czech
+---

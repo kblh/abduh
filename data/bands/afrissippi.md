@@ -1,0 +1,5 @@
+---
+name: Afrissippi
+countries:
+  - senegal
+---

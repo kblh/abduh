@@ -1,0 +1,5 @@
+---
+name: Egschiglen
+countries:
+  - mongolia
+---

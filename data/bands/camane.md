@@ -1,0 +1,5 @@
+---
+name: Camane
+countries:
+  - portugal
+---

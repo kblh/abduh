@@ -1,0 +1,5 @@
+---
+name: Karantamba
+countries:
+  - senegal
+---

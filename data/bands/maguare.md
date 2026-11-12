@@ -1,0 +1,5 @@
+---
+name: Maguare
+countries:
+  - colombia
+---

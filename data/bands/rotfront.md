@@ -1,0 +1,5 @@
+---
+name: Rotfront
+countries:
+  - germany
+---

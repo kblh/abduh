@@ -1,0 +1,5 @@
+---
+name: Triny
+countries:
+  - czech
+---

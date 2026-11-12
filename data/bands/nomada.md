@@ -1,0 +1,5 @@
+---
+name: Nomada
+countries:
+  - hungary
+---

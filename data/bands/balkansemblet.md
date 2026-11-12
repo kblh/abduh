@@ -1,0 +1,5 @@
+---
+name: Balkansemblet
+countries:
+  - norway
+---

@@ -1,0 +1,5 @@
+---
+name: Analogik
+countries:
+  - denmark
+---

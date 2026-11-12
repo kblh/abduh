@@ -1,0 +1,5 @@
+---
+name: Loituma
+countries:
+  - finland
+---

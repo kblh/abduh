@@ -1,0 +1,5 @@
+---
+name: Vajas
+countries:
+  - norway
+---

@@ -1,0 +1,5 @@
+---
+name: Loyko
+countries:
+  - russia
+---

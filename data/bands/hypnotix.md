@@ -1,0 +1,5 @@
+---
+name: Hypnotix
+countries:
+  - czech
+---

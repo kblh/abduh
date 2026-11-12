@@ -1,0 +1,5 @@
+---
+name: Lariba
+countries:
+  - switzerland
+---

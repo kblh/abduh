@@ -1,0 +1,5 @@
+---
+name: Handala
+countries:
+  - palestine
+---

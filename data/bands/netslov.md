@@ -1,0 +1,5 @@
+---
+name: Netslov
+countries:
+  - russia
+---

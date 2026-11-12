@@ -1,0 +1,5 @@
+---
+name: Lego
+countries:
+  - madagascar
+---

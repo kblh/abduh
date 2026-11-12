@@ -1,0 +1,5 @@
+---
+name: Salamat
+countries:
+  - egypt
+---

@@ -1,0 +1,5 @@
+---
+name: Edzayawa
+countries:
+  - ghana
+---

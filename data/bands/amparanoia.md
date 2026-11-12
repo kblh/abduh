@@ -1,0 +1,5 @@
+---
+name: Amparanoia
+countries:
+  - spain
+---

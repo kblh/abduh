@@ -1,0 +1,5 @@
+---
+name: Majorstuen
+countries:
+  - norway
+---

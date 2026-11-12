@@ -1,0 +1,5 @@
+---
+name: Faytinga
+countries:
+  - eritrea
+---

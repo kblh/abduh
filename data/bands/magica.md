@@ -1,0 +1,5 @@
+---
+name: Magica
+countries:
+  - colombia
+---

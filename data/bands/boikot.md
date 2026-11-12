@@ -1,0 +1,5 @@
+---
+name: Boikot
+countries:
+  - spain
+---

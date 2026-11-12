@@ -1,0 +1,5 @@
+---
+name: Marijata
+countries:
+  - ghana
+---

@@ -1,0 +1,5 @@
+---
+name: Pitingo
+countries:
+  - spain
+---

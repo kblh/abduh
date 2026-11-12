@@ -1,0 +1,5 @@
+---
+name: Longital
+countries:
+  - slovakia
+---

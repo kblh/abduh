@@ -1,0 +1,5 @@
+---
+name: Stelafi
+countries:
+  - cyprus
+---

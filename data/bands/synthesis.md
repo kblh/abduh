@@ -1,0 +1,5 @@
+---
+name: Synthesis
+countries:
+  - macedonia
+---
