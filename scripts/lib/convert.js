@@ -3,7 +3,7 @@ import { normalizeName, slugify, stripEmoji } from './slug.js';
 
 const cleanName = (n) => stripEmoji(n.replace(/\.md$/, '')).replace(/^[~^]\s*/, '').trim();
 
-function editDistance(a, b) {
+export function editDistance(a, b) {
   let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
   for (let i = 1; i <= a.length; i++) {
     const cur = [i];
