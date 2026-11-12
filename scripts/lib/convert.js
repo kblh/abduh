@@ -64,7 +64,12 @@ export function convertVault(input, aliases) {
 
     for (const raw of parsed.bands) {
       const key = normalizeName(raw.name);
-      if (!key) {
+      const noise =
+        !key ||
+        key === normalizeName(countryName) ||
+        /^#|:/.test(raw.name) ||
+        raw.name.length > 70;
+      if (noise) {
         report.skipped.push(`${countryName}: ${raw.name}`);
         continue;
       }

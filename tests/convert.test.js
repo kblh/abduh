@@ -121,3 +121,24 @@ test('members and parentheticals reach the entity and the report', () => {
   assert.deepEqual(bandOf(r, 'buena-vista-social-club').fields.members, ['Compay Segundo']);
   assert.ok(r.report.parentheticals.some((p) => /Omar Sosa/.test(p) && /piano/.test(p)));
 });
+
+test('prose, headings and region lines are skipped, not made into bands', () => {
+  const r = convertVault(
+    base({
+      countries: [
+        country(
+          'europe',
+          '🇪🇸 Spain.md',
+          'Population: 7.6 million\n## Scotland\nSpain (Andalusia)\n16 Horsepower\n' +
+            'Military rule, corruption, a huge wealth gap, crime and natural disasters have rendered it fragile\n',
+        ),
+      ],
+    }),
+    {},
+  );
+  assert.deepEqual(
+    r.entities.filter((e) => e.type === 'band').map((e) => e.id),
+    ['16-horsepower'],
+  );
+  assert.equal(r.report.skipped.length, 4);
+});
