@@ -2,10 +2,11 @@
 
 ## Counts
 
-- bands: 2753
+- bands: 2718
 - countrys: 140
-- styles: 124
+- styles: 123
 - instruments: 26
+- bandsWithoutStyle: 1631
 
 ## Ignored folders
 
@@ -107,6 +108,8 @@
 - Burkina Faso: International: Burkina Faso has been linked to conflicts within the region. Many citizens who have traditionally worked in Ivory Coast have fled instability there
 - Tunisia: ## Ghalia Benali
 - Tunisia: - singer, songwriter, writer and graphic designer - 1968 (age 51 years), [Brussels, Belgium]
+- Cuba / Buena Vista Social Club / Manuel Guajiro Mirabal: tags trumpet
+- Cuba / Buena Vista Social Club / Ruben Gonzalez: tags piano
 - Dominican Republic: 50 - 60 let prožívala Dominikánská Republika energetickou krizi. Lidé se scházeli večer na balkonech bytů a poslouchali hudbu z rádií na baterky
 - Honduras: Military rule, corruption, a huge wealth gap, crime and natural disasters have rendered Honduras one of the least developed and least secure countries in Central America.
 - Honduras: Population: 7.6 million
@@ -122,32 +125,80 @@
 - Peru: Peru's rich and varied heritage includes the ancient Incan capital of Cuzco and the lost city of Machu Picchu. The country boasts spectacular scenery, including Lake Titicaca, the world's highest navigable lake.
 - Peru: It is rich in copper, silver, lead, zinc, oil and gold. The country experienced an economic boom in the 2000s, and in 2011 Peru was said to have one of the world's fastest-growing economies
 - Peru: The first African Peruvians arrived with the conquistadors in 1521, to return permanently in 1525. One of the biggest import of African slaves occurred between 1529 and 1537 when Francisco Pizzaro was granted permits to import 363 slaves to colonial Peru for public construction; building bridges and road systems.
+- Switzerland: sz-flag.gif
+- Czech: Various
+- Germany: gm-flag.gif
+- Spain: Various
+- Spain: sp-flag.gif
+- Spain: Spain
+- Spain: andalusia-flag.png
+- Spain: andalusia-map.png
+- Spain: Spain
+- Spain: aragon-flag.png
+- Spain: aragon-map.png
+- Spain: Spain
+- Spain: asturias-flag.png
+- Spain: asturias-map.png
+- Spain: Spain
+- Spain: basque-country.png
+- Spain: basque-country-map.png
+- Spain: Spain
+- Spain: Spain
+- Spain: castile-and-leon-flag.png
+- Spain: castile-and-leon-map.png
+- Spain: Spain
+- Spain: catalonia-map.jpg
+- Spain: catalonia-map2.jpg
+- Spain: catalonia-flag.png
+- Spain: Spain
+- Spain: extremadura-flag.png
+- Spain: extremadura-map.png
+- Spain: Spain
+- Spain: Spain
+- Spain: galicia-flag.png
+- Spain: galicia-map.png
 - Spain: Spain
 - Spain: Spain
 - Spain: Spain
-- Spain: Spain
-- Spain: Spain
-- Spain: Spain
-- Spain: Spain
-- Spain: Spain
-- Spain: Spain
-- Spain: Spain
-- Spain: Spain
-- Spain: Spain
-- Spain: Spain
+- Spain: valencia-map.png
+- Spain: valencia-map2.png
+- France: Various
+- France: fr-flag.gif
+- France: France
+- France: brittany-flag.png
+- France: brittany-map.png
+- France: France
+- France: corsica-flag.gif
 - France: France
 - France: France
 - France: France
 - France: France
 - France: France
-- France: France
-- France: France
+- United Kingdom: uk-flag.gif
 - United Kingdom: ## Scotland
 - United Kingdom: ## 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
+- United Kingdom: Various
+- Greece: Various
+- Greece: gr-flag.gif
 - Greece: Greece
+- Hungary: hu-flag.gif
+- Ireland: ei-flag.gif
 - Italy: Markku Lepisto, David Munnelly, Riccardo Tesi, Bruno Le Tron, Didier Laloy
+- Italy: Various
+- Italy: it-flag.gif
 - Italy: Italy
 - Italy: Italy
+- Moldova: Various
+- Moldova: md-flag.gif
+- Moldova: md-map.gif
+- Netherlands: nl-flag.gif
+- Portugal: Various
+- Romania: Various
+- Serbia: Various
+- Russia: Various
+- Syria / Al Akhareen / Osloob: tags rap
+- Syria / Al Akhareen / Naïssam Jalal: tags flute, jazz, france
+- Turkey: Various
 
 ## Similar band names (not merged)
 
@@ -156,13 +207,8 @@
 - Mar'Na ~ Marina
 - Mawaca ~ Maraca
 - Moondog ~ Moondo
-- sz-flag.gif ~ sp-flag.gif
-- gm-flag.gif ~ gr-flag.gif
 - Marina ~ Mariza
 - Tomasito ~ Tomatito
-- catalonia-map.jpg ~ catalonia-map2.jpg
-- valencia-map.png ~ valencia-map2.png
-- fr-flag.gif ~ gr-flag.gif
 - Mosaica ~ Mosaic
 
 ## Slug collisions

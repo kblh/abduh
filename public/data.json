@@ -1445,22 +1445,6 @@
       "body": ""
     },
     {
-      "id": "andalusia-flag-png",
-      "name": "andalusia-flag.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "andalusia-map-png",
-      "name": "andalusia-map.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
       "id": "ando-drom",
       "name": "Ando Drom",
       "countries": [
@@ -1844,22 +1828,6 @@
       "body": ""
     },
     {
-      "id": "aragon-flag-png",
-      "name": "aragon-flag.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "aragon-map-png",
-      "name": "aragon-map.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
       "id": "arakne-mediterranea",
       "name": "Arakne Mediterranea",
       "countries": [
@@ -2100,22 +2068,6 @@
       ],
       "styles": [
         "tango"
-      ],
-      "body": ""
-    },
-    {
-      "id": "asturias-flag-png",
-      "name": "asturias-flag.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "asturias-map-png",
-      "name": "asturias-map.png",
-      "countries": [
-        "spain"
       ],
       "body": ""
     },
@@ -2774,22 +2726,6 @@
       "name": "Baskery",
       "countries": [
         "sweden"
-      ],
-      "body": ""
-    },
-    {
-      "id": "basque-country-map-png",
-      "name": "basque-country-map.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "basque-country-png",
-      "name": "basque-country.png",
-      "countries": [
-        "spain"
       ],
       "body": ""
     },
@@ -3851,28 +3787,6 @@
       "body": ""
     },
     {
-      "id": "brittany-flag-png",
-      "name": "brittany-flag.png",
-      "countries": [
-        "france"
-      ],
-      "styles": [
-        "world-music"
-      ],
-      "body": ""
-    },
-    {
-      "id": "brittany-map-png",
-      "name": "brittany-map.png",
-      "countries": [
-        "france"
-      ],
-      "styles": [
-        "world-music"
-      ],
-      "body": ""
-    },
-    {
       "id": "brotto-lopez",
       "name": "Brotto Lopez",
       "countries": [
@@ -4514,46 +4428,6 @@
         "country",
         "bluegrass",
         "appalachian"
-      ],
-      "body": ""
-    },
-    {
-      "id": "castile-and-leon-flag-png",
-      "name": "castile-and-leon-flag.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "castile-and-leon-map-png",
-      "name": "castile-and-leon-map.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "catalonia-flag-png",
-      "name": "catalonia-flag.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "catalonia-map-jpg",
-      "name": "catalonia-map.jpg",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "catalonia-map2-jpg",
-      "name": "catalonia-map2.jpg",
-      "countries": [
-        "spain"
       ],
       "body": ""
     },
@@ -5396,17 +5270,6 @@
     {
       "id": "corse-musiques-sacrees-sittimana-santa-in-bunifaziu",
       "name": "Corse, Musiques sacrees, Sittimana santa in Bunifaziu",
-      "countries": [
-        "france"
-      ],
-      "styles": [
-        "world-music"
-      ],
-      "body": ""
-    },
-    {
-      "id": "corsica-flag-gif",
-      "name": "corsica-flag.gif",
       "countries": [
         "france"
       ],
@@ -7162,14 +7025,6 @@
       "body": ""
     },
     {
-      "id": "ei-flag-gif",
-      "name": "ei-flag.gif",
-      "countries": [
-        "ireland"
-      ],
-      "body": ""
-    },
-    {
       "id": "eivor-palsdottir",
       "name": "Eivor Palsdottir",
       "countries": [
@@ -8004,22 +7859,6 @@
       "body": ""
     },
     {
-      "id": "extremadura-flag-png",
-      "name": "extremadura-flag.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "extremadura-map-png",
-      "name": "extremadura-map.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
       "id": "ezza",
       "name": "Ezza",
       "countries": [
@@ -8637,17 +8476,6 @@
       "body": ""
     },
     {
-      "id": "fr-flag-gif",
-      "name": "fr-flag.gif",
-      "countries": [
-        "france"
-      ],
-      "styles": [
-        "world-music"
-      ],
-      "body": ""
-    },
-    {
       "id": "franco",
       "name": "Franco",
       "countries": [
@@ -8992,22 +8820,6 @@
       ],
       "styles": [
         "mpb"
-      ],
-      "body": ""
-    },
-    {
-      "id": "galicia-flag-png",
-      "name": "galicia-flag.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "galicia-map-png",
-      "name": "galicia-map.png",
-      "countries": [
-        "spain"
       ],
       "body": ""
     },
@@ -9446,14 +9258,6 @@
       "body": ""
     },
     {
-      "id": "gm-flag-gif",
-      "name": "gm-flag.gif",
-      "countries": [
-        "germany"
-      ],
-      "body": ""
-    },
-    {
       "id": "gnawa-diffusion",
       "name": "Gnawa Diffusion",
       "countries": [
@@ -9564,14 +9368,6 @@
       "name": "Gothenburg Gadjos",
       "countries": [
         "sweden"
-      ],
-      "body": ""
-    },
-    {
-      "id": "gr-flag-gif",
-      "name": "gr-flag.gif",
-      "countries": [
-        "greece"
       ],
       "body": ""
     },
@@ -10341,14 +10137,6 @@
       "body": ""
     },
     {
-      "id": "hu-flag-gif",
-      "name": "hu-flag.gif",
-      "countries": [
-        "hungary"
-      ],
-      "body": ""
-    },
-    {
       "id": "hugh-masekela",
       "name": "Hugh Masekela",
       "countries": [
@@ -10823,17 +10611,6 @@
       "styles": [
         "psychedelic",
         "rock"
-      ],
-      "body": ""
-    },
-    {
-      "id": "it-flag-gif",
-      "name": "it-flag.gif",
-      "countries": [
-        "italy"
-      ],
-      "styles": [
-        "pizzica"
       ],
       "body": ""
     },
@@ -16254,22 +16031,6 @@
       "body": ""
     },
     {
-      "id": "md-flag-gif",
-      "name": "md-flag.gif",
-      "countries": [
-        "moldova"
-      ],
-      "body": ""
-    },
-    {
-      "id": "md-map-gif",
-      "name": "md-map.gif",
-      "countries": [
-        "moldova"
-      ],
-      "body": ""
-    },
-    {
       "id": "mdou-moctar",
       "name": "Mdou Moctar",
       "countries": [
@@ -17694,14 +17455,6 @@
       "name": "Njava",
       "countries": [
         "madagascar"
-      ],
-      "body": ""
-    },
-    {
-      "id": "nl-flag-gif",
-      "name": "nl-flag.gif",
-      "countries": [
-        "netherlands"
       ],
       "body": ""
     },
@@ -22099,14 +21852,6 @@
       "body": ""
     },
     {
-      "id": "sp-flag-gif",
-      "name": "sp-flag.gif",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
       "id": "spaccanapoli",
       "name": "Spaccanapoli",
       "countries": [
@@ -22560,14 +22305,6 @@
       "name": "Systema Solar",
       "countries": [
         "colombia"
-      ],
-      "body": ""
-    },
-    {
-      "id": "sz-flag-gif",
-      "name": "sz-flag.gif",
-      "countries": [
-        "switzerland"
       ],
       "body": ""
     },
@@ -24447,14 +24184,6 @@
       "body": ""
     },
     {
-      "id": "uk-flag-gif",
-      "name": "uk-flag.gif",
-      "countries": [
-        "united-kingdom"
-      ],
-      "body": ""
-    },
-    {
       "id": "ukamau-y-ke",
       "name": "Ukamau y Ke",
       "countries": [
@@ -24661,22 +24390,6 @@
       "body": ""
     },
     {
-      "id": "valencia-map-png",
-      "name": "valencia-map.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
-      "id": "valencia-map2-png",
-      "name": "valencia-map2.png",
-      "countries": [
-        "spain"
-      ],
-      "body": ""
-    },
-    {
       "id": "valentin-clastrier",
       "name": "Valentin Clastrier",
       "countries": [
@@ -24719,31 +24432,6 @@
       ],
       "styles": [
         "mpb"
-      ],
-      "body": ""
-    },
-    {
-      "id": "various",
-      "name": "Various",
-      "countries": [
-        "czech",
-        "spain",
-        "france",
-        "united-kingdom",
-        "greece",
-        "italy",
-        "moldova",
-        "portugal",
-        "romania",
-        "serbia",
-        "russia",
-        "turkey"
-      ],
-      "styles": [
-        "world-music",
-        "pizzica",
-        "psychedelic",
-        "rock"
       ],
       "body": ""
     },
@@ -26188,7 +25876,7 @@
       "name": "Burkina Faso",
       "continent": "africa",
       "flag": "🇧🇫",
-      "body": ""
+      "body": "Population: 16.3 million (UN, 2010)\nCapital: Ouagadougou\nArea: 274,200 sq km (105,870 sq miles)\nMajor languages: French, indigenous languages\nMajor religions: Indigenous beliefs, Islam, Christianity\nPolitics: Coup leader Blaise Compaore won a new five-year term in 2010 after 23 years at the helm\nEconomy: The UN rates Burkina Faso as the world's third poorest country\nInternational: Burkina Faso has been linked to conflicts within the region. Many citizens who have traditionally worked in Ivory Coast have fled instability there\n"
     },
     {
       "id": "burundi",
@@ -26307,7 +25995,7 @@
       "name": "Dominican Republic",
       "continent": "america",
       "flag": "🇩🇴",
-      "body": "Vic Contreras [[~m]]\nRita Indiana\nIrka Mateo\nVicente García\nPopulation: 10.2 million (UN, 2010)Capital: Santo DomingoArea: 48,072 sq km (18,696 sq miles)Major language: SpanishMajor religion: Christianity\n"
+      "body": "Vic Contreras [[~m]]\nRita Indiana\nIrka Mateo\nVicente García\nPopulation: 10.2 million (UN, 2010)Capital: Santo DomingoArea: 48,072 sq km (18,696 sq miles)Major language: SpanishMajor religion: Christianity\n50 - 60 let prožívala Dominikánská Republika energetickou krizi. Lidé se scházeli večer na balkonech bytů a poslouchali hudbu z rádií na baterky\n"
     },
     {
       "id": "ecuador",
@@ -26468,7 +26156,7 @@
       "name": "Honduras",
       "continent": "america",
       "flag": "🇭🇳",
-      "body": ""
+      "body": "Military rule, corruption, a huge wealth gap, crime and natural disasters have rendered Honduras one of the least developed and least secure countries in Central America.\nPopulation: 7.6 million (UN, 2010)\nCapital: Tegucigalpa\nArea: 112,492 sq km (43,433 sq miles)\nMajor languages: Spanish, indigenous languages, English\nMajor religion: Christianity\n"
     },
     {
       "id": "hungary",
@@ -26531,7 +26219,7 @@
       "name": "Italy",
       "continent": "europe",
       "flag": "🇮🇹",
-      "body": ""
+      "body": "Markku Lepisto, David Munnelly, Riccardo Tesi, Bruno Le Tron, Didier Laloy\n"
     },
     {
       "id": "ivory-coast-cote-d-ivoire",
@@ -26761,7 +26449,7 @@
       "name": "Peru",
       "continent": "america",
       "flag": "🇵🇪",
-      "body": ""
+      "body": "Population: 29.4 million (UN, 2011)\nCapital: Lima\nArea: 1.28 million sq km (496,225 sq miles)\nMajor languages: Spanish, Quechua, Aymara\nMajor religion: Christianity\nPeru's rich and varied heritage includes the ancient Incan capital of Cuzco and the lost city of Machu Picchu. The country boasts spectacular scenery, including Lake Titicaca, the world's highest navigable lake.\nIt is rich in copper, silver, lead, zinc, oil and gold. The country experienced an economic boom in the 2000s, and in 2011 Peru was said to have one of the world's fastest-growing economies\nThe first African Peruvians arrived with the conquistadors in 1521, to return permanently in 1525. One of the biggest import of African slaves occurred between 1529 and 1537 when Francisco Pizzaro was granted permits to import 363 slaves to colonial Peru for public construction; building bridges and road systems.\n"
     },
     {
       "id": "poland",
@@ -26957,7 +26645,7 @@
       "name": "Tunisia",
       "continent": "africa",
       "flag": "🇹🇳",
-      "body": ""
+      "body": "## Ghalia Benali\n[[~w]] - singer, songwriter, writer and graphic designer - 1968 (age 51 years), [Brussels, Belgium](https://www.google.com/search?client=safari&rls=en&q=Brussels&stick=H4sIAAAAAAAAAOPgE-LSz9U3MM4yTK9KVuIAsQ3Nzau0xLKTrfQLUvMLclKBVFFxfp5VUn5R3iJWDqei0uLi1JxiACFDW2w7AAAA&sa=X&ved=2ahUKEwjdxuaVoM_iAhUPKuwKHRpDDr8QmxMoATAgegQIDRAT)\n"
     },
     {
       "id": "turkey",
@@ -26992,7 +26680,7 @@
       "name": "United Kingdom",
       "continent": "europe",
       "flag": "🇬🇧",
-      "body": ""
+      "body": "## Scotland\n## 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales\n"
     },
     {
       "id": "uruguay",
@@ -27630,11 +27318,6 @@
     {
       "id": "voodoo",
       "name": "voodoo",
-      "body": ""
-    },
-    {
-      "id": "w",
-      "name": "w",
       "body": ""
     },
     {

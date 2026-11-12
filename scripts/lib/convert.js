@@ -31,7 +31,7 @@ export function convertVault(input, aliases, bandAliases = {}) {
     ignoredFolders: [],
   };
   const aliasIds = new Set(Object.keys(aliases).map((k) => slugify(k)));
-  const styles = new Map(input.styles.filter((s) => !aliasIds.has(slugify(cleanName(s)))).map((s) => [slugify(cleanName(s)), cleanName(s)]));
+  const styles = new Map(input.styles.filter((s) => !aliasIds.has(slugify(cleanName(s))) && slugify(cleanName(s)) !== 'w').map((s) => [slugify(cleanName(s)), cleanName(s)]));
   const instruments = new Map(
     input.instruments.filter((i) => !aliasIds.has(slugify(cleanName(i.name)))).map((i) => [slugify(cleanName(i.name)), { name: cleanName(i.name), icon: i.icon }]),
   );
@@ -56,24 +56,24 @@ export function convertVault(input, aliases, bandAliases = {}) {
     const countryId = slugify(countryName);
     const flag = c.fileName.match(/^\p{Regional_Indicator}{2}/u)?.[0];
     const parsed = parseCountryFile(c.text);
+    const proseLines = [];
     entities.push({
       type: 'country',
       id: countryId,
       fields: { name: countryName, continent: c.continent, ...(flag && { flag }) },
-      body: parsed.prose ? parsed.prose + '\n' : '',
+      body: '',
     });
+    const countryEntity = entities[entities.length - 1];
     for (const s of parsed.skipped) report.skipped.push(`${countryName}: ${s}`);
 
     for (const raw0 of parsed.bands) {
       const raw = { ...raw0, name: bandMap.get(normalizeName(raw0.name)) ?? raw0.name };
       const key = normalizeName(raw.name);
-      const noise =
-        !key ||
-        key === normalizeName(countryName) ||
-        /^#|:/.test(raw.name) ||
-        raw.name.length > 70;
-      if (noise) {
+      const isImage = /\.(png|jpe?g|gif|svg|webp)\b|^!\[|^<img/i.test(raw.text);
+      const isProse = /^#|:/.test(raw.name) || raw.name.length > 70;
+      if (isImage || !key || key === 'various' || key === normalizeName(countryName) || isProse) {
         report.skipped.push(`${countryName}: ${raw.name}`);
+        if (isProse && !isImage) proseLines.push(raw.text);
         continue;
       }
       let band = bandsByKey.get(key);
@@ -96,8 +96,11 @@ export function convertVault(input, aliases, bandAliases = {}) {
       addUnique(band.fields.countries, countryId);
       for (const t of [...raw.headerTags, ...raw.inlineTags]) classify(t, band);
       for (const m of raw.members) addUnique(band.members, m);
+      for (const mt of raw.memberTags) report.skipped.push(`${countryName} / ${raw.name} / ${mt.member}: tags ${mt.tags.join(', ')}`);
       for (const p of raw.parentheticals) report.parentheticals.push(`${countryName} / ${raw.name}: (${p})`);
     }
+    const bodyText = [parsed.prose, ...proseLines].filter(Boolean).join('\n');
+    countryEntity.body = bodyText ? bodyText + '\n' : '';
   }
 
   for (const b of bandsByKey.values()) {
@@ -124,5 +127,6 @@ export function convertVault(input, aliases, bandAliases = {}) {
   for (const type of ['band', 'country', 'style', 'instrument']) {
     report.counts[`${type}s`] = entities.filter((e) => e.type === type).length;
   }
+  report.counts.bandsWithoutStyle = [...bandsByKey.values()].filter((b) => b.fields.styles.length === 0).length;
   return { entities, report };
 }

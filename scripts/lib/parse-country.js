@@ -19,7 +19,7 @@ function parseBand(text, headerTags) {
     parentheticals.unshift(m[1].trim());
     name = name.slice(0, m.index).trim();
   }
-  return { name, members: [], headerTags: [...headerTags], inlineTags, parentheticals };
+  return { name, text: text.trim(), members: [], memberTags: [], headerTags: [...headerTags], inlineTags, parentheticals };
 }
 
 export function parseCountryFile(text) {
@@ -42,7 +42,10 @@ export function parseCountryFile(text) {
       continue;
     }
     if (indented) {
-      if (current) current.members.push(withoutTags(trimmed));
+      if (current) {
+        current.members.push(withoutTags(trimmed));
+        if (tagsOf(trimmed).length) current.memberTags.push({ member: withoutTags(trimmed), tags: tagsOf(trimmed) });
+      }
       else skipped.push(trimmed);
       continue;
     }

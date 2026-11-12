@@ -162,3 +162,39 @@ test('band aliases merge spelling variants; alias-source styles are not created'
   assert.deepEqual(bands[0].fields.styles, ['a-capella']);
   assert.deepEqual(r.entities.filter((e) => e.type === 'style').map((e) => e.id), ['a-capella']);
 });
+
+test('image lines and the placeholder "Various" are not bands', () => {
+  const r = convertVault(
+    base({ countries: [country('europe', '🇪🇸 Spain.md', 'andalusia-flag.png\n![[map.png]]\n<img src="a.png">\nVarious\nReal Band\n')] }),
+    {},
+  );
+  assert.deepEqual(r.entities.filter((e) => e.type === 'band').map((e) => e.id), ['real-band']);
+});
+
+test('prose lines go to the country body', () => {
+  const r = convertVault(
+    base({ countries: [country('africa', '🇧🇫 Burkina Faso.md', 'Population: 16.3 million\nCapital: Ouagadougou\nSome Band\n')] }),
+    {},
+  );
+  const c = r.entities.find((e) => e.type === 'country');
+  assert.match(c.body, /Population: 16\.3 million/);
+  assert.match(c.body, /Capital: Ouagadougou/);
+  assert.doesNotMatch(c.body, /Some Band/);
+});
+
+test('tags on member lines are reported, not dropped silently', () => {
+  const r = convertVault(
+    base({ countries: [country('america', '🇨🇺 Cuba.md', 'Buena Vista\n  Ruben Gonzalez [[~piano 🎹]]\n')] }),
+    {},
+  );
+  assert.ok(r.report.skipped.some((s) => /Ruben Gonzalez/.test(s) && /piano/.test(s)));
+});
+
+test('report counts bands without style; ~w creates no style entity', () => {
+  const r = convertVault(
+    base({ styles: ['~rai.md', '~w.md'], countries: [country('africa', '🇩🇿 Algeria.md', '- A Band\n')] }),
+    {},
+  );
+  assert.equal(r.report.counts.bandsWithoutStyle, 1);
+  assert.equal(r.entities.some((e) => e.type === 'style' && e.id === 'w'), false);
+});
