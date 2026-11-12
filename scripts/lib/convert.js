@@ -109,10 +109,10 @@ export function convertVault(input, aliases) {
     entities.push({ type: 'instrument', id, fields: { name: i.name, ...(i.icon && { icon: i.icon }) }, body: '' });
   }
 
-  const keys = [...bandsByKey.keys()].filter((k) => k.length >= 5);
+  const keys = [...bandsByKey.keys()].filter((k) => k.length >= 6);
   for (let i = 0; i < keys.length; i++) {
     for (let j = i + 1; j < keys.length; j++) {
-      if (Math.abs(keys[i].length - keys[j].length) <= 2 && editDistance(keys[i], keys[j]) <= 2) {
+      if (Math.abs(keys[i].length - keys[j].length) <= 2 && editDistance(keys[i], keys[j]) <= (keys[i].length >= 12 ? 2 : 1)) {
         report.similarNames.push([bandsByKey.get(keys[i]).fields.name, bandsByKey.get(keys[j]).fields.name]);
       }
     }
