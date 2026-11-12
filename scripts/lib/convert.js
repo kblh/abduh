@@ -19,7 +19,8 @@ const addUnique = (arr, v) => {
   if (!arr.includes(v)) arr.push(v);
 };
 
-export function convertVault(input, aliases) {
+export function convertVault(input, aliases, bandAliases = {}) {
+  const bandMap = new Map(Object.entries(bandAliases).map(([k, v]) => [normalizeName(k), v]));
   const report = {
     counts: {},
     unknownTags: {},
@@ -29,9 +30,10 @@ export function convertVault(input, aliases) {
     slugCollisions: [],
     ignoredFolders: [],
   };
-  const styles = new Map(input.styles.map((s) => [slugify(cleanName(s)), cleanName(s)]));
+  const aliasIds = new Set(Object.keys(aliases).map((k) => slugify(k)));
+  const styles = new Map(input.styles.filter((s) => !aliasIds.has(slugify(cleanName(s)))).map((s) => [slugify(cleanName(s)), cleanName(s)]));
   const instruments = new Map(
-    input.instruments.map((i) => [slugify(cleanName(i.name)), { name: cleanName(i.name), icon: i.icon }]),
+    input.instruments.filter((i) => !aliasIds.has(slugify(cleanName(i.name)))).map((i) => [slugify(cleanName(i.name)), { name: cleanName(i.name), icon: i.icon }]),
   );
 
   const classify = (rawTag, band) => {
@@ -62,7 +64,8 @@ export function convertVault(input, aliases) {
     });
     for (const s of parsed.skipped) report.skipped.push(`${countryName}: ${s}`);
 
-    for (const raw of parsed.bands) {
+    for (const raw0 of parsed.bands) {
+      const raw = { ...raw0, name: bandMap.get(normalizeName(raw0.name)) ?? raw0.name };
       const key = normalizeName(raw.name);
       const noise =
         !key ||

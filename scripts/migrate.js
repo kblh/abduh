@@ -85,8 +85,10 @@ export function migrate(vaultDir, o = {}) {
   const aliasesPath = o.aliasesPath ?? 'scripts/tag-aliases.json';
   const aliases = existsSync(aliasesPath) ? JSON.parse(readFileSync(aliasesPath, 'utf8')) : {};
 
+  const bandAliasesPath = o.bandAliasesPath ?? 'scripts/band-aliases.json';
+  const bandAliases = existsSync(bandAliasesPath) ? JSON.parse(readFileSync(bandAliasesPath, 'utf8')) : {};
   const vault = readVault(vaultDir);
-  const { entities, report } = convertVault(vault, aliases);
+  const { entities, report } = convertVault(vault, aliases, bandAliases);
   report.ignoredFolders = vault.ignoredFolders;
   const proposedAliases = proposeAliases(report, entities);
   const markdown = renderReport(report, proposedAliases, listedPairs(entities));

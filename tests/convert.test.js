@@ -142,3 +142,23 @@ test('prose, headings and region lines are skipped, not made into bands', () => 
   );
   assert.equal(r.report.skipped.length, 4);
 });
+
+test('band aliases merge spelling variants; alias-source styles are not created', () => {
+  const r = convertVault(
+    base({
+      styles: ['~a-capella.md', '~acapella.md'],
+      countries: [
+        country('europe', '🇬🇧 United Kingdom.md', '- Transglobal Undeground [[~acapella]]\n'),
+        country('europe', '🇫🇷 France.md', '- Transglobal Underground\n'),
+      ],
+    }),
+    { acapella: 'a-capella' },
+    { 'Transglobal Undeground': 'Transglobal Underground' },
+  );
+  const bands = r.entities.filter((e) => e.type === 'band');
+  assert.equal(bands.length, 1);
+  assert.equal(bands[0].fields.name, 'Transglobal Underground');
+  assert.deepEqual(bands[0].fields.countries, ['united-kingdom', 'france']);
+  assert.deepEqual(bands[0].fields.styles, ['a-capella']);
+  assert.deepEqual(r.entities.filter((e) => e.type === 'style').map((e) => e.id), ['a-capella']);
+});
