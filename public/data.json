@@ -25759,7 +25759,13 @@
     }
   ],
   "cds": [],
-  "shelves": [],
+  "shelves": [
+    {
+      "id": "poustni-blues",
+      "name": "Pouštní blues",
+      "body": ""
+    }
+  ],
   "countries": [
     {
       "id": "afghanistan",
