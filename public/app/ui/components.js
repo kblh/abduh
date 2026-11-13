@@ -34,6 +34,7 @@ export function sectionTitle(text, count) {
 
 export function emptyState(title, text, cta) {
   return h('div', { class: 'empty-state' },
+    h('span', { class: 'empty-art', 'aria-hidden': 'true' }, '✎'),
     h('p', { class: 'empty-title' }, title),
     text ? h('p', { class: 'empty-text' }, text) : null,
     cta ? h('a', { class: 'stamp-link', href: cta.href }, cta.label) : null);

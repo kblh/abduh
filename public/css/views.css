@@ -64,7 +64,7 @@ p.hand-note { margin: 0; }
 .result-note { font: 400 12px var(--font-type); color: var(--ink-soft); margin: 8px 0 12px; }
 
 /* home */
-.greeting { font: 400 52px/1.1 var(--font-type); margin: 0 0 18px; }
+.greeting { font: 400 40px/1.1 var(--font-type); margin: 0 0 18px; }
 .date { margin: 0; }
 .tips { font: 400 13px var(--font-type); color: var(--ink-soft); margin: 8px 0 26px; }
 .tiles { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
