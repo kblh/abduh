@@ -128,3 +128,16 @@ p.hand-note { margin: 0; }
 .group-head small { font: 400 13px var(--font-type); color: var(--ink-soft); }
 .group-link { margin-left: auto; font: 400 13px var(--font-type); }
 @media (min-width: 900px) { .register { columns: 3; } .continent-total { right: auto; left: -112px; width: 70px; text-align: right; top: 14px; font-size: 18px; } }
+
+/* shelves as playlists */
+.shelf-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 24px 18px; }
+.shelf-card { display: flex; flex-direction: column; gap: 4px; text-decoration: none; min-width: 0; }
+.mosaic { display: grid; grid-template-columns: 1fr 1fr; aspect-ratio: 1; background: var(--card); border: 1px solid var(--line); overflow: hidden; box-shadow: 4px 4px 0 var(--line); }
+.mosaic img { width: 100%; height: 100%; object-fit: cover; display: block; aspect-ratio: 1; }
+.mosaic-one { grid-template-columns: 1fr; }
+.mosaic-ph { display: grid; place-items: center; background: repeating-linear-gradient(var(--card) 0 28px, var(--line) 28px 29px); }
+.mosaic-ph span { font: 400 54px var(--font-type); background: var(--card); padding: 0 12px; }
+.shelf-card:hover .mosaic { border-color: var(--accent); box-shadow: 4px 4px 0 var(--accent); }
+.shelf-name { font-weight: 700; font-size: 20px; line-height: 1.2; margin-top: 8px; overflow-wrap: anywhere; }
+.shelf-meta { font: 400 12px var(--font-type); color: var(--ink-soft); }
+@media (min-width: 900px) { .shelf-grid { grid-template-columns: repeat(auto-fill, minmax(190px, 190px)); } }

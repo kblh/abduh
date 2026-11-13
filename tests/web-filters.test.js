@@ -44,3 +44,15 @@ test('letterInfo computes first index, counts and row starts in one pass', () =>
   assert.deepEqual([...info.starts], [0, 2, 3]);
   assert.deepEqual(letterInfo([]).first.size, 0);
 });
+
+import { shelfCovers } from '../public/app/filters.js';
+
+test('shelfCovers takes the first four items with an image: bands first, then CDs', () => {
+  const s = buildStore({
+    bands: [{ id: 'a', name: 'A', image: 'img/a.avif' }, { id: 'b', name: 'B' }, { id: 'c', name: 'C', image: 'img/c.avif' }, { id: 'd', name: 'D', image: 'img/d.avif' }],
+    cds: [{ id: 'x', name: 'X', bands: ['a'], image: 'img/x.avif' }, { id: 'y', name: 'Y', bands: ['a'], image: 'img/y.avif' }],
+    shelves: [{ id: 's', name: 'S', bands: ['a', 'b', 'c', 'd', 'ghost'], cds: ['x', 'y'] }, { id: 'e', name: 'E' }],
+  });
+  assert.deepEqual(shelfCovers(s, s.byId.shelves.get('s')), ['img/a.avif', 'img/c.avif', 'img/d.avif', 'img/x.avif']);
+  assert.deepEqual(shelfCovers(s, s.byId.shelves.get('e')), []);
+});

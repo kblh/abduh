@@ -36,3 +36,11 @@ export function letterInfo(list) {
   });
   return { first, count, starts };
 }
+
+export function shelfCovers(store, shelf, limit = 4) {
+  const items = [
+    ...(shelf.bands ?? []).map((id) => store.byId.bands.get(id)),
+    ...(shelf.cds ?? []).map((id) => store.byId.cds.get(id)),
+  ];
+  return items.filter((e) => e?.image).slice(0, limit).map((e) => e.image);
+}
