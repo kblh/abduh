@@ -67,3 +67,15 @@ export function cdCard(store, cd) {
   return h('a', { class: 'cd-card', href: `#/cds/${encodeURIComponent(cd.id)}` },
     cover, h('span', { class: 'cd-title' }, cd.name), h('span', { class: 'cd-meta' }, [names, cd.year].filter(Boolean).join(' · ')));
 }
+
+export function prose(body) {
+  const paras = String(body ?? '').split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
+  return paras.length ? h('div', { class: 'prose' }, paras.map((p) => h('p', null, p))) : null;
+}
+
+export function countryLinks(store, ids = []) {
+  return h('span', { class: 'country-links' }, ids.map((id) => {
+    const c = store.byId.countries.get(id);
+    return h('a', { href: `#/countries/${encodeURIComponent(id)}` }, c?.flag ? `${c.flag} ` : '', c?.name ?? id);
+  }));
+}

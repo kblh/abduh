@@ -1,1 +1,49 @@
-/* views (Tasks 6-8) */
+.page-title, .detail-title { font: 400 44px/1.1 var(--font-type); letter-spacing: .04em; margin: 0 0 16px; }
+.page-title .count { font-size: 15px; color: var(--ink-soft); letter-spacing: 0; margin-left: 8px; }
+.hand-note { font: 400 22px var(--font-hand); color: var(--accent); font-style: normal; margin-left: 10px; }
+p.hand-note { margin: 0; }
+.eyebrow { font: 400 12px var(--font-type); letter-spacing: .16em; color: var(--ink-soft); margin: 0 0 6px; }
+.breadcrumb { font: 400 13px var(--font-type); color: var(--ink-soft); margin: 0 0 18px; }
+.prose p { margin: 0; border-bottom: 1px solid var(--line); line-height: 32px; font-size: 19px; }
+.notfound h1 { font: 400 40px/1.15 var(--font-type); margin: 0 0 16px; }
+
+/* list controls */
+.list-search { max-width: 520px; margin-bottom: 14px; }
+.filters { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; margin-bottom: 12px; }
+.filter-select, .filter-on, .filter-check { font: 400 13px var(--font-type); letter-spacing: .08em; text-transform: uppercase; background: transparent; border: 1px solid var(--ink); padding: 8px 10px; color: var(--ink); border-radius: 0; }
+.filter-on { background: var(--label-bg); color: var(--label-fg); border-color: var(--label-bg); text-decoration: none; }
+.filter-check { display: inline-flex; align-items: center; gap: 4px; cursor: pointer; }
+.sort { margin-left: auto; font: 400 12px var(--font-type); letter-spacing: .1em; color: var(--ink-soft); display: inline-flex; gap: 12px; align-items: center; }
+.sort a { font: 400 19px var(--font-hand); letter-spacing: 0; text-decoration: none; color: var(--ink); padding: 0 8px; }
+.sort a[aria-current="true"] { border: 2px solid var(--accent); border-radius: 50%; }
+.letter-bar { display: flex; flex-wrap: wrap; gap: 2px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 4px 0; margin-bottom: 8px; }
+.letter-bar[hidden] { display: none; }
+.letter { font: 400 15px var(--font-type); min-width: 26px; padding: 4px 0; text-align: center; background: none; border: 0; cursor: pointer; }
+.letter.off { color: var(--ink-soft); opacity: .4; cursor: default; }
+.vrow { position: relative; }
+.letter-mark { position: absolute; left: -34px; top: 8px; font: 400 26px var(--font-type); color: var(--accent); display: flex; flex-direction: column; line-height: 1; pointer-events: none; }
+.letter-mark small { font-size: 10px; color: var(--ink-soft); align-self: center; }
+@media (min-width: 900px) { .letter-mark { left: -112px; width: 64px; align-items: flex-end; } }
+
+/* detail */
+.detail-head { display: flex; flex-direction: column; gap: 22px; margin-bottom: 28px; }
+.photo { position: relative; width: min(100%, 300px); aspect-ratio: 1; flex: none; transform: rotate(-2deg); }
+.photo::before { content: ""; position: absolute; top: -10px; left: 30%; width: 90px; height: 24px; background: var(--tape-yellow); opacity: .85; z-index: 1; }
+.photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.photo-ph { display: grid; place-items: center; align-content: center; background: repeating-linear-gradient(var(--card) 0 31px, var(--line) 31px 32px); border: 1px solid var(--line); }
+.photo-initials { font: 400 72px var(--font-type); background: var(--card); padding: 0 10px; }
+.photo-flag { font-size: 32px; background: var(--card); }
+.detail-main { display: flex; flex-direction: column; gap: 14px; align-items: flex-start; min-width: 0; }
+.country-links { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 20px; }
+.country-links a { text-decoration: none; }
+.country-links a:hover { text-decoration: underline; }
+.two-col { display: grid; gap: 0 48px; }
+.members ul { list-style: none; margin: 0; padding: 0; font: 400 14px var(--font-type); }
+.members li { border-bottom: 1px solid var(--line); padding: 5px 0; }
+.cd-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 22px 18px; }
+@media (min-width: 900px) {
+  .detail-head { flex-direction: row; gap: 48px; }
+  .detail-title { font-size: 56px; }
+  .two-col { grid-template-columns: 1.7fr 1fr; }
+  .cd-grid { grid-template-columns: repeat(auto-fill, minmax(170px, 170px)); }
+}
