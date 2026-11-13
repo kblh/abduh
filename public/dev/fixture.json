@@ -1,0 +1,311 @@
+{
+ "bands": [
+  {
+   "id": "tinariwen",
+   "name": "Tinariwen",
+   "countries": [
+    "mali"
+   ],
+   "styles": [
+    "tuareg"
+   ],
+   "body": "Tuarežský kolektiv ze severu Mali. Elektrické kytary a zpěv v jazyce tamašek.",
+   "image": "dev/img/tinariwen.avif",
+   "added": "2026-11-10",
+   "members": [
+    "Ibrahim Ag Alhabib",
+    "Abdallah Ag Alhousseyni"
+   ]
+  },
+  {
+   "id": "ali-farka-toure",
+   "name": "Ali Farka Toure",
+   "countries": [
+    "mali"
+   ],
+   "styles": [
+    "blues",
+    "niafunke"
+   ],
+   "instruments": [
+    "guitar"
+   ],
+   "body": ""
+  },
+  {
+   "id": "bombino",
+   "name": "Bombino",
+   "countries": [
+    "niger"
+   ],
+   "styles": [
+    "tuareg"
+   ],
+   "body": "",
+   "added": "2026-11-12"
+  },
+  {
+   "id": "songhoy-blues",
+   "name": "Songhoy Blues",
+   "countries": [
+    "mali"
+   ],
+   "styles": [
+    "misc",
+    "songhai"
+   ],
+   "body": ""
+  },
+  {
+   "id": "khaled",
+   "name": "Khaled",
+   "countries": [
+    "algeria"
+   ],
+   "styles": [
+    "rai"
+   ],
+   "body": "",
+   "image": "dev/img/khaled.avif",
+   "added": "2026-11-03"
+  },
+  {
+   "id": "rachid-taha",
+   "name": "Rachid Taha",
+   "countries": [
+    "algeria"
+   ],
+   "styles": [
+    "rai"
+   ],
+   "body": "",
+   "tags": [
+    "woman"
+   ]
+  },
+  {
+   "id": "zdob-si-zdub",
+   "name": "Zdob si Zdub",
+   "countries": [
+    "moldova",
+    "romania",
+    "ukraine"
+   ],
+   "body": ""
+  },
+  {
+   "id": "tamikrest",
+   "name": "Tamikrest",
+   "countries": [
+    "mali"
+   ],
+   "styles": [
+    "tuareg"
+   ],
+   "body": ""
+  },
+  {
+   "id": "terakaft",
+   "name": "Terakaft",
+   "countries": [
+    "mali"
+   ],
+   "styles": [
+    "tuareg"
+   ],
+   "body": ""
+  },
+  {
+   "id": "toumani-diabate",
+   "name": "Toumani Diabate",
+   "countries": [
+    "mali"
+   ],
+   "styles": [
+    "misc"
+   ],
+   "instruments": [
+    "kora"
+   ],
+   "body": ""
+  }
+ ],
+ "cds": [
+  {
+   "id": "tinariwen-tassili",
+   "name": "Tassili",
+   "bands": [
+    "tinariwen"
+   ],
+   "year": 2011,
+   "label": "Anti-",
+   "styles": [
+    "tuareg"
+   ],
+   "image": "dev/img/tassili.avif",
+   "added": "2026-11-11",
+   "body": "Nahráno převážně akusticky v alžírské poušti.",
+   "links": [
+    {
+     "type": "bandcamp",
+     "url": "https://example.com"
+    },
+    {
+     "type": "spotify",
+     "url": "https://example.com"
+    }
+   ]
+  },
+  {
+   "id": "tinariwen-amassakoul",
+   "name": "Amassakoul",
+   "bands": [
+    "tinariwen"
+   ],
+   "year": 2004
+  },
+  {
+   "id": "ali-farka-toure-in-the-heart-of-the-moon",
+   "name": "In the Heart of the Moon",
+   "bands": [
+    "ali-farka-toure",
+    "toumani-diabate"
+   ],
+   "year": 2005,
+   "image": "dev/img/heart.avif",
+   "added": "2026-10-04"
+  },
+  {
+   "id": "rachid-taha-diwan",
+   "name": "Diwân",
+   "bands": [
+    "rachid-taha"
+   ],
+   "year": 1998
+  },
+  {
+   "id": "khaled-kenza",
+   "name": "Kenza",
+   "bands": [
+    "khaled"
+   ],
+   "year": 1999,
+   "label": "Barclay"
+  },
+  {
+   "id": "bombino-nomad",
+   "name": "Nomad",
+   "bands": [
+    "bombino"
+   ],
+   "year": 2013
+  }
+ ],
+ "shelves": [
+  {
+   "id": "desert-blues",
+   "name": "Desert blues",
+   "bands": [
+    "tinariwen",
+    "bombino",
+    "tamikrest"
+   ],
+   "cds": [
+    "tinariwen-tassili"
+   ]
+  },
+  {
+   "id": "empty",
+   "name": "Prázdná polička"
+  }
+ ],
+ "countries": [
+  {
+   "id": "algeria",
+   "name": "Algeria",
+   "continent": "africa",
+   "flag": "🇩🇿",
+   "body": "Druhá největší země Afriky.\n1930 – Francie provedla do země invazi Alžírsko nebylo ale považováno za kolonii ale za součást Francie.\nPrvní pol. 20. století – více než bílých přistěhovalců z Evropy lepší a berberští muslimové mají jiná práva nebo i Židé.\n1954 – 1962 – Alžírská válka – závislost – FLN. Nesmírně tvrdý postup francouzské armády\n"
+  },
+  {
+   "id": "mali",
+   "name": "Mali",
+   "continent": "africa",
+   "flag": "🇲🇱",
+   "body": ""
+  },
+  {
+   "id": "moldova",
+   "name": "Moldova",
+   "continent": "europe",
+   "flag": "🇲🇩",
+   "body": ""
+  },
+  {
+   "id": "niger",
+   "name": "Niger",
+   "continent": "africa",
+   "flag": "🇳🇪",
+   "body": ""
+  },
+  {
+   "id": "romania",
+   "name": "Romania",
+   "continent": "europe",
+   "flag": "🇷🇴",
+   "body": ""
+  },
+  {
+   "id": "ukraine",
+   "name": "Ukraine",
+   "continent": "europe",
+   "flag": "🇺🇦",
+   "body": ""
+  }
+ ],
+ "styles": [
+  {
+   "id": "blues",
+   "name": "blues",
+   "body": ""
+  },
+  {
+   "id": "misc",
+   "name": "misc",
+   "body": ""
+  },
+  {
+   "id": "niafunke",
+   "name": "niafunke",
+   "body": ""
+  },
+  {
+   "id": "rai",
+   "name": "rai",
+   "body": ""
+  },
+  {
+   "id": "songhai",
+   "name": "songhai",
+   "body": ""
+  },
+  {
+   "id": "tuareg",
+   "name": "tuareg",
+   "body": ""
+  }
+ ],
+ "instruments": [
+  {
+   "id": "guitar",
+   "name": "guitar",
+   "icon": "🎸",
+   "body": ""
+  },
+  {
+   "id": "kora",
+   "name": "kora",
+   "body": ""
+  }
+ ]
+}

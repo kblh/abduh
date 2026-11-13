@@ -7,7 +7,8 @@
     "migrate": "node scripts/migrate.js",
     "build": "node scripts/build.js",
     "add-image": "node scripts/add-image.js",
-    "add-entity": "node scripts/add-entity.js"
+    "add-entity": "node scripts/add-entity.js",
+    "serve": "node scripts/serve.js"
   },
   "dependencies": {
     "sharp": "^0.35.5",
