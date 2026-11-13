@@ -1,0 +1,71 @@
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--desk); color: var(--ink);
+  font: 18px/1.5 var(--font-serif); min-height: 100vh;
+}
+a { color: inherit; }
+button, input { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+.shell { max-width: calc(var(--content-w) + 2 * var(--gutter)); margin: 0 auto; padding: 0 var(--gutter) 90px; }
+
+/* header */
+.header { display: flex; align-items: center; gap: 20px; padding: 18px 0 14px; flex-wrap: wrap; }
+.logo { text-decoration: none; font: 400 26px var(--font-type); letter-spacing: .04em; white-space: nowrap; }
+.logo small { font: 400 20px var(--font-hand); margin-left: 8px; color: var(--ink-soft); }
+.nav { display: none; gap: 18px; margin-left: 4px; }
+.nav a { font: 400 24px/1 var(--font-hand); text-decoration: none; padding: 2px 0; }
+.nav a[aria-current="page"] { text-decoration: underline wavy var(--accent) 2px; text-underline-offset: 6px; }
+.header-tools { margin-left: auto; display: flex; align-items: center; gap: 12px; }
+.search-field { display: flex; align-items: center; gap: 8px; border-bottom: 2px solid var(--ink); padding: 2px 0; min-width: 0; }
+.search-field input { flex: 1; min-width: 0; border: 0; background: transparent; font: 400 22px var(--font-hand); outline: none; }
+.search-field input::placeholder { color: var(--ink-soft); opacity: .8; }
+.search-field:focus-within { border-bottom-color: var(--accent); }
+.search-field svg { width: 20px; height: 20px; flex: none; }
+.search-field kbd { font: 12px var(--font-type); border: 1px solid var(--line); padding: 0 6px; color: var(--ink-soft); }
+.header-search { display: none; width: 250px; }
+.search-link { display: inline-flex; padding: 6px; }
+.search-link svg { width: 24px; height: 24px; }
+.theme-toggle { background: none; border: 1px solid var(--line); border-radius: 4px; padding: 4px 8px; cursor: pointer; font: 12px var(--font-type); letter-spacing: .08em; text-transform: uppercase; }
+
+/* paper page with margin line */
+.paper { position: relative; background: var(--paper); min-height: 60vh; padding: 28px 18px 48px 36px; }
+.paper::before { content: ""; position: absolute; left: 20px; top: 0; bottom: 0; width: 1px; background: var(--margin-line); }
+
+/* mobile tab bar */
+.tabbar { position: fixed; left: 0; right: 0; bottom: 0; display: flex; gap: 4px; padding: 6px 8px calc(6px + env(safe-area-inset-bottom)); background: var(--desk); border-top: 1px solid var(--line); z-index: 10; }
+.tabbar a { flex: 1; text-align: center; text-decoration: none; font: 400 17px var(--font-hand); background: var(--card); border: 1px solid var(--line); border-bottom: 0; border-radius: 6px 6px 0 0; padding: 7px 2px 9px; }
+.tabbar a[aria-current="page"] { font-weight: 700; border-color: var(--ink); background: var(--paper); transform: translateY(-4px); padding-bottom: 13px; }
+
+@media (min-width: 900px) {
+  .nav { display: flex; }
+  .header-search { display: flex; }
+  .search-link { display: none; }
+  .tabbar { display: none; }
+  .shell { padding-bottom: 60px; }
+  .paper { padding: 40px 36px 60px 150px; }
+  .paper::before { left: 126px; }
+}
+
+.state { padding: 60px 0; text-align: center; font: 400 22px var(--font-hand); color: var(--ink-soft); }
+.state button { margin-top: 12px; }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+
+/* desk decoration: quiet, desktop only, never on rows */
+.shell { position: relative; }
+.decor { position: absolute; inset: 0; pointer-events: none; overflow: hidden; z-index: 0; }
+.header, .paper { position: relative; z-index: 1; }
+.decor-item { position: absolute; color: var(--ink); opacity: .1; display: block; }
+.decor-item svg { width: 100%; height: auto; display: block; }
+.decor-pen { width: 200px; right: -50px; top: 110px; transform: rotate(-24deg); }
+.decor-ink { width: 56px; left: -8px; top: 130px; }
+.decor-clip { width: 26px; right: 6px; top: 360px; transform: rotate(12deg); }
+.decor-typewriter { width: 120px; left: -30px; bottom: 90px; transform: rotate(-6deg); }
+@media (prefers-reduced-motion: no-preference) {
+  .decor-pen { animation: drift 24s ease-in-out infinite alternate; }
+  .decor-clip { animation: drift 30s ease-in-out infinite alternate-reverse; }
+}
+@keyframes drift { to { translate: 0 14px; } }
+@media (max-width: 1099px) { .decor { display: none; } }

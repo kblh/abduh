@@ -45,3 +45,9 @@ test('buildData is deterministic regardless of input order', () => {
   const b = [...a].reverse();
   assert.equal(JSON.stringify(buildData(a)), JSON.stringify(buildData(b)));
 });
+
+test('buildData sets added only for entities in the map', () => {
+  const b = mk('x', { countries: ['cuba'] });
+  assert.equal(buildData([country, b], new Map([['bands/x', '2026-11-01']])).bands[0].added, '2026-11-01');
+  assert.equal('added' in buildData([country, b]).bands[0], false);
+});
