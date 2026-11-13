@@ -1,6 +1,6 @@
 import { orderedFields } from './entity-file.js';
 
-const GROUPS = { bands: 'band', cds: 'cd', countries: 'country', styles: 'style', instruments: 'instrument' };
+const GROUPS = { bands: 'band', cds: 'cd', shelves: 'shelf', countries: 'country', styles: 'style', instruments: 'instrument' };
 
 export function buildData(entities) {
   const out = {};

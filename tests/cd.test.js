@@ -51,7 +51,7 @@ test('findOrphanImages lists unreferenced files', () => {
 
 test('buildData puts cds after bands and prefixes image with img/', () => {
   const data = buildData([...base, cd({ image: 'cds/a.avif' })]);
-  assert.deepEqual(Object.keys(data), ['bands', 'cds', 'countries', 'styles', 'instruments']);
+  assert.deepEqual(Object.keys(data), ['bands', 'cds', 'shelves', 'countries', 'styles', 'instruments']);
   assert.equal(data.cds[0].image, 'img/cds/a.avif');
 });
 
@@ -59,4 +59,17 @@ test('serialize orders bands before year and links last', () => {
   const text = serializeEntity(cd({ year: 2011, links: [{ type: 'bandcamp', url: 'https://a.b' }], image: 'cds/a.avif', tags: ['x'] }));
   const i = (k) => text.indexOf(`\n${k}:`);
   assert.ok(i('name') < i('bands') && i('bands') < i('year') && i('year') < i('tags') && i('tags') < i('image') && i('image') < i('links'));
+});
+
+const shelf = (fields) => ({ type: 'shelf', id: 'a', fields: { name: 'A', ...fields }, body: '' });
+
+test('shelf can hold bands, cds or both', () => {
+  assert.deepEqual(validate([...base, shelf({ bands: ['tinariwen'] })]), []);
+  assert.deepEqual(validate([...base, cd({}), shelf({ cds: ['tinariwen-tassili'] })]), []);
+  assert.deepEqual(validate([...base, cd({}), shelf({ bands: ['tinariwen'], cds: ['tinariwen-tassili'] })]), []);
+});
+
+test('shelf with unknown band or cd is an error', () => {
+  assert.match(validate([...base, shelf({ bands: ['nobody'] })])[0], /nobody/);
+  assert.match(validate([...base, shelf({ cds: ['nope'] })])[0], /nope/);
 });

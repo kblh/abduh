@@ -2,9 +2,9 @@ import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import YAML from 'yaml';
 
-export const TYPES = ['band', 'cd', 'country', 'style', 'instrument'];
-export const DIRS = { band: 'bands', cd: 'cds', country: 'countries', style: 'styles', instrument: 'instruments' };
-export const KEY_ORDER = ['name', 'continent', 'flag', 'icon', 'bands', 'countries', 'year', 'label', 'styles', 'instruments', 'members', 'tags', 'image', 'image_source', 'links'];
+export const TYPES = ['band', 'cd', 'shelf', 'country', 'style', 'instrument'];
+export const DIRS = { band: 'bands', cd: 'cds', shelf: 'shelves', country: 'countries', style: 'styles', instrument: 'instruments' };
+export const KEY_ORDER = ['name', 'continent', 'flag', 'icon', 'bands', 'cds', 'countries', 'year', 'label', 'styles', 'instruments', 'members', 'tags', 'image', 'image_source', 'links'];
 
 const isEmpty = (v) => v === undefined || v === null || v === '' || (Array.isArray(v) && v.length === 0);
 
