@@ -17,5 +17,14 @@ export function addedDates(dataDir, { bulkThreshold = 50 } = {}) {
     if (files.length > bulkThreshold) continue;
     for (const f of files) map.set(f.slice(0, -3), date.trim());
   }
+  const today = new Date().toLocaleDateString('sv-SE');
+  for (const args of [['ls-files', '--others', '--exclude-standard', '--', '.'], ['diff', '--cached', '--name-only', '--diff-filter=A', '--relative', '--', '.']]) {
+    try {
+      const files = execFileSync('git', args, { cwd: dataDir, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] })
+        .split('\n').filter((f) => f.endsWith('.md'));
+      if (files.length > bulkThreshold) continue;
+      for (const f of files) if (!map.has(f.slice(0, -3))) map.set(f.slice(0, -3), today);
+    } catch { /* ignore */ }
+  }
   return map;
 }

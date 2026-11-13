@@ -21,3 +21,18 @@ export function filterBands(store, q = {}) {
   }
   return list;
 }
+
+export const letterOf = (name) => {
+  const c = normalize(name)[0] ?? '#';
+  return /[a-z]/.test(c) ? c.toUpperCase() : '#';
+};
+
+export function letterInfo(list) {
+  const first = new Map(), count = new Map(), starts = new Set();
+  list.forEach((b, i) => {
+    const l = letterOf(b.name);
+    if (!first.has(l)) { first.set(l, i); starts.add(i); }
+    count.set(l, (count.get(l) ?? 0) + 1);
+  });
+  return { first, count, starts };
+}

@@ -1,15 +1,10 @@
 import { h } from '../ui/dom.js';
 import { virtualList } from '../ui/virtual-list.js';
 import { bandRow } from '../ui/components.js';
-import { filterBands } from '../filters.js';
+import { filterBands, letterInfo, letterOf } from '../filters.js';
 import { normalize, prettyStyle } from '../text.js';
 import { buildHash } from '../router.js';
 import { fmt } from '../labels.js';
-
-const letterOf = (name) => {
-  const c = normalize(name)[0] ?? '#';
-  return /[a-z]/.test(c) ? c.toUpperCase() : '#';
-};
 
 export function render({ store, params, today }) {
   const q = params.query;
@@ -30,23 +25,24 @@ export function render({ store, params, today }) {
   const letters = h('div', { class: 'letter-bar', role: 'navigation', 'aria-label': 'Abecední rejstřík' });
   let list;
 
+  let cur = all;
+  let info = letterInfo(all);
+
   function letterRow(b, i) {
-    const cur = current();
     const row = h('div', { class: 'vrow' }, bandRow(store, b, { today }));
-    if (q.sort !== 'new' && (i === 0 || letterOf(cur[i - 1].name) !== letterOf(b.name))) {
+    if (q.sort !== 'new' && info.starts.has(i)) {
       const l = letterOf(b.name);
-      row.append(h('span', { class: 'letter-mark' }, l, h('small', null, cur.filter((x) => letterOf(x.name) === l).length)));
+      row.append(h('span', { class: 'letter-mark' }, l, h('small', null, info.count.get(l))));
     }
     return row;
   }
 
   function refreshMeta() {
-    const cur = current();
+    cur = current();
+    info = letterInfo(cur);
     count.textContent = `${fmt(cur.length)} z ${fmt(store.sortedBands.length)}`;
-    const present = new Map();
-    cur.forEach((b, i) => { const l = letterOf(b.name); if (!present.has(l)) present.set(l, i); });
-    letters.replaceChildren(...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map((l) => present.has(l)
-      ? h('button', { type: 'button', class: 'letter', onClick: () => list.scrollToIndex(present.get(l)) }, l)
+    letters.replaceChildren(...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map((l) => info.first.has(l)
+      ? h('button', { type: 'button', class: 'letter', onClick: () => list.scrollToIndex(info.first.get(l)) }, l)
       : h('span', { class: 'letter off' }, l)));
     letters.hidden = q.sort === 'new';
     return cur;

@@ -39,3 +39,17 @@ test('round trip for every route', () => {
     assert.deepEqual([p.route, p.id], [one[i], 'a b']);
   });
 });
+
+test('normalize folds apostrophes and dots so names match however typed', () => {
+  assert.equal(normalize("N'Dour"), 'ndour');
+  assert.equal(normalize('N’Dour'), 'ndour');
+  assert.equal(normalize('A.Cadeillan'), 'acadeillan');
+  assert.equal(normalize('Abraham Inc.'), 'abraham inc');
+});
+
+test('Object.prototype names are not routes', () => {
+  for (const k of ['constructor', '__proto__', 'toString', 'hasOwnProperty']) {
+    assert.equal(parseHash(`#/${k}`).route, 'notfound', k);
+    assert.equal(parseHash(`#/${k}/x`).route, 'notfound', k);
+  }
+});

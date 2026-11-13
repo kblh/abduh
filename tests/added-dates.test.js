@@ -27,3 +27,19 @@ test('not a git repo gives an empty map', () => {
   mkdirSync(join(d, 'data'));
   assert.deepEqual([...addedDates(join(d, 'data'))], []);
 });
+
+test('untracked and staged-new data files count as added today', () => {
+  const d = mkdtempSync(join(tmpdir(), 'abduh-wip-'));
+  git(d, 'init', '-q');
+  mkdirSync(join(d, 'data/bands'), { recursive: true });
+  writeFileSync(join(d, 'data/bands/old.md'), '---\nname: Old\n---\n');
+  git(d, 'add', '.'); git(d, 'commit', '-q', '-m', 'old');
+  writeFileSync(join(d, 'data/bands/fresh.md'), '---\nname: Fresh\n---\n');
+  writeFileSync(join(d, 'data/bands/staged.md'), '---\nname: Staged\n---\n');
+  git(d, 'add', 'data/bands/staged.md');
+  const today = new Date().toLocaleDateString('sv-SE');
+  const m = addedDates(join(d, 'data'));
+  assert.equal(m.get('bands/fresh'), today);
+  assert.equal(m.get('bands/staged'), today);
+  assert.match(m.get('bands/old'), /^\d{4}-/);
+});

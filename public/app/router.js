@@ -13,7 +13,7 @@ export function parseHash(hash) {
     const seg = path.split('/').filter(Boolean).map(decodeURIComponent);
     if (seg.length === 0) return { route: 'home', id: null, query };
     if (seg[0] === 'search' && seg.length === 1) return { route: 'search', id: null, query };
-    if (seg[0] in LISTS) {
+    if (Object.hasOwn(LISTS, seg[0])) {
       if (seg.length === 1) return { route: seg[0], id: null, query };
       if (seg.length === 2) return { route: LISTS[seg[0]], id: seg[1], query };
     }

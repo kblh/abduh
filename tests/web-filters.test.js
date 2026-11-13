@@ -31,3 +31,16 @@ test('unknown filter value gives an empty list, not an error', () => {
   assert.deepEqual(ids({ country: 'atlantis' }), []);
   assert.deepEqual(ids({ style: 'nope' }), []);
 });
+
+import { letterInfo } from '../public/app/filters.js';
+
+test('letterInfo computes first index, counts and row starts in one pass', () => {
+  const list = [{ name: 'Älä' }, { name: 'Ali' }, { name: 'Bob' }, { name: '9bach' }];
+  const info = letterInfo(list);
+  assert.equal(info.first.get('A'), 0);
+  assert.equal(info.first.get('B'), 2);
+  assert.equal(info.first.get('#'), 3);
+  assert.equal(info.count.get('A'), 2);
+  assert.deepEqual([...info.starts], [0, 2, 3]);
+  assert.deepEqual(letterInfo([]).first.size, 0);
+});

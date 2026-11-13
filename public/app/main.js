@@ -66,6 +66,11 @@ async function loadView(route) {
   }
 }
 
+const scrollMem = new Map();
+let popped = false;
+addEventListener('popstate', () => { popped = true; });
+addEventListener('scroll', () => scrollMem.set(location.hash, scrollY), { passive: true });
+
 let renderToken = 0;
 export async function render() {
   if (!ctx) return;
@@ -85,7 +90,8 @@ export async function render() {
     const input = mount.querySelector('.big-search input');
     if (input) { input.focus(); input.setSelectionRange(input.value.length, input.value.length); }
   }
-  if (route !== 'search') window.scrollTo(0, 0);
+  if (route !== 'search') scrollTo({ top: popped ? scrollMem.get(location.hash) ?? 0 : 0, behavior: 'instant' });
+  popped = false;
 }
 
 async function start() {

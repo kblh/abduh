@@ -1,4 +1,4 @@
-.page-title, .detail-title { font: 400 44px/1.1 var(--font-type); letter-spacing: .04em; margin: 0 0 16px; }
+.page-title, .detail-title { font: 400 32px/1.15 var(--font-type); letter-spacing: .02em; margin: 0 0 16px; overflow-wrap: anywhere; }
 .page-title .count { font-size: 15px; color: var(--ink-soft); letter-spacing: 0; margin-left: 8px; }
 .hand-note { font: 400 22px var(--font-hand); color: var(--accent); font-style: normal; margin-left: 10px; }
 p.hand-note { margin: 0; }
@@ -10,6 +10,8 @@ p.hand-note { margin: 0; }
 /* list controls */
 .list-search { max-width: 520px; margin-bottom: 14px; }
 .filters { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; margin-bottom: 12px; }
+.filter-select { max-width: 100%; text-overflow: ellipsis; }
+.filters { min-width: 0; }
 .filter-select, .filter-on, .filter-check { font: 400 13px var(--font-type); letter-spacing: .08em; text-transform: uppercase; background: transparent; border: 1px solid var(--ink); padding: 8px 10px; color: var(--ink); border-radius: 0; }
 .filter-on { background: var(--label-bg); color: var(--label-fg); border-color: var(--label-bg); text-decoration: none; }
 .filter-check { display: inline-flex; align-items: center; gap: 4px; cursor: pointer; }
@@ -43,7 +45,9 @@ p.hand-note { margin: 0; }
 .cd-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 22px 18px; }
 @media (min-width: 900px) {
   .detail-head { flex-direction: row; gap: 48px; }
+  .page-title { font-size: 44px; }
   .detail-title { font-size: 56px; }
+  .chip-big { font-size: 26px; padding: 14px 28px; }
   .two-col { grid-template-columns: 1.7fr 1fr; }
   .cd-grid { grid-template-columns: repeat(auto-fill, minmax(170px, 170px)); }
 }
@@ -92,7 +96,7 @@ p.hand-note { margin: 0; }
 .cd-bands a { text-decoration: none; }
 .big-cover { width: min(100%, 380px); flex: none; }
 .style-head { display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px; }
-.chip-big { font-size: 26px; padding: 14px 28px; transform: rotate(-1deg); }
+.chip-big { font-size: 22px; padding: 12px 22px; transform: rotate(-1deg); overflow-wrap: anywhere; max-width: 100%; }
 .count-big { font: 400 16px var(--font-type); color: var(--ink-soft); }
 .plain-list { list-style: none; margin: 0; padding: 0; }
 .plain-list li { display: flex; justify-content: space-between; border-bottom: 1px solid var(--line); padding: 6px 0; }
