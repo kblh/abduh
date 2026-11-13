@@ -31,7 +31,7 @@ function clean(url) {
 export function extractLinks(text) {
   const seen = new Set();
   const out = [];
-  for (const m of text.matchAll(/https?:\/\/[^\s<>"' ]+/gi)) {
+  for (const m of text.matchAll(/https?:\/\/[^\s<>"'\u00a0\[\]“”„‘’«»*…]+/gi)) {
     const url = clean(m[0]);
     if (!url || seen.has(url)) continue;
     seen.add(url);

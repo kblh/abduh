@@ -4,6 +4,9 @@ import { DIRS, loadAll, parseEntity, serializeEntity } from './entity-file.js';
 import { normalizeName, slugify } from './slug.js';
 import { validate } from './validate.js';
 
+const SAFE_ID = /^[a-z0-9-]+$/;
+const sameSet = (a = [], b = []) => a.length === b.length && a.every((x) => b.includes(x));
+
 export const cdId = (bandIds, name) => `${bandIds[0]}-${slugify(name)}`;
 
 const isEmpty = (v) => v === undefined || v === null || v === '' || (Array.isArray(v) && v.length === 0);
@@ -15,7 +18,10 @@ export function addEntity(input, { dataDir = 'data', merge = false, force = fals
     throw new Error('image fields are set only by add-image');
   }
   if (!fields.name) throw new Error('name is required');
-  if (type === 'cd' && !(fields.bands?.length > 0)) throw new Error('cd needs at least one band');
+  if (type === 'cd') {
+    if (!(fields.bands?.length > 0)) throw new Error('cd needs at least one band');
+    for (const b of fields.bands) if (typeof b !== 'string' || !SAFE_ID.test(b)) throw new Error(`invalid band id: ${b}`);
+  }
 
   const dir = join(dataDir, DIRS[type]);
   const baseId = type === 'cd' ? cdId(fields.bands, fields.name) : slugify(fields.name);
@@ -27,14 +33,14 @@ export function addEntity(input, { dataDir = 'data', merge = false, force = fals
     const file = join(dir, `${id}.md`);
     if (!existsSync(file)) break;
     const e = parseEntity(type, id, readFileSync(file, 'utf8'));
-    if (normalizeName(e.fields.name) === normalizeName(fields.name)) {
+    if (normalizeName(e.fields.name) === normalizeName(fields.name) && (type !== 'cd' || sameSet(e.fields.bands, fields.bands))) {
       existing = e;
       break;
     }
     id = `${baseId}-${n}`;
   }
 
-  if (existing && !merge && !force) throw new Error(`${type} ${id} already exists (use --merge or --force)`);
+  if (existing && !merge && !force) throw new Error(`${type} ${id} already exists (use --merge to complete missing fields)`);
 
   let entity = { type, id, fields: { ...fields }, body };
   if (existing && merge) {
@@ -52,7 +58,12 @@ export function addEntity(input, { dataDir = 'data', merge = false, force = fals
   mkdirSync(dir, { recursive: true });
   writeFileSync(file, serializeEntity(entity));
 
-  const errors = validate(loadAll(dataDir));
+  let errors;
+  try {
+    errors = validate(loadAll(dataDir));
+  } catch (e) {
+    errors = [e.message];
+  }
   if (errors.length) {
     if (previous === null) rmSync(file);
     else writeFileSync(file, previous);

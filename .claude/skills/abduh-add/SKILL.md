@@ -15,7 +15,9 @@ Přidává obsah do `data/` (Markdown + YAML frontmatter, viz `docs/superpowers/
 4. **Zjisti, zda kapela existuje** (`ls data/bands`). Když ne, nejdřív ji přidej. Existující entity nepřepisuj; chybějící pole doplň přes `--merge` a jen s potvrzením uživatele.
 5. **Zapiš entitu** – JSON na stdin:
    ```
-   echo '{"type":"cd","fields":{"name":"Tassili","bands":["tinariwen"],"year":2011,"label":"Anti-","links":[{"type":"bandcamp","url":"https://…"}]}}' | node scripts/add-entity.js [--merge]
+   node scripts/add-entity.js [--merge] <<'JSON'
+   {"type":"cd","fields":{"name":"Tassili","bands":["tinariwen"],"year":2011,"label":"Anti-","links":[{"type":"bandcamp","url":"https://…"}]}}
+   JSON
    ```
    Vypíše `{id, created}`. Typy odkazů: spotify, bandcamp, apple-music, youtube, website, wikipedia, discogs, other (`node scripts/extract-links.js < text` je určí z URL). Země jsou ID ze `data/countries/`.
 6. **Obrázek** (volitelný, jen když ho uživatel chce nebo je to cover k CD, který snadno najdeš): `node scripts/add-image.js <band|cd> <id> <url|soubor> [--source <url>]`. Převede na AVIF 400×400. Respektuj licence; `--source` uveď vždy.
@@ -31,5 +33,6 @@ Jedna poznámka může obsahovat více odkazů.
 
 ## Pozor
 
-- Duplicitu hlídej: `add-entity` odmítne existující entitu (bez `--merge`/`--force`).
+- Duplicitu hlídej: `add-entity` odmítne existující entitu. **Nikdy nepoužívej `--force`** (přepsal by existující entitu); doplnění chybějících polí dělá `--merge`, a to jen s potvrzením uživatele.
+- Výměna už existujícího obrázku (`add-image --force`) jen na výslovné přání uživatele.
 - Obrázky nejsou povinné ani u CD.

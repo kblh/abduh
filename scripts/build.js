@@ -12,7 +12,7 @@ const outImg = join(dirname(out), 'img');
 
 function listImages(dir, prefix = '') {
   if (!existsSync(dir)) return [];
-  return readdirSync(dir, { withFileTypes: true }).flatMap((d) =>
+  return readdirSync(dir, { withFileTypes: true }).filter((d) => !d.name.startsWith('.')).flatMap((d) =>
     d.isDirectory() ? listImages(join(dir, d.name), `${prefix}${d.name}/`) : [`${prefix}${d.name}`],
   );
 }
@@ -29,10 +29,11 @@ for (const o of findOrphanImages(entities, files)) console.warn(`warning: unrefe
 
 mkdirSync(dirname(out), { recursive: true });
 writeFileSync(out, JSON.stringify(buildData(entities), null, 2) + '\n');
-rmSync(outImg, { recursive: true, force: true });
+for (const old of listImages(outImg)) if (old.endsWith('.avif')) rmSync(join(outImg, old));
 mkdirSync(outImg, { recursive: true });
-for (const f of files) {
+const referenced = new Set(entities.map((e) => e.fields.image).filter(Boolean));
+for (const f of files.filter((x) => referenced.has(x))) {
   mkdirSync(dirname(join(outImg, f)), { recursive: true });
   cpSync(join(imagesDir, f), join(outImg, f));
 }
-console.log(`built ${out}: ${entities.length} entities, ${files.length} images`);
+console.log(`built ${out}: ${entities.length} entities, ${referenced.size} images`);
