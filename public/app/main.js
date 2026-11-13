@@ -77,7 +77,12 @@ export async function render() {
   else if (headerInput && document.activeElement !== headerInput) headerInput.value = query.q ?? '';
   const view = await loadView(route);
   if (token !== renderToken) return;
+  const refocus = document.activeElement?.closest?.('.big-search') ? true : false;
   mount.replaceChildren(view.render({ ...ctx, params: { id, query }, today: new Date() }));
+  if (refocus) {
+    const input = mount.querySelector('.big-search input');
+    if (input) { input.focus(); input.setSelectionRange(input.value.length, input.value.length); }
+  }
   if (route !== 'search') window.scrollTo(0, 0);
 }
 
