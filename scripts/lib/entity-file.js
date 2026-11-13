@@ -4,7 +4,7 @@ import YAML from 'yaml';
 
 export const TYPES = ['band', 'cd', 'shelf', 'country', 'style', 'instrument'];
 export const DIRS = { band: 'bands', cd: 'cds', shelf: 'shelves', country: 'countries', style: 'styles', instrument: 'instruments' };
-export const KEY_ORDER = ['name', 'continent', 'flag', 'icon', 'bands', 'cds', 'countries', 'year', 'label', 'styles', 'instruments', 'members', 'tags', 'image', 'image_source', 'links'];
+export const KEY_ORDER = ['name', 'continent', 'flag', 'icon', 'bands', 'cds', 'countries', 'year', 'label', 'styles', 'instruments', 'members', 'tags', 'image', 'image_source', 'links', 'added'];
 
 const isEmpty = (v) => v === undefined || v === null || v === '' || (Array.isArray(v) && v.length === 0);
 

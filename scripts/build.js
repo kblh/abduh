@@ -3,6 +3,7 @@ import { dirname, join } from 'node:path';
 import { loadAll } from './lib/entity-file.js';
 import { validate } from './lib/validate.js';
 import { buildData } from './lib/build-data.js';
+import { addedDates } from './lib/added-dates.js';
 import { findOrphanImages } from './lib/images.js';
 
 const dataDir = process.argv[2] ?? 'data';
@@ -28,7 +29,7 @@ if (errors.length) {
 for (const o of findOrphanImages(entities, files)) console.warn(`warning: unreferenced image ${o}`);
 
 mkdirSync(dirname(out), { recursive: true });
-writeFileSync(out, JSON.stringify(buildData(entities), null, 2) + '\n');
+writeFileSync(out, JSON.stringify(buildData(entities, addedDates(dataDir)), null, 2) + '\n');
 for (const old of listImages(outImg)) if (old.endsWith('.avif')) rmSync(join(outImg, old));
 mkdirSync(outImg, { recursive: true });
 const referenced = new Set(entities.map((e) => e.fields.image).filter(Boolean));
