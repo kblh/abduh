@@ -1,6 +1,6 @@
 ---
 name: abduh-add
-description: Přidá kapelu nebo album (CD) do sbírky Abduh (data/ v tomto repu) – i s obrázkem a odkazy. Použij na „přidej album Tassili od Tinariwen", „přidej kapelu X", na odkazy ze Spotify/Bandcampu/webu a na „importuj z Apple Notes".
+description: Přidá kapelu, album (CD) nebo poličku do sbírky Abduh (data/ v tomto repu) – i s obrázkem a odkazy. Použij na „přidej album Tassili od Tinariwen", „přidej kapelu X", „založ poličku Y", „dej to na poličku Z", na odkazy ze Spotify/Bandcampu/webu a na „importuj z Apple Notes".
 ---
 
 # abduh-add
@@ -9,7 +9,7 @@ Přidává obsah do `data/` (Markdown + YAML frontmatter, viz `docs/superpowers/
 
 ## Postup
 
-1. **Urči, co se přidává:** kapela, nebo CD (album). Vstupem je věta, URL (Spotify, Bandcamp, web…) nebo poznámka z Apple Notes (viz níže).
+1. **Urči, co se přidává:** kapela, CD (album), nebo polička (shelf). Vstupem je věta, URL (Spotify, Bandcamp, web…) nebo poznámka z Apple Notes (viz níže).
 2. **Najdi údaje** z veřejných zdrojů (MusicBrainz + Cover Art Archive, Wikipedia, stránka za zadaným odkazem). Co nenajdeš, **nevymýšlej** a vynech. Pro CD: `name`, `bands`, `year`, `label`, odkazy. Pro kapelu: `name`, `countries` (povinné; když zemi nenajdeš, zeptej se), odkazy.
 3. **Styly a nástroje** jen z existujících (`ls data/styles data/instruments`); jinak vynech. Tag `woman` je poznámka u žen.
 4. **Zjisti, zda kapela existuje** (`ls data/bands`). Když ne, nejdřív ji přidej. Existující entity nepřepisuj; chybějící pole doplň přes `--merge` a jen s potvrzením uživatele.
@@ -23,6 +23,13 @@ Přidává obsah do `data/` (Markdown + YAML frontmatter, viz `docs/superpowers/
 6. **Obrázek** (volitelný, jen když ho uživatel chce nebo je to cover k CD, který snadno najdeš): `node scripts/add-image.js <band|cd> <id> <url|soubor> [--source <url>]`. Převede na AVIF 400×400. Respektuj licence; `--source` uveď vždy.
 7. **Ověř:** `npm run build` (musí skončit bez chyby).
 8. **Shrň** uživateli, co bylo přidáno a co se nenašlo. Nic necommituj.
+
+## Poličky
+
+Polička (`type: "shelf"`) je pojmenovaný seznam kapel a/nebo CD (obojí může být na jedné poličce). Pole: `name` (povinné), `bands` a `cds` (ID existujících kapel / CD; obě pole jsou volitelná, může být i prázdná polička). Nemá obrázek ani odkazy.
+- Před zápisem ověř, že všechna ID existují (`ls data/bands data/cds`); neexistující kapelu nebo CD nejdřív přidej (kroky 1–7). Validace jinak zápis odmítne.
+- Nová polička: `{"type":"shelf","fields":{"name":"Pouštní blues","bands":["tinariwen"],"cds":["tinariwen-tassili"]}}` přes `add-entity.js`.
+- Přidání na existující poličku: `--merge` s týmž `name` připojí nové ID do `bands`/`cds` (bez duplicit), existující položky nechá; jen s potvrzením uživatele.
 
 ## Apple Notes
 

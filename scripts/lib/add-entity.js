@@ -45,7 +45,10 @@ export function addEntity(input, { dataDir = 'data', merge = false, force = fals
   let entity = { type, id, fields: { ...fields }, body };
   if (existing && merge) {
     const merged = { ...existing.fields };
-    for (const [k, v] of Object.entries(fields)) if (isEmpty(merged[k])) merged[k] = v;
+    for (const [k, v] of Object.entries(fields)) {
+      if (type === 'shelf' && (k === 'bands' || k === 'cds') && Array.isArray(v)) merged[k] = [...new Set([...(merged[k] ?? []), ...v])];
+      else if (isEmpty(merged[k])) merged[k] = v;
+    }
     entity = { type, id, fields: merged, body: existing.body || body };
   } else if (existing && force) {
     const keep = {};

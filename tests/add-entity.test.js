@@ -72,3 +72,11 @@ test('adds a band', () => {
   const d = setup();
   assert.equal(addEntity({ type: 'band', fields: { name: 'Etran Finatawa', countries: ['mali'], styles: ['desert-blues'] } }, { dataDir: d }).id, 'etran-finatawa');
 });
+
+test('shelf: merge appends new bands/cds without duplicates', () => {
+  const d = setup();
+  addEntity({ type: 'shelf', fields: { name: 'Poušť', bands: ['tinariwen'] } }, { dataDir: d });
+  const r = addEntity({ type: 'shelf', fields: { name: 'Poušť', bands: ['tinariwen', 'bombino'] } }, { dataDir: d, merge: true });
+  assert.deepEqual(r, { id: 'poust', created: false });
+  assert.deepEqual(read(d, 'shelves/poust.md').fields.bands, ['tinariwen', 'bombino']);
+});
