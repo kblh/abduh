@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Abduh – komponenty (dev)</title>
+<link rel="stylesheet" href="../css/tokens.css"><link rel="stylesheet" href="../css/base.css"><link rel="stylesheet" href="../css/components.css"><link rel="stylesheet" href="../css/views.css"></head>
+<body><div class="shell"><main class="paper" id="out"></main></div>
+<script type="module">
+import { buildStore } from '../app/store.js';
+import { bandRow, cdCard, chip, linkButtons, sectionTitle, emptyState } from '../app/ui/components.js';
+import { h } from '../app/ui/dom.js';
+const data = await (await fetch('fixture.json')).json();
+const today = new Date();
+for (const e of [...data.bands, ...data.cds]) if (e.image) e.image = '../' + e.image;
+data.bands.push({ id: 'long', name: 'Africa Express Presents Maison des Jeunes Pour La Culture Africaine', countries: ['mali'], styles: ['desert-blues'], instruments: ['guitar'] },
+  { id: 'old', name: 'Bez obrázku', countries: ['mali', 'algeria', 'niger'] });
+const s = buildStore(data);
+const out = document.getElementById('out');
+out.append(sectionTitle('Řádky kapel', data.bands.length), ...data.bands.map((b) => bandRow(s, b, { today })),
+  sectionTitle('Chipy'), h('div', { class: 'chips' }, chip('desert blues', '#', 'style'), chip('kytara', '#', 'instrument'), chip('woman', null, 'tag')),
+  sectionTitle('Odkazy'), linkButtons([{ type: 'spotify', url: 'https://x.y' }, { type: 'bandcamp', url: 'https://x.y' }]),
+  sectionTitle('CD'), h('div', { style: 'display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:18px' }, data.cds.map((c) => cdCard(s, c))),
+  sectionTitle('Prázdný stav'), emptyState('Zatím tu není žádné cédéčko.', 'Až nějaké zapíšu do sbírky, objeví se tady.', { label: 'PROJÍT KAPELY →', href: '#/bands' }));
+</script></body></html>
