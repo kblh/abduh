@@ -67,7 +67,7 @@ Chování:
 2. Pokud kapela neexistuje, vytvoří ji (včetně země; styl jen ze seznamu existujících stylů/nástrojů, jinak bez stylu); existující entity nikdy nepřepisuje, jen doplní chybějící pole se souhlasem uživatele.
 3. Volá `add-entity.js`, u CD/kapely s obrázkem `add-image.js`, pak `npm run build`.
 4. Vypíše shrnutí (co přidal, co nenašel). Nic necommituje.
-5. Apple Notes: načte text poznámky přes `osascript` (JXA), vytáhne odkazy a zpracuje je jako výše. Jeden odkaz = jedna položka; hromadné zpracování seznamu odkazů jen po potvrzení počtu.
+5. Apple Notes: jedna poznámka může obsahovat více odkazů; vstupem může být i samotná URL (např. Spotify). Skill načte text poznámky přes `osascript` (JXA), vytáhne odkazy a zpracuje je jako výše. Jeden odkaz = jedna položka; hromadné zpracování seznamu odkazů jen po potvrzení počtu.
 
 ## Rozhodnuto uživatelem
 
