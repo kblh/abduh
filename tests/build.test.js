@@ -35,7 +35,7 @@ test('duplicate id within a type is an error', () => {
 test('buildData groups by type, sorts by id and adds id and body', () => {
   const data = buildData([mk('zed', { countries: ['cuba'] }), country, mk('abe', { countries: ['cuba'] })]);
   assert.deepEqual(data.bands.map((b) => b.id), ['abe', 'zed']);
-  assert.deepEqual(Object.keys(data), ['bands', 'countries', 'styles', 'instruments']);
+  assert.deepEqual(Object.keys(data), ['bands', 'cds', 'countries', 'styles', 'instruments']);
   assert.equal(data.countries[0].id, 'cuba');
   assert.equal(data.countries[0].body, '');
 });
