@@ -80,3 +80,10 @@ test('shelf: merge appends new bands/cds without duplicates', () => {
   assert.deepEqual(r, { id: 'poust', created: false });
   assert.deepEqual(read(d, 'shelves/poust.md').fields.bands, ['tinariwen', 'bombino']);
 });
+
+test('adds a tag and rejects a band with an unknown tag', () => {
+  const d = setup();
+  assert.deepEqual(addEntity({ type: 'tag', fields: { name: 'New York' } }, { dataDir: d }), { id: 'new-york', created: true });
+  assert.throws(() => addEntity({ type: 'band', fields: { name: 'X', countries: ['mali'], tags: ['ghost'] } }, { dataDir: d }), /unknown tag/);
+  addEntity({ type: 'band', fields: { name: 'Y', countries: ['mali'], tags: ['new-york'] } }, { dataDir: d });
+});

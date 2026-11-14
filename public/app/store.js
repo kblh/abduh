@@ -6,7 +6,7 @@ export async function loadData(url) {
   return res.json();
 }
 
-const GROUPS = ['bands', 'cds', 'styles', 'instruments', 'countries', 'shelves'];
+const GROUPS = ['bands', 'cds', 'styles', 'instruments', 'countries', 'shelves', 'tags'];
 const byName = (a, b) => {
   const x = normalize(a.name), y = normalize(b.name);
   return x < y ? -1 : x > y ? 1 : 0;

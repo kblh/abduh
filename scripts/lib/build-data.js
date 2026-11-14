@@ -1,6 +1,6 @@
 import { DIRS, orderedFields } from './entity-file.js';
 
-const GROUPS = { bands: 'band', cds: 'cd', shelves: 'shelf', countries: 'country', styles: 'style', instruments: 'instrument' };
+const GROUPS = { bands: 'band', cds: 'cd', shelves: 'shelf', countries: 'country', styles: 'style', instruments: 'instrument', tags: 'tag' };
 
 export function buildData(entities, added = new Map()) {
   const out = {};

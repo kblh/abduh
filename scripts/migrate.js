@@ -90,6 +90,9 @@ export function migrate(vaultDir, o = {}) {
   const vault = readVault(vaultDir);
   const { entities, report } = convertVault(vault, aliases, bandAliases);
   report.ignoredFolders = vault.ignoredFolders;
+  for (const id of new Set(entities.filter((e) => e.type === 'band').flatMap((e) => e.fields.tags ?? []))) {
+    entities.push({ type: 'tag', id, fields: { name: id.replace(/-/g, ' ') }, body: '' });
+  }
   const proposedAliases = proposeAliases(report, entities);
   const markdown = renderReport(report, proposedAliases, listedPairs(entities));
 

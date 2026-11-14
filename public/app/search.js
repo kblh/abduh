@@ -13,7 +13,7 @@ export function buildIndex(store) {
         for (const c of e.countries ?? []) via.push({ reason: 'country', norm: normalize(byId.countries.get(c)?.name) });
         for (const s of e.styles ?? []) via.push({ reason: 'style', norm: normalize(byId.styles.get(s)?.name) });
         for (const i of e.instruments ?? []) via.push({ reason: 'instrument', norm: normalize(byId.instruments.get(i)?.name) });
-        for (const t of e.tags ?? []) for (const a of TAG_ALIASES[t] ?? [normalize(t)]) via.push({ reason: 'tag', norm: a });
+        for (const t of e.tags ?? []) for (const a of [normalize(byId.tags.get(t)?.name ?? t), ...(TAG_ALIASES[t] ?? [])]) via.push({ reason: 'tag', norm: a });
       }
       return { id: e.id, norm: normalize(e.name), via: via.filter((v) => v.norm) };
     });

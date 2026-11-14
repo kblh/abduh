@@ -51,7 +51,7 @@ test('findOrphanImages lists unreferenced files', () => {
 
 test('buildData puts cds after bands and prefixes image with img/', () => {
   const data = buildData([...base, cd({ image: 'cds/a.avif' })]);
-  assert.deepEqual(Object.keys(data), ['bands', 'cds', 'shelves', 'countries', 'styles', 'instruments']);
+  assert.deepEqual(Object.keys(data), ['bands', 'cds', 'shelves', 'countries', 'styles', 'instruments', 'tags']);
   assert.equal(data.cds[0].image, 'img/cds/a.avif');
 });
 
@@ -72,4 +72,18 @@ test('shelf can hold bands, cds or both', () => {
 test('shelf with unknown band or cd is an error', () => {
   assert.match(validate([...base, shelf({ bands: ['nobody'] })])[0], /nobody/);
   assert.match(validate([...base, shelf({ cds: ['nope'] })])[0], /nope/);
+});
+
+test('band tags refer to tag entities', () => {
+  const tag = { type: 'tag', id: 'woman', fields: { name: 'woman' }, body: '' };
+  const b = (tags) => ({ ...band, fields: { ...band.fields, tags } });
+  assert.deepEqual(validate([country, tag, b(['woman'])]), []);
+  assert.match(validate([country, tag, b(['nope'])])[0], /unknown tag "nope"/);
+  assert.match(validate([country, { ...tag, fields: {} }])[0], /missing name/);
+});
+
+test('buildData has a tags group after instruments', () => {
+  const data = buildData([{ type: 'tag', id: 'woman', fields: { name: 'woman' }, body: '' }]);
+  assert.equal(data.tags[0].id, 'woman');
+  assert.equal(Object.keys(data).at(-1), 'tags');
 });

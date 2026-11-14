@@ -1,5 +1,5 @@
 const RELATIONS = {
-  band: [['countries', 'country'], ['styles', 'style'], ['instruments', 'instrument']],
+  band: [['countries', 'country'], ['styles', 'style'], ['instruments', 'instrument'], ['tags', 'tag']],
   cd: [['bands', 'band'], ['styles', 'style']],
   shelf: [['bands', 'band'], ['cds', 'cd']],
 };
@@ -7,7 +7,7 @@ export const LINK_TYPES = ['spotify', 'bandcamp', 'apple-music', 'youtube', 'web
 
 export function validate(entities, opts = {}) {
   const errors = [];
-  const ids = { band: new Set(), cd: new Set(), shelf: new Set(), country: new Set(), style: new Set(), instrument: new Set() };
+  const ids = { band: new Set(), cd: new Set(), shelf: new Set(), country: new Set(), style: new Set(), instrument: new Set(), tag: new Set() };
   for (const e of entities) {
     if (ids[e.type].has(e.id)) errors.push(`duplicate ${e.type} id: ${e.id}`);
     ids[e.type].add(e.id);

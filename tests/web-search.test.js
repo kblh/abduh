@@ -52,3 +52,14 @@ test('all six groups are searched and total counts them', () => {
   assert.equal(search(idx, 'mali').groups.countries[0].id, 'mali');
   assert.equal(r.total, 1);
 });
+
+test('tags are matched through their tag entity name', () => {
+  const store = buildStore({
+    bands: [{ id: 'x', name: 'Xband', countries: ['mali'], tags: ['new-york'] }],
+    countries: [{ id: 'mali', name: 'Mali', continent: 'africa' }],
+    tags: [{ id: 'new-york', name: 'new york' }],
+  });
+  assert.equal(store.byId.tags.get('new-york').name, 'new york');
+  const hit = search(buildIndex(store), 'york').groups.bands[0];
+  assert.deepEqual(hit, { id: 'x', reason: 'tag' });
+});

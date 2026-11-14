@@ -11,7 +11,7 @@ Přidává obsah do `data/` (Markdown + YAML frontmatter, viz `docs/superpowers/
 
 1. **Urči, co se přidává:** kapela, CD (album), nebo polička (shelf). Vstupem je věta, URL (Spotify, Bandcamp, web…) nebo poznámka z Apple Notes (viz níže).
 2. **Najdi údaje** z veřejných zdrojů (MusicBrainz + Cover Art Archive, Wikipedia, stránka za zadaným odkazem). Co nenajdeš, **nevymýšlej** a vynech. Pro CD: `name`, `bands`, `year`, `label`, odkazy. Pro kapelu: `name`, `countries` (povinné; když zemi nenajdeš, zeptej se), odkazy.
-3. **Styly a nástroje** jen z existujících (`ls data/styles data/instruments`); jinak vynech. Tag `woman` je poznámka u žen.
+3. **Styly, nástroje a tagy** jen z existujících (`ls data/styles data/instruments data/tags`); jinak vynech. Styl je hudební žánr; nástroj, země a tag (místo, přívlastek, poznámka – např. `woman` u žen, `dublin`, `politic`) nepatří do `styles`. Nový tag nejdřív vytvoř: `{"type":"tag","fields":{"name":"new york"}}` přes `add-entity.js` (pole `tags` u kapely pak obsahuje jeho ID).
 4. **Zjisti, zda kapela existuje** (`ls data/bands`). Když ne, nejdřív ji přidej. Existující entity nepřepisuj; chybějící pole doplň přes `--merge` a jen s potvrzením uživatele.
 5. **Zapiš entitu** – JSON na stdin:
    ```
