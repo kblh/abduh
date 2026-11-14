@@ -5603,6 +5603,26 @@
       "body": ""
     },
     {
+      "id": "deep-cabaret",
+      "name": "Deep Cabaret",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "fusion"
+      ],
+      "image": "img/bands/deep-cabaret.avif",
+      "image_source": "https://www.hebdenbridge.co.uk/news/2019/images2/Deep-Cabaret.jpg",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2cTukQQQyKizEvmgedobGp"
+        }
+      ],
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
       "id": "deishovida",
       "name": "Deishovida",
       "countries": [
@@ -24496,6 +24516,28 @@
         }
       ],
       "added": "2026-11-13",
+      "body": ""
+    },
+    {
+      "id": "deep-cabaret-matchless",
+      "name": "Matchless",
+      "bands": [
+        "deep-cabaret"
+      ],
+      "year": 2020,
+      "image": "img/cds/deep-cabaret-matchless.avif",
+      "image_source": "https://deepcabaret.bandcamp.com/album/matchless-reissue",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7I82ysSKoZjrXceLtYYxoI"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://deepcabaret.bandcamp.com/album/matchless-reissue"
+        }
+      ],
+      "added": "2026-11-14",
       "body": ""
     }
   ],
