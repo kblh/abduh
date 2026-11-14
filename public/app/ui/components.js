@@ -43,8 +43,8 @@ export function emptyState(title, text, cta) {
 export function bandRow(store, band, { today = new Date(), showNew = true } = {}) {
   const flag = store.byId.countries.get(band.countries?.[0])?.flag;
   const thumb = band.image
-    ? h('img', { class: 'thumb', src: band.image, alt: '', loading: 'lazy', width: 50, height: 50 })
-    : h('span', { class: 'thumb thumb-ph' }, placeholderCard(initials(band.name), flag));
+    ? h('img', { class: 'thumb round', src: band.image, alt: '', loading: 'lazy', width: 50, height: 50 })
+    : h('span', { class: 'thumb thumb-ph round' }, placeholderCard(initials(band.name), flag));
   const styles = (band.styles ?? []).map((s) => prettyStyle(store.byId.styles.get(s)?.name ?? s));
   const instruments = (band.instruments ?? []).map((i) => {
     const ins = store.byId.instruments.get(i);

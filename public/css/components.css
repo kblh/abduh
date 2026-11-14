@@ -47,3 +47,6 @@ a.chip:hover { filter: brightness(.95); }
 .empty-title { font: 700 30px var(--font-hand); margin: 0 0 8px; }
 .empty-text { font: 400 14px var(--font-type); color: var(--ink-soft); margin: 0 0 18px; }
 .empty-art { display: block; font-size: 64px; color: var(--ink-soft); opacity: .5; margin-bottom: 6px; }
+
+/* band images are round, like artists on Spotify (CD covers stay square) */
+.thumb.round { border-radius: 50%; overflow: hidden; }

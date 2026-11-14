@@ -16,7 +16,7 @@ export function render({ store, setQuery, today }) {
     if (!b) { discover.replaceChildren(h('p', { class: 'hand-note' }, 'sbírka je zatím prázdná')); return; }
     const flag = store.byId.countries.get(b.countries?.[0])?.flag;
     discover.replaceChildren(h('a', { class: 'discover-card', href: `#/bands/${encodeURIComponent(b.id)}` },
-      b.image ? h('img', { class: 'thumb big', src: b.image, alt: '' }) : h('span', { class: 'thumb big' }, placeholderCard(initials(b.name), flag)),
+      b.image ? h('img', { class: 'thumb big round', src: b.image, alt: '' }) : h('span', { class: 'thumb big round' }, placeholderCard(initials(b.name), flag)),
       h('span', { class: 'discover-body' },
         h('span', { class: 'discover-name' }, b.name),
         flagList(store, b.countries ?? []),

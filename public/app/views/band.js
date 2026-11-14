@@ -11,8 +11,8 @@ export function render({ store, params, today }) {
   const flag = store.byId.countries.get(first)?.flag;
 
   const photo = band.image
-    ? h('div', { class: 'photo' }, h('img', { src: band.image, alt: band.name }))
-    : h('div', { class: 'photo photo-ph' }, h('span', { class: 'photo-initials' }, initials(band.name)), flag ? h('span', { class: 'photo-flag' }, flag) : null);
+    ? h('div', { class: 'photo round' }, h('img', { src: band.image, alt: band.name }))
+    : h('div', { class: 'photo photo-ph round' }, h('span', { class: 'photo-initials' }, initials(band.name)), flag ? h('span', { class: 'photo-flag' }, flag) : null);
 
   const chips = [
     ...(band.styles ?? []).map((s) => chip(prettyStyle(store.byId.styles.get(s)?.name ?? s), `#/styles/${encodeURIComponent(s)}`, 'style')),

@@ -138,3 +138,8 @@ p.hand-note { margin: 0; }
 .shelf-name { font-weight: 700; font-size: 20px; line-height: 1.2; margin-top: 8px; overflow-wrap: anywhere; }
 .shelf-meta { font: 400 12px var(--font-type); color: var(--ink-soft); }
 @media (min-width: 900px) { .shelf-grid { grid-template-columns: repeat(auto-fill, minmax(190px, 190px)); } }
+
+/* round band photo on the band page: no tape/tilt */
+.photo.round { transform: none; }
+.photo.round::before { display: none; }
+.photo.round img, .photo.round.photo-ph { border-radius: 50%; }
