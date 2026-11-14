@@ -10875,6 +10875,12 @@
       "countries": [
         "argentina"
       ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "image": "img/bands/juana-molina.avif",
+      "image_source": "https://www.ica.art/media/12340.jpeg",
       "body": ""
     },
     {
@@ -24539,6 +24545,50 @@
       ],
       "added": "2026-11-14",
       "body": ""
+    },
+    {
+      "id": "juana-molina-doga",
+      "name": "DOGA",
+      "bands": [
+        "juana-molina"
+      ],
+      "year": 2025,
+      "image": "img/cds/juana-molina-doga.avif",
+      "image_source": "https://juanamolina.bandcamp.com/album/doga",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5uFCdSiMEKVDWY5TQ3eEmY"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://juanamolina.bandcamp.com/album/doga"
+        }
+      ],
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "juana-molina-halo",
+      "name": "Halo",
+      "bands": [
+        "juana-molina"
+      ],
+      "year": 2017,
+      "image": "img/cds/juana-molina-halo.avif",
+      "image_source": "https://juanamolina.bandcamp.com/album/halo",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://juanamolina.bandcamp.com/album/halo"
+        }
+      ],
+      "added": "2026-11-14",
+      "body": ""
     }
   ],
   "shelves": [
@@ -25688,6 +25738,12 @@
     {
       "id": "electronic",
       "name": "electronic",
+      "body": ""
+    },
+    {
+      "id": "experimental",
+      "name": "experimental",
+      "added": "2026-11-14",
       "body": ""
     },
     {
