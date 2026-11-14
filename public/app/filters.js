@@ -10,6 +10,7 @@ export function filterBands(store, q = {}) {
   if (q.country) list = list.filter((b) => (b.countries ?? []).includes(q.country));
   if (q.style) list = list.filter((b) => (b.styles ?? []).includes(q.style));
   if (q.instrument) list = list.filter((b) => (b.instruments ?? []).includes(q.instrument));
+  if (q.tag) list = list.filter((b) => (b.tags ?? []).includes(q.tag));
   if (q.photo === '1') list = list.filter((b) => b.image);
   if (q.sort === 'new') {
     list = [...list].sort((a, b) => {

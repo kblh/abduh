@@ -5,12 +5,10 @@ import { prettyStyle } from '../text.js';
 import { bigSearchField } from './search.js';
 import { fmt } from '../labels.js';
 
-const greeting = (d) => { const hr = d.getHours(); return hr < 5 ? 'Dobrou noc.' : hr < 10 ? 'Dobré ráno.' : hr < 18 ? 'Dobrý den.' : 'Dobrý večer.'; };
 const TIPS = ['kora', 'cuba', 'rai', 'žena'];
 
 export function render({ store, setQuery, today }) {
-  const tiles = [['bands', 'kapel', '#/bands'], ['countries', 'zemí', '#/countries'], ['styles', 'stylů', '#/styles'], ['instruments', 'nástrojů', '#/instruments'], ['cds', 'cédéček', '#/cds'], ['shelves', 'poliček', '#/shelves']];
-  const date = today.toLocaleDateString('cs-CZ', { weekday: 'long', day: 'numeric', month: 'numeric' });
+  const tiles = [['bands', 'kapel', '#/bands'], ['countries', 'zemí', '#/countries'], ['styles', 'stylů', '#/styles'], ['instruments', 'nástrojů', '#/instruments'], ['cds', 'cédéček', '#/cds'], ['shelves', 'poliček', '#/shelves'], ['tags', 'tagů', '#/tags']];
 
   const discover = h('div', { class: 'discover' });
   const roll = () => {
@@ -29,8 +27,6 @@ export function render({ store, setQuery, today }) {
 
   const fresh = recentlyAdded(store, 6);
   return h('section', { class: 'home' },
-    h('p', { class: 'hand-note date' }, date),
-    h('h1', { class: 'greeting' }, greeting(today)),
     bigSearchField('', (v) => setQuery(v)),
     h('p', { class: 'tips' }, 'zkus: ', TIPS.flatMap((t, i) => [i ? ' · ' : '', h('a', { href: `#/search?q=${encodeURIComponent(t)}` }, t)])),
     h('div', { class: 'tiles' }, tiles.map(([key, label, href]) => h('a', { class: 'tile', href }, h('span', { class: 'tile-n' }, fmt(store.byId[key].size)), h('span', { class: 'tile-l' }, label), h('span', { class: 'tile-go' }, 'procházet →')))),

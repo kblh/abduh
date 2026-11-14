@@ -1,4 +1,4 @@
-const LISTS = { bands: 'band', cds: 'cd', styles: 'style', instruments: 'instrument', countries: 'country', shelves: 'shelf' };
+const LISTS = { bands: 'band', cds: 'cd', styles: 'style', instruments: 'instrument', countries: 'country', shelves: 'shelf', tags: 'tag' };
 const NOTFOUND = { route: 'notfound', id: null, query: {} };
 
 export function parseHash(hash) {

@@ -53,3 +53,9 @@ test('Object.prototype names are not routes', () => {
     assert.equal(parseHash(`#/${k}/x`).route, 'notfound', k);
   }
 });
+
+test('tags routes', () => {
+  assert.equal(parseHash('#/tags').route, 'tags');
+  assert.deepEqual([parseHash('#/tags/new-york').route, parseHash('#/tags/new-york').id], ['tag', 'new-york']);
+  assert.equal(parseHash(buildHash('tag', { id: 'poet' })).route, 'tag');
+});

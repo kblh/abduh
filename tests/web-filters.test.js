@@ -56,3 +56,10 @@ test('shelfCovers takes the first four items with an image: bands first, then CD
   assert.deepEqual(shelfCovers(s, s.byId.shelves.get('s')), ['img/a.avif', 'img/c.avif', 'img/d.avif', 'img/x.avif']);
   assert.deepEqual(shelfCovers(s, s.byId.shelves.get('e')), []);
 });
+
+test('tag filter keeps bands carrying the tag', () => {
+  const s = buildStore({ bands: [{ id: 'a', name: 'A', tags: ['poet'] }, { id: 'b', name: 'B' }], tags: [{ id: 'poet', name: 'poet' }] });
+  assert.deepEqual(filterBands(s, { tag: 'poet' }).map((b) => b.id), ['a']);
+  assert.equal(s.bandsByTag.get('poet').length, 1);
+  assert.deepEqual(filterBands(s, { tag: 'nope' }), []);
+});

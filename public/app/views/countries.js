@@ -6,7 +6,7 @@ export function render({ store }) {
   const by = Object.fromEntries(CONTINENT_ORDER.map((k) => [k, []]));
   for (const c of store.byId.countries.values()) (by[c.continent] ?? (by[c.continent] = [])).push({ ...c, n: store.bandsByCountry.get(c.id)?.length ?? 0 });
   const sections = CONTINENT_ORDER.filter((k) => by[k]?.length).map((k) => {
-    const items = by[k].sort((a, b) => b.n - a.n || (normalize(a.name) < normalize(b.name) ? -1 : 1));
+    const items = by[k].sort((a, b) => (normalize(a.name) < normalize(b.name) ? -1 : 1));
     const total = items.reduce((s, c) => s + c.n, 0);
     const grid = h('div', { class: 'country-grid' });
     let all = false;

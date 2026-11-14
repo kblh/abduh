@@ -5,9 +5,9 @@ import { loadData, buildStore } from './store.js';
 import { buildIndex } from './search.js';
 import { mountDecor } from './ui/decor.js';
 
-const NAV = [['home', 'Domů', '#/'], ['bands', 'Kapely', '#/bands'], ['cds', 'CD', '#/cds'], ['styles', 'Styly', '#/styles'], ['instruments', 'Nástroje', '#/instruments'], ['countries', 'Země', '#/countries'], ['shelves', 'Poličky', '#/shelves']];
-const SECTION = { band: 'bands', cd: 'cds', style: 'styles', instrument: 'instruments', country: 'countries', shelf: 'shelves', search: 'search' };
-const DETAIL_GROUP = { band: 'bands', cd: 'cds', style: 'styles', instrument: 'instruments', country: 'countries', shelf: 'shelves' };
+const NAV = [['home', 'Domů', '#/'], ['bands', 'Kapely', '#/bands'], ['cds', 'CD', '#/cds'], ['styles', 'Styly', '#/styles'], ['instruments', 'Nástroje', '#/instruments'], ['countries', 'Země', '#/countries'], ['shelves', 'Poličky', '#/shelves'], ['tags', 'Tagy', '#/tags']];
+const SECTION = { band: 'bands', cd: 'cds', style: 'styles', instrument: 'instruments', country: 'countries', shelf: 'shelves', tag: 'tags', search: 'search' };
+const DETAIL_GROUP = { band: 'bands', cd: 'cds', style: 'styles', instrument: 'instruments', country: 'countries', shelf: 'shelves', tag: 'tags' };
 const SEARCH_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg>';
 
 let ctx = null;
@@ -31,7 +31,7 @@ function buildShell() {
   const themeBtn = h('button', { class: 'theme-toggle', type: 'button', 'aria-label': 'Přepnout světlý/tmavý motiv', onClick: () => { toggleTheme(); themeBtn.textContent = effectiveTheme() === 'dark' ? 'noc' : 'den'; } }, effectiveTheme() === 'dark' ? 'noc' : 'den');
   const shell = h('div', { class: 'shell' },
     h('header', { class: 'header' },
-      h('a', { class: 'logo', href: '#/' }, 'Abduh', h('small', null, 'moje world music')),
+      h('a', { class: 'logo', href: '#/' }, h('img', { class: 'logo-img', src: 'logo.svg', alt: '', width: 32, height: 32 }), 'Abduh'),
       h('nav', { class: 'nav', 'aria-label': 'Hlavní' }, navLinks),
       h('div', { class: 'header-tools' },
         h('label', { class: 'search-field header-search' }, svg(SEARCH_ICON), headerInput, h('kbd', null, '/')),

@@ -1,6 +1,6 @@
 import { normalize } from './text.js';
 
-const GROUPS = ['bands', 'cds', 'styles', 'instruments', 'countries', 'shelves'];
+const GROUPS = ['bands', 'cds', 'styles', 'instruments', 'countries', 'shelves', 'tags'];
 const TAG_ALIASES = { woman: ['woman', 'zena'] };
 
 export function buildIndex(store) {

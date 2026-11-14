@@ -40,6 +40,7 @@ export function buildStore(data) {
     bandsByCountry: groupBy(sortedBands, 'countries'),
     bandsByStyle: groupBy(sortedBands, 'styles'),
     bandsByInstrument: groupBy(sortedBands, 'instruments'),
+    bandsByTag: groupBy(sortedBands, 'tags'),
     cdsByBand,
     shelvesOf,
     continentOf: (countryId) => byId.countries.get(countryId)?.continent ?? '',

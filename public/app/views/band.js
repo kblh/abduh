@@ -17,7 +17,7 @@ export function render({ store, params, today }) {
   const chips = [
     ...(band.styles ?? []).map((s) => chip(prettyStyle(store.byId.styles.get(s)?.name ?? s), `#/styles/${encodeURIComponent(s)}`, 'style')),
     ...(band.instruments ?? []).map((i) => { const ins = store.byId.instruments.get(i); return chip(`${ins?.icon ?? ''} ${ins?.name ?? i}`.trim(), `#/instruments/${encodeURIComponent(i)}`, 'instrument'); }),
-    ...(band.tags ?? []).map((t) => chip(t === 'woman' ? 'ŽENA' : (store.byId.tags.get(t)?.name ?? t), null, 'tag')),
+    ...(band.tags ?? []).map((t) => chip(t === 'woman' ? 'ŽENA' : (store.byId.tags.get(t)?.name ?? t), `#/tags/${encodeURIComponent(t)}`, 'tag')),
   ];
   const cds = store.cdsByBand.get(band.id) ?? [];
   const style0 = band.styles?.[0];

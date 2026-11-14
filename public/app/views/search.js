@@ -4,7 +4,7 @@ import { search } from '../search.js';
 import { prettyStyle } from '../text.js';
 import { fmt } from '../labels.js';
 
-const TABS = [['all', 'Vše'], ['bands', 'Kapely'], ['cds', 'CD'], ['instruments', 'Nástroje'], ['styles', 'Styly'], ['countries', 'Země'], ['shelves', 'Poličky']];
+const TABS = [['all', 'Vše'], ['bands', 'Kapely'], ['cds', 'CD'], ['instruments', 'Nástroje'], ['styles', 'Styly'], ['countries', 'Země'], ['shelves', 'Poličky'], ['tags', 'Tagy']];
 const REASON = { name: 've jménu', country: 'podle země', style: 'podle stylu', instrument: 'podle nástroje', tag: 'podle štítku' };
 const ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg>';
 const LIMIT = 40;
@@ -48,6 +48,10 @@ export function render({ store, index, params, setQuery }) {
       const c = store.byId.countries.get(x.id);
       return link(`#/countries/${encodeURIComponent(c.id)}`, h('span', null, `${c.flag ?? ''} ${c.name}`.trim()), h('small', null, store.bandsByCountry.get(c.id)?.length ?? 0));
     })),
+    tags: (hits) => h('section', null, sectionTitle('Tagy', hits.length), hits.map((x) => {
+      const t = store.byId.tags.get(x.id);
+      return link(`#/tags/${encodeURIComponent(t.id)}`, h('span', null, t.name), h('small', null, store.bandsByTag.get(t.id)?.length ?? 0));
+    })),
     shelves: (hits) => h('section', null, sectionTitle('Poličky', hits.length), hits.map((x) => {
       const s = store.byId.shelves.get(x.id);
       return link(`#/shelves/${encodeURIComponent(s.id)}`, h('span', null, s.name), h('small', null, (s.bands?.length ?? 0) + (s.cds?.length ?? 0)));
@@ -67,7 +71,7 @@ export function render({ store, index, params, setQuery }) {
       return;
     }
     const ctx = { today: new Date() };
-    for (const key of ['bands', 'cds', 'instruments', 'styles', 'countries', 'shelves']) {
+    for (const key of ['bands', 'cds', 'instruments', 'styles', 'countries', 'shelves', 'tags']) {
       if ((tab === 'all' || tab === key) && r.groups[key].length) results.append(sections[key](r.groups[key], ctx));
     }
   }

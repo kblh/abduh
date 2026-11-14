@@ -19,7 +19,7 @@ export function render({ store, params, today }) {
       h('option', { value: '' }, `${label} ▾`),
       entries.map(([id, name, n]) => h('option', { value: id, selected: q[key] === id }, `${name} (${n})`)));
   };
-  const active = (key, label) => q[key] ? h('a', { class: 'filter-on', href: href({ [key]: '' }), 'aria-label': `Zrušit filtr ${label}` }, `${label}: ${store.byId[{ country: 'countries', style: 'styles', instrument: 'instruments' }[key]].get(q[key])?.name ?? q[key]} ×`) : null;
+  const active = (key, label) => q[key] ? h('a', { class: 'filter-on', href: href({ [key]: '' }), 'aria-label': `Zrušit filtr ${label}` }, `${label}: ${store.byId[{ country: 'countries', style: 'styles', instrument: 'instruments', tag: 'tags' }[key]].get(q[key])?.name ?? q[key]} ×`) : null;
 
   const count = h('span', { class: 'count' });
   const letters = h('div', { class: 'letter-bar', role: 'navigation', 'aria-label': 'Abecední rejstřík' });
@@ -57,7 +57,7 @@ export function render({ store, params, today }) {
     h('h1', { class: 'page-title' }, 'Kapely ', count, q.country ? h('em', { class: 'hand-note' }, `jen ${store.byId.countries.get(q.country)?.name ?? q.country}`) : null),
     search,
     h('div', { class: 'filters' },
-      active('country', 'ZEMĚ'), active('style', 'STYL'), active('instrument', 'NÁSTROJ'),
+      active('country', 'ZEMĚ'), active('style', 'STYL'), active('instrument', 'NÁSTROJ'), active('tag', 'TAG'),
       !q.country ? select('country', 'ZEMĚ', store.bandsByCountry, (id) => store.byId.countries.get(id)?.name ?? id) : null,
       !q.style ? select('style', 'STYL', store.bandsByStyle, (id) => prettyStyle(store.byId.styles.get(id)?.name ?? id)) : null,
       !q.instrument ? select('instrument', 'NÁSTROJ', store.bandsByInstrument, (id) => store.byId.instruments.get(id)?.name ?? id) : null,

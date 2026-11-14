@@ -63,3 +63,10 @@ test('tags are matched through their tag entity name', () => {
   const hit = search(buildIndex(store), 'york').groups.bands[0];
   assert.deepEqual(hit, { id: 'x', reason: 'tag' });
 });
+
+test('tags are a searchable group', () => {
+  const store = buildStore({ bands: [], tags: [{ id: 'new-york', name: 'new york' }, { id: 'poet', name: 'poet' }] });
+  const r = search(buildIndex(store), 'york');
+  assert.deepEqual(r.groups.tags, [{ id: 'new-york', reason: 'name' }]);
+  assert.equal(r.total, 1);
+});
