@@ -118,9 +118,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -128,9 +125,6 @@
       "name": "A Filetta",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -150,9 +144,6 @@
       "name": "A Hawk And A Hacksaw",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -423,9 +414,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -461,9 +449,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -484,11 +469,13 @@
         "mali"
       ],
       "styles": [
-        "blues",
-        "niafunke"
+        "blues"
       ],
       "instruments": [
         "guitar"
+      ],
+      "tags": [
+        "niafunke"
       ],
       "body": ""
     },
@@ -513,9 +500,6 @@
       "name": "Africa Express Presents Maison Des Jeunes",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -751,9 +735,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -824,17 +805,6 @@
       "body": ""
     },
     {
-      "id": "alaev-family",
-      "name": "Alaev Family",
-      "countries": [
-        "tajikistan"
-      ],
-      "styles": [
-        "israel"
-      ],
-      "body": ""
-    },
-    {
       "id": "alakotila-timo-johanna-juhola",
       "name": "Alakotila, Timo & Johanna Juhola",
       "countries": [
@@ -856,9 +826,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -866,9 +833,6 @@
       "name": "Alan Stivell",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -910,9 +874,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -920,9 +881,6 @@
       "name": "Alee",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -949,11 +907,13 @@
         "mali"
       ],
       "styles": [
-        "blues",
-        "niafunke"
+        "blues"
       ],
       "instruments": [
         "guitar"
+      ],
+      "tags": [
+        "niafunke"
       ],
       "body": ""
     },
@@ -1161,7 +1121,6 @@
         "mali"
       ],
       "styles": [
-        "misc",
         "diaspora",
         "blind"
       ],
@@ -1214,9 +1173,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -1240,9 +1196,6 @@
       "name": "Amazigh Kateb",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -1282,9 +1235,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -1300,9 +1250,6 @@
       "name": "Aminata Kamissoko",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -1570,9 +1517,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -1597,9 +1541,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -1607,9 +1548,6 @@
       "name": "Ankata",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -1646,9 +1584,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -1656,9 +1591,6 @@
       "name": "Annie Ebrel Quartet",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -1698,9 +1630,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -1735,9 +1664,6 @@
       "name": "AntiQuark",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -1806,21 +1732,18 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
       "id": "ara-malikian",
       "name": "Ara Malikian",
       "countries": [
-        "lebanon"
-      ],
-      "styles": [
-        "jazz",
+        "lebanon",
         "usa",
         "spain"
+      ],
+      "styles": [
+        "jazz"
       ],
       "instruments": [
         "violin"
@@ -1843,9 +1766,6 @@
       "name": "Arat Kilo",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -1890,9 +1810,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -1916,9 +1833,6 @@
       "name": "Arnaud Van Lancker Quartet",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -1967,9 +1881,6 @@
       "name": "Asa",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -2085,9 +1996,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -2127,9 +2035,6 @@
       "name": "Autorickshaw",
       "countries": [
         "canada"
-      ],
-      "styles": [
-        "wm"
       ],
       "body": ""
     },
@@ -2270,9 +2175,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -2288,9 +2190,6 @@
       "name": "Aziz Sahmaoui & University of Gnawa",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -2343,20 +2242,13 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
       "id": "babatunde-olatunji",
       "name": "Babatunde Olatunji",
       "countries": [
-        "nigeria"
-      ],
-      "styles": [
-        "misc",
-        "m",
+        "nigeria",
         "usa"
       ],
       "instruments": [
@@ -2388,9 +2280,6 @@
       "name": "Bachas Mont-Joia",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -2434,7 +2323,7 @@
         "brasil"
       ],
       "styles": [
-        "electro"
+        "electronic"
       ],
       "body": ""
     },
@@ -2451,9 +2340,6 @@
       "name": "Bajka",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -2482,9 +2368,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -2500,9 +2383,6 @@
       "name": "Bal Interterrestre",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -2544,9 +2424,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -2554,9 +2431,6 @@
       "name": "Ballake Sissoko",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "instruments": [
         "kora"
@@ -2600,9 +2474,6 @@
       "name": "Balval",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -2670,9 +2541,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -2681,9 +2549,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -2691,9 +2556,6 @@
       "name": "Bardan",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -2735,8 +2597,7 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc",
+      "instruments": [
         "ngoni"
       ],
       "body": ""
@@ -2755,9 +2616,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -2775,11 +2633,11 @@
         "brasil"
       ],
       "styles": [
-        "samba",
-        "poet"
+        "samba"
       ],
       "tags": [
-        "woman"
+        "woman",
+        "poet"
       ],
       "body": ""
     },
@@ -2788,9 +2646,6 @@
       "name": "Beats Antique",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -2875,9 +2730,6 @@
       "name": "Beirut",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -2965,9 +2817,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -3012,9 +2861,6 @@
       "countries": [
         "canada"
       ],
-      "styles": [
-        "wm"
-      ],
       "body": ""
     },
     {
@@ -3033,9 +2879,6 @@
       "name": "Bernard Lavilliers",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -3092,9 +2935,6 @@
       "name": "Bevinda",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -3168,9 +3008,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -3206,9 +3043,6 @@
       "countries": [
         "algeria"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -3224,9 +3058,6 @@
       "name": "BKO Quintet",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -3290,9 +3121,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -3300,9 +3128,6 @@
       "name": "Bleizi Ruz",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -3507,9 +3332,6 @@
       "countries": [
         "canada"
       ],
-      "styles": [
-        "wm"
-      ],
       "body": ""
     },
     {
@@ -3530,7 +3352,7 @@
         "brasil"
       ],
       "styles": [
-        "electro"
+        "electronic"
       ],
       "body": ""
     },
@@ -3540,7 +3362,7 @@
       "countries": [
         "angola"
       ],
-      "styles": [
+      "tags": [
         "politic"
       ],
       "body": ""
@@ -3576,8 +3398,10 @@
         "brasil"
       ],
       "styles": [
-        "pernambuco",
         "manguebit"
+      ],
+      "tags": [
+        "pernambuco"
       ],
       "body": ""
     },
@@ -3624,9 +3448,6 @@
       "name": "Boreale",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -3714,9 +3535,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -3745,8 +3563,10 @@
         "cuba"
       ],
       "styles": [
-        "percussions",
         "jazz"
+      ],
+      "instruments": [
+        "perc"
       ],
       "tags": [
         "woman"
@@ -3758,9 +3578,6 @@
       "name": "Brenna Mac Crimmon",
       "countries": [
         "canada"
-      ],
-      "styles": [
-        "wm"
       ],
       "body": ""
     },
@@ -3781,9 +3598,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -3799,9 +3613,6 @@
       "name": "Brotto Lopez",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -3964,7 +3775,7 @@
       "countries": [
         "israel"
       ],
-      "styles": [
+      "tags": [
         "politic"
       ],
       "body": ""
@@ -3992,8 +3803,10 @@
         "brasil"
       ],
       "styles": [
-        "pernambuco",
         "manguebit"
+      ],
+      "tags": [
+        "pernambuco"
       ],
       "body": ""
     },
@@ -4004,8 +3817,10 @@
         "brasil"
       ],
       "styles": [
-        "pernambuco",
         "manguebit"
+      ],
+      "tags": [
+        "pernambuco"
       ],
       "body": ""
     },
@@ -4088,9 +3903,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -4132,9 +3944,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -4158,9 +3967,6 @@
       "name": "Camille",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -4248,9 +4054,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -4270,9 +4073,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -4288,9 +4088,6 @@
       "name": "Carla Bruni",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -4702,9 +4499,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -4764,9 +4558,6 @@
       "countries": [
         "algeria"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -4793,9 +4584,6 @@
       "name": "Cheick Tidiane Seck",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -4824,9 +4612,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -4834,9 +4619,6 @@
       "name": "Cheikha Rimitti",
       "countries": [
         "algeria"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -4869,8 +4651,10 @@
         "brasil"
       ],
       "styles": [
-        "pernambuco",
         "manguebit"
+      ],
+      "tags": [
+        "pernambuco"
       ],
       "body": ""
     },
@@ -4898,9 +4682,6 @@
       "name": "Chinese Man",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -5002,9 +4783,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -5043,9 +4821,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -5078,9 +4853,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -5099,9 +4871,6 @@
       "name": "Claire Zalamansky",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -5195,9 +4964,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -5254,9 +5020,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -5280,9 +5043,6 @@
       "name": "Corse, Musiques sacrees, Sittimana santa in Bunifaziu",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -5391,9 +5151,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -5401,9 +5158,6 @@
       "name": "Cumbia Ya",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -5434,9 +5188,6 @@
       "name": "D'Aqui dub",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -5668,9 +5419,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -5732,9 +5480,6 @@
       "name": "Daxar",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -5798,9 +5543,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -5847,9 +5589,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -5885,9 +5624,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -5895,9 +5631,6 @@
       "name": "Denez Prigent",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -5926,9 +5659,6 @@
       "name": "Denis Cuniot",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6024,9 +5754,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6034,9 +5761,6 @@
       "name": "Dezoriental",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6100,9 +5824,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6127,9 +5848,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6138,9 +5856,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6148,9 +5863,6 @@
       "name": "Didier Lockwood & Raghunath Manet",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6179,9 +5891,6 @@
       "name": "Dierdre",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6231,9 +5940,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6241,9 +5947,6 @@
       "name": "Dirtwire",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6269,9 +5972,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6280,9 +5980,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6290,9 +5987,6 @@
       "name": "Django Reinhardt",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6324,9 +6018,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "instruments": [
         "guitar"
       ],
@@ -6337,9 +6028,6 @@
       "name": "Djeneba Seck",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "tags": [
         "woman"
@@ -6376,9 +6064,6 @@
       "countries": [
         "canada"
       ],
-      "styles": [
-        "wm"
-      ],
       "body": ""
     },
     {
@@ -6411,9 +6096,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6421,9 +6103,6 @@
       "name": "Doctor Nativo",
       "countries": [
         "guatemala"
-      ],
-      "styles": [
-        "m"
       ],
       "body": ""
     },
@@ -6440,9 +6119,6 @@
       "name": "Dokhandeme",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6521,9 +6197,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6579,9 +6252,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6629,9 +6299,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6647,9 +6314,6 @@
       "name": "Du Bartas",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6674,9 +6338,6 @@
       "name": "Dub Incorporation",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6715,10 +6376,10 @@
       "id": "dudu-tassa",
       "name": "Dudu Tassa",
       "countries": [
-        "israel"
+        "israel",
+        "iraq"
       ],
-      "styles": [
-        "iraq",
+      "tags": [
         "politic"
       ],
       "body": ""
@@ -6753,9 +6414,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -6763,9 +6421,6 @@
       "name": "Duo Brotto-Lopez",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6801,9 +6456,6 @@
       "name": "Dupain",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -6941,9 +6593,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -7073,9 +6722,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -7159,9 +6805,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -7226,9 +6869,6 @@
       "name": "Elisa Point",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -7344,9 +6984,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -7381,9 +7018,6 @@
       "name": "Enamorada Madalena",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -7442,9 +7076,6 @@
       "name": "Ensemble Al-Asdeka",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -7571,9 +7202,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -7604,9 +7232,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -7623,9 +7248,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -7634,9 +7256,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -7644,9 +7263,6 @@
       "name": "Erik Marchand vs Rodolphe Burger",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -7663,9 +7279,6 @@
       "name": "Erika & Emigrante",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -7749,9 +7362,6 @@
       "name": "Ethioda",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -7839,7 +7449,6 @@
         "usa"
       ],
       "styles": [
-        "world-music",
         "balkan"
       ],
       "instruments": [
@@ -7926,9 +7535,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -7944,9 +7550,6 @@
       "name": "Fanfarai",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -8032,8 +7635,10 @@
         "austria"
       ],
       "styles": [
-        "turkish",
         "jazz"
+      ],
+      "tags": [
+        "turkish"
       ],
       "body": ""
     },
@@ -8050,9 +7655,6 @@
       "name": "Fatoumata Diawara",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -8244,9 +7846,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8266,9 +7865,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8276,9 +7872,6 @@
       "name": "Fishtank Ensemble",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -8338,9 +7931,6 @@
       "name": "Flour de rose",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -8439,9 +8029,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8457,9 +8044,6 @@
       "name": "Forilalou",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -8500,9 +8084,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8510,9 +8091,6 @@
       "name": "Francoise Kucheida",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -8549,9 +8127,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8560,9 +8135,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8570,9 +8142,6 @@
       "name": "Fred Guichen",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -8590,9 +8159,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8600,9 +8166,6 @@
       "name": "Free Planet Radio",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -8679,9 +8242,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8698,9 +8258,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8708,9 +8265,6 @@
       "name": "Gabriel Yacoub",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -8728,9 +8282,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8738,9 +8289,6 @@
       "name": "Gadalzen",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -8750,9 +8298,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8760,9 +8305,6 @@
       "name": "Gadjenko",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -8780,9 +8322,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -8798,9 +8337,6 @@
       "name": "Galactic",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -9018,9 +8554,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -9198,9 +8731,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -9216,9 +8746,6 @@
       "name": "Girault-Guillard Quartet",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -9244,9 +8771,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -9270,9 +8794,6 @@
       "name": "Gnawa Diffusion",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -9305,9 +8826,6 @@
       "name": "Gogol Bordello",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -9347,9 +8865,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -9357,9 +8872,6 @@
       "name": "Gotan Project & Yann Tiersen",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -9418,11 +8930,11 @@
       "id": "grazia",
       "name": "Grazia",
       "countries": [
-        "israel"
+        "israel",
+        "turkey"
       ],
       "styles": [
-        "sephardic",
-        "turkey"
+        "sephardic"
       ],
       "body": ""
     },
@@ -9549,9 +9061,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -9603,9 +9112,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -9621,9 +9127,6 @@
       "name": "Gypsophilia",
       "countries": [
         "canada"
-      ],
-      "styles": [
-        "wm"
       ],
       "body": ""
     },
@@ -9657,9 +9160,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -9687,9 +9187,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -9697,9 +9194,6 @@
       "name": "Haidouti Orkestar",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -9747,9 +9241,6 @@
       "name": "Hamon Martin Quintet",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -9880,9 +9371,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -9890,9 +9378,6 @@
       "name": "Hector Zazou, Barbara Eramo & Stefano Saletti",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -10031,9 +9516,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -10066,9 +9548,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -10076,9 +9555,6 @@
       "name": "HK & Les Saltimbanks",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -10123,9 +9599,6 @@
       "countries": [
         "algeria"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -10161,9 +9634,6 @@
       "countries": [
         "egypt",
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -10240,18 +9710,13 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
       "id": "ialma",
       "name": "Ialma",
       "countries": [
-        "belgium"
-      ],
-      "styles": [
+        "belgium",
         "galicia"
       ],
       "body": ""
@@ -10306,9 +9771,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -10357,9 +9819,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -10398,9 +9857,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -10408,9 +9864,6 @@
       "name": "IMG",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -10491,9 +9944,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -10555,9 +10005,6 @@
       "name": "Isabelle Bazin",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -10683,11 +10130,11 @@
       "id": "ivo-papasov",
       "name": "Ivo Papasov",
       "countries": [
-        "bulgaria"
+        "bulgaria",
+        "turkey"
       ],
       "styles": [
-        "gipsy",
-        "turkey"
+        "gipsy"
       ],
       "instruments": [
         "clarinet"
@@ -10727,9 +10174,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -10737,9 +10181,6 @@
       "name": "Jacky Molard Quartet",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -10749,9 +10190,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -10759,9 +10197,6 @@
       "name": "Jacques Brel",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -10771,9 +10206,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -10781,9 +10213,6 @@
       "name": "Jacques Pellen",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -10847,9 +10276,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -10865,9 +10291,6 @@
       "name": "James Whetzel",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -10885,9 +10308,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -10904,9 +10324,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -10914,9 +10331,6 @@
       "name": "Jane Birkin",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -10974,9 +10388,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -11012,9 +10423,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "instruments": [
         "kora"
       ],
@@ -11025,9 +10433,6 @@
       "name": "Jazz Mandolin Project",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -11051,11 +10456,11 @@
       "id": "jerry-gonzalez",
       "name": "Jerry Gonzalez",
       "countries": [
-        "usa"
+        "usa",
+        "puerto-rico"
       ],
       "styles": [
-        "jazz",
-        "puerto-rico"
+        "jazz"
       ],
       "instruments": [
         "trumpet"
@@ -11110,9 +10515,6 @@
       "name": "Jil Caplan",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -11172,9 +10574,6 @@
       "name": "Jo Privat",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -11285,9 +10684,6 @@
       "countries": [
         "canada"
       ],
-      "styles": [
-        "wm"
-      ],
       "body": ""
     },
     {
@@ -11353,7 +10749,6 @@
         "nigeria"
       ],
       "styles": [
-        "misc",
         "afro-funk"
       ],
       "body": ""
@@ -11383,9 +10778,6 @@
       "countries": [
         "canada"
       ],
-      "styles": [
-        "wm"
-      ],
       "body": ""
     },
     {
@@ -11411,11 +10803,11 @@
       "id": "jose-conde",
       "name": "Jose Conde",
       "countries": [
-        "usa"
+        "usa",
+        "cuba"
       ],
       "styles": [
-        "latin",
-        "cuba"
+        "latin"
       ],
       "body": ""
     },
@@ -11490,9 +10882,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -11516,9 +10905,6 @@
       "name": "Jur Domingo",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "tags": [
         "woman"
@@ -11560,9 +10946,6 @@
       "name": "Kabbalah",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -11636,9 +11019,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -11682,9 +11062,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -11722,9 +11099,6 @@
       "name": "Kamenko",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -11779,9 +11153,6 @@
       "name": "Kandia Kouyate",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "instruments": [
         "kora"
@@ -11896,9 +11267,6 @@
       "countries": [
         "algeria"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -11984,9 +11352,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -11994,9 +11359,6 @@
       "name": "Karsh Kale",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -12046,9 +11408,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "instruments": [
         "guitar"
       ],
@@ -12059,9 +11418,6 @@
       "name": "Kassav'",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -12144,9 +11500,7 @@
       "id": "kayhan-kalhor",
       "name": "Kayhan Kalhor",
       "countries": [
-        "iran"
-      ],
-      "styles": [
+        "iran",
         "kurdistan"
       ],
       "instruments": [
@@ -12159,9 +11513,6 @@
       "name": "Kazak",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -12279,7 +11630,6 @@
         "mali"
       ],
       "styles": [
-        "misc",
         "songhai"
       ],
       "tags": [
@@ -12392,7 +11742,7 @@
       "countries": [
         "ghana"
       ],
-      "styles": [
+      "instruments": [
         "kologo"
       ],
       "body": ""
@@ -12420,11 +11770,11 @@
       "id": "kiosk",
       "name": "Kiosk",
       "countries": [
-        "iran"
+        "iran",
+        "usa"
       ],
       "styles": [
-        "diaspora",
-        "usa"
+        "diaspora"
       ],
       "body": ""
     },
@@ -12432,10 +11782,8 @@
       "id": "kiran-ahluwalia",
       "name": "Kiran Ahluwalia",
       "countries": [
-        "india"
-      ],
-      "styles": [
-        "uk"
+        "india",
+        "united-kingdom"
       ],
       "body": ""
     },
@@ -12731,9 +12079,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "instruments": [
         "balafon"
       ],
@@ -12752,9 +12097,6 @@
       "name": "Krismenn",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -12788,9 +12130,6 @@
       "countries": [
         "usa",
         "finland"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -12835,9 +12174,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -12873,9 +12209,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -12903,9 +12236,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -12914,9 +12244,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -12924,9 +12251,6 @@
       "name": "L'Attirail",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -12951,9 +12275,6 @@
       "name": "L'herbe Folle",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -12983,7 +12304,6 @@
         "reunion-france"
       ],
       "styles": [
-        "misc",
         "fusion"
       ],
       "instruments": [
@@ -13066,8 +12386,10 @@
         "france"
       ],
       "styles": [
-        "marseille",
         "cumbia"
+      ],
+      "tags": [
+        "marseille"
       ],
       "body": ""
     },
@@ -13084,9 +12406,6 @@
       "name": "La Familia",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -13106,9 +12425,6 @@
       "name": "La Fanfare En Petard",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -13134,9 +12450,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13153,9 +12466,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13164,9 +12474,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13174,9 +12481,6 @@
       "name": "La Mine De Rien",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -13217,9 +12521,6 @@
       "name": "La Panika",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -13299,9 +12600,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13379,9 +12677,6 @@
       "name": "Lalala Napoli",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -13488,9 +12783,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13519,9 +12811,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13546,9 +12835,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13556,9 +12842,6 @@
       "name": "Le Choeur de la Roquette",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -13668,9 +12951,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13678,9 +12958,6 @@
       "name": "Les Brayauds",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -13690,9 +12967,6 @@
       "countries": [
         "canada"
       ],
-      "styles": [
-        "wm"
-      ],
       "body": ""
     },
     {
@@ -13700,9 +12974,6 @@
       "name": "Les Doigts De L'Homme",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -13736,9 +13007,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13747,9 +13015,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13757,9 +13022,6 @@
       "name": "Les noces Gitanes",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -13785,9 +13047,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13795,9 +13054,6 @@
       "name": "Les Yeux Noirs",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -13972,9 +13228,7 @@
       "id": "lloyd-miller",
       "name": "Lloyd Miller",
       "countries": [
-        "iran"
-      ],
-      "styles": [
+        "iran",
         "usa"
       ],
       "body": ""
@@ -13985,9 +13239,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -13997,7 +13248,6 @@
         "reunion-france"
       ],
       "styles": [
-        "misc",
         "fusion"
       ],
       "instruments": [
@@ -14011,9 +13261,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -14022,12 +13269,11 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc",
-        "segou"
-      ],
       "instruments": [
         "guitar"
+      ],
+      "tags": [
+        "segou"
       ],
       "body": ""
     },
@@ -14086,7 +13332,6 @@
         "france"
       ],
       "styles": [
-        "world-music",
         "balkan"
       ],
       "instruments": [
@@ -14124,9 +13369,6 @@
       "name": "Loop",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -14219,9 +13461,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -14238,9 +13477,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -14248,9 +13484,6 @@
       "name": "Loulou Djine",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -14366,9 +13599,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -14431,9 +13661,6 @@
       "name": "Ma Valise",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -14535,7 +13762,6 @@
         "mali"
       ],
       "styles": [
-        "misc",
         "blind"
       ],
       "instruments": [
@@ -14577,7 +13803,7 @@
         "brasil"
       ],
       "styles": [
-        "electro"
+        "electronic"
       ],
       "body": ""
     },
@@ -14645,9 +13871,6 @@
       "name": "Mah Damba",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "tags": [
         "woman"
@@ -14756,8 +13979,7 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc",
+      "instruments": [
         "ngoni"
       ],
       "body": ""
@@ -14865,9 +14087,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -14875,9 +14094,6 @@
       "name": "Malietes",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -14942,9 +14158,6 @@
         "burkina-faso",
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "instruments": [
         "balafon",
         "kora"
@@ -14957,9 +14170,7 @@
       "countries": [
         "niger"
       ],
-      "styles": [
-        "misc",
-        "m",
+      "instruments": [
         "biram"
       ],
       "body": ""
@@ -14969,9 +14180,6 @@
       "name": "Mamani Keita",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "tags": [
         "woman"
@@ -14983,9 +14191,6 @@
       "name": "Mamar Kassey",
       "countries": [
         "niger"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -15003,9 +14208,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -15014,8 +14216,7 @@
       "countries": [
         "niger"
       ],
-      "styles": [
-        "misc",
+      "instruments": [
         "organ"
       ],
       "body": ""
@@ -15025,9 +14226,6 @@
       "name": "Mamou Sidibe",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "tags": [
         "woman"
@@ -15039,9 +14237,6 @@
       "name": "Manau",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -15062,9 +14257,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -15084,9 +14276,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -15095,9 +14284,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -15105,9 +14291,6 @@
       "name": "Mano Solo",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -15143,9 +14326,6 @@
       "name": "Manu Chao",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -15310,9 +14490,6 @@
       "countries": [
         "canada"
       ],
-      "styles": [
-        "wm"
-      ],
       "body": ""
     },
     {
@@ -15320,9 +14497,6 @@
       "name": "Marco Lacaille",
       "countries": [
         "reunion-france"
-      ],
-      "styles": [
-        "misc"
       ],
       "instruments": [
         "perc",
@@ -15560,9 +14734,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -15706,12 +14877,11 @@
       "id": "markus-james",
       "name": "Markus James",
       "countries": [
-        "mali"
+        "mali",
+        "usa"
       ],
       "styles": [
-        "misc",
-        "fusion",
-        "usa"
+        "fusion"
       ],
       "body": ""
     },
@@ -15788,9 +14958,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -15819,11 +14986,13 @@
         "united-kingdom"
       ],
       "styles": [
-        "jazz",
-        "manchester"
+        "jazz"
       ],
       "instruments": [
         "trumpet"
+      ],
+      "tags": [
+        "manchester"
       ],
       "body": ""
     },
@@ -15870,9 +15039,6 @@
       "name": "Mauresca Fracas Dub",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -15975,9 +15141,6 @@
       "countries": [
         "canada"
       ],
-      "styles": [
-        "wm"
-      ],
       "body": ""
     },
     {
@@ -15986,9 +15149,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -15996,9 +15156,6 @@
       "name": "Mazalda",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -16090,9 +15247,6 @@
       "name": "Mekanik Kantatik",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -16208,9 +15362,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -16219,9 +15370,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -16229,9 +15377,6 @@
       "name": "Michele Fromenteau",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -16332,9 +15477,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -16342,9 +15484,6 @@
       "name": "Minuit Six Heures",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -16393,9 +15532,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -16426,11 +15562,11 @@
       "id": "mitra-sumara",
       "name": "Mitra Sumara",
       "countries": [
-        "iran"
+        "iran",
+        "usa"
       ],
       "styles": [
         "diaspora",
-        "usa",
         "farsi",
         "funk"
       ],
@@ -16637,9 +15773,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -16647,9 +15780,6 @@
       "name": "Montanaro",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -16668,7 +15798,9 @@
         "usa"
       ],
       "styles": [
-        "folk",
+        "folk"
+      ],
+      "tags": [
         "new-york"
       ],
       "body": ""
@@ -16691,11 +15823,11 @@
       "id": "mor-karbasi",
       "name": "Mor Karbasi",
       "countries": [
-        "israel"
+        "israel",
+        "spain"
       ],
       "styles": [
-        "sephardic",
-        "spain"
+        "sephardic"
       ],
       "body": ""
     },
@@ -16713,9 +15845,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -16731,9 +15860,6 @@
       "name": "Mosaica",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -16789,9 +15915,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "instruments": [
         "bass"
       ],
@@ -16802,9 +15925,6 @@
       "name": "Moussu T e Lei Jovents",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -16854,9 +15974,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -16888,8 +16005,10 @@
         "india"
       ],
       "styles": [
-        "delhi",
         "rock"
+      ],
+      "instruments": [
+        "delhi"
       ],
       "body": ""
     },
@@ -16995,9 +16114,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -17030,9 +16146,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -17040,9 +16153,6 @@
       "name": "Nahawa Doumbia",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "tags": [
         "woman"
@@ -17081,9 +16191,6 @@
       "name": "Namogodine",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -17163,9 +16270,6 @@
       "countries": [
         "reunion-france"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -17173,9 +16277,6 @@
       "name": "Nathanaelle",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -17192,9 +16293,6 @@
       "name": "Nawel",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -17259,9 +16357,6 @@
       "name": "New York Gypsy All Stars",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -17442,11 +16537,11 @@
       "id": "niyaz",
       "name": "Niyaz",
       "countries": [
-        "iran"
+        "iran",
+        "canada"
       ],
       "styles": [
-        "diaspora",
-        "canada"
+        "diaspora"
       ],
       "members": [
         "Azam Ali",
@@ -17476,9 +16571,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -17488,7 +16580,6 @@
         "nigeria"
       ],
       "styles": [
-        "misc",
         "raggae"
       ],
       "body": ""
@@ -17507,9 +16598,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -17526,9 +16614,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -17544,9 +16629,6 @@
       "name": "Norig",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -17584,7 +16666,7 @@
       "countries": [
         "mauritania"
       ],
-      "styles": [
+      "instruments": [
         "ardin"
       ],
       "tags": [
@@ -17709,9 +16791,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -17788,7 +16867,6 @@
         "usa"
       ],
       "styles": [
-        "world-music",
         "condomble",
         "a-capella"
       ],
@@ -17824,9 +16902,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -17835,9 +16910,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -17845,9 +16917,6 @@
       "name": "Olli & The Bollywood Orchestra",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -17976,7 +17045,7 @@
       "countries": [
         "mauritania"
       ],
-      "styles": [
+      "instruments": [
         "ardin"
       ],
       "tags": [
@@ -18004,11 +17073,11 @@
       "id": "ora-sittner-youval-micenmacher",
       "name": "Ora Sittner & Youval Micenmacher",
       "countries": [
-        "israel"
+        "israel",
+        "yemen"
       ],
       "styles": [
-        "sephardic",
-        "yemen"
+        "sephardic"
       ],
       "body": ""
     },
@@ -18028,9 +17097,6 @@
       "name": "Orange Blossom",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -18085,9 +17151,6 @@
       "name": "Orchestre National de Barbes",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -18164,9 +17227,6 @@
       "name": "Orlando Julius and the Afro Sounders",
       "countries": [
         "nigeria"
-      ],
-      "styles": [
-        "misc"
       ],
       "instruments": [
         "sax"
@@ -18261,8 +17321,7 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music",
+      "tags": [
         "marseille"
       ],
       "body": ""
@@ -18383,9 +17442,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -18480,9 +17536,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -18555,9 +17608,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -18566,9 +17616,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -18576,9 +17623,6 @@
       "name": "Paris To Kyiv",
       "countries": [
         "canada"
-      ],
-      "styles": [
-        "wm"
       ],
       "body": ""
     },
@@ -18627,9 +17671,6 @@
       "name": "Pau i treva",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -18682,12 +17723,9 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc",
-        "kamele-ngoni"
-      ],
       "instruments": [
-        "guitar"
+        "guitar",
+        "kamele-ngoni"
       ],
       "body": ""
     },
@@ -18756,9 +17794,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -18794,9 +17829,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -18820,9 +17852,6 @@
       "name": "Pharaoh's Daughter",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -18902,9 +17931,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -18920,9 +17946,6 @@
       "name": "Playing For Change",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -18964,20 +17987,17 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
       "id": "poncho-sanchez",
       "name": "Poncho Sanchez",
       "countries": [
-        "usa"
+        "usa",
+        "mexico"
       ],
       "styles": [
-        "latin",
-        "mexico"
+        "latin"
       ],
       "body": ""
     },
@@ -19010,9 +18030,6 @@
       "name": "Pouro Sinto",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -19254,9 +18271,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -19334,9 +18348,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -19394,9 +18405,6 @@
       "name": "Ramata Diakite",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "tags": [
         "woman"
@@ -19568,9 +18576,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -19620,9 +18625,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -19630,9 +18632,6 @@
       "name": "Rene Lacaille",
       "countries": [
         "reunion-france"
-      ],
-      "styles": [
-        "misc"
       ],
       "instruments": [
         "accordion"
@@ -19732,9 +18731,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -19743,9 +18739,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -19753,9 +18746,6 @@
       "name": "Richard Galliano & Gabriele Mirabassi",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -19771,11 +18761,11 @@
       "id": "riff-cohen",
       "name": "Riff Cohen",
       "countries": [
-        "israel"
+        "israel",
+        "france"
       ],
       "styles": [
-        "diaspora",
-        "france"
+        "diaspora"
       ],
       "body": ""
     },
@@ -19818,9 +18808,7 @@
       "id": "rita",
       "name": "Rita",
       "countries": [
-        "israel"
-      ],
-      "styles": [
+        "israel",
         "iran"
       ],
       "body": ""
@@ -19897,9 +18885,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -19915,9 +18900,6 @@
       "name": "Rodolphe Burger",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "instruments": [
         "guitar"
@@ -19994,9 +18976,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "body": ""
     },
     {
@@ -20029,9 +19008,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -20047,9 +19023,6 @@
       "name": "Rona Hartner & DJ Click",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -20084,10 +19057,10 @@
       "id": "rosalia-vila-tobella",
       "name": "Rosalía Vila Tobella",
       "countries": [
-        "spain"
+        "spain",
+        "catalonia"
       ],
       "styles": [
-        "catalonia",
         "flamenco"
       ],
       "body": ""
@@ -20129,10 +19102,7 @@
       "id": "rosemary-standley",
       "name": "Rosemary Standley",
       "countries": [
-        "france"
-      ],
-      "styles": [
-        "world-music",
+        "france",
         "usa"
       ],
       "tags": [
@@ -20221,11 +19191,9 @@
       "countries": [
         "palestine"
       ],
-      "styles": [
-        "dublin"
-      ],
       "tags": [
-        "woman"
+        "woman",
+        "dublin"
       ],
       "body": ""
     },
@@ -20263,9 +19231,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -20273,9 +19238,6 @@
       "name": "Rupa & the April Fishes",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -20292,9 +19254,6 @@
       "name": "Ry Cooder",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -20467,7 +19426,6 @@
         "mali"
       ],
       "styles": [
-        "misc",
         "albino"
       ],
       "body": ""
@@ -20504,9 +19462,6 @@
       "name": "Sam Karpienia",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -20548,9 +19503,6 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc"
-      ],
       "instruments": [
         "guitar"
       ],
@@ -20568,14 +19520,12 @@
       "id": "samite",
       "name": "Samite",
       "countries": [
-        "uganda"
-      ],
-      "styles": [
-        "kalimba",
+        "uganda",
         "usa"
       ],
       "instruments": [
-        "flute"
+        "flute",
+        "kalimba"
       ],
       "body": ""
     },
@@ -20615,9 +19565,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -20633,9 +19580,6 @@
       "name": "Santa Macairo Orkestar",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -20655,9 +19599,6 @@
       "name": "Sapho",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -20725,9 +19666,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -20759,9 +19697,6 @@
       "name": "Scarecrow",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -20816,9 +19751,6 @@
       "name": "Selim S'evade",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -20884,9 +19816,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -20903,9 +19832,6 @@
       "countries": [
         "spain",
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -20982,9 +19908,6 @@
       "name": "Sevane et Manu",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -21112,9 +20035,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -21134,7 +20054,7 @@
       "countries": [
         "israel"
       ],
-      "styles": [
+      "tags": [
         "politic"
       ],
       "body": ""
@@ -21159,9 +20079,7 @@
       "id": "shiran",
       "name": "SHIRAN",
       "countries": [
-        "israel"
-      ],
-      "styles": [
+        "israel",
         "yemen"
       ],
       "tags": [
@@ -21284,9 +20202,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -21296,7 +20211,6 @@
         "mali"
       ],
       "styles": [
-        "misc",
         "songhai"
       ],
       "instruments": [
@@ -21383,12 +20297,10 @@
       "countries": [
         "burkina-faso"
       ],
-      "styles": [
-        "ngoni"
-      ],
       "instruments": [
         "kora",
-        "flute"
+        "flute",
+        "ngoni"
       ],
       "body": ""
     },
@@ -21503,9 +20415,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -21530,9 +20439,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -21551,9 +20457,6 @@
       "name": "Smod",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -21617,9 +20520,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -21651,9 +20551,6 @@
       "name": "Somi de Granadas",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -21699,7 +20596,6 @@
         "mali"
       ],
       "styles": [
-        "misc",
         "songhai"
       ],
       "body": ""
@@ -21791,7 +20687,7 @@
       "countries": [
         "sierra-leone"
       ],
-      "styles": [
+      "instruments": [
         "kondi"
       ],
       "body": ""
@@ -21813,9 +20709,6 @@
       "name": "Souad Massi",
       "countries": [
         "algeria"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -21853,9 +20746,7 @@
       "id": "sousou-maher-cissoko",
       "name": "Sousou & Maher Cissoko",
       "countries": [
-        "senegal"
-      ],
-      "styles": [
+        "senegal",
         "sweden"
       ],
       "instruments": [
@@ -21899,9 +20790,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -21917,9 +20805,6 @@
       "name": "Spook & The Guay",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -21955,9 +20840,6 @@
       "name": "Startijenn",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -22035,9 +20917,6 @@
       "name": "Stellamara",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -22275,9 +21154,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -22391,9 +21267,6 @@
       "name": "Talitha MacKenzie",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -22687,9 +21560,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -22698,9 +21568,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -22708,9 +21575,6 @@
       "name": "Tend'm",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -22790,9 +21654,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -22821,9 +21682,7 @@
       "id": "the-alaev-family",
       "name": "The Alaev Family",
       "countries": [
-        "israel"
-      ],
-      "styles": [
+        "israel",
         "tajikistan"
       ],
       "body": ""
@@ -22940,7 +21799,6 @@
         "nigeria"
       ],
       "styles": [
-        "misc",
         "afro-rock"
       ],
       "body": ""
@@ -23125,9 +21983,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -23147,9 +22002,6 @@
       "countries": [
         "canada"
       ],
-      "styles": [
-        "wm"
-      ],
       "body": ""
     },
     {
@@ -23157,9 +22009,6 @@
       "name": "The Spy from Cairo",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -23249,9 +22098,6 @@
       "name": "Thomas Fersen",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -23356,9 +22202,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -23380,9 +22223,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -23397,12 +22237,14 @@
       "id": "tito-puente",
       "name": "Tito Puente",
       "countries": [
-        "usa"
+        "usa",
+        "cuba"
       ],
       "styles": [
-        "latin",
-        "congos",
-        "cuba"
+        "latin"
+      ],
+      "instruments": [
+        "congos"
       ],
       "body": ""
     },
@@ -23436,8 +22278,7 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "misc",
+      "instruments": [
         "kamele-ngoni"
       ],
       "body": ""
@@ -23447,9 +22288,6 @@
       "name": "Tom Fire",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -23469,9 +22307,6 @@
       "name": "Toma Sidibe",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -23556,9 +22391,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -23577,9 +22409,6 @@
       "name": "Tony Gatlif",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -23624,9 +22453,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -23635,9 +22461,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -23645,9 +22468,6 @@
       "name": "Toubab Krewe @kora @kamelengoni",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -23667,9 +22487,6 @@
       "name": "Toumani Diabate",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "instruments": [
         "kora"
@@ -23742,9 +22559,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -23802,9 +22616,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -23823,9 +22634,6 @@
       "name": "Tribeqa",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -23893,9 +22701,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -23919,9 +22724,6 @@
       "name": "Trio Erik Marchand",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -23980,9 +22782,6 @@
       "countries": [
         "usa"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -24014,9 +22813,6 @@
       "name": "Trio Tzane",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -24068,9 +22864,6 @@
       "name": "Tryo",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -24138,8 +22931,6 @@
         "nigeria"
       ],
       "styles": [
-        "misc",
-        "m",
         "folk"
       ],
       "body": ""
@@ -24268,9 +23059,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -24278,9 +23066,6 @@
       "name": "Une Anche Passe",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -24410,9 +23195,6 @@
       "name": "Valentin Clastrier",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -24565,9 +23347,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -24705,9 +23484,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -24780,9 +23556,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -24815,9 +23588,6 @@
       "name": "Walter",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -24853,9 +23623,6 @@
       "name": "Watcha Clan",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -24911,9 +23678,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -24931,7 +23695,6 @@
         "mali"
       ],
       "styles": [
-        "misc",
         "fusion"
       ],
       "instruments": [
@@ -24945,7 +23708,7 @@
       "countries": [
         "china"
       ],
-      "styles": [
+      "instruments": [
         "pipa"
       ],
       "body": ""
@@ -25020,18 +23783,13 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
       "id": "yair-dalal",
       "name": "Yair Dalal",
       "countries": [
-        "israel"
-      ],
-      "styles": [
+        "israel",
         "iraq"
       ],
       "instruments": [
@@ -25084,9 +23842,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -25095,9 +23850,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -25105,9 +23857,6 @@
       "name": "Yapa",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -25194,9 +23943,7 @@
       "id": "yemen-blues",
       "name": "Yemen Blues",
       "countries": [
-        "israel"
-      ],
-      "styles": [
+        "israel",
         "yemen"
       ],
       "body": ""
@@ -25216,11 +23963,11 @@
       "id": "yildiz-ibrahimova",
       "name": "Yildiz Ibrahimova",
       "countries": [
-        "bulgaria"
+        "bulgaria",
+        "turkey"
       ],
       "styles": [
-        "gipsy",
-        "turkey"
+        "gipsy"
       ],
       "body": ""
     },
@@ -25249,9 +23996,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -25259,9 +24003,6 @@
       "name": "Yona",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -25329,9 +24070,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -25347,9 +24085,6 @@
       "name": "Zabda",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -25386,9 +24121,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -25408,9 +24140,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -25418,9 +24147,6 @@
       "name": "Zani Diabate & Les Heritiers",
       "countries": [
         "mali"
-      ],
-      "styles": [
-        "misc"
       ],
       "body": ""
     },
@@ -25439,7 +24165,6 @@
         "niger"
       ],
       "styles": [
-        "misc",
         "rap"
       ],
       "body": ""
@@ -25450,9 +24175,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -25460,9 +24182,6 @@
       "name": "Zaz",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -25510,9 +24229,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -25547,9 +24263,6 @@
       "name": "Zen Zila",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -25628,9 +24341,6 @@
       "countries": [
         "france"
       ],
-      "styles": [
-        "world-music"
-      ],
       "body": ""
     },
     {
@@ -25638,9 +24348,6 @@
       "name": "Zlatne Uste Balkan Brass Band",
       "countries": [
         "usa"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -25673,9 +24380,6 @@
       "name": "Zoneblue",
       "countries": [
         "france"
-      ],
-      "styles": [
-        "world-music"
       ],
       "body": ""
     },
@@ -25974,6 +24678,13 @@
       "body": ""
     },
     {
+      "id": "catalonia",
+      "name": "Catalonia",
+      "continent": "europe",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
       "id": "chad",
       "name": "Chad",
       "continent": "africa",
@@ -26118,6 +24829,13 @@
       "name": "Gabon",
       "continent": "africa",
       "flag": "🇬🇦",
+      "body": ""
+    },
+    {
+      "id": "galicia",
+      "name": "Galicia",
+      "continent": "europe",
+      "added": "2026-11-14",
       "body": ""
     },
     {
@@ -26831,11 +25549,6 @@
       "body": ""
     },
     {
-      "id": "ardin",
-      "name": "ardin",
-      "body": ""
-    },
-    {
       "id": "balkan",
       "name": "balkan",
       "body": ""
@@ -26848,11 +25561,6 @@
     {
       "id": "berlin",
       "name": "berlin",
-      "body": ""
-    },
-    {
-      "id": "biram",
-      "name": "biram",
       "body": ""
     },
     {
@@ -26896,16 +25604,6 @@
       "body": ""
     },
     {
-      "id": "canada",
-      "name": "canada",
-      "body": ""
-    },
-    {
-      "id": "catalonia",
-      "name": "catalonia",
-      "body": ""
-    },
-    {
       "id": "chaabi",
       "name": "chaabi",
       "body": ""
@@ -26913,11 +25611,6 @@
     {
       "id": "condomble",
       "name": "condomble",
-      "body": ""
-    },
-    {
-      "id": "congos",
-      "name": "congos",
       "body": ""
     },
     {
@@ -26931,18 +25624,8 @@
       "body": ""
     },
     {
-      "id": "cuba",
-      "name": "cuba",
-      "body": ""
-    },
-    {
       "id": "cumbia",
       "name": "cumbia",
-      "body": ""
-    },
-    {
-      "id": "delhi",
-      "name": "delhi",
       "body": ""
     },
     {
@@ -26956,18 +25639,8 @@
       "body": ""
     },
     {
-      "id": "dublin",
-      "name": "dublin",
-      "body": ""
-    },
-    {
       "id": "duo",
       "name": "duo",
-      "body": ""
-    },
-    {
-      "id": "electro",
-      "name": "electro",
       "body": ""
     },
     {
@@ -26991,11 +25664,6 @@
       "body": ""
     },
     {
-      "id": "france",
-      "name": "france",
-      "body": ""
-    },
-    {
       "id": "funk",
       "name": "funk",
       "body": ""
@@ -27003,11 +25671,6 @@
     {
       "id": "fusion",
       "name": "fusion",
-      "body": ""
-    },
-    {
-      "id": "galicia",
-      "name": "galicia",
       "body": ""
     },
     {
@@ -27031,53 +25694,13 @@
       "body": ""
     },
     {
-      "id": "iran",
-      "name": "iran",
-      "body": ""
-    },
-    {
-      "id": "iraq",
-      "name": "iraq",
-      "body": ""
-    },
-    {
-      "id": "israel",
-      "name": "israel",
-      "body": ""
-    },
-    {
       "id": "jazz",
       "name": "jazz",
       "body": ""
     },
     {
-      "id": "kalimba",
-      "name": "kalimba",
-      "body": ""
-    },
-    {
-      "id": "kamele-ngoni",
-      "name": "kamele-ngoni",
-      "body": ""
-    },
-    {
       "id": "klezmer",
       "name": "klezmer",
-      "body": ""
-    },
-    {
-      "id": "kologo",
-      "name": "kologo",
-      "body": ""
-    },
-    {
-      "id": "kondi",
-      "name": "kondi",
-      "body": ""
-    },
-    {
-      "id": "kurdistan",
-      "name": "kurdistan",
       "body": ""
     },
     {
@@ -27091,18 +25714,8 @@
       "body": ""
     },
     {
-      "id": "m",
-      "name": "m",
-      "body": ""
-    },
-    {
       "id": "maloya",
       "name": "maloya",
-      "body": ""
-    },
-    {
-      "id": "manchester",
-      "name": "manchester",
       "body": ""
     },
     {
@@ -27116,23 +25729,8 @@
       "body": ""
     },
     {
-      "id": "marseille",
-      "name": "marseille",
-      "body": ""
-    },
-    {
       "id": "mento",
       "name": "mento",
-      "body": ""
-    },
-    {
-      "id": "mexico",
-      "name": "mexico",
-      "body": ""
-    },
-    {
-      "id": "misc",
-      "name": "misc",
       "body": ""
     },
     {
@@ -27151,43 +25749,8 @@
       "body": ""
     },
     {
-      "id": "new-york",
-      "name": "new-york",
-      "body": ""
-    },
-    {
-      "id": "ngoni",
-      "name": "ngoni",
-      "body": ""
-    },
-    {
-      "id": "niafunke",
-      "name": "niafunke",
-      "body": ""
-    },
-    {
       "id": "nubia",
       "name": "nubia",
-      "body": ""
-    },
-    {
-      "id": "organ",
-      "name": "organ",
-      "body": ""
-    },
-    {
-      "id": "percussions",
-      "name": "percussions",
-      "body": ""
-    },
-    {
-      "id": "pernambuco",
-      "name": "pernambuco",
-      "body": ""
-    },
-    {
-      "id": "pipa",
-      "name": "pipa",
       "body": ""
     },
     {
@@ -27196,23 +25759,8 @@
       "body": ""
     },
     {
-      "id": "poet",
-      "name": "poet",
-      "body": ""
-    },
-    {
-      "id": "politic",
-      "name": "politic",
-      "body": ""
-    },
-    {
       "id": "psychedelic",
       "name": "psychedelic",
-      "body": ""
-    },
-    {
-      "id": "puerto-rico",
-      "name": "puerto-rico",
       "body": ""
     },
     {
@@ -27271,11 +25819,6 @@
       "body": ""
     },
     {
-      "id": "segou",
-      "name": "segou",
-      "body": ""
-    },
-    {
       "id": "sephardic",
       "name": "sephardic",
       "body": ""
@@ -27306,23 +25849,8 @@
       "body": ""
     },
     {
-      "id": "spain",
-      "name": "spain",
-      "body": ""
-    },
-    {
       "id": "surf",
       "name": "surf",
-      "body": ""
-    },
-    {
-      "id": "sweden",
-      "name": "sweden",
-      "body": ""
-    },
-    {
-      "id": "tajikistan",
-      "name": "tajikistan",
       "body": ""
     },
     {
@@ -27351,26 +25879,6 @@
       "body": ""
     },
     {
-      "id": "turkey",
-      "name": "turkey",
-      "body": ""
-    },
-    {
-      "id": "turkish",
-      "name": "turkish",
-      "body": ""
-    },
-    {
-      "id": "uk",
-      "name": "uk",
-      "body": ""
-    },
-    {
-      "id": "usa",
-      "name": "usa",
-      "body": ""
-    },
-    {
       "id": "valiha",
       "name": "valiha",
       "body": ""
@@ -27386,28 +25894,13 @@
       "body": ""
     },
     {
-      "id": "wm",
-      "name": "wm",
-      "body": ""
-    },
-    {
       "id": "wodaabe",
       "name": "wodaabe",
       "body": ""
     },
     {
-      "id": "world-music",
-      "name": "world-music",
-      "body": ""
-    },
-    {
       "id": "xhosa",
       "name": "xhosa",
-      "body": ""
-    },
-    {
-      "id": "yemen",
-      "name": "yemen",
       "body": ""
     },
     {
@@ -27421,6 +25914,12 @@
       "id": "accordion",
       "name": "accordion",
       "icon": "🎹",
+      "body": ""
+    },
+    {
+      "id": "ardin",
+      "name": "ardin",
+      "added": "2026-11-14",
       "body": ""
     },
     {
@@ -27440,6 +25939,12 @@
       "body": ""
     },
     {
+      "id": "biram",
+      "name": "biram",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
       "id": "cello",
       "name": "cello",
       "body": ""
@@ -27450,8 +25955,20 @@
       "body": ""
     },
     {
+      "id": "congos",
+      "name": "congos",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
       "id": "cuatro",
       "name": "cuatro",
+      "body": ""
+    },
+    {
+      "id": "delhi",
+      "name": "delhi",
+      "added": "2026-11-14",
       "body": ""
     },
     {
@@ -27488,8 +26005,20 @@
       "body": ""
     },
     {
+      "id": "kalimba",
+      "name": "kalimba",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
       "id": "kamancheh",
       "name": "kamancheh",
+      "body": ""
+    },
+    {
+      "id": "kamele-ngoni",
+      "name": "kamele ngoni",
+      "added": "2026-11-14",
       "body": ""
     },
     {
@@ -27504,6 +26033,18 @@
       "body": ""
     },
     {
+      "id": "kologo",
+      "name": "kologo",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "kondi",
+      "name": "kondi",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
       "id": "kora",
       "name": "kora",
       "body": ""
@@ -27511,6 +26052,18 @@
     {
       "id": "mbira",
       "name": "mbira",
+      "body": ""
+    },
+    {
+      "id": "ngoni",
+      "name": "ngoni",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "organ",
+      "name": "organ",
+      "added": "2026-11-14",
       "body": ""
     },
     {
@@ -27528,6 +26081,12 @@
       "id": "piano",
       "name": "piano",
       "icon": "🎹",
+      "body": ""
+    },
+    {
+      "id": "pipa",
+      "name": "pipa",
+      "added": "2026-11-14",
       "body": ""
     },
     {
@@ -27556,6 +26115,74 @@
       "id": "violin",
       "name": "violin",
       "icon": "🎻",
+      "body": ""
+    }
+  ],
+  "tags": [
+    {
+      "id": "dublin",
+      "name": "dublin",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "manchester",
+      "name": "manchester",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "marseille",
+      "name": "marseille",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "new-york",
+      "name": "new york",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "niafunke",
+      "name": "niafunke",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "pernambuco",
+      "name": "pernambuco",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "poet",
+      "name": "poet",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "politic",
+      "name": "politic",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "segou",
+      "name": "segou",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "turkish",
+      "name": "turkish",
+      "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "woman",
+      "name": "woman",
+      "added": "2026-11-14",
       "body": ""
     }
   ]

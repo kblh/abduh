@@ -2,9 +2,9 @@
 name: Ivo Papasov
 countries:
   - bulgaria
+  - turkey
 styles:
   - gipsy
-  - turkey
 instruments:
   - clarinet
 ---

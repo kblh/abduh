@@ -4,5 +4,6 @@ countries:
   - usa
 styles:
   - folk
+tags:
   - new-york
 ---

@@ -3,6 +3,7 @@ name: Caapora
 countries:
   - brasil
 styles:
-  - pernambuco
   - manguebit
+tags:
+  - pernambuco
 ---

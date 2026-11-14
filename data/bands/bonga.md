@@ -2,6 +2,6 @@
 name: Bonga
 countries:
   - angola
-styles:
+tags:
   - politic
 ---

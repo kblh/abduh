@@ -4,7 +4,8 @@ countries:
   - united-kingdom
 styles:
   - jazz
-  - manchester
 instruments:
   - trumpet
+tags:
+  - manchester
 ---

@@ -2,7 +2,6 @@
 name: Tom Diakite
 countries:
   - mali
-styles:
-  - misc
+instruments:
   - kamele-ngoni
 ---

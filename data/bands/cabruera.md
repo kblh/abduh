@@ -3,6 +3,7 @@ name: Cabruera
 countries:
   - brasil
 styles:
-  - pernambuco
   - manguebit
+tags:
+  - pernambuco
 ---

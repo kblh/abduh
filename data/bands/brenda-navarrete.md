@@ -3,8 +3,9 @@ name: Brenda Navarrete
 countries:
   - cuba
 styles:
-  - percussions
   - jazz
+instruments:
+  - perc
 tags:
   - woman
 ---

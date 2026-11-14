@@ -2,9 +2,9 @@
 name: Niyaz
 countries:
   - iran
+  - canada
 styles:
   - diaspora
-  - canada
 members:
   - Azam Ali
   - Loga Ramin Torkian

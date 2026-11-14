@@ -2,9 +2,9 @@
 name: Mitra Sumara
 countries:
   - iran
+  - usa
 styles:
   - diaspora
-  - usa
   - farsi
   - funk
 ---

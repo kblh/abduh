@@ -2,7 +2,7 @@
 name: Noura Mint Seymali
 countries:
   - mauritania
-styles:
+instruments:
   - ardin
 tags:
   - woman

@@ -2,6 +2,6 @@
 name: Sorie Kondi
 countries:
   - sierra-leone
-styles:
+instruments:
   - kondi
 ---

@@ -2,6 +2,6 @@
 name: Wu Man
 countries:
   - china
-styles:
+instruments:
   - pipa
 ---

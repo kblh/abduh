@@ -2,7 +2,7 @@
 name: Ooleya Mint Amartichitt
 countries:
   - mauritania
-styles:
+instruments:
   - ardin
 tags:
   - woman

@@ -2,6 +2,5 @@
 name: Kiran Ahluwalia
 countries:
   - india
-styles:
-  - uk
+  - united-kingdom
 ---

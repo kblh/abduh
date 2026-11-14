@@ -2,7 +2,7 @@
 name: Dudu Tassa
 countries:
   - israel
-styles:
   - iraq
+tags:
   - politic
 ---

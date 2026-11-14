@@ -2,6 +2,6 @@
 name: Bustan Abraham
 countries:
   - israel
-styles:
+tags:
   - politic
 ---

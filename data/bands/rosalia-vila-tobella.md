@@ -2,7 +2,7 @@
 name: Rosalía Vila Tobella
 countries:
   - spain
-styles:
   - catalonia
+styles:
   - flamenco
 ---

@@ -2,6 +2,6 @@
 name: King Ayisoba
 countries:
   - ghana
-styles:
+instruments:
   - kologo
 ---

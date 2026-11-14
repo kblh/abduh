@@ -4,7 +4,8 @@ countries:
   - mali
 styles:
   - blues
-  - niafunke
 instruments:
   - guitar
+tags:
+  - niafunke
 ---

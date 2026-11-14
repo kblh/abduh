@@ -4,7 +4,7 @@ countries:
   - brasil
 styles:
   - samba
-  - poet
 tags:
   - woman
+  - poet
 ---

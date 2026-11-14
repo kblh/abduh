@@ -2,6 +2,6 @@
 name: Sheva
 countries:
   - israel
-styles:
+tags:
   - politic
 ---

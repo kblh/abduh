@@ -1,0 +1,4 @@
+---
+name: Galicia
+continent: europe
+---

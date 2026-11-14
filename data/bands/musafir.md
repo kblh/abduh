@@ -3,6 +3,7 @@ name: Musafir
 countries:
   - india
 styles:
-  - delhi
   - rock
+instruments:
+  - delhi
 ---

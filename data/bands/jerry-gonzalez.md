@@ -2,9 +2,9 @@
 name: Jerry Gonzalez
 countries:
   - usa
+  - puerto-rico
 styles:
   - jazz
-  - puerto-rico
 instruments:
   - trumpet
 ---

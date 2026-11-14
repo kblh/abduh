@@ -2,7 +2,6 @@
 name: OTTiLiE [B] + Denis Pean
 countries:
   - france
-styles:
-  - world-music
+tags:
   - marseille
 ---

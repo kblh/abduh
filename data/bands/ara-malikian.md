@@ -2,10 +2,10 @@
 name: Ara Malikian
 countries:
   - lebanon
-styles:
-  - jazz
   - usa
   - spain
+styles:
+  - jazz
 instruments:
   - violin
 ---
