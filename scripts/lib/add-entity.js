@@ -47,7 +47,10 @@ export function addEntity(input, { dataDir = 'data', merge = false, force = fals
     const merged = { ...existing.fields };
     for (const [k, v] of Object.entries(fields)) {
       if (type === 'shelf' && (k === 'bands' || k === 'cds') && Array.isArray(v)) merged[k] = [...new Set([...(merged[k] ?? []), ...v])];
-      else if (isEmpty(merged[k])) merged[k] = v;
+      else if (k === 'links' && Array.isArray(v)) {
+        const have = new Set((merged.links ?? []).map((l) => l.url));
+        merged.links = [...(merged.links ?? []), ...v.filter((l) => !have.has(l.url))];
+      } else if (isEmpty(merged[k])) merged[k] = v;
     }
     entity = { type, id, fields: merged, body: existing.body || body };
   } else if (existing && force) {

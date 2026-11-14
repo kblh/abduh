@@ -87,3 +87,12 @@ test('adds a tag and rejects a band with an unknown tag', () => {
   assert.throws(() => addEntity({ type: 'band', fields: { name: 'X', countries: ['mali'], tags: ['ghost'] } }, { dataDir: d }), /unknown tag/);
   addEntity({ type: 'band', fields: { name: 'Y', countries: ['mali'], tags: ['new-york'] } }, { dataDir: d });
 });
+
+test('merge appends new links by url and keeps existing ones', () => {
+  const d = setup();
+  const sp = { type: 'spotify', url: 'https://open.spotify.com/album/x' };
+  const bc = { type: 'bandcamp', url: 'https://x.bandcamp.com/album/y' };
+  addEntity(cd('Tassili', ['tinariwen'], { links: [sp] }), { dataDir: d });
+  addEntity(cd('Tassili', ['tinariwen'], { links: [sp, bc] }), { dataDir: d, merge: true });
+  assert.deepEqual(read(d, 'cds/tinariwen-tassili.md').fields.links, [sp, bc]);
+});
