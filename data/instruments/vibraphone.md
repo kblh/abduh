@@ -1,0 +1,5 @@
+---
+name: vibraphone
+aliases:
+  - vibraphone
+---

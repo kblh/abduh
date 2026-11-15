@@ -16003,8 +16003,8 @@
       "body": ""
     },
     {
-      "id": "mulatu-astatke-vibraphone",
-      "name": "Mulatu Astatke [[Vibraphone]]",
+      "id": "mulatu-astatke",
+      "name": "Mulatu Astatke",
       "countries": [
         "ethiopia"
       ],
@@ -16012,7 +16012,8 @@
         "jazz"
       ],
       "instruments": [
-        "piano"
+        "piano",
+        "vibraphone"
       ],
       "body": ""
     },
@@ -26207,6 +26208,12 @@
       "id": "trumpet",
       "name": "trumpet",
       "icon": "🎺",
+      "body": ""
+    },
+    {
+      "id": "vibraphone",
+      "name": "vibraphone",
+      "added": "2026-11-15",
       "body": ""
     },
     {
