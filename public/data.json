@@ -5478,6 +5478,31 @@
       "body": ""
     },
     {
+      "id": "dawuna",
+      "name": "Dawuna",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "tags": [
+        "baltimore",
+        "diaspora"
+      ],
+      "image": "img/bands/dawuna.avif",
+      "image_source": "https://open.spotify.com/artist/5EWXvpxUaFhmjgWJZlXlVY",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/5EWXvpxUaFhmjgWJZlXlVY"
+        }
+      ],
+      "added": "2026-11-15",
+      "body": "Dawuna (vlastním jménem Ian Mugerwa) je ugandsko-americký umělec, který vyrostl ve Virginii a žije v Baltimoru. Hraje experimentální R&B, soul a elektroniku.\n"
+    },
+    {
       "id": "daxar",
       "name": "Daxar",
       "countries": [
@@ -10938,6 +10963,38 @@
         "woman"
       ],
       "body": ""
+    },
+    {
+      "id": "justin-adams",
+      "name": "Justin Adams",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "blues",
+        "fusion"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/justin-adams.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Justin_Adams.jpg",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1pUaMnPZv6VdjKjZ2b5B0Z"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Justin_Adams"
+        },
+        {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/162861"
+        }
+      ],
+      "added": "2026-11-15",
+      "body": "Anglický kytarista, skladatel a producent (nar. 1961 v Londýně), který část dětství prožil v Egyptě. V 80. letech hrál s Impossible Dreamers a v Invaders of the Heart Jaha Wobbla, později spolupracoval s Robertem Plantem na albu Mighty ReArranger. Jako producent stál za prvním a třetím albem Tinariwen. Spojuje blues se saharskou a západoafrickou hudbou – v duu s gambijským griotem Juldehem Camarou a později s italským hudebníkem Mauro Durantem.\n"
     },
     {
       "id": "justyna-steczkowska",
@@ -24531,6 +24588,42 @@
       "body": ""
     },
     {
+      "id": "dawuna-glass-lit-dream",
+      "name": "Glass Lit Dream",
+      "bands": [
+        "dawuna"
+      ],
+      "year": 2021,
+      "image": "img/cds/dawuna-glass-lit-dream.avif",
+      "image_source": "https://open.spotify.com/album/5bdaSZhQz6mclZDp0PkS1F",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5bdaSZhQz6mclZDp0PkS1F"
+        }
+      ],
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "dawuna-love-s-arp",
+      "name": "Love's Arp",
+      "bands": [
+        "dawuna"
+      ],
+      "year": 2026,
+      "image": "img/cds/dawuna-love-s-arp.avif",
+      "image_source": "https://open.spotify.com/album/4hXdSScuXDeJWbaeZ6KTPH",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4hXdSScuXDeJWbaeZ6KTPH"
+        }
+      ],
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
       "id": "deep-cabaret-matchless",
       "name": "Matchless",
       "bands": [
@@ -24594,6 +24687,111 @@
         }
       ],
       "added": "2026-11-14",
+      "body": ""
+    },
+    {
+      "id": "justin-adams-desert-road",
+      "name": "Desert Road",
+      "bands": [
+        "justin-adams"
+      ],
+      "year": 2001,
+      "label": "Wayward",
+      "image": "img/cds/justin-adams-desert-road.avif",
+      "image_source": "https://open.spotify.com/album/2lqi2KeRi0yOEWcCDaTb6S",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2lqi2KeRi0yOEWcCDaTb6S"
+        }
+      ],
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "justin-adams-in-trance",
+      "name": "In Trance",
+      "bands": [
+        "justin-adams"
+      ],
+      "year": 2011,
+      "label": "Real World",
+      "image": "img/cds/justin-adams-in-trance.avif",
+      "image_source": "https://open.spotify.com/album/15t07XcVHsmrwSvLDyHI73",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/15t07XcVHsmrwSvLDyHI73"
+        }
+      ],
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "justin-adams-ribbons",
+      "name": "Ribbons",
+      "bands": [
+        "justin-adams"
+      ],
+      "year": 2017,
+      "label": "Wayward",
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "justin-adams-still-moving",
+      "name": "Still Moving",
+      "bands": [
+        "justin-adams"
+      ],
+      "year": 2021,
+      "image": "img/cds/justin-adams-still-moving.avif",
+      "image_source": "https://open.spotify.com/album/2EKoX05Cj9AKOVWUY3vhSE",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2EKoX05Cj9AKOVWUY3vhSE"
+        }
+      ],
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "justin-adams-sweet-release",
+      "name": "Sweet Release",
+      "bands": [
+        "justin-adams"
+      ],
+      "year": 2024,
+      "label": "Ponderosa Music & Art",
+      "image": "img/cds/justin-adams-sweet-release.avif",
+      "image_source": "https://open.spotify.com/album/7FhDYYxxlQg3xdLt8XZ48V",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7FhDYYxxlQg3xdLt8XZ48V"
+        }
+      ],
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "justin-adams-tell-no-lies",
+      "name": "Tell No Lies",
+      "bands": [
+        "justin-adams"
+      ],
+      "year": 2009,
+      "label": "Real World",
+      "image": "img/cds/justin-adams-tell-no-lies.avif",
+      "image_source": "https://open.spotify.com/album/26dt3MyRLK8mlcF4mxLGpY",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/26dt3MyRLK8mlcF4mxLGpY"
+        }
+      ],
+      "added": "2026-11-15",
       "body": ""
     }
   ],
@@ -26214,6 +26412,12 @@
     {
       "id": "albino",
       "name": "albino",
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "baltimore",
+      "name": "baltimore",
       "added": "2026-11-15",
       "body": ""
     },
