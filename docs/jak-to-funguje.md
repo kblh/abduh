@@ -54,7 +54,7 @@ links:
 Volný text (bio).
 ```
 
-Vazby jsou přes ID, ne přes pozici, a build zkontroluje, že všechna ID existují. ID je název souboru bez `.md` a musí být unikátní napříč všemi typy (wikilinky se hledají podle názvu souboru). Na disku jsou odkazy zapsané jako wikilinky `[[id]]`, aby je Obsidian uměl následovat a ukazoval zpětné odkazy. Při načtení se z nich zase stanou holá ID, takže zbytek aplikace a `data.json` se nezměnily. Parser přijímá i `[[id|text]]`, `[[složka/id]]` a holé ID. Pole `aliases` se vždy doplní z `name`. Jednorázově (a opakovatelně) přepíše všechny soubory do tohoto tvaru `node scripts/to-wikilinks.js`. Aby šly přehledně vidět rozdíly v gitu, je každá entita samostatný soubor.
+Vazby jsou přes ID, ne přes pozici, a build zkontroluje, že všechna ID existují. ID je název souboru bez `.md` a musí být unikátní napříč všemi typy (wikilinky se hledají podle názvu souboru). Na disku jsou odkazy zapsané jako wikilinky `[[id]]`, aby je Obsidian uměl následovat a ukazoval zpětné odkazy. Při načtení se z nich zase stanou holá ID, takže zbytek aplikace a `data.json` se nezměnily. Parser přijímá i `[[id|text]]`, `[[složka/id]]` a holé ID. Pole `aliases` se vždy doplní z `name`. Člen kapely (`members`) je buď jméno, nebo wikilink na jinou kapelu (`"[[id]]"`, na webu je to odkaz); skript `add-entity` odkáže členy, kteří už ve sbírce jsou jako kapely, a obráceně: nová kapela nahradí textové jméno člena v ostatních kapelách odkazem. Jednorázově (a opakovatelně) přepíše všechny soubory do tohoto tvaru `node scripts/to-wikilinks.js`. Aby šly přehledně vidět rozdíly v gitu, je každá entita samostatný soubor.
 
 ## Obsidian
 

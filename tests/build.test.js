@@ -56,3 +56,15 @@ test('same id in two different types is an error (wikilinks resolve by file name
   const errs = validate([country, { type: 'tag', id: 'cuba', fields: { name: 'cuba' }, body: '' }]);
   assert.match(errs.join('\n'), /cuba.*country.*tag|cuba.*tag.*country/);
 });
+
+test('member wikilink to a missing band is an error, to an existing band is fine', () => {
+  const ok = validate([country, mk('a', { countries: ['cuba'] }), mk('b', { countries: ['cuba'], members: ['[[a]]', 'Plain Name'] })]);
+  assert.deepEqual(ok, []);
+  const bad = validate([country, mk('b', { countries: ['cuba'], members: ['[[ghost]]'] })]);
+  assert.match(bad.join('\n'), /b.*members.*ghost/);
+});
+
+test('buildData turns linked members into {id, name} and keeps plain names', () => {
+  const data = buildData([country, mk('a', { name: 'Alpha', countries: ['cuba'] }), mk('b', { countries: ['cuba'], members: ['[[a]]', 'Plain Name'] })]);
+  assert.deepEqual(data.bands.find((x) => x.id === 'b').members, [{ id: 'a', name: 'Alpha' }, 'Plain Name']);
+});

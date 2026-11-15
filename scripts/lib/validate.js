@@ -33,6 +33,12 @@ export function validate(entities, opts = {}) {
         if (!ids[target].has(ref)) errors.push(`${label}: ${field} refers to unknown ${target} "${ref}"`);
       }
     }
+    if (e.type === 'band') {
+      for (const m of e.fields.members ?? []) {
+        const t = typeof m === 'string' ? m.match(/^\[\[([^\]|#]+)\]\]$/)?.[1].trim() : null;
+        if (t && !ids.band.has(t.split('/').pop())) errors.push(`${label}: members refers to unknown band "${t}"`);
+      }
+    }
     for (const l of e.fields.links ?? []) {
       if (!LINK_TYPES.includes(l?.type)) errors.push(`${label}: bad link type "${l?.type}"`);
       if (!/^https?:\/\//i.test(l?.url ?? '')) errors.push(`${label}: link url must be http(s): "${l?.url}"`);

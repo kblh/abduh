@@ -96,3 +96,58 @@ test('merge appends new links by url and keeps existing ones', () => {
   addEntity(cd('Tassili', ['tinariwen'], { links: [sp, bc] }), { dataDir: d, merge: true });
   assert.deepEqual(read(d, 'cds/tinariwen-tassili.md').fields.links, [sp, bc]);
 });
+
+test('band members matching an existing band are written as wikilinks', () => {
+  const d = setup();
+  const r = addEntity({ type: 'band', fields: { name: 'Group', countries: ['mali'], members: ['Bombino', 'Some Person'] } }, { dataDir: d });
+  assert.equal(r.id, 'group');
+  assert.deepEqual(read(d, 'bands/group.md').fields.members, ['[[bombino]]', 'Some Person']);
+  assert.match(readFileSync(join(d, 'bands/group.md'), 'utf8'), /- "\[\[bombino\]\]"/);
+});
+
+test('member linking ignores case and diacritics and never links a band to itself', () => {
+  const d = setup();
+  addEntity({ type: 'band', fields: { name: 'Group', countries: ['mali'] } }, { dataDir: d });
+  addEntity({ type: 'band', fields: { name: 'Group', countries: ['mali'], members: ['group', 'TÍNARIWEN'] } }, { dataDir: d, merge: true });
+  assert.deepEqual(read(d, 'bands/group.md').fields.members, ['group', '[[tinariwen]]']);
+});
+
+test('merge unions members without duplicates', () => {
+  const d = setup();
+  addEntity({ type: 'band', fields: { name: 'Group', countries: ['mali'], members: ['Some Person'] } }, { dataDir: d });
+  addEntity({ type: 'band', fields: { name: 'Group', countries: ['mali'], members: ['Some Person', 'Bombino', 'Other'] } }, { dataDir: d, merge: true });
+  assert.deepEqual(read(d, 'bands/group.md').fields.members, ['Some Person', '[[bombino]]', 'Other']);
+});
+
+test('merge fills bio only when the band has none', () => {
+  const d = setup();
+  addEntity({ type: 'band', fields: { name: 'Group', countries: ['mali'] }, body: 'První bio.\n' }, { dataDir: d });
+  addEntity({ type: 'band', fields: { name: 'Group', countries: ['mali'] }, body: 'Druhé bio.\n' }, { dataDir: d, merge: true });
+  assert.equal(read(d, 'bands/group.md').body, 'První bio.\n');
+});
+
+test('a new band turns matching plain-text members of other bands into links', () => {
+  const d = setup();
+  addEntity({ type: 'band', fields: { name: 'Group', countries: ['mali'], members: ['Ibrahim Ag Alhabib', 'Someone Else'] } }, { dataDir: d });
+  const r = addEntity({ type: 'band', fields: { name: 'Ibrahim Ag Alhabib', countries: ['mali'] } }, { dataDir: d });
+  assert.deepEqual(r.linked, ['group']);
+  assert.deepEqual(read(d, 'bands/group.md').fields.members, ['[[ibrahim-ag-alhabib]]', 'Someone Else']);
+});
+
+test('reverse linking ignores case and diacritics, leaves other bands alone, and skips merges', () => {
+  const d = setup();
+  addEntity({ type: 'band', fields: { name: 'Group', countries: ['mali'], members: ['ÍBRAHIM ag alhabib'] } }, { dataDir: d });
+  const before = readFileSync(join(d, 'bands/tinariwen.md'), 'utf8');
+  addEntity({ type: 'band', fields: { name: 'Ibrahim Ag Alhabib', countries: ['mali'] } }, { dataDir: d });
+  assert.deepEqual(read(d, 'bands/group.md').fields.members, ['[[ibrahim-ag-alhabib]]']);
+  assert.equal(readFileSync(join(d, 'bands/tinariwen.md'), 'utf8'), before);
+  const r = addEntity({ type: 'band', fields: { name: 'Ibrahim Ag Alhabib', countries: ['mali'], tags: [] } }, { dataDir: d, merge: true });
+  assert.deepEqual(r.linked ?? [], []);
+});
+
+test('a failed write links nothing', () => {
+  const d = setup();
+  addEntity({ type: 'band', fields: { name: 'Group', countries: ['mali'], members: ['Ghost Person'] } }, { dataDir: d });
+  assert.throws(() => addEntity({ type: 'band', fields: { name: 'Ghost Person', countries: ['nowhere'] } }, { dataDir: d }));
+  assert.deepEqual(read(d, 'bands/group.md').fields.members, ['Ghost Person']);
+});

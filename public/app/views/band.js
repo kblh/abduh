@@ -24,7 +24,7 @@ export function render({ store, params, today }) {
   const similar = style0 ? (store.bandsByStyle.get(style0) ?? []).filter((b) => b.id !== band.id).slice(0, 3) : [];
   const shelves = store.shelvesOf('band', band.id);
   const bio = prose(band.body);
-  const members = band.members?.length ? h('aside', { class: 'members' }, sectionTitle('Členové'), h('ul', null, band.members.map((m) => h('li', null, m)))) : null;
+  const members = band.members?.length ? h('aside', { class: 'members' }, sectionTitle('Členové'), h('ul', null, band.members.map((m) => h('li', null, typeof m === 'string' ? m : h('a', { href: `#/bands/${encodeURIComponent(m.id)}` }, m.name))))) : null;
 
   return h('article', { class: 'detail band-detail' },
     h('p', { class: 'breadcrumb' }, h('a', { href: '#/bands' }, 'Kapely'), ` / ${letter} / ${band.name}`),
