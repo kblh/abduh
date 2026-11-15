@@ -1,3 +1,7 @@
 {
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "abduh"
+  ],
+  "accentColor": "#bff55c"
 }

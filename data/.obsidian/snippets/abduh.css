@@ -1,0 +1,22 @@
+/* Abduh: jemné úpravy karet v Bases. Barvy, písma a okraje přebírá aktuální motiv Obsidianu,
+   snippet jen zakulatí fotky kapel jako v aplikaci. Zapnuto v appearance.json. */
+
+/* karty kapel (mají vlastnost countries) mají kulatou fotku, CD zůstávají čtvercová */
+.bases-cards-item:has([data-property="note.countries"]) .bases-cards-cover {
+  clip-path: circle(closest-side at 50% 50%);
+}
+
+/* název karty jako ostatní nadpisy v motivu, vlastnosti tlumeně */
+.bases-cards-item .bases-cards-property.mod-title .bases-cards-line {
+  font-weight: var(--font-semibold);
+  color: var(--text-normal);
+}
+.bases-cards-item .bases-cards-property:not(.mod-title) .bases-cards-line {
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+}
+
+/* zvýraznění při najetí barvou motivu */
+.bases-cards-item:hover {
+  border-color: var(--interactive-accent);
+}

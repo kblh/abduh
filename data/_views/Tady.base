@@ -1,0 +1,47 @@
+filters:
+  and:
+    - file.hasLink(this.file)
+properties:
+  note.name:
+    displayName: Název
+views:
+  - type: cards
+    name: Kapely
+    filters:
+      and:
+        - file.inFolder("bands")
+    order:
+      - name
+      - countries
+      - styles
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+    imageFit: cover
+    imageAspectRatio: 1
+  - type: cards
+    name: CD
+    filters:
+      and:
+        - file.inFolder("cds")
+    order:
+      - name
+      - bands
+      - year
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+    imageFit: cover
+    imageAspectRatio: 1
+  - type: table
+    name: Police
+    filters:
+      and:
+        - file.inFolder("shelves")
+    order:
+      - name
+    sort:
+      - property: file.name
+        direction: ASC
