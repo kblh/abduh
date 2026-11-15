@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.inFolder("shelves")
+properties:
+  file.name:
+    displayName: ID
+  note.name:
+    displayName: Název
+views:
+  - type: table
+    name: Tabulka
+    order:
+      - file.name
+      - name
+      - bands
+      - cds
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.inFolder("cds")
+properties:
+  file.name:
+    displayName: ID
+  note.name:
+    displayName: Název
+views:
+  - type: table
+    name: Tabulka
+    order:
+      - file.name
+      - name
+      - bands
+      - year
+      - label
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Karty
+    order:
+      - name
+      - bands
+      - year
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+    imageFit: cover
+    imageAspectRatio: 1

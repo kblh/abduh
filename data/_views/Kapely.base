@@ -1,0 +1,33 @@
+filters:
+  and:
+    - file.inFolder("bands")
+properties:
+  file.name:
+    displayName: ID
+  note.name:
+    displayName: Název
+views:
+  - type: table
+    name: Tabulka
+    order:
+      - file.name
+      - name
+      - countries
+      - styles
+      - instruments
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Karty
+    order:
+      - name
+      - countries
+      - styles
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+    imageFit: cover
+    imageAspectRatio: 1

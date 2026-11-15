@@ -56,6 +56,15 @@ Volný text (bio).
 
 Vazby jsou přes ID, ne přes pozici, a build zkontroluje, že všechna ID existují. ID je název souboru bez `.md` a musí být unikátní napříč všemi typy (wikilinky se hledají podle názvu souboru). Na disku jsou odkazy zapsané jako wikilinky `[[id]]`, aby je Obsidian uměl následovat a ukazoval zpětné odkazy. Při načtení se z nich zase stanou holá ID, takže zbytek aplikace a `data.json` se nezměnily. Parser přijímá i `[[id|text]]`, `[[složka/id]]` a holé ID. Pole `aliases` se vždy doplní z `name`. Jednorázově (a opakovatelně) přepíše všechny soubory do tohoto tvaru `node scripts/to-wikilinks.js`. Aby šly přehledně vidět rozdíly v gitu, je každá entita samostatný soubor.
 
+## Obsidian
+
+Složka `data/` je zároveň Obsidian vault (otevřít přes „Open folder as vault"). Build ji neovlivní, čte jen složky s entitami.
+
+- `data/.obsidian/` – sdílené nastavení (wikilinky, základní pluginy, šablony). Místní stav (`workspace.json`) je v `.gitignore`.
+- `data/_views/*.base` – pohledy v Bases: Kapely (tabulka a karty s obrázky), CD (tabulka a karty), Police, Země, Styly, Nástroje, Tagy.
+- `data/_templates/` – šablony pro nové entity (příkaz „Insert template"). Novou poznámku je potřeba vytvořit ve správné složce (`bands/`, `cds/`…), její název je ID.
+- Kapely dané země, stylu nebo tagu a CD kapely se ukazují v panelu zpětných odkazů, bez dalšího kódu.
+
 ## Build proces
 
 Spouští se `npm run build` (soubor `scripts/build.js`):

@@ -2,3 +2,9 @@ node_modules/
 .superpowers/
 
 .DS_Store
+
+# Obsidian: sdílíme nastavení a pohledy, ne místní stav
+data/.obsidian/workspace.json
+data/.obsidian/workspaces.json
+data/.obsidian/cache
+data/.trash/

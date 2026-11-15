@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.inFolder("countries")
+properties:
+  file.name:
+    displayName: ID
+  note.name:
+    displayName: Název
+views:
+  - type: table
+    name: Tabulka
+    order:
+      - file.name
+      - name
+      - continent
+      - flag
+    sort:
+      - property: file.name
+        direction: ASC
