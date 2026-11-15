@@ -1,5 +1,7 @@
 ---
 name: Sarazino
+aliases:
+  - Sarazino
 countries:
-  - ecuador
+  - "[[ecuador]]"
 ---

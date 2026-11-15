@@ -1,7 +1,9 @@
 ---
 name: Mauvais Sort
+aliases:
+  - Mauvais Sort
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - quebec
+  - "[[quebec]]"
 ---

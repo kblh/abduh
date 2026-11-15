@@ -1,8 +1,10 @@
 ---
 name: Mircan Kaya
+aliases:
+  - Mircan Kaya
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Derajah
+aliases:
+  - Derajah
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 ---

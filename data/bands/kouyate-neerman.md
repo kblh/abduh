@@ -1,7 +1,9 @@
 ---
 name: Kouyate-Neerman
+aliases:
+  - Kouyate-Neerman
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - balafon
+  - "[[balafon]]"
 ---

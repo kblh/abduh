@@ -1,7 +1,9 @@
 ---
 name: Rebirth Brass Band
+aliases:
+  - Rebirth Brass Band
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - brass
+  - "[[brass]]"
 ---

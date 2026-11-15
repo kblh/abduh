@@ -1,7 +1,9 @@
 ---
 name: Luigi Cinque
+aliases:
+  - Luigi Cinque
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

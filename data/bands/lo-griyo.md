@@ -1,9 +1,11 @@
 ---
 name: Lo Griyo
+aliases:
+  - Lo Griyo
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 styles:
-  - fusion
+  - "[[fusion]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

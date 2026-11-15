@@ -1,7 +1,9 @@
 ---
 name: Segun Damisa
+aliases:
+  - Segun Damisa
 countries:
-  - nigeria
+  - "[[nigeria]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

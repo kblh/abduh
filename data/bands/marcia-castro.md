@@ -1,7 +1,9 @@
 ---
 name: Marcia Castro
+aliases:
+  - Marcia Castro
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

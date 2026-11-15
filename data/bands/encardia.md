@@ -1,7 +1,9 @@
 ---
 name: Encardia
+aliases:
+  - Encardia
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

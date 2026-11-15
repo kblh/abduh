@@ -1,7 +1,9 @@
 ---
 name: Makondo
+aliases:
+  - Makondo
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

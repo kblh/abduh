@@ -1,5 +1,7 @@
 ---
 name: Muzsikas
+aliases:
+  - Muzsikas
 countries:
-  - hungary
+  - "[[hungary]]"
 ---

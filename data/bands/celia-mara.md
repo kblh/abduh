@@ -1,7 +1,9 @@
 ---
 name: Celia Mara
+aliases:
+  - Celia Mara
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

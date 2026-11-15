@@ -1,8 +1,10 @@
 ---
 name: Behiye Suren
+aliases:
+  - Behiye Suren
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Eugenio Bennato
+aliases:
+  - Eugenio Bennato
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

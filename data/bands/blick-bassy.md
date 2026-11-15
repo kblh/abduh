@@ -1,7 +1,9 @@
 ---
 name: Blick Bassy
+aliases:
+  - Blick Bassy
 countries:
-  - cameroon
+  - "[[cameroon]]"
 instruments:
-  - banjo
+  - "[[banjo]]"
 ---

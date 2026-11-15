@@ -1,7 +1,9 @@
 ---
 name: Mamou Sidibe
+aliases:
+  - Mamou Sidibe
 countries:
-  - mali
+  - "[[mali]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

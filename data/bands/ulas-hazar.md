@@ -1,8 +1,10 @@
 ---
 name: Ulas Hazar
+aliases:
+  - Ulas Hazar
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

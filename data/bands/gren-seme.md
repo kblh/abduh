@@ -1,7 +1,9 @@
 ---
 name: Gren Seme
+aliases:
+  - Gren Seme
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 styles:
-  - maloya
+  - "[[maloya]]"
 ---

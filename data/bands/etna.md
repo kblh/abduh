@@ -1,7 +1,9 @@
 ---
 name: Etna
+aliases:
+  - Etna
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

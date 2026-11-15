@@ -1,8 +1,10 @@
 ---
 name: Suzan Kardes
+aliases:
+  - Suzan Kardes
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

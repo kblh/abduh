@@ -1,7 +1,9 @@
 ---
 name: Ebtesam
+aliases:
+  - Ebtesam
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

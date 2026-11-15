@@ -1,7 +1,9 @@
 ---
 name: Al Akhareen
+aliases:
+  - Al Akhareen
 countries:
-  - syria
+  - "[[syria]]"
 members:
   - Osloob
   - Naïssam Jalal

@@ -1,8 +1,10 @@
 ---
 name: Dengbej Ehme
+aliases:
+  - Dengbej Ehme
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

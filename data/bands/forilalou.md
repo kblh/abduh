@@ -1,5 +1,7 @@
 ---
 name: Forilalou
+aliases:
+  - Forilalou
 countries:
-  - france
+  - "[[france]]"
 ---

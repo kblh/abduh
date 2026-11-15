@@ -1,5 +1,7 @@
 ---
 name: Cinkuši
+aliases:
+  - Cinkuši
 countries:
-  - croatia
+  - "[[croatia]]"
 ---

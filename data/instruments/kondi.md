@@ -1,3 +1,5 @@
 ---
 name: kondi
+aliases:
+  - kondi
 ---

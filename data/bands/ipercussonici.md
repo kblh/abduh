@@ -1,7 +1,9 @@
 ---
 name: Ipercussonici
+aliases:
+  - Ipercussonici
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

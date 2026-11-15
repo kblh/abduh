@@ -1,7 +1,9 @@
 ---
 name: Spanish Harlem Orchestra
+aliases:
+  - Spanish Harlem Orchestra
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - latin
+  - "[[latin]]"
 ---

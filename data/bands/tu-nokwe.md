@@ -1,7 +1,9 @@
 ---
 name: Tu Nokwe
+aliases:
+  - Tu Nokwe
 countries:
-  - south-africa
+  - "[[south-africa]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

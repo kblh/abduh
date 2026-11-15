@@ -1,7 +1,9 @@
 ---
 name: Rachel Magoola
+aliases:
+  - Rachel Magoola
 countries:
-  - uganda
+  - "[[uganda]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

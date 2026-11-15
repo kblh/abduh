@@ -1,5 +1,7 @@
 ---
 name: Tigerstyle
+aliases:
+  - Tigerstyle
 countries:
-  - united-kingdom
+  - "[[united-kingdom]]"
 ---

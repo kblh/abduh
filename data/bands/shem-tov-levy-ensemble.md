@@ -1,7 +1,9 @@
 ---
 name: Shem Tov-Levy Ensemble
+aliases:
+  - Shem Tov-Levy Ensemble
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

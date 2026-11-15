@@ -1,7 +1,9 @@
 ---
 name: Manuela Rodrigues
+aliases:
+  - Manuela Rodrigues
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

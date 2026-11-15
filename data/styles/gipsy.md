@@ -1,3 +1,5 @@
 ---
 name: gipsy
+aliases:
+  - gipsy
 ---

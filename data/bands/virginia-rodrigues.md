@@ -1,7 +1,9 @@
 ---
 name: Virginia Rodrigues
+aliases:
+  - Virginia Rodrigues
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

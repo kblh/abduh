@@ -1,9 +1,11 @@
 ---
 name: Lobi Traore
+aliases:
+  - Lobi Traore
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 tags:
-  - segou
+  - "[[segou]]"
 ---

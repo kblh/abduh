@@ -1,7 +1,9 @@
 ---
 name: Mascarimiri
+aliases:
+  - Mascarimiri
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

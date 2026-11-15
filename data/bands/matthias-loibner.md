@@ -1,7 +1,9 @@
 ---
 name: Matthias Loibner
+aliases:
+  - Matthias Loibner
 countries:
-  - austria
+  - "[[austria]]"
 instruments:
-  - hurdy-gurdy
+  - "[[hurdy-gurdy]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Turkish Gypsies
+aliases:
+  - Turkish Gypsies
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Cemil Kocgun
+aliases:
+  - Cemil Kocgun
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

@@ -1,5 +1,7 @@
 ---
 name: Mazal
+aliases:
+  - Mazal
 countries:
-  - france
+  - "[[france]]"
 ---

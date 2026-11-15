@@ -1,7 +1,9 @@
 ---
 name: Vanessa Da Mata
+aliases:
+  - Vanessa Da Mata
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

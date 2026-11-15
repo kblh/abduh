@@ -1,7 +1,9 @@
 ---
 name: Nicolas Krassik
+aliases:
+  - Nicolas Krassik
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

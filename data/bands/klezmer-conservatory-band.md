@@ -1,7 +1,9 @@
 ---
 name: Klezmer Conservatory Band
+aliases:
+  - Klezmer Conservatory Band
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

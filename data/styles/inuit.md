@@ -1,3 +1,5 @@
 ---
 name: inuit
+aliases:
+  - inuit
 ---

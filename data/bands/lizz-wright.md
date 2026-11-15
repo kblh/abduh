@@ -1,9 +1,11 @@
 ---
 name: Lizz Wright
+aliases:
+  - Lizz Wright
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - blues
+  - "[[blues]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Kiosk
+aliases:
+  - Kiosk
 countries:
-  - iran
-  - usa
+  - "[[iran]]"
+  - "[[usa]]"
 styles:
-  - diaspora
+  - "[[diaspora]]"
 ---

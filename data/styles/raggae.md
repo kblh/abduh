@@ -1,3 +1,5 @@
 ---
 name: raggae
+aliases:
+  - raggae
 ---

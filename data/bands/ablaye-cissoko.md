@@ -1,7 +1,9 @@
 ---
 name: Ablaye Cissoko
+aliases:
+  - Ablaye Cissoko
 countries:
-  - senegal
+  - "[[senegal]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

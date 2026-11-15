@@ -1,3 +1,5 @@
 ---
 name: tabla
+aliases:
+  - tabla
 ---

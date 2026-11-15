@@ -1,7 +1,9 @@
 ---
 name: Makan Badje Tounkara
+aliases:
+  - Makan Badje Tounkara
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - ngoni
+  - "[[ngoni]]"
 ---

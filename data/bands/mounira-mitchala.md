@@ -1,7 +1,9 @@
 ---
 name: Mounira Mitchala
+aliases:
+  - Mounira Mitchala
 countries:
-  - chad
+  - "[[chad]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Ballake Sissoko
+aliases:
+  - Ballake Sissoko
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Salome MC
+aliases:
+  - Salome MC
 countries:
-  - iran
+  - "[[iran]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Tom Diakite
+aliases:
+  - Tom Diakite
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - kamele-ngoni
+  - "[[kamele-ngoni]]"
 ---

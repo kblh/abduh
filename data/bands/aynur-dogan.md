@@ -1,8 +1,10 @@
 ---
 name: Aynur Dogan
+aliases:
+  - Aynur Dogan
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

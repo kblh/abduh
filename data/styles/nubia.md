@@ -1,3 +1,5 @@
 ---
 name: nubia
+aliases:
+  - nubia
 ---

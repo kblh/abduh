@@ -1,7 +1,9 @@
 ---
 name: Karol Conka
+aliases:
+  - Karol Conka
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

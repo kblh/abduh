@@ -1,3 +1,5 @@
 ---
 name: kalimba
+aliases:
+  - kalimba
 ---

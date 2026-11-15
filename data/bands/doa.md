@@ -1,5 +1,7 @@
 ---
 name: Doa
+aliases:
+  - Doa
 countries:
-  - spain
+  - "[[spain]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Issa Bagayogo
+aliases:
+  - Issa Bagayogo
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - wassalou
+  - "[[wassalou]]"
 ---

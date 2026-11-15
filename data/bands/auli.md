@@ -1,5 +1,7 @@
 ---
 name: Auli
+aliases:
+  - Auli
 countries:
-  - latvia-lotyssko
+  - "[[latvia-lotyssko]]"
 ---

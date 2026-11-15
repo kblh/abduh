@@ -1,7 +1,9 @@
 ---
 name: Ernestine Deane
+aliases:
+  - Ernestine Deane
 countries:
-  - south-africa
+  - "[[south-africa]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

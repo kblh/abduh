@@ -1,7 +1,9 @@
 ---
 name: Ceu
+aliases:
+  - Ceu
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

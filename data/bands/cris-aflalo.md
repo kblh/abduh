@@ -1,7 +1,9 @@
 ---
 name: Cris Aflalo
+aliases:
+  - Cris Aflalo
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

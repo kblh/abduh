@@ -1,8 +1,10 @@
 ---
 name: Aynur
+aliases:
+  - Aynur
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

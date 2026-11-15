@@ -1,3 +1,5 @@
 ---
 name: farsi
+aliases:
+  - farsi
 ---

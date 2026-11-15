@@ -1,7 +1,9 @@
 ---
 name: Banda La Costena
+aliases:
+  - Banda La Costena
 countries:
-  - mexico
+  - "[[mexico]]"
 styles:
-  - brass
+  - "[[brass]]"
 ---

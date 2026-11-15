@@ -1,8 +1,10 @@
 ---
 name: Dolapdere Big Gang
+aliases:
+  - Dolapdere Big Gang
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Okay Temiz & Oriental Wind & The Karnataka College of Percussion
+aliases:
+  - Okay Temiz & Oriental Wind & The Karnataka College of Percussion
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Zuco 103
+aliases:
+  - Zuco 103
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: MCK
+aliases:
+  - MCK
 countries:
-  - angola
+  - "[[angola]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

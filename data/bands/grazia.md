@@ -1,8 +1,10 @@
 ---
 name: Grazia
+aliases:
+  - Grazia
 countries:
-  - israel
-  - turkey
+  - "[[israel]]"
+  - "[[turkey]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

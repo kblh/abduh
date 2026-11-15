@@ -1,9 +1,11 @@
 ---
 name: Andrea Marquee
+aliases:
+  - Andrea Marquee
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - samba
+  - "[[samba]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

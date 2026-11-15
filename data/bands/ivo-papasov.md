@@ -1,10 +1,12 @@
 ---
 name: Ivo Papasov
+aliases:
+  - Ivo Papasov
 countries:
-  - bulgaria
-  - turkey
+  - "[[bulgaria]]"
+  - "[[turkey]]"
 styles:
-  - gipsy
+  - "[[gipsy]]"
 instruments:
-  - clarinet
+  - "[[clarinet]]"
 ---

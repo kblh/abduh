@@ -1,7 +1,9 @@
 ---
 name: Rajery
+aliases:
+  - Rajery
 countries:
-  - madagascar
+  - "[[madagascar]]"
 styles:
-  - valiha
+  - "[[valiha]]"
 ---

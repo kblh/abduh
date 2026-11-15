@@ -1,7 +1,9 @@
 ---
 name: Bustan Abraham
+aliases:
+  - Bustan Abraham
 countries:
-  - israel
+  - "[[israel]]"
 tags:
-  - politic
+  - "[[politic]]"
 ---

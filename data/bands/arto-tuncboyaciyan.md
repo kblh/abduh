@@ -1,9 +1,11 @@
 ---
 name: Arto Tuncboyaciyan
+aliases:
+  - Arto Tuncboyaciyan
 countries:
-  - armenia
-  - turkey
+  - "[[armenia]]"
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

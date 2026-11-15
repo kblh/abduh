@@ -1,9 +1,11 @@
 ---
 name: Aline Lessa
+aliases:
+  - Aline Lessa
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

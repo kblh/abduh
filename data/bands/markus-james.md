@@ -1,8 +1,10 @@
 ---
 name: Markus James
+aliases:
+  - Markus James
 countries:
-  - mali
-  - usa
+  - "[[mali]]"
+  - "[[usa]]"
 styles:
-  - fusion
+  - "[[fusion]]"
 ---

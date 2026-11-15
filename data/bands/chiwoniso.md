@@ -1,7 +1,9 @@
 ---
 name: Chiwoniso
+aliases:
+  - Chiwoniso
 countries:
-  - zimbabwe
+  - "[[zimbabwe]]"
 instruments:
-  - mbira
+  - "[[mbira]]"
 ---

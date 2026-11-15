@@ -1,7 +1,9 @@
 ---
 name: Daniel Waro
+aliases:
+  - Daniel Waro
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 styles:
-  - maloya
+  - "[[maloya]]"
 ---

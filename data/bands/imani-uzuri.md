@@ -1,9 +1,11 @@
 ---
 name: Imani Uzuri
+aliases:
+  - Imani Uzuri
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - blues
+  - "[[blues]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

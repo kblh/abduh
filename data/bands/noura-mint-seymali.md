@@ -1,9 +1,11 @@
 ---
 name: Noura Mint Seymali
+aliases:
+  - Noura Mint Seymali
 countries:
-  - mauritania
+  - "[[mauritania]]"
 instruments:
-  - ardin
+  - "[[ardin]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

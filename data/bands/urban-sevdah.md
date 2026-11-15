@@ -1,7 +1,9 @@
 ---
 name: Urban Sevdah
+aliases:
+  - Urban Sevdah
 countries:
-  - bosnia
+  - "[[bosnia]]"
 styles:
-  - sevdah
+  - "[[sevdah]]"
 ---

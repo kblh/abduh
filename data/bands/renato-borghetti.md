@@ -1,7 +1,9 @@
 ---
 name: Renato Borghetti
+aliases:
+  - Renato Borghetti
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

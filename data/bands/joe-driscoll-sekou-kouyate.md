@@ -1,9 +1,11 @@
 ---
 name: Joe Driscoll & Sekou Kouyate
+aliases:
+  - Joe Driscoll & Sekou Kouyate
 countries:
-  - guinea
+  - "[[guinea]]"
 styles:
-  - rap
+  - "[[rap]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

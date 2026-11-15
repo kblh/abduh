@@ -1,7 +1,9 @@
 ---
 name: Silverio Pessoa
+aliases:
+  - Silverio Pessoa
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

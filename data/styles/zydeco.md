@@ -1,3 +1,5 @@
 ---
 name: zydeco
+aliases:
+  - zydeco
 ---

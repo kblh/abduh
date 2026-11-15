@@ -1,8 +1,10 @@
 ---
 name: Cem Yildiz
+aliases:
+  - Cem Yildiz
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

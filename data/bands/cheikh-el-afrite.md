@@ -1,7 +1,9 @@
 ---
 name: Cheikh El Afrite
+aliases:
+  - Cheikh El Afrite
 countries:
-  - tunisia
+  - "[[tunisia]]"
 instruments:
-  - oud
+  - "[[oud]]"
 ---

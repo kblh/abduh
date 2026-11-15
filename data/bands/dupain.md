@@ -1,5 +1,7 @@
 ---
 name: Dupain
+aliases:
+  - Dupain
 countries:
-  - france
+  - "[[france]]"
 ---

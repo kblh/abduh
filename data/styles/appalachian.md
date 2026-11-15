@@ -1,3 +1,5 @@
 ---
 name: appalachian
+aliases:
+  - appalachian
 ---

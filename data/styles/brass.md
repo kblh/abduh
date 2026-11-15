@@ -1,3 +1,5 @@
 ---
 name: brass
+aliases:
+  - brass
 ---

@@ -1,8 +1,10 @@
 ---
 name: Pedro Kouyate
+aliases:
+  - Pedro Kouyate
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - guitar
-  - kamele-ngoni
+  - "[[guitar]]"
+  - "[[kamele-ngoni]]"
 ---

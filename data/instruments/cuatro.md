@@ -1,3 +1,5 @@
 ---
 name: cuatro
+aliases:
+  - cuatro
 ---

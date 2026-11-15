@@ -1,9 +1,11 @@
 ---
 name: 16 Horsepower
+aliases:
+  - 16 Horsepower
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
 ---

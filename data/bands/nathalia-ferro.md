@@ -1,7 +1,9 @@
 ---
 name: Nathalia Ferro
+aliases:
+  - Nathalia Ferro
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

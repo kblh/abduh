@@ -1,7 +1,9 @@
 ---
 name: Thiago Correa
+aliases:
+  - Thiago Correa
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

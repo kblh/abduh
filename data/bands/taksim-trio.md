@@ -1,8 +1,10 @@
 ---
 name: Taksim Trio
+aliases:
+  - Taksim Trio
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

@@ -1,3 +1,5 @@
 ---
 name: pizzica
+aliases:
+  - pizzica
 ---

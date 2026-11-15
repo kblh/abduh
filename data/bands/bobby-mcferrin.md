@@ -1,7 +1,9 @@
 ---
 name: Bobby McFerrin
+aliases:
+  - Bobby McFerrin
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

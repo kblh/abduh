@@ -1,7 +1,9 @@
 ---
 name: Milagro Acustico
+aliases:
+  - Milagro Acustico
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

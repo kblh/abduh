@@ -1,7 +1,9 @@
 ---
 name: Luisa Maita
+aliases:
+  - Luisa Maita
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

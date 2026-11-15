@@ -1,8 +1,10 @@
 ---
 name: Okay Temiz
+aliases:
+  - Okay Temiz
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

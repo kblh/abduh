@@ -1,7 +1,9 @@
 ---
 name: Rodrigo Miguez
+aliases:
+  - Rodrigo Miguez
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

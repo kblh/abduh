@@ -1,7 +1,9 @@
 ---
 name: Katia B
+aliases:
+  - Katia B
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

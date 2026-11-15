@@ -1,7 +1,9 @@
 ---
 name: Maria Rita
+aliases:
+  - Maria Rita
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

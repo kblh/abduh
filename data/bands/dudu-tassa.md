@@ -1,8 +1,10 @@
 ---
 name: Dudu Tassa
+aliases:
+  - Dudu Tassa
 countries:
-  - israel
-  - iraq
+  - "[[israel]]"
+  - "[[iraq]]"
 tags:
-  - politic
+  - "[[politic]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Tulipa Ruiz
+aliases:
+  - Tulipa Ruiz
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,9 +1,11 @@
 ---
 name: Kabreet
+aliases:
+  - Kabreet
 countries:
-  - yemen
+  - "[[yemen]]"
 styles:
-  - duo
-  - electronic
-  - berlin
+  - "[[duo]]"
+  - "[[electronic]]"
+  - "[[berlin]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Ezza
+aliases:
+  - Ezza
 countries:
-  - niger
+  - "[[niger]]"
 styles:
-  - tuareg
+  - "[[tuareg]]"
 ---

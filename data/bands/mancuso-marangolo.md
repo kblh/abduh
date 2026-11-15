@@ -1,7 +1,9 @@
 ---
 name: Mancuso Marangolo
+aliases:
+  - Mancuso Marangolo
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

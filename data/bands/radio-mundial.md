@@ -1,7 +1,9 @@
 ---
 name: Radio Mundial
+aliases:
+  - Radio Mundial
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - latin
+  - "[[latin]]"
 ---

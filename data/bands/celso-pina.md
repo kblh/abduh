@@ -1,7 +1,9 @@
 ---
 name: Celso Pina
+aliases:
+  - Celso Pina
 countries:
-  - mexico
+  - "[[mexico]]"
 styles:
-  - cumbia
+  - "[[cumbia]]"
 ---

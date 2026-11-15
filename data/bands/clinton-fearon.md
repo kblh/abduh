@@ -1,7 +1,9 @@
 ---
 name: Clinton Fearon
+aliases:
+  - Clinton Fearon
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 ---

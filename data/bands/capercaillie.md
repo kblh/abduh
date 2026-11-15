@@ -1,6 +1,8 @@
 ---
 name: Capercaillie
+aliases:
+  - Capercaillie
 countries:
-  - united-kingdom
-  - ireland
+  - "[[united-kingdom]]"
+  - "[[ireland]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Ze Manoel
+aliases:
+  - Ze Manoel
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,3 +1,5 @@
 ---
 name: harmonica
+aliases:
+  - harmonica
 ---

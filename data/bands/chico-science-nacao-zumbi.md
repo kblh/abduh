@@ -1,9 +1,11 @@
 ---
 name: Chico Science & Nacao Zumbi
+aliases:
+  - Chico Science & Nacao Zumbi
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - manguebit
+  - "[[manguebit]]"
 tags:
-  - pernambuco
+  - "[[pernambuco]]"
 ---

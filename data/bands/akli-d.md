@@ -1,8 +1,10 @@
 ---
 name: Akli D
+aliases:
+  - Akli D
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - berber
-  - gnawa
+  - "[[berber]]"
+  - "[[gnawa]]"
 ---

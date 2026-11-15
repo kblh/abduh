@@ -1,7 +1,9 @@
 ---
 name: Shtreiml
+aliases:
+  - Shtreiml
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

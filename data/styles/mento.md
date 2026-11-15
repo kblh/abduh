@@ -1,3 +1,5 @@
 ---
 name: mento
+aliases:
+  - mento
 ---

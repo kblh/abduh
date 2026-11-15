@@ -1,7 +1,9 @@
 ---
 name: Manu Dibango
+aliases:
+  - Manu Dibango
 countries:
-  - cameroon
+  - "[[cameroon]]"
 instruments:
-  - sax
+  - "[[sax]]"
 ---

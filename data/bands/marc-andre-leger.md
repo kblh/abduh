@@ -1,7 +1,9 @@
 ---
 name: Marc-Andre Leger
+aliases:
+  - Marc-Andre Leger
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - blues
+  - "[[blues]]"
 ---

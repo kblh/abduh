@@ -1,7 +1,9 @@
 ---
 name: Karina Buhr
+aliases:
+  - Karina Buhr
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

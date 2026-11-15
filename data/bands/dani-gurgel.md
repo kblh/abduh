@@ -1,7 +1,9 @@
 ---
 name: Dani Gurgel
+aliases:
+  - Dani Gurgel
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

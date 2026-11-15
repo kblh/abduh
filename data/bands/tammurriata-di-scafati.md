@@ -1,7 +1,9 @@
 ---
 name: Tammurriata di Scafati
+aliases:
+  - Tammurriata di Scafati
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

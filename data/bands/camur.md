@@ -1,8 +1,10 @@
 ---
 name: Camur
+aliases:
+  - Camur
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

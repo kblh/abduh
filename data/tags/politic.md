@@ -1,3 +1,5 @@
 ---
 name: politic
+aliases:
+  - politic
 ---

@@ -1,7 +1,9 @@
 ---
 name: Yale Strom
+aliases:
+  - Yale Strom
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

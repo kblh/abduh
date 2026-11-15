@@ -1,5 +1,7 @@
 ---
 name: Terrafolk
+aliases:
+  - Terrafolk
 countries:
-  - slovenia
+  - "[[slovenia]]"
 ---

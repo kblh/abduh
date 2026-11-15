@@ -1,5 +1,7 @@
 ---
 name: Madera
+aliases:
+  - Madera
 countries:
-  - czech
+  - "[[czech]]"
 ---

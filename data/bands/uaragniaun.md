@@ -1,7 +1,9 @@
 ---
 name: Uaragniaun
+aliases:
+  - Uaragniaun
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

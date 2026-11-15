@@ -1,7 +1,9 @@
 ---
 name: The Apples
+aliases:
+  - The Apples
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

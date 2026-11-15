@@ -1,7 +1,9 @@
 ---
 name: Toy Vivo Duo
+aliases:
+  - Toy Vivo Duo
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

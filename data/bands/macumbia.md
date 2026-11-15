@@ -1,7 +1,9 @@
 ---
 name: Macumbia
+aliases:
+  - Macumbia
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

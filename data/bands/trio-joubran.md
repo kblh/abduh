@@ -1,7 +1,9 @@
 ---
 name: Trio Joubran
+aliases:
+  - Trio Joubran
 countries:
-  - israel
+  - "[[israel]]"
 instruments:
-  - oud
+  - "[[oud]]"
 ---

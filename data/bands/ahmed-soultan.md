@@ -1,7 +1,9 @@
 ---
 name: Ahmed Soultan
+aliases:
+  - Ahmed Soultan
 countries:
-  - morocco
+  - "[[morocco]]"
 styles:
-  - nayda
+  - "[[nayda]]"
 ---

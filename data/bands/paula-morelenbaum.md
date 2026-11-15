@@ -1,7 +1,9 @@
 ---
 name: Paula Morelenbaum
+aliases:
+  - Paula Morelenbaum
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: King Ayisoba
+aliases:
+  - King Ayisoba
 countries:
-  - ghana
+  - "[[ghana]]"
 instruments:
-  - kologo
+  - "[[kologo]]"
 ---

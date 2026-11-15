@@ -1,7 +1,9 @@
 ---
 name: Sons of Kemet
+aliases:
+  - Sons of Kemet
 countries:
-  - united-kingdom
+  - "[[united-kingdom]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

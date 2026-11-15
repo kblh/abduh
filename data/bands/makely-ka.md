@@ -1,7 +1,9 @@
 ---
 name: Makely Ka
+aliases:
+  - Makely Ka
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

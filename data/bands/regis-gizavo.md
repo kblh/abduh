@@ -1,7 +1,9 @@
 ---
 name: Regis Gizavo
+aliases:
+  - Regis Gizavo
 countries:
-  - madagascar
+  - "[[madagascar]]"
 instruments:
-  - accordion
+  - "[[accordion]]"
 ---

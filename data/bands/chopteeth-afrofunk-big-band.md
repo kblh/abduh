@@ -1,7 +1,9 @@
 ---
 name: Chopteeth Afrofunk Big Band
+aliases:
+  - Chopteeth Afrofunk Big Band
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

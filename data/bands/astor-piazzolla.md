@@ -1,7 +1,9 @@
 ---
 name: Astor Piazzolla
+aliases:
+  - Astor Piazzolla
 countries:
-  - argentina
+  - "[[argentina]]"
 styles:
-  - tango
+  - "[[tango]]"
 ---

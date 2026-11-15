@@ -1,3 +1,5 @@
 ---
 name: bluegrass
+aliases:
+  - bluegrass
 ---

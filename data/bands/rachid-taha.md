@@ -1,7 +1,9 @@
 ---
 name: Rachid Taha
+aliases:
+  - Rachid Taha
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - rai
+  - "[[rai]]"
 ---

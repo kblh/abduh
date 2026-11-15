@@ -1,7 +1,9 @@
 ---
 name: Lucilla Galeazzi
+aliases:
+  - Lucilla Galeazzi
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

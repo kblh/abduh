@@ -1,7 +1,9 @@
 ---
 name: Taj Mahal
+aliases:
+  - Taj Mahal
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - blues
+  - "[[blues]]"
 ---

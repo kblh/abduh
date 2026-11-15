@@ -1,3 +1,5 @@
 ---
 name: oud
+aliases:
+  - oud
 ---

@@ -1,8 +1,10 @@
 ---
 name: Devil Doll
+aliases:
+  - Devil Doll
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - blues
-  - rockabilly
+  - "[[blues]]"
+  - "[[rockabilly]]"
 ---

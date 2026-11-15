@@ -1,7 +1,9 @@
 ---
 name: Samuel Yirga
+aliases:
+  - Samuel Yirga
 countries:
-  - ethiopia
+  - "[[ethiopia]]"
 instruments:
-  - piano
+  - "[[piano]]"
 ---

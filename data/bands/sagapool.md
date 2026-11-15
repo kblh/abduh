@@ -1,7 +1,9 @@
 ---
 name: Sagapool
+aliases:
+  - Sagapool
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - quebec
+  - "[[quebec]]"
 ---

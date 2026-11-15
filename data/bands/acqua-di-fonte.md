@@ -1,7 +1,9 @@
 ---
 name: Acqua di fonte
+aliases:
+  - Acqua di fonte
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

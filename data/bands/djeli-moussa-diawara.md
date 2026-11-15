@@ -1,7 +1,9 @@
 ---
 name: Djeli Moussa Diawara
+aliases:
+  - Djeli Moussa Diawara
 countries:
-  - guinea
+  - "[[guinea]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

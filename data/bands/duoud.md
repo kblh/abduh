@@ -1,7 +1,9 @@
 ---
 name: Duoud
+aliases:
+  - Duoud
 countries:
-  - tunisia
+  - "[[tunisia]]"
 instruments:
-  - oud
+  - "[[oud]]"
 ---

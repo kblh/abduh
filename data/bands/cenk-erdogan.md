@@ -1,8 +1,10 @@
 ---
 name: Cenk Erdogan
+aliases:
+  - Cenk Erdogan
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

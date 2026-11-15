@@ -51,3 +51,8 @@ test('buildData sets added only for entities in the map', () => {
   assert.equal(buildData([country, b], new Map([['bands/x', '2026-11-01']])).bands[0].added, '2026-11-01');
   assert.equal('added' in buildData([country, b]).bands[0], false);
 });
+
+test('same id in two different types is an error (wikilinks resolve by file name)', () => {
+  const errs = validate([country, { type: 'tag', id: 'cuba', fields: { name: 'cuba' }, body: '' }]);
+  assert.match(errs.join('\n'), /cuba.*country.*tag|cuba.*tag.*country/);
+});

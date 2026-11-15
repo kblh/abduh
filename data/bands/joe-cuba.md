@@ -1,7 +1,9 @@
 ---
 name: Joe Cuba
+aliases:
+  - Joe Cuba
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - boogaloo
+  - "[[boogaloo]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Cengiz Onural
+aliases:
+  - Cengiz Onural
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

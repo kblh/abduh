@@ -1,9 +1,11 @@
 ---
 name: Calle 13
+aliases:
+  - Calle 13
 countries:
-  - puerto-rico
+  - "[[puerto-rico]]"
 styles:
-  - rap
+  - "[[rap]]"
 members:
   - Residente
 ---

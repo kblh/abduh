@@ -1,8 +1,10 @@
 ---
 name: Rojda
+aliases:
+  - Rojda
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

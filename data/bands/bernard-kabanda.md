@@ -1,7 +1,9 @@
 ---
 name: Bernard Kabanda
+aliases:
+  - Bernard Kabanda
 countries:
-  - uganda
+  - "[[uganda]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

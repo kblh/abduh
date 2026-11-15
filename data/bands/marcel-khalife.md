@@ -1,7 +1,9 @@
 ---
 name: Marcel Khalife
+aliases:
+  - Marcel Khalife
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

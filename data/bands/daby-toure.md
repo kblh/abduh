@@ -1,8 +1,10 @@
 ---
 name: Daby Toure
+aliases:
+  - Daby Toure
 countries:
-  - mauritania
-  - senegal
+  - "[[mauritania]]"
+  - "[[senegal]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

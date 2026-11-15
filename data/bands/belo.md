@@ -1,5 +1,7 @@
 ---
 name: BelO
+aliases:
+  - BelO
 countries:
-  - haiti
+  - "[[haiti]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Esra Dalfidan
+aliases:
+  - Esra Dalfidan
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

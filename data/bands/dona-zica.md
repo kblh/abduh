@@ -1,7 +1,9 @@
 ---
 name: Dona Zica
+aliases:
+  - Dona Zica
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,5 +1,7 @@
 ---
 name: Nomada
+aliases:
+  - Nomada
 countries:
-  - hungary
+  - "[[hungary]]"
 ---

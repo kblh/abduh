@@ -1,5 +1,7 @@
 ---
 name: Svanevit
+aliases:
+  - Svanevit
 countries:
-  - sweden
+  - "[[sweden]]"
 ---

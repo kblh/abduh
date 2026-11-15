@@ -1,7 +1,9 @@
 ---
 name: Flavia Coelho
+aliases:
+  - Flavia Coelho
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

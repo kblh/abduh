@@ -1,3 +1,5 @@
 ---
 name: creole
+aliases:
+  - creole
 ---

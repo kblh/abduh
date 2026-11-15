@@ -1,7 +1,9 @@
 ---
 name: KV Express
+aliases:
+  - KV Express
 countries:
-  - belgium
+  - "[[belgium]]"
 instruments:
-  - accordion
+  - "[[accordion]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Moussa Diallo
+aliases:
+  - Moussa Diallo
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - bass
+  - "[[bass]]"
 ---

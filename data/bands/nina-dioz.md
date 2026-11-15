@@ -1,9 +1,11 @@
 ---
 name: Nina Dioz
+aliases:
+  - Nina Dioz
 countries:
-  - mexico
+  - "[[mexico]]"
 styles:
-  - rap
+  - "[[rap]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

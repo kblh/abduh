@@ -1,7 +1,9 @@
 ---
 name: Marie-Jo Therio
+aliases:
+  - Marie-Jo Therio
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - blues
+  - "[[blues]]"
 ---

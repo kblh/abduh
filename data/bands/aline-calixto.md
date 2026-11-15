@@ -1,9 +1,11 @@
 ---
 name: Aline Calixto
+aliases:
+  - Aline Calixto
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - samba
+  - "[[samba]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

@@ -1,5 +1,7 @@
 ---
 name: Bebe
+aliases:
+  - Bebe
 countries:
-  - spain
+  - "[[spain]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Angelite
+aliases:
+  - Angelite
 countries:
-  - bulgaria
+  - "[[bulgaria]]"
 styles:
-  - a-capella
+  - "[[a-capella]]"
 ---

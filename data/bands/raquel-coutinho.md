@@ -1,7 +1,9 @@
 ---
 name: Raquel Coutinho
+aliases:
+  - Raquel Coutinho
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

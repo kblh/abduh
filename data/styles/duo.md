@@ -1,3 +1,5 @@
 ---
 name: duo
+aliases:
+  - duo
 ---

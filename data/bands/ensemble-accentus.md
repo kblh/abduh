@@ -1,7 +1,9 @@
 ---
 name: Ensemble Accentus
+aliases:
+  - Ensemble Accentus
 countries:
-  - austria
+  - "[[austria]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

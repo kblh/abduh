@@ -1,3 +1,5 @@
 ---
 name: maloya
+aliases:
+  - maloya
 ---

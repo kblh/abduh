@@ -1,7 +1,9 @@
 ---
 name: Teresa Cristina
+aliases:
+  - Teresa Cristina
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Debka Fantasia
+aliases:
+  - Debka Fantasia
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

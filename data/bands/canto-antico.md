@@ -1,7 +1,9 @@
 ---
 name: Canto Antico
+aliases:
+  - Canto Antico
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

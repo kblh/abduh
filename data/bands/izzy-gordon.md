@@ -1,7 +1,9 @@
 ---
 name: Izzy Gordon
+aliases:
+  - Izzy Gordon
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

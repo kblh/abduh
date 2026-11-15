@@ -1,10 +1,12 @@
 ---
 name: Niyaz
+aliases:
+  - Niyaz
 countries:
-  - iran
-  - canada
+  - "[[iran]]"
+  - "[[canada]]"
 styles:
-  - diaspora
+  - "[[diaspora]]"
 members:
   - Azam Ali
   - Loga Ramin Torkian

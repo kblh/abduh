@@ -1,7 +1,9 @@
 ---
 name: Shujaat Husain Khan
+aliases:
+  - Shujaat Husain Khan
 countries:
-  - india
+  - "[[india]]"
 instruments:
-  - sitar
+  - "[[sitar]]"
 ---

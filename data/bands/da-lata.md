@@ -1,7 +1,9 @@
 ---
 name: Da Lata
+aliases:
+  - Da Lata
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

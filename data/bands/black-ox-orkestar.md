@@ -1,7 +1,9 @@
 ---
 name: Black Ox Orkestar
+aliases:
+  - Black Ox Orkestar
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

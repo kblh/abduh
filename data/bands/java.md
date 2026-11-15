@@ -1,5 +1,7 @@
 ---
 name: Java
+aliases:
+  - Java
 countries:
-  - france
+  - "[[france]]"
 ---

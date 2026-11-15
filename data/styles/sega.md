@@ -1,3 +1,5 @@
 ---
 name: sega
+aliases:
+  - sega
 ---

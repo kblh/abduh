@@ -1,9 +1,11 @@
 ---
 name: Simphiwe Dana
+aliases:
+  - Simphiwe Dana
 countries:
-  - south-africa
+  - "[[south-africa]]"
 styles:
-  - xhosa
+  - "[[xhosa]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

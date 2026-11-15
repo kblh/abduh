@@ -1,7 +1,9 @@
 ---
 name: Carlos Gardel
+aliases:
+  - Carlos Gardel
 countries:
-  - argentina
+  - "[[argentina]]"
 styles:
-  - tango
+  - "[[tango]]"
 ---

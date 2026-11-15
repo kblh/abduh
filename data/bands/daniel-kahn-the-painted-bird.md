@@ -1,7 +1,9 @@
 ---
 name: Daniel Kahn & The Painted Bird
+aliases:
+  - Daniel Kahn & The Painted Bird
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

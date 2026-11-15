@@ -1,8 +1,10 @@
 ---
 name: Orphaned Land
+aliases:
+  - Orphaned Land
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
-  - rock
+  - "[[sephardic]]"
+  - "[[rock]]"
 ---

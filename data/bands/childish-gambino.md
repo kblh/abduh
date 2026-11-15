@@ -1,7 +1,9 @@
 ---
 name: Childish Gambino
+aliases:
+  - Childish Gambino
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - folk
+  - "[[folk]]"
 ---

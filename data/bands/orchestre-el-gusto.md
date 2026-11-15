@@ -1,7 +1,9 @@
 ---
 name: Orchestre El Gusto
+aliases:
+  - Orchestre El Gusto
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - chaabi
+  - "[[chaabi]]"
 ---

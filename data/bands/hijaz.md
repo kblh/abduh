@@ -1,7 +1,9 @@
 ---
 name: Hijaz
+aliases:
+  - Hijaz
 countries:
-  - belgium
+  - "[[belgium]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

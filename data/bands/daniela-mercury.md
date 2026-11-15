@@ -1,7 +1,9 @@
 ---
 name: Daniela Mercury
+aliases:
+  - Daniela Mercury
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

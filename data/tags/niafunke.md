@@ -1,3 +1,5 @@
 ---
 name: niafunke
+aliases:
+  - niafunke
 ---

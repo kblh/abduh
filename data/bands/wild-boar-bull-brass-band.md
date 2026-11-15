@@ -1,7 +1,9 @@
 ---
 name: Wild Boar & Bull Brass Band
+aliases:
+  - Wild Boar & Bull Brass Band
 countries:
-  - belgium
+  - "[[belgium]]"
 styles:
-  - brass
+  - "[[brass]]"
 ---

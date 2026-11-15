@@ -1,8 +1,10 @@
 ---
 name: Lalezar
+aliases:
+  - Lalezar
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

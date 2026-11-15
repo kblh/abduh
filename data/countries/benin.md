@@ -1,5 +1,7 @@
 ---
 name: Benin
+aliases:
+  - Benin
 continent: africa
 flag: 🇧🇯
 ---

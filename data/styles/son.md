@@ -1,3 +1,5 @@
 ---
 name: son
+aliases:
+  - son
 ---

@@ -1,3 +1,5 @@
 ---
 name: bass
+aliases:
+  - bass
 ---

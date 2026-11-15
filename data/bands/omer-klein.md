@@ -1,9 +1,11 @@
 ---
 name: Omer Klein
+aliases:
+  - Omer Klein
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - piano
+  - "[[piano]]"
 ---

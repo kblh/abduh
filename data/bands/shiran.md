@@ -1,8 +1,10 @@
 ---
 name: SHIRAN
+aliases:
+  - SHIRAN
 countries:
-  - israel
-  - yemen
+  - "[[israel]]"
+  - "[[yemen]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

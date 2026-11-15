@@ -1,5 +1,7 @@
 ---
 name: Italy
+aliases:
+  - Italy
 continent: europe
 flag: 🇮🇹
 ---

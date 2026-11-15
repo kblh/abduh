@@ -1,9 +1,11 @@
 ---
 name: Bombino
+aliases:
+  - Bombino
 countries:
-  - niger
+  - "[[niger]]"
 styles:
-  - tuareg
+  - "[[tuareg]]"
 image: bands/bombino.avif
 image_source: https://rachot.cz/en/bombino-2/
 links:

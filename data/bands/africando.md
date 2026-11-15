@@ -1,7 +1,9 @@
 ---
 name: Africando
+aliases:
+  - Africando
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - latin
+  - "[[latin]]"
 ---

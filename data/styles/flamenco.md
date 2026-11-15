@@ -1,3 +1,5 @@
 ---
 name: flamenco
+aliases:
+  - flamenco
 ---

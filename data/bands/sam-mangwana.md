@@ -1,5 +1,7 @@
 ---
 name: Sam Mangwana
+aliases:
+  - Sam Mangwana
 countries:
-  - congo-democratic-republic-of-the-congo-zaire
+  - "[[congo-democratic-republic-of-the-congo-zaire]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Blind Note
+aliases:
+  - Blind Note
 countries:
-  - belgium
+  - "[[belgium]]"
 styles:
-  - fusion
+  - "[[fusion]]"
 ---

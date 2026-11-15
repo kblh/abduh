@@ -1,7 +1,9 @@
 ---
 name: Elo da Corrente
+aliases:
+  - Elo da Corrente
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

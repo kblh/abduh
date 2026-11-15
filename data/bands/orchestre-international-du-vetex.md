@@ -1,7 +1,9 @@
 ---
 name: Orchestre International Du Vetex
+aliases:
+  - Orchestre International Du Vetex
 countries:
-  - belgium
+  - "[[belgium]]"
 styles:
-  - brass
+  - "[[brass]]"
 ---

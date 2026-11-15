@@ -1,7 +1,9 @@
 ---
 name: Khaled
+aliases:
+  - Khaled
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - rai
+  - "[[rai]]"
 ---

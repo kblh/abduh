@@ -1,7 +1,9 @@
 ---
 name: Unnaddare
+aliases:
+  - Unnaddare
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

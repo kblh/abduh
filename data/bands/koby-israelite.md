@@ -1,7 +1,9 @@
 ---
 name: Koby Israelite
+aliases:
+  - Koby Israelite
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

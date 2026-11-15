@@ -1,7 +1,9 @@
 ---
 name: King Tubby
+aliases:
+  - King Tubby
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - dub
+  - "[[dub]]"
 ---

@@ -1,5 +1,7 @@
 ---
 name: Suna
+aliases:
+  - Suna
 countries:
-  - denmark
+  - "[[denmark]]"
 ---

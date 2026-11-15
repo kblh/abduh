@@ -1,8 +1,10 @@
 ---
 name: Engin Gurkey Nabiz
+aliases:
+  - Engin Gurkey Nabiz
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

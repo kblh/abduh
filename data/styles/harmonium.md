@@ -1,3 +1,5 @@
 ---
 name: harmonium
+aliases:
+  - harmonium
 ---

@@ -1,7 +1,9 @@
 ---
 name: Lucas Santtana
+aliases:
+  - Lucas Santtana
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

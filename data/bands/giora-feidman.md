@@ -1,7 +1,9 @@
 ---
 name: Giora Feidman
+aliases:
+  - Giora Feidman
 countries:
-  - argentina
+  - "[[argentina]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

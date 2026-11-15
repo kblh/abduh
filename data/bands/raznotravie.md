@@ -1,5 +1,7 @@
 ---
 name: Raznotravie
+aliases:
+  - Raznotravie
 countries:
-  - russia
+  - "[[russia]]"
 ---

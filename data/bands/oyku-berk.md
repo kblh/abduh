@@ -1,8 +1,10 @@
 ---
 name: Oyku & Berk
+aliases:
+  - Oyku & Berk
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

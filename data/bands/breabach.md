@@ -1,5 +1,7 @@
 ---
 name: Breabach
+aliases:
+  - Breabach
 countries:
-  - united-kingdom
+  - "[[united-kingdom]]"
 ---

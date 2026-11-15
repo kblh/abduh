@@ -1,7 +1,9 @@
 ---
 name: Piccola Banda Ikona
+aliases:
+  - Piccola Banda Ikona
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

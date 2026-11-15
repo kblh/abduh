@@ -1,7 +1,9 @@
 ---
 name: Riccardo Tesi
+aliases:
+  - Riccardo Tesi
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

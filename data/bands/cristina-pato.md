@@ -1,5 +1,7 @@
 ---
 name: Cristina Pato
+aliases:
+  - Cristina Pato
 countries:
-  - spain
+  - "[[spain]]"
 ---

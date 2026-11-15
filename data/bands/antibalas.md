@@ -1,7 +1,9 @@
 ---
 name: Antibalas
+aliases:
+  - Antibalas
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

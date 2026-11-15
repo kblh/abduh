@@ -1,7 +1,9 @@
 ---
 name: Fernanda Porto
+aliases:
+  - Fernanda Porto
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

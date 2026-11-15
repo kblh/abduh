@@ -1,8 +1,10 @@
 ---
 name: Cenk Bosnali & Bosna Ekspres
+aliases:
+  - Cenk Bosnali & Bosna Ekspres
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

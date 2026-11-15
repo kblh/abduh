@@ -1,9 +1,11 @@
 ---
 name: Khaira Arby
+aliases:
+  - Khaira Arby
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - songhai
+  - "[[songhai]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

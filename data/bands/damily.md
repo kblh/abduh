@@ -1,7 +1,9 @@
 ---
 name: Damily
+aliases:
+  - Damily
 countries:
-  - madagascar
+  - "[[madagascar]]"
 styles:
-  - tsapiky
+  - "[[tsapiky]]"
 ---

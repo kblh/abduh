@@ -1,9 +1,11 @@
 ---
 name: Avishai Cohen
+aliases:
+  - Avishai Cohen
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - bass
+  - "[[bass]]"
 ---

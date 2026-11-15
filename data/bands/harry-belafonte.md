@@ -1,7 +1,9 @@
 ---
 name: Harry Belafonte
+aliases:
+  - Harry Belafonte
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - calypso
+  - "[[calypso]]"
 ---

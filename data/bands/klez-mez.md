@@ -1,8 +1,10 @@
 ---
 name: Klez-mez
+aliases:
+  - Klez-mez
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

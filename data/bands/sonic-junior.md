@@ -1,7 +1,9 @@
 ---
 name: Sonic Junior
+aliases:
+  - Sonic Junior
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

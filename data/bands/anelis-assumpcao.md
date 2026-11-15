@@ -1,9 +1,11 @@
 ---
 name: Anelis Assumpcao
+aliases:
+  - Anelis Assumpcao
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

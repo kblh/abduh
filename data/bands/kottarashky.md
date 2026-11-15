@@ -1,7 +1,9 @@
 ---
 name: Kottarashky
+aliases:
+  - Kottarashky
 countries:
-  - bulgaria
+  - "[[bulgaria]]"
 styles:
-  - electronic
+  - "[[electronic]]"
 ---

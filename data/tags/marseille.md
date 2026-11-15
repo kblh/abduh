@@ -1,3 +1,5 @@
 ---
 name: marseille
+aliases:
+  - marseille
 ---

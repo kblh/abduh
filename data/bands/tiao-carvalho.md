@@ -1,7 +1,9 @@
 ---
 name: Tiao Carvalho
+aliases:
+  - Tiao Carvalho
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Las Cafeteras
+aliases:
+  - Las Cafeteras
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - latin
-  - son-jarocho
+  - "[[latin]]"
+  - "[[son-jarocho]]"
 ---

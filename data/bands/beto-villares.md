@@ -1,7 +1,9 @@
 ---
 name: Beto Villares
+aliases:
+  - Beto Villares
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

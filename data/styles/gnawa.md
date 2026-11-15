@@ -1,3 +1,5 @@
 ---
 name: gnawa
+aliases:
+  - gnawa
 ---

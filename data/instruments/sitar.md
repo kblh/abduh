@@ -1,3 +1,5 @@
 ---
 name: sitar
+aliases:
+  - sitar
 ---

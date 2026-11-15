@@ -1,8 +1,10 @@
 ---
 name: Rosalía Vila Tobella
+aliases:
+  - Rosalía Vila Tobella
 countries:
-  - spain
-  - catalonia
+  - "[[spain]]"
+  - "[[catalonia]]"
 styles:
-  - flamenco
+  - "[[flamenco]]"
 ---

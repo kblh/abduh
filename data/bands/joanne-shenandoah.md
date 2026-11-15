@@ -1,7 +1,9 @@
 ---
 name: Joanne Shenandoah
+aliases:
+  - Joanne Shenandoah
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - folk
+  - "[[folk]]"
 ---

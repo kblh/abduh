@@ -1,8 +1,10 @@
 ---
 name: Mor Karbasi
+aliases:
+  - Mor Karbasi
 countries:
-  - israel
-  - spain
+  - "[[israel]]"
+  - "[[spain]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

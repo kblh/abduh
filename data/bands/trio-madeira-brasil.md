@@ -1,7 +1,9 @@
 ---
 name: Trio Madeira Brasil
+aliases:
+  - Trio Madeira Brasil
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

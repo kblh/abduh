@@ -1,7 +1,9 @@
 ---
 name: Salif Keita
+aliases:
+  - Salif Keita
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - albino
+  - "[[albino]]"
 ---

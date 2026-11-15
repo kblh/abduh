@@ -1,7 +1,9 @@
 ---
 name: Ozomatli
+aliases:
+  - Ozomatli
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - latin
+  - "[[latin]]"
 ---

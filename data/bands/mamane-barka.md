@@ -1,7 +1,9 @@
 ---
 name: Mamane Barka
+aliases:
+  - Mamane Barka
 countries:
-  - niger
+  - "[[niger]]"
 instruments:
-  - biram
+  - "[[biram]]"
 ---

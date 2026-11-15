@@ -1,5 +1,7 @@
 ---
 name: Almasala
+aliases:
+  - Almasala
 countries:
-  - spain
+  - "[[spain]]"
 ---

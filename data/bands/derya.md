@@ -1,8 +1,10 @@
 ---
 name: Derya
+aliases:
+  - Derya
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

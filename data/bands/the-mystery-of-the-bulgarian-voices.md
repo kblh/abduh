@@ -1,7 +1,9 @@
 ---
 name: The Mystery of The Bulgarian Voices
+aliases:
+  - The Mystery of The Bulgarian Voices
 countries:
-  - bulgaria
+  - "[[bulgaria]]"
 styles:
-  - a-capella
+  - "[[a-capella]]"
 ---

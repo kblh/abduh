@@ -1,8 +1,10 @@
 ---
 name: Sachal Studios Orchestra
+aliases:
+  - Sachal Studios Orchestra
 countries:
-  - pakistan
+  - "[[pakistan]]"
 styles:
-  - jazz
-  - fusion
+  - "[[jazz]]"
+  - "[[fusion]]"
 ---

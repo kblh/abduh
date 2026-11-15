@@ -1,7 +1,9 @@
 ---
 name: Mammane Sani et son Orgue
+aliases:
+  - Mammane Sani et son Orgue
 countries:
-  - niger
+  - "[[niger]]"
 instruments:
-  - organ
+  - "[[organ]]"
 ---

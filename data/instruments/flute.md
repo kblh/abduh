@@ -1,3 +1,5 @@
 ---
 name: flute
+aliases:
+  - flute
 ---

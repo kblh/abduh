@@ -1,7 +1,9 @@
 ---
 name: Sourakata Koite
+aliases:
+  - Sourakata Koite
 countries:
-  - senegal
+  - "[[senegal]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

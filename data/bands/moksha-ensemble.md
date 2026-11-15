@@ -1,7 +1,9 @@
 ---
 name: Moksha Ensemble
+aliases:
+  - Moksha Ensemble
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

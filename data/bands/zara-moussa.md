@@ -1,7 +1,9 @@
 ---
 name: Zara Moussa
+aliases:
+  - Zara Moussa
 countries:
-  - niger
+  - "[[niger]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

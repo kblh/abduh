@@ -1,3 +1,5 @@
 ---
 name: kologo
+aliases:
+  - kologo
 ---

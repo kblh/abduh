@@ -1,5 +1,7 @@
 ---
 name: Blakkayo
+aliases:
+  - Blakkayo
 countries:
-  - mauritius
+  - "[[mauritius]]"
 ---

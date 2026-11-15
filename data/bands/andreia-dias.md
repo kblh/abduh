@@ -1,9 +1,11 @@
 ---
 name: Andreia Dias
+aliases:
+  - Andreia Dias
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

@@ -1,5 +1,7 @@
 ---
 name: Nathalie Natiembe
+aliases:
+  - Nathalie Natiembe
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 ---

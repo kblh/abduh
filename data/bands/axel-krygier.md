@@ -1,7 +1,9 @@
 ---
 name: Axel Krygier
+aliases:
+  - Axel Krygier
 countries:
-  - argentina
+  - "[[argentina]]"
 styles:
-  - cumbia
+  - "[[cumbia]]"
 ---

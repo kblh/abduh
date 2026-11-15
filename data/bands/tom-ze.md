@@ -1,7 +1,9 @@
 ---
 name: Tom Ze
+aliases:
+  - Tom Ze
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

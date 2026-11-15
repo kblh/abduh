@@ -1,5 +1,7 @@
 ---
 name: Valravn
+aliases:
+  - Valravn
 countries:
-  - denmark
+  - "[[denmark]]"
 ---

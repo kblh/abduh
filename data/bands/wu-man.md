@@ -1,7 +1,9 @@
 ---
 name: Wu Man
+aliases:
+  - Wu Man
 countries:
-  - china
+  - "[[china]]"
 instruments:
-  - pipa
+  - "[[pipa]]"
 ---

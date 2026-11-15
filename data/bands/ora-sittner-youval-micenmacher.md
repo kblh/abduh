@@ -1,8 +1,10 @@
 ---
 name: Ora Sittner & Youval Micenmacher
+aliases:
+  - Ora Sittner & Youval Micenmacher
 countries:
-  - israel
-  - yemen
+  - "[[israel]]"
+  - "[[yemen]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

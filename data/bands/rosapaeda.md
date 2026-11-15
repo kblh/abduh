@@ -1,7 +1,9 @@
 ---
 name: Rosapaeda
+aliases:
+  - Rosapaeda
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

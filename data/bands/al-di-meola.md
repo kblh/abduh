@@ -1,7 +1,9 @@
 ---
 name: Al Di Meola
+aliases:
+  - Al Di Meola
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

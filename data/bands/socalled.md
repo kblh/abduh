@@ -1,7 +1,9 @@
 ---
 name: Socalled
+aliases:
+  - Socalled
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

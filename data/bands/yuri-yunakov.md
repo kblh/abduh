@@ -1,10 +1,12 @@
 ---
 name: Yuri Yunakov
+aliases:
+  - Yuri Yunakov
 countries:
-  - bulgaria
+  - "[[bulgaria]]"
 styles:
-  - gipsy
+  - "[[gipsy]]"
 instruments:
-  - clarinet
-  - sax
+  - "[[clarinet]]"
+  - "[[sax]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: East-West Ensemble
+aliases:
+  - East-West Ensemble
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

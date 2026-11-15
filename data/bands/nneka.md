@@ -1,7 +1,9 @@
 ---
 name: Nneka
+aliases:
+  - Nneka
 countries:
-  - nigeria
+  - "[[nigeria]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 ---

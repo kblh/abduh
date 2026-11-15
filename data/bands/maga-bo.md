@@ -1,7 +1,9 @@
 ---
 name: Maga Bo
+aliases:
+  - Maga Bo
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - electronic
+  - "[[electronic]]"
 ---

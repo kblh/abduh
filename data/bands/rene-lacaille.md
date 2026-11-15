@@ -1,7 +1,9 @@
 ---
 name: Rene Lacaille
+aliases:
+  - Rene Lacaille
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 instruments:
-  - accordion
+  - "[[accordion]]"
 ---

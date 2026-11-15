@@ -1,7 +1,9 @@
 ---
 name: The Jolly Boys
+aliases:
+  - The Jolly Boys
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - mento
+  - "[[mento]]"
 ---

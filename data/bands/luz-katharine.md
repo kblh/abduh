@@ -1,7 +1,9 @@
 ---
 name: Luz Katharine
+aliases:
+  - Luz Katharine
 countries:
-  - peru
+  - "[[peru]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

@@ -1,9 +1,11 @@
 ---
 name: Bethany & Rufus
+aliases:
+  - Bethany & Rufus
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
 ---

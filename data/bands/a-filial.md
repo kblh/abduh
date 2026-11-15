@@ -1,7 +1,9 @@
 ---
 name: A Filial
+aliases:
+  - A Filial
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

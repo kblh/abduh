@@ -1,3 +1,5 @@
 ---
 name: chaabi
+aliases:
+  - chaabi
 ---

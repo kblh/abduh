@@ -1,7 +1,9 @@
 ---
 name: The Third Planet
+aliases:
+  - The Third Planet
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

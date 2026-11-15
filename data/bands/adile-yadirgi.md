@@ -1,8 +1,10 @@
 ---
 name: Adile Yadirgi
+aliases:
+  - Adile Yadirgi
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

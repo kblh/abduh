@@ -1,7 +1,9 @@
 ---
 name: Ibrahim Djo Experience
+aliases:
+  - Ibrahim Djo Experience
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - tuareg
+  - "[[tuareg]]"
 ---

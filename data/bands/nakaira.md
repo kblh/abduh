@@ -1,7 +1,9 @@
 ---
 name: Nakaira
+aliases:
+  - Nakaira
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

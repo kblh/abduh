@@ -1,8 +1,10 @@
 ---
 name: Jose Conde
+aliases:
+  - Jose Conde
 countries:
-  - usa
-  - cuba
+  - "[[usa]]"
+  - "[[cuba]]"
 styles:
-  - latin
+  - "[[latin]]"
 ---

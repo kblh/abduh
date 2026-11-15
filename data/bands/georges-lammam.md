@@ -1,7 +1,9 @@
 ---
 name: Georges Lammam
+aliases:
+  - Georges Lammam
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

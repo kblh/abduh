@@ -1,7 +1,9 @@
 ---
 name: Dean Fraser
+aliases:
+  - Dean Fraser
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Herbie Mann
+aliases:
+  - Herbie Mann
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

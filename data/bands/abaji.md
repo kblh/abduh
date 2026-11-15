@@ -1,7 +1,9 @@
 ---
 name: Abaji
+aliases:
+  - Abaji
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

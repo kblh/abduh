@@ -1,7 +1,9 @@
 ---
 name: Briganti di terra d'Otranto
+aliases:
+  - Briganti di terra d'Otranto
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

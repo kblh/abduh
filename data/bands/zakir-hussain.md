@@ -1,7 +1,9 @@
 ---
 name: Zakir Hussain
+aliases:
+  - Zakir Hussain
 countries:
-  - india
+  - "[[india]]"
 instruments:
-  - tabla
+  - "[[tabla]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Funk Off
+aliases:
+  - Funk Off
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

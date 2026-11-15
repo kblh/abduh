@@ -1,10 +1,12 @@
 ---
 name: Gaye Su Akyol
+aliases:
+  - Gaye Su Akyol
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

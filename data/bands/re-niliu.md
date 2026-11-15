@@ -1,7 +1,9 @@
 ---
 name: Re Niliu
+aliases:
+  - Re Niliu
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

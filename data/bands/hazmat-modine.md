@@ -1,7 +1,9 @@
 ---
 name: Hazmat Modine
+aliases:
+  - Hazmat Modine
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - blues
+  - "[[blues]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Claude Chalhoub
+aliases:
+  - Claude Chalhoub
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

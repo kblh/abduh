@@ -1,10 +1,12 @@
 ---
 name: Daniele Sepe
+aliases:
+  - Daniele Sepe
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
-  - jazz
+  - "[[pizzica]]"
+  - "[[jazz]]"
 instruments:
-  - sax
+  - "[[sax]]"
 ---

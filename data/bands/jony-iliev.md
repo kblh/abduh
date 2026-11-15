@@ -1,7 +1,9 @@
 ---
 name: Jony Iliev
+aliases:
+  - Jony Iliev
 countries:
-  - bulgaria
+  - "[[bulgaria]]"
 styles:
-  - gipsy
+  - "[[gipsy]]"
 ---

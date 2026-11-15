@@ -1,5 +1,7 @@
 ---
 name: Odezenne
+aliases:
+  - Odezenne
 countries:
-  - france
+  - "[[france]]"
 ---

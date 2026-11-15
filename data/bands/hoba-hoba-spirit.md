@@ -1,7 +1,9 @@
 ---
 name: Hoba Hoba Spirit
+aliases:
+  - Hoba Hoba Spirit
 countries:
-  - morocco
+  - "[[morocco]]"
 styles:
-  - nayda
+  - "[[nayda]]"
 ---

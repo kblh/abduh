@@ -1,7 +1,9 @@
 ---
 name: Ricardo Tete
+aliases:
+  - Ricardo Tete
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

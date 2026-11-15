@@ -1,7 +1,9 @@
 ---
 name: Hypnotic Brass Ensemble
+aliases:
+  - Hypnotic Brass Ensemble
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - brass
+  - "[[brass]]"
 ---

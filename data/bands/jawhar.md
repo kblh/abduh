@@ -1,7 +1,9 @@
 ---
 name: Jawhar
+aliases:
+  - Jawhar
 countries:
-  - tunisia
+  - "[[tunisia]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Yasmin Levy
+aliases:
+  - Yasmin Levy
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

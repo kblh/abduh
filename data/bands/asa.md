@@ -1,5 +1,7 @@
 ---
 name: Asa
+aliases:
+  - Asa
 countries:
-  - france
+  - "[[france]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: El Efecto
+aliases:
+  - El Efecto
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

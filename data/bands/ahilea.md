@@ -1,5 +1,7 @@
 ---
 name: Ahilea
+aliases:
+  - Ahilea
 countries:
-  - macedonia
+  - "[[macedonia]]"
 ---

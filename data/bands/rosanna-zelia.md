@@ -1,7 +1,9 @@
 ---
 name: Rosanna & Zelia
+aliases:
+  - Rosanna & Zelia
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

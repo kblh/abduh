@@ -1,5 +1,7 @@
 ---
 name: Lleuwen
+aliases:
+  - Lleuwen
 countries:
-  - united-kingdom
+  - "[[united-kingdom]]"
 ---

@@ -1,5 +1,7 @@
 ---
 name: Ceuzany
+aliases:
+  - Ceuzany
 countries:
-  - cape-verde
+  - "[[cape-verde]]"
 ---

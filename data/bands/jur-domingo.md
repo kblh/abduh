@@ -1,7 +1,9 @@
 ---
 name: Jur Domingo
+aliases:
+  - Jur Domingo
 countries:
-  - france
+  - "[[france]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

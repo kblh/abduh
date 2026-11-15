@@ -1,8 +1,10 @@
 ---
 name: Okonkolo
+aliases:
+  - Okonkolo
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - condomble
-  - a-capella
+  - "[[condomble]]"
+  - "[[a-capella]]"
 ---

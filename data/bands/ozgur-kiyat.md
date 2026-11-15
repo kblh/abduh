@@ -1,8 +1,10 @@
 ---
 name: Ozgur Kiyat
+aliases:
+  - Ozgur Kiyat
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

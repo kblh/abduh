@@ -1,7 +1,9 @@
 ---
 name: Femi Kuti
+aliases:
+  - Femi Kuti
 countries:
-  - nigeria
+  - "[[nigeria]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

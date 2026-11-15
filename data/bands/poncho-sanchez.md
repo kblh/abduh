@@ -1,8 +1,10 @@
 ---
 name: Poncho Sanchez
+aliases:
+  - Poncho Sanchez
 countries:
-  - usa
-  - mexico
+  - "[[usa]]"
+  - "[[mexico]]"
 styles:
-  - latin
+  - "[[latin]]"
 ---

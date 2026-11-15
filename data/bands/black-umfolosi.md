@@ -1,7 +1,9 @@
 ---
 name: Black Umfolosi
+aliases:
+  - Black Umfolosi
 countries:
-  - zimbabwe
+  - "[[zimbabwe]]"
 styles:
-  - a-capella
+  - "[[a-capella]]"
 ---

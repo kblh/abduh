@@ -1,8 +1,10 @@
 ---
 name: Mercan Dede
+aliases:
+  - Mercan Dede
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

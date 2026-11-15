@@ -1,5 +1,7 @@
 ---
 name: Kayaan
+aliases:
+  - Kayaan
 countries:
-  - palestine
+  - "[[palestine]]"
 ---

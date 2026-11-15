@@ -1,7 +1,9 @@
 ---
 name: Goran Bregovic
+aliases:
+  - Goran Bregovic
 countries:
-  - bosnia
+  - "[[bosnia]]"
 members:
   - Bijelo Dugme
 ---

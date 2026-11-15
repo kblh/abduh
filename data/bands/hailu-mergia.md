@@ -1,7 +1,9 @@
 ---
 name: Hailu Mergia
+aliases:
+  - Hailu Mergia
 countries:
-  - ethiopia
+  - "[[ethiopia]]"
 instruments:
-  - keyboard
+  - "[[keyboard]]"
 ---

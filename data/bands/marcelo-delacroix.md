@@ -1,7 +1,9 @@
 ---
 name: Marcelo Delacroix
+aliases:
+  - Marcelo Delacroix
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

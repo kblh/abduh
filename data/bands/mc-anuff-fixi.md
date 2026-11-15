@@ -1,7 +1,9 @@
 ---
 name: Mc Anuff & Fixi
+aliases:
+  - Mc Anuff & Fixi
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 ---

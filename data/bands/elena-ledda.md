@@ -1,7 +1,9 @@
 ---
 name: Elena Ledda
+aliases:
+  - Elena Ledda
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

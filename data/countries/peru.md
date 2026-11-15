@@ -1,5 +1,7 @@
 ---
 name: Peru
+aliases:
+  - Peru
 continent: america
 flag: 🇵🇪
 ---

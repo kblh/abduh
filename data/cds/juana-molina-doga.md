@@ -1,7 +1,9 @@
 ---
 name: DOGA
+aliases:
+  - DOGA
 bands:
-  - juana-molina
+  - "[[juana-molina]]"
 year: 2025
 image: cds/juana-molina-doga.avif
 image_source: https://juanamolina.bandcamp.com/album/doga

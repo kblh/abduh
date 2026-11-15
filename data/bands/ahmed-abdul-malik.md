@@ -1,10 +1,12 @@
 ---
 name: Ahmed Abdul-Malik
+aliases:
+  - Ahmed Abdul-Malik
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - bass
-  - oud
+  - "[[bass]]"
+  - "[[oud]]"
 ---

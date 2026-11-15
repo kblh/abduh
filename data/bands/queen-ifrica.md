@@ -1,9 +1,11 @@
 ---
 name: Queen Ifrica
+aliases:
+  - Queen Ifrica
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - ska
+  - "[[ska]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Sapo Banjo
+aliases:
+  - Sapo Banjo
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

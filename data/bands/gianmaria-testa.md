@@ -1,7 +1,9 @@
 ---
 name: Gianmaria Testa
+aliases:
+  - Gianmaria Testa
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

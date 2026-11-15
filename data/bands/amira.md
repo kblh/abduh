@@ -1,7 +1,9 @@
 ---
 name: Amira
+aliases:
+  - Amira
 countries:
-  - bosnia
+  - "[[bosnia]]"
 styles:
-  - sevdah
+  - "[[sevdah]]"
 ---

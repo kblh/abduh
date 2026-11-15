@@ -1,7 +1,9 @@
 ---
 name: Bajofondo Tango Club
+aliases:
+  - Bajofondo Tango Club
 countries:
-  - argentina
+  - "[[argentina]]"
 styles:
-  - tango
+  - "[[tango]]"
 ---

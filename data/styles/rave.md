@@ -1,3 +1,5 @@
 ---
 name: rave
+aliases:
+  - rave
 ---

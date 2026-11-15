@@ -1,7 +1,9 @@
 ---
 name: Dona Onete
+aliases:
+  - Dona Onete
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

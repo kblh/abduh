@@ -1,8 +1,10 @@
 ---
 name: Mustafa Sayan
+aliases:
+  - Mustafa Sayan
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

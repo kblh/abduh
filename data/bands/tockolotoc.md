@@ -1,5 +1,7 @@
 ---
 name: Tockolotoc
+aliases:
+  - Tockolotoc
 countries:
-  - czech
+  - "[[czech]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Guru Martins
+aliases:
+  - Guru Martins
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

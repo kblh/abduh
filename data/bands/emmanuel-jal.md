@@ -1,7 +1,9 @@
 ---
 name: Emmanuel Jal
+aliases:
+  - Emmanuel Jal
 countries:
-  - sudan
+  - "[[sudan]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

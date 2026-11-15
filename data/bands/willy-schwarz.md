@@ -1,7 +1,9 @@
 ---
 name: Willy Schwarz
+aliases:
+  - Willy Schwarz
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

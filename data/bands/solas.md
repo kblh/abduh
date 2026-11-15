@@ -1,5 +1,7 @@
 ---
 name: Solas
+aliases:
+  - Solas
 countries:
-  - ireland
+  - "[[ireland]]"
 ---

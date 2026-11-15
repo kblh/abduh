@@ -1,7 +1,9 @@
 ---
 name: Juan Formell
+aliases:
+  - Juan Formell
 countries:
-  - cuba
+  - "[[cuba]]"
 instruments:
-  - bass
+  - "[[bass]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Preto Tu
+aliases:
+  - Preto Tu
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Dowdelin
+aliases:
+  - Dowdelin
 countries:
-  - martinique-france
+  - "[[martinique-france]]"
 styles:
-  - creole
-  - trio
+  - "[[creole]]"
+  - "[[trio]]"
 ---

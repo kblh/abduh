@@ -1,7 +1,9 @@
 ---
 name: Halo
+aliases:
+  - Halo
 bands:
-  - juana-molina
+  - "[[juana-molina]]"
 year: 2017
 image: cds/juana-molina-halo.avif
 image_source: https://juanamolina.bandcamp.com/album/halo

@@ -1,3 +1,5 @@
 ---
 name: manchester
+aliases:
+  - manchester
 ---

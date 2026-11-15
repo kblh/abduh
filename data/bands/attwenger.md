@@ -1,5 +1,7 @@
 ---
 name: Attwenger
+aliases:
+  - Attwenger
 countries:
-  - austria
+  - "[[austria]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Theodosii Spassov
+aliases:
+  - Theodosii Spassov
 countries:
-  - bulgaria
+  - "[[bulgaria]]"
 instruments:
-  - kaval
+  - "[[kaval]]"
 ---

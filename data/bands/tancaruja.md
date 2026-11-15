@@ -1,7 +1,9 @@
 ---
 name: Tancaruja
+aliases:
+  - Tancaruja
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

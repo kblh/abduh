@@ -1,7 +1,9 @@
 ---
 name: Seckou Keita
+aliases:
+  - Seckou Keita
 countries:
-  - senegal
+  - "[[senegal]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

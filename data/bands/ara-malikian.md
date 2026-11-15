@@ -1,11 +1,13 @@
 ---
 name: Ara Malikian
+aliases:
+  - Ara Malikian
 countries:
-  - lebanon
-  - usa
-  - spain
+  - "[[lebanon]]"
+  - "[[usa]]"
+  - "[[spain]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - violin
+  - "[[violin]]"
 ---

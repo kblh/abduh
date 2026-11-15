@@ -1,3 +1,5 @@
 ---
 name: nayda
+aliases:
+  - nayda
 ---

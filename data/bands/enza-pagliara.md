@@ -1,7 +1,9 @@
 ---
 name: Enza Pagliara
+aliases:
+  - Enza Pagliara
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

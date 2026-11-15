@@ -1,8 +1,10 @@
 ---
 name: Iness Mezel
+aliases:
+  - Iness Mezel
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - berber
-  - gnawa
+  - "[[berber]]"
+  - "[[gnawa]]"
 ---

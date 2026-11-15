@@ -1,8 +1,10 @@
 ---
 name: Saite An Saite
+aliases:
+  - Saite An Saite
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

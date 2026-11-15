@@ -1,7 +1,9 @@
 ---
 name: Magillah
+aliases:
+  - Magillah
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

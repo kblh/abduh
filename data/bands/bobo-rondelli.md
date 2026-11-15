@@ -1,7 +1,9 @@
 ---
 name: Bobo Rondelli
+aliases:
+  - Bobo Rondelli
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

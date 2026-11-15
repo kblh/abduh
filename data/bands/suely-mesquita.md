@@ -1,7 +1,9 @@
 ---
 name: Suely Mesquita
+aliases:
+  - Suely Mesquita
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

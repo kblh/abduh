@@ -1,3 +1,5 @@
 ---
 name: calypso
+aliases:
+  - calypso
 ---

@@ -1,5 +1,7 @@
 ---
 name: Grada
+aliases:
+  - Grada
 countries:
-  - ireland
+  - "[[ireland]]"
 ---

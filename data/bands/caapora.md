@@ -1,9 +1,11 @@
 ---
 name: Caapora
+aliases:
+  - Caapora
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - manguebit
+  - "[[manguebit]]"
 tags:
-  - pernambuco
+  - "[[pernambuco]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Terakaft
+aliases:
+  - Terakaft
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - tuareg
+  - "[[tuareg]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Claudio N
+aliases:
+  - Claudio N
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Jorge Benjor
+aliases:
+  - Jorge Benjor
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

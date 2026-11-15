@@ -1,9 +1,11 @@
 ---
 name: World Kora Trio
+aliases:
+  - World Kora Trio
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - fusion
+  - "[[fusion]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

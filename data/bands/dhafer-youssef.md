@@ -1,7 +1,9 @@
 ---
 name: Dhafer Youssef
+aliases:
+  - Dhafer Youssef
 countries:
-  - tunisia
+  - "[[tunisia]]"
 instruments:
-  - oud
+  - "[[oud]]"
 ---

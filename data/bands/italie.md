@@ -1,7 +1,9 @@
 ---
 name: Italie
+aliases:
+  - Italie
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

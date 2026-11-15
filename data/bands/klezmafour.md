@@ -1,5 +1,7 @@
 ---
 name: Klezmafour
+aliases:
+  - Klezmafour
 countries:
-  - poland
+  - "[[poland]]"
 ---

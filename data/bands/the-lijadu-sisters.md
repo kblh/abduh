@@ -1,7 +1,9 @@
 ---
 name: The Lijadu Sisters
+aliases:
+  - The Lijadu Sisters
 countries:
-  - nigeria
+  - "[[nigeria]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

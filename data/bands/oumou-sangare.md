@@ -1,7 +1,9 @@
 ---
 name: Oumou Sangare
+aliases:
+  - Oumou Sangare
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - wassalou
+  - "[[wassalou]]"
 ---

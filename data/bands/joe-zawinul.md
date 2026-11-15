@@ -1,7 +1,9 @@
 ---
 name: Joe Zawinul
+aliases:
+  - Joe Zawinul
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

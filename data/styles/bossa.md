@@ -1,3 +1,5 @@
 ---
 name: bossa
+aliases:
+  - bossa
 ---

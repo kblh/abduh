@@ -1,7 +1,9 @@
 ---
 name: Arakne Mediterranea
+aliases:
+  - Arakne Mediterranea
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

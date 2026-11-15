@@ -1,10 +1,12 @@
 ---
 name: Sarah Aroeste
+aliases:
+  - Sarah Aroeste
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
-  - ladino
+  - "[[klezmer]]"
+  - "[[ladino]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

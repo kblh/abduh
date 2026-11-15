@@ -1,8 +1,10 @@
 ---
 name: BandAdriatica
+aliases:
+  - BandAdriatica
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
-  - brass
+  - "[[pizzica]]"
+  - "[[brass]]"
 ---

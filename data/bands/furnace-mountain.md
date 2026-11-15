@@ -1,9 +1,11 @@
 ---
 name: Furnace Mountain
+aliases:
+  - Furnace Mountain
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Baiana System
+aliases:
+  - Baiana System
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - electronic
+  - "[[electronic]]"
 ---

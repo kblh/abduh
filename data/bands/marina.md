@@ -1,5 +1,7 @@
 ---
 name: Marina
+aliases:
+  - Marina
 countries:
-  - spain
+  - "[[spain]]"
 ---

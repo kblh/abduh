@@ -1,7 +1,9 @@
 ---
 name: Zimbo Trio
+aliases:
+  - Zimbo Trio
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

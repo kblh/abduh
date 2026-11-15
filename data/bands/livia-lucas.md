@@ -1,7 +1,9 @@
 ---
 name: Livia Lucas
+aliases:
+  - Livia Lucas
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: De Temps Antan
+aliases:
+  - De Temps Antan
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - quebec
+  - "[[quebec]]"
 ---

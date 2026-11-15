@@ -1,7 +1,9 @@
 ---
 name: Lenine
+aliases:
+  - Lenine
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

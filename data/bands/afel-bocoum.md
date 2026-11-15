@@ -1,11 +1,13 @@
 ---
 name: Afel Bocoum
+aliases:
+  - Afel Bocoum
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - blues
+  - "[[blues]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 tags:
-  - niafunke
+  - "[[niafunke]]"
 ---

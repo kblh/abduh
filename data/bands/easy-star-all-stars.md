@@ -1,8 +1,10 @@
 ---
 name: Easy Star All-Stars
+aliases:
+  - Easy Star All-Stars
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - latin
-  - raggae
+  - "[[latin]]"
+  - "[[raggae]]"
 ---

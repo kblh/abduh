@@ -1,7 +1,9 @@
 ---
 name: Los Angeles Azules
+aliases:
+  - Los Angeles Azules
 countries:
-  - mexico
+  - "[[mexico]]"
 styles:
-  - cumbia
+  - "[[cumbia]]"
 ---

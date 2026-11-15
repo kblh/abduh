@@ -1,6 +1,8 @@
 ---
 name: Ghymes
+aliases:
+  - Ghymes
 countries:
-  - czech
-  - slovakia
+  - "[[czech]]"
+  - "[[slovakia]]"
 ---

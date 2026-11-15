@@ -1,7 +1,9 @@
 ---
 name: Galego
+aliases:
+  - Galego
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

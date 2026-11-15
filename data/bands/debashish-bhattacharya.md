@@ -1,7 +1,9 @@
 ---
 name: Debashish Bhattacharya
+aliases:
+  - Debashish Bhattacharya
 countries:
-  - india
+  - "[[india]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

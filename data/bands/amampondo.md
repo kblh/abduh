@@ -1,7 +1,9 @@
 ---
 name: Amampondo
+aliases:
+  - Amampondo
 countries:
-  - south-africa
+  - "[[south-africa]]"
 instruments:
-  - perc
+  - "[[perc]]"
 ---

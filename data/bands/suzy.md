@@ -1,7 +1,9 @@
 ---
 name: Suzy
+aliases:
+  - Suzy
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

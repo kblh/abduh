@@ -1,7 +1,9 @@
 ---
 name: Silvana Estrada
+aliases:
+  - Silvana Estrada
 countries:
-  - mexico
+  - "[[mexico]]"
 instruments:
-  - cuatro
+  - "[[cuatro]]"
 ---

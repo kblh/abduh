@@ -1,8 +1,10 @@
 ---
 name: Burhan Ocal & The Trakya All Stars
+aliases:
+  - Burhan Ocal & The Trakya All Stars
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

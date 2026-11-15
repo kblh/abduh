@@ -1,5 +1,7 @@
 ---
 name: Magnifico
+aliases:
+  - Magnifico
 countries:
-  - slovenia
+  - "[[slovenia]]"
 ---

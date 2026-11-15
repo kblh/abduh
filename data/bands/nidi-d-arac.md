@@ -1,7 +1,9 @@
 ---
 name: Nidi d'Arac
+aliases:
+  - Nidi d'Arac
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

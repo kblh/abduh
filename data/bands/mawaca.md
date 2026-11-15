@@ -1,7 +1,9 @@
 ---
 name: Mawaca
+aliases:
+  - Mawaca
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

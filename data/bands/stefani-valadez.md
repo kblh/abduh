@@ -1,10 +1,12 @@
 ---
 name: Stefani Valadez
+aliases:
+  - Stefani Valadez
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
-  - ladino
+  - "[[klezmer]]"
+  - "[[ladino]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

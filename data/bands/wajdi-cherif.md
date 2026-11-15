@@ -1,9 +1,11 @@
 ---
 name: Wajdi Cherif
+aliases:
+  - Wajdi Cherif
 countries:
-  - tunisia
+  - "[[tunisia]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - piano
+  - "[[piano]]"
 ---

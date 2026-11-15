@@ -1,10 +1,12 @@
 ---
 name: Tito Puente
+aliases:
+  - Tito Puente
 countries:
-  - usa
-  - cuba
+  - "[[usa]]"
+  - "[[cuba]]"
 styles:
-  - latin
+  - "[[latin]]"
 instruments:
-  - congos
+  - "[[congos]]"
 ---

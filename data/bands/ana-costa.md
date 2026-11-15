@@ -1,9 +1,11 @@
 ---
 name: Ana Costa
+aliases:
+  - Ana Costa
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - samba
+  - "[[samba]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

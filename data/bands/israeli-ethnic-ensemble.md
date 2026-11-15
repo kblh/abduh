@@ -1,7 +1,9 @@
 ---
 name: Israeli Ethnic Ensemble
+aliases:
+  - Israeli Ethnic Ensemble
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

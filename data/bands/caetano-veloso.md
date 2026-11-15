@@ -1,7 +1,9 @@
 ---
 name: Caetano Veloso
+aliases:
+  - Caetano Veloso
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - tropicalismo
+  - "[[tropicalismo]]"
 ---

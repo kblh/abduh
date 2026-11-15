@@ -1,7 +1,9 @@
 ---
 name: Lindigo
+aliases:
+  - Lindigo
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 styles:
-  - maloya
+  - "[[maloya]]"
 ---

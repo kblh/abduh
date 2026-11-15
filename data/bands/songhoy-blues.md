@@ -1,7 +1,9 @@
 ---
 name: Songhoy Blues
+aliases:
+  - Songhoy Blues
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - songhai
+  - "[[songhai]]"
 ---

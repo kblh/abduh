@@ -1,7 +1,9 @@
 ---
 name: Douglas Din
+aliases:
+  - Douglas Din
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

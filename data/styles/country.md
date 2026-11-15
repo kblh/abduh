@@ -1,3 +1,5 @@
 ---
 name: country
+aliases:
+  - country
 ---

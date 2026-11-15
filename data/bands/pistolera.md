@@ -1,7 +1,9 @@
 ---
 name: Pistolera
+aliases:
+  - Pistolera
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - latin
+  - "[[latin]]"
 ---

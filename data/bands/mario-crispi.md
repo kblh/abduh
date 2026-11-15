@@ -1,7 +1,9 @@
 ---
 name: Mario Crispi
+aliases:
+  - Mario Crispi
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

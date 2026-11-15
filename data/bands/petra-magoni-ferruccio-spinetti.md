@@ -1,7 +1,9 @@
 ---
 name: Petra Magoni & Ferruccio Spinetti
+aliases:
+  - Petra Magoni & Ferruccio Spinetti
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

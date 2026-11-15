@@ -1,10 +1,12 @@
 ---
 name: Trilok Gurtu Garbarek, Zawinul, Laswell
+aliases:
+  - Trilok Gurtu Garbarek, Zawinul, Laswell
 countries:
-  - india
+  - "[[india]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - drums
-  - perc
+  - "[[drums]]"
+  - "[[perc]]"
 ---

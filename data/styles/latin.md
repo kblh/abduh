@@ -1,3 +1,5 @@
 ---
 name: latin
+aliases:
+  - latin
 ---

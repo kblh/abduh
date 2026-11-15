@@ -1,5 +1,7 @@
 ---
 name: Tiharea
+aliases:
+  - Tiharea
 countries:
-  - madagascar
+  - "[[madagascar]]"
 ---

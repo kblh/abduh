@@ -1,9 +1,11 @@
 ---
 name: Bob Marley
+aliases:
+  - Bob Marley
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 members:
   - Damian Marley
   - Ky-Mani Marley

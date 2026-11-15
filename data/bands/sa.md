@@ -1,8 +1,10 @@
 ---
 name: SA
+aliases:
+  - SA
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

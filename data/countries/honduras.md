@@ -1,5 +1,7 @@
 ---
 name: Honduras
+aliases:
+  - Honduras
 continent: america
 flag: 🇭🇳
 ---

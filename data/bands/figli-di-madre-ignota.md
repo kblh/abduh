@@ -1,7 +1,9 @@
 ---
 name: Figli di Madre Ignota
+aliases:
+  - Figli di Madre Ignota
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

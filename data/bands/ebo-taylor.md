@@ -1,7 +1,9 @@
 ---
 name: Ebo Taylor
+aliases:
+  - Ebo Taylor
 countries:
-  - ghana
+  - "[[ghana]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

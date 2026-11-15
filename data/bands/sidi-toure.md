@@ -1,9 +1,11 @@
 ---
 name: Sidi Toure
+aliases:
+  - Sidi Toure
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - songhai
+  - "[[songhai]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

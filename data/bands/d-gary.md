@@ -1,7 +1,9 @@
 ---
 name: D'Gary
+aliases:
+  - D'Gary
 countries:
-  - madagascar
+  - "[[madagascar]]"
 styles:
-  - tsapiky
+  - "[[tsapiky]]"
 ---

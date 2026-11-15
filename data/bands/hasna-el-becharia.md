@@ -1,8 +1,10 @@
 ---
 name: Hasna el Becharia
+aliases:
+  - Hasna el Becharia
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - berber
-  - gnawa
+  - "[[berber]]"
+  - "[[gnawa]]"
 ---

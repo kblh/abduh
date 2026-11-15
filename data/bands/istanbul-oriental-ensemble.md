@@ -1,8 +1,10 @@
 ---
 name: Istanbul Oriental Ensemble
+aliases:
+  - Istanbul Oriental Ensemble
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

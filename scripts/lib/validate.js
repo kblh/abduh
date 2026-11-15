@@ -12,6 +12,12 @@ export function validate(entities, opts = {}) {
     if (ids[e.type].has(e.id)) errors.push(`duplicate ${e.type} id: ${e.id}`);
     ids[e.type].add(e.id);
   }
+  const typeOfId = new Map();
+  for (const e of entities) {
+    const other = typeOfId.get(e.id);
+    if (other && other !== e.type) errors.push(`id "${e.id}" is used by both ${other} and ${e.type}`);
+    typeOfId.set(e.id, e.type);
+  }
   for (const e of entities) {
     const label = `${e.type} ${e.id}`;
     if (!e.fields.name) errors.push(`${label}: missing name`);

@@ -1,7 +1,9 @@
 ---
 name: Maya Kamaty
+aliases:
+  - Maya Kamaty
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 styles:
-  - maloya
+  - "[[maloya]]"
 ---

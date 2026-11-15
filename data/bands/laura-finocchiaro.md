@@ -1,7 +1,9 @@
 ---
 name: Laura Finocchiaro
+aliases:
+  - Laura Finocchiaro
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

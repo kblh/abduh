@@ -1,9 +1,11 @@
 ---
 name: Shabaka
+aliases:
+  - Shabaka
 countries:
-  - united-kingdom
+  - "[[united-kingdom]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - flute
+  - "[[flute]]"
 ---

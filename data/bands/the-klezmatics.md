@@ -1,7 +1,9 @@
 ---
 name: The Klezmatics
+aliases:
+  - The Klezmatics
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

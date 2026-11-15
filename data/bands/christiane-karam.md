@@ -1,7 +1,9 @@
 ---
 name: Christiane Karam
+aliases:
+  - Christiane Karam
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

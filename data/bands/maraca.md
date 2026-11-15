@@ -1,5 +1,7 @@
 ---
 name: Maraca
+aliases:
+  - Maraca
 countries:
-  - czech
+  - "[[czech]]"
 ---

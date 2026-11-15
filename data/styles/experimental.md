@@ -1,3 +1,5 @@
 ---
 name: experimental
+aliases:
+  - experimental
 ---

@@ -1,7 +1,9 @@
 ---
 name: Officina Zoe'
+aliases:
+  - Officina Zoe'
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

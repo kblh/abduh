@@ -1,8 +1,10 @@
 ---
 name: Rosemary Standley
+aliases:
+  - Rosemary Standley
 countries:
-  - france
-  - usa
+  - "[[france]]"
+  - "[[usa]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

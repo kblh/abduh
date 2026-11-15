@@ -1,9 +1,11 @@
 ---
 name: Bonsucesso SambaClube
+aliases:
+  - Bonsucesso SambaClube
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - manguebit
+  - "[[manguebit]]"
 tags:
-  - pernambuco
+  - "[[pernambuco]]"
 ---

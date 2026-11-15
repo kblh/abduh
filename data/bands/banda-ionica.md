@@ -1,7 +1,9 @@
 ---
 name: Banda Ionica
+aliases:
+  - Banda Ionica
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

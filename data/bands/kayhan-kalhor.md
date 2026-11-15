@@ -1,8 +1,10 @@
 ---
 name: Kayhan Kalhor
+aliases:
+  - Kayhan Kalhor
 countries:
-  - iran
-  - kurdistan
+  - "[[iran]]"
+  - "[[kurdistan]]"
 instruments:
-  - kamancheh
+  - "[[kamancheh]]"
 ---

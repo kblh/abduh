@@ -1,9 +1,11 @@
 ---
 name: Radio Citizen
+aliases:
+  - Radio Citizen
 countries:
-  - germany
+  - "[[germany]]"
 styles:
-  - berlin
+  - "[[berlin]]"
 members:
   - Niko Schabel
 ---

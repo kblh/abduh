@@ -1,8 +1,10 @@
 ---
 name: Hasidic New Wave
+aliases:
+  - Hasidic New Wave
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
-  - jazz
+  - "[[klezmer]]"
+  - "[[jazz]]"
 ---

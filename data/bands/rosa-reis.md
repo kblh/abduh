@@ -1,7 +1,9 @@
 ---
 name: Rosa Reis
+aliases:
+  - Rosa Reis
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

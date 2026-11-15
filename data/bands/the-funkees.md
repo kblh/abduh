@@ -1,7 +1,9 @@
 ---
 name: The Funkees
+aliases:
+  - The Funkees
 countries:
-  - nigeria
+  - "[[nigeria]]"
 styles:
-  - afro-rock
+  - "[[afro-rock]]"
 ---

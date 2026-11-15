@@ -1,7 +1,9 @@
 ---
 name: Dostrescinco
+aliases:
+  - Dostrescinco
 countries:
-  - uruguay
+  - "[[uruguay]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

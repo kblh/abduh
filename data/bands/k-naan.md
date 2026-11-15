@@ -1,7 +1,9 @@
 ---
 name: K'naan
+aliases:
+  - K'naan
 countries:
-  - somalia
+  - "[[somalia]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

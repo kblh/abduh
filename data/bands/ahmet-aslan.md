@@ -1,8 +1,10 @@
 ---
 name: Ahmet Aslan
+aliases:
+  - Ahmet Aslan
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

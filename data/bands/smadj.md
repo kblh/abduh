@@ -1,7 +1,9 @@
 ---
 name: Smadj
+aliases:
+  - Smadj
 countries:
-  - tunisia
+  - "[[tunisia]]"
 instruments:
-  - oud
+  - "[[oud]]"
 ---

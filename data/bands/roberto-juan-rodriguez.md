@@ -1,7 +1,9 @@
 ---
 name: Roberto Juan Rodriguez
+aliases:
+  - Roberto Juan Rodriguez
 countries:
-  - cuba
+  - "[[cuba]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

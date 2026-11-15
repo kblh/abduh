@@ -1,7 +1,9 @@
 ---
 name: Rasmus Lyberth Band
+aliases:
+  - Rasmus Lyberth Band
 countries:
-  - greenland
+  - "[[greenland]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

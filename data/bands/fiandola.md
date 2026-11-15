@@ -1,5 +1,7 @@
 ---
 name: Fiandola
+aliases:
+  - Fiandola
 countries:
-  - spain
+  - "[[spain]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Marco Lacaille
+aliases:
+  - Marco Lacaille
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 instruments:
-  - perc
-  - bass
+  - "[[perc]]"
+  - "[[bass]]"
 ---

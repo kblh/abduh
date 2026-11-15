@@ -1,8 +1,10 @@
 ---
 name: Lava
+aliases:
+  - Lava
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

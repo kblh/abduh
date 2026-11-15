@@ -1,5 +1,7 @@
 ---
 name: Afrissippi
+aliases:
+  - Afrissippi
 countries:
-  - senegal
+  - "[[senegal]]"
 ---

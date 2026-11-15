@@ -1,5 +1,7 @@
 ---
 name: BudZillus
+aliases:
+  - BudZillus
 countries:
-  - germany
+  - "[[germany]]"
 ---

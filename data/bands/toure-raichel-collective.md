@@ -1,7 +1,9 @@
 ---
 name: Toure-Raichel Collective
+aliases:
+  - Toure-Raichel Collective
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - fusion
+  - "[[fusion]]"
 ---

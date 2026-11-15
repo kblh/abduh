@@ -1,7 +1,9 @@
 ---
 name: Art Melody
+aliases:
+  - Art Melody
 countries:
-  - burkina-faso
+  - "[[burkina-faso]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

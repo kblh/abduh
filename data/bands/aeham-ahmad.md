@@ -1,7 +1,9 @@
 ---
 name: Aeham Ahmad
+aliases:
+  - Aeham Ahmad
 countries:
-  - syria
+  - "[[syria]]"
 instruments:
-  - piano
+  - "[[piano]]"
 ---

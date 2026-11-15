@@ -1,8 +1,10 @@
 ---
 name: Blitz The Ambassador
+aliases:
+  - Blitz The Ambassador
 countries:
-  - ghana
+  - "[[ghana]]"
 styles:
-  - rap
-  - diaspora
+  - "[[rap]]"
+  - "[[diaspora]]"
 ---

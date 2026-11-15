@@ -1,8 +1,10 @@
 ---
 name: Yildiz Ibrahimova
+aliases:
+  - Yildiz Ibrahimova
 countries:
-  - bulgaria
-  - turkey
+  - "[[bulgaria]]"
+  - "[[turkey]]"
 styles:
-  - gipsy
+  - "[[gipsy]]"
 ---

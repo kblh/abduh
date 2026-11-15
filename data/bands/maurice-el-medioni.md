@@ -1,9 +1,11 @@
 ---
 name: Maurice El Medioni
+aliases:
+  - Maurice El Medioni
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - chaabi
+  - "[[chaabi]]"
 instruments:
-  - piano
+  - "[[piano]]"
 ---

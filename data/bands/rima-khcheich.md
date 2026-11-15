@@ -1,7 +1,9 @@
 ---
 name: Rima Khcheich
+aliases:
+  - Rima Khcheich
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Sofiane Saidi
+aliases:
+  - Sofiane Saidi
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - rai
+  - "[[rai]]"
 ---

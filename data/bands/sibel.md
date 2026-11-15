@@ -1,8 +1,10 @@
 ---
 name: Sibel
+aliases:
+  - Sibel
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

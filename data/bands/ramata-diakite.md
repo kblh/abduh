@@ -1,7 +1,9 @@
 ---
 name: Ramata Diakite
+aliases:
+  - Ramata Diakite
 countries:
-  - mali
+  - "[[mali]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

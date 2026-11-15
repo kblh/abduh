@@ -1,7 +1,9 @@
 ---
 name: Adoniran Barbosa
+aliases:
+  - Adoniran Barbosa
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - samba
+  - "[[samba]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Tunji Oyelana
+aliases:
+  - Tunji Oyelana
 countries:
-  - nigeria
+  - "[[nigeria]]"
 styles:
-  - folk
+  - "[[folk]]"
 ---

@@ -1,10 +1,12 @@
 ---
 name: Catch-Pop String-Strong
+aliases:
+  - Catch-Pop String-Strong
 countries:
-  - austria
+  - "[[austria]]"
 styles:
-  - duo
+  - "[[duo]]"
 instruments:
-  - cello
-  - violin
+  - "[[cello]]"
+  - "[[violin]]"
 ---

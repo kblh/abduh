@@ -1,7 +1,9 @@
 ---
 name: Faraualla
+aliases:
+  - Faraualla
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

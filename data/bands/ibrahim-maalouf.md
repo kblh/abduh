@@ -1,9 +1,11 @@
 ---
 name: Ibrahim Maalouf
+aliases:
+  - Ibrahim Maalouf
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - trumpet
+  - "[[trumpet]]"
 ---

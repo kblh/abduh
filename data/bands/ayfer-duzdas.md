@@ -1,8 +1,10 @@
 ---
 name: Ayfer Duzdas
+aliases:
+  - Ayfer Duzdas
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

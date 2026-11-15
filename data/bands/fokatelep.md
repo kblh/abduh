@@ -1,5 +1,7 @@
 ---
 name: Fokatelep
+aliases:
+  - Fokatelep
 countries:
-  - hungary
+  - "[[hungary]]"
 ---

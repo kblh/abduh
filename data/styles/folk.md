@@ -1,3 +1,5 @@
 ---
 name: folk
+aliases:
+  - folk
 ---

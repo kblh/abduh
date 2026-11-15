@@ -1,9 +1,11 @@
 ---
 name: Boubacar Traore
+aliases:
+  - Boubacar Traore
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - blues
+  - "[[blues]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

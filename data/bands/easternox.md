@@ -1,5 +1,7 @@
 ---
 name: Easternox
+aliases:
+  - Easternox
 countries:
-  - south-korea
+  - "[[south-korea]]"
 ---

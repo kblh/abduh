@@ -1,7 +1,9 @@
 ---
 name: Tony Allen
+aliases:
+  - Tony Allen
 countries:
-  - nigeria
+  - "[[nigeria]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

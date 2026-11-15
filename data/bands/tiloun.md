@@ -1,7 +1,9 @@
 ---
 name: Tiloun
+aliases:
+  - Tiloun
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 styles:
-  - maloya
+  - "[[maloya]]"
 ---

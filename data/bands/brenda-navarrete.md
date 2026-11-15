@@ -1,11 +1,13 @@
 ---
 name: Brenda Navarrete
+aliases:
+  - Brenda Navarrete
 countries:
-  - cuba
+  - "[[cuba]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - perc
+  - "[[perc]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

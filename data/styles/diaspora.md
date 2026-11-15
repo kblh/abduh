@@ -1,3 +1,5 @@
 ---
 name: diaspora
+aliases:
+  - diaspora
 ---

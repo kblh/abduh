@@ -1,5 +1,7 @@
 ---
 name: Eduardo Bianco and Juan Baptista Deambrogio
+aliases:
+  - Eduardo Bianco and Juan Baptista Deambrogio
 countries:
-  - argentina
+  - "[[argentina]]"
 ---

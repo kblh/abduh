@@ -1,7 +1,9 @@
 ---
 name: Hadar Noiberg
+aliases:
+  - Hadar Noiberg
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

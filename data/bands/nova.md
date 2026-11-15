@@ -1,7 +1,9 @@
 ---
 name: nova
+aliases:
+  - nova
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - bossa
+  - "[[bossa]]"
 ---

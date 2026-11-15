@@ -1,8 +1,10 @@
 ---
 name: Barana Trio
+aliases:
+  - Barana Trio
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

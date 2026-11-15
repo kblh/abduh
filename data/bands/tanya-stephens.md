@@ -1,7 +1,9 @@
 ---
 name: Tanya Stephens
+aliases:
+  - Tanya Stephens
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Oran Etkin
+aliases:
+  - Oran Etkin
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

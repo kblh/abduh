@@ -1,7 +1,9 @@
 ---
 name: Fela Kuti
+aliases:
+  - Fela Kuti
 countries:
-  - nigeria
+  - "[[nigeria]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

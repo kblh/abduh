@@ -1,7 +1,9 @@
 ---
 name: Rali Margalit
+aliases:
+  - Rali Margalit
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

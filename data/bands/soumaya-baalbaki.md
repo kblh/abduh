@@ -1,7 +1,9 @@
 ---
 name: Soumaya Baalbaki
+aliases:
+  - Soumaya Baalbaki
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

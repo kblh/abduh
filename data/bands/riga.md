@@ -1,5 +1,7 @@
 ---
 name: Riga
+aliases:
+  - Riga
 countries:
-  - latvia-lotyssko
+  - "[[latvia-lotyssko]]"
 ---

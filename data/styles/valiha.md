@@ -1,3 +1,5 @@
 ---
 name: valiha
+aliases:
+  - valiha
 ---

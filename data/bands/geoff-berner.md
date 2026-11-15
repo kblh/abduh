@@ -1,7 +1,9 @@
 ---
 name: Geoff Berner
+aliases:
+  - Geoff Berner
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Lengualerta
+aliases:
+  - Lengualerta
 countries:
-  - mexico
+  - "[[mexico]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 ---

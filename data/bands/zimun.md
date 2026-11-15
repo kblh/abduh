@@ -1,7 +1,9 @@
 ---
 name: Zimun
+aliases:
+  - Zimun
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

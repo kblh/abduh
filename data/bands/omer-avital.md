@@ -1,9 +1,11 @@
 ---
 name: Omer Avital
+aliases:
+  - Omer Avital
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - bass
+  - "[[bass]]"
 ---

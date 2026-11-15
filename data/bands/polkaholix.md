@@ -1,5 +1,7 @@
 ---
 name: Polkaholix
+aliases:
+  - Polkaholix
 countries:
-  - germany
+  - "[[germany]]"
 ---

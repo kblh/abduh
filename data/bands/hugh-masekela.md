@@ -1,7 +1,9 @@
 ---
 name: Hugh Masekela
+aliases:
+  - Hugh Masekela
 countries:
-  - south-africa
+  - "[[south-africa]]"
 instruments:
-  - trumpet
+  - "[[trumpet]]"
 ---

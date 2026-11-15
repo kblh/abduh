@@ -1,8 +1,10 @@
 ---
 name: Bulut
+aliases:
+  - Bulut
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

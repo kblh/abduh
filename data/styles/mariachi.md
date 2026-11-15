@@ -1,3 +1,5 @@
 ---
 name: mariachi
+aliases:
+  - mariachi
 ---

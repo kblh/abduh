@@ -1,7 +1,9 @@
 ---
 name: Rhodopea Kaba Trio
+aliases:
+  - Rhodopea Kaba Trio
 countries:
-  - bulgaria
+  - "[[bulgaria]]"
 styles:
-  - a-capella
+  - "[[a-capella]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Brave Old World
+aliases:
+  - Brave Old World
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

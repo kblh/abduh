@@ -1,7 +1,9 @@
 ---
 name: Ba Cissoko
+aliases:
+  - Ba Cissoko
 countries:
-  - guinea
+  - "[[guinea]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

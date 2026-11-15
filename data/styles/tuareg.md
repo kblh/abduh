@@ -1,3 +1,5 @@
 ---
 name: tuareg
+aliases:
+  - tuareg
 ---

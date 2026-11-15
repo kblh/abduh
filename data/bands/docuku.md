@@ -1,5 +1,7 @@
 ---
 name: Docuku
+aliases:
+  - Docuku
 countries:
-  - czech
+  - "[[czech]]"
 ---

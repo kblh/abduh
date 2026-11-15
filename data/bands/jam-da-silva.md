@@ -1,7 +1,9 @@
 ---
 name: Jam da Silva
+aliases:
+  - Jam da Silva
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

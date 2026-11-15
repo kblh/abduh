@@ -1,7 +1,9 @@
 ---
 name: Vieux Diop
+aliases:
+  - Vieux Diop
 countries:
-  - senegal
+  - "[[senegal]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

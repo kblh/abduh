@@ -1,7 +1,9 @@
 ---
 name: Malick Pathe Sow
+aliases:
+  - Malick Pathe Sow
 countries:
-  - senegal
+  - "[[senegal]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

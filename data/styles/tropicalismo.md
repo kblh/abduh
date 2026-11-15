@@ -1,3 +1,5 @@
 ---
 name: tropicalismo
+aliases:
+  - tropicalismo
 ---

@@ -1,7 +1,9 @@
 ---
 name: Dub Syndicate
+aliases:
+  - Dub Syndicate
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - dub
+  - "[[dub]]"
 ---

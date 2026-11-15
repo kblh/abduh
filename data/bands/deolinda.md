@@ -1,5 +1,7 @@
 ---
 name: Deolinda
+aliases:
+  - Deolinda
 countries:
-  - portugal
+  - "[[portugal]]"
 ---

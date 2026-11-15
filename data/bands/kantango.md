@@ -1,7 +1,9 @@
 ---
 name: Kantango
+aliases:
+  - Kantango
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

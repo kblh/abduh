@@ -1,3 +1,5 @@
 ---
 name: psychedelic
+aliases:
+  - psychedelic
 ---

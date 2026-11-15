@@ -1,7 +1,9 @@
 ---
 name: Gilberto Gil
+aliases:
+  - Gilberto Gil
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - tropicalismo
+  - "[[tropicalismo]]"
 ---

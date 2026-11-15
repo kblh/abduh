@@ -1,8 +1,10 @@
 ---
 name: Barana & Co
+aliases:
+  - Barana & Co
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

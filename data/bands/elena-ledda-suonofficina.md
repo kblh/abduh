@@ -1,7 +1,9 @@
 ---
 name: Elena Ledda & Suonofficina
+aliases:
+  - Elena Ledda & Suonofficina
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

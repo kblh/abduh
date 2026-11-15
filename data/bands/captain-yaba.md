@@ -1,7 +1,9 @@
 ---
 name: Captain Yaba
+aliases:
+  - Captain Yaba
 countries:
-  - ghana
+  - "[[ghana]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

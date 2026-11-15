@@ -1,3 +1,5 @@
 ---
 name: sevdah
+aliases:
+  - sevdah
 ---

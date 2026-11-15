@@ -1,11 +1,13 @@
 ---
 name: Matthew Halsall
+aliases:
+  - Matthew Halsall
 countries:
-  - united-kingdom
+  - "[[united-kingdom]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - trumpet
+  - "[[trumpet]]"
 tags:
-  - manchester
+  - "[[manchester]]"
 ---

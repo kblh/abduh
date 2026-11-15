@@ -1,8 +1,10 @@
 ---
 name: Rumba de Bodas
+aliases:
+  - Rumba de Bodas
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
-  - funk
+  - "[[pizzica]]"
+  - "[[funk]]"
 ---

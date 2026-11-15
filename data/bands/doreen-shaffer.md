@@ -1,7 +1,9 @@
 ---
 name: Doreen Shaffer
+aliases:
+  - Doreen Shaffer
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Bulgarian State Female Choir
+aliases:
+  - Bulgarian State Female Choir
 countries:
-  - bulgaria
+  - "[[bulgaria]]"
 styles:
-  - a-capella
+  - "[[a-capella]]"
 ---

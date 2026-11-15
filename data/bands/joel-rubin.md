@@ -1,7 +1,9 @@
 ---
 name: Joel Rubin
+aliases:
+  - Joel Rubin
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

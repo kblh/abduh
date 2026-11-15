@@ -1,3 +1,5 @@
 ---
 name: sephardic
+aliases:
+  - sephardic
 ---

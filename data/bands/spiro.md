@@ -1,5 +1,7 @@
 ---
 name: Spiro
+aliases:
+  - Spiro
 countries:
-  - united-kingdom
+  - "[[united-kingdom]]"
 ---

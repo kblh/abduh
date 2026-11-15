@@ -1,10 +1,12 @@
 ---
 name: Buffy Sainte-Marie
+aliases:
+  - Buffy Sainte-Marie
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
-  - native
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
+  - "[[native]]"
 ---

@@ -1,6 +1,8 @@
 ---
 name: Bugotak
+aliases:
+  - Bugotak
 countries:
-  - tuva-russia
-  - russia
+  - "[[tuva-russia]]"
+  - "[[russia]]"
 ---

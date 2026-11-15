@@ -1,7 +1,9 @@
 ---
 name: Sheva
+aliases:
+  - Sheva
 countries:
-  - israel
+  - "[[israel]]"
 tags:
-  - politic
+  - "[[politic]]"
 ---

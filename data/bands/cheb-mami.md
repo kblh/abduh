@@ -1,7 +1,9 @@
 ---
 name: Cheb Mami
+aliases:
+  - Cheb Mami
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - rai
+  - "[[rai]]"
 ---

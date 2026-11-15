@@ -1,7 +1,9 @@
 ---
 name: Orquestra do Fuba
+aliases:
+  - Orquestra do Fuba
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,9 +1,11 @@
 ---
 name: Cabruera
+aliases:
+  - Cabruera
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - manguebit
+  - "[[manguebit]]"
 tags:
-  - pernambuco
+  - "[[pernambuco]]"
 ---

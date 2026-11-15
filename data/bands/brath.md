@@ -1,5 +1,7 @@
 ---
 name: Brath
+aliases:
+  - Brath
 countries:
-  - spain
+  - "[[spain]]"
 ---

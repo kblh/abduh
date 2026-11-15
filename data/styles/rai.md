@@ -1,3 +1,5 @@
 ---
 name: rai
+aliases:
+  - rai
 ---

@@ -1,7 +1,9 @@
 ---
 name: Jimmy Cliff
+aliases:
+  - Jimmy Cliff
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Grup Yorum
+aliases:
+  - Grup Yorum
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

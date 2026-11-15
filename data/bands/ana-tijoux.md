@@ -1,7 +1,9 @@
 ---
 name: Ana Tijoux
+aliases:
+  - Ana Tijoux
 countries:
-  - chile
+  - "[[chile]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

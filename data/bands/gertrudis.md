@@ -1,5 +1,7 @@
 ---
 name: Gertrudis
+aliases:
+  - Gertrudis
 countries:
-  - spain
+  - "[[spain]]"
 ---

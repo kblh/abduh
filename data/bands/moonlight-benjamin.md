@@ -1,9 +1,11 @@
 ---
 name: Moonlight Benjamin
+aliases:
+  - Moonlight Benjamin
 countries:
-  - haiti
+  - "[[haiti]]"
 styles:
-  - voodoo
+  - "[[voodoo]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

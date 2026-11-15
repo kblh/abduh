@@ -1,5 +1,7 @@
 ---
 name: Damba
+aliases:
+  - Damba
 countries:
-  - spain
+  - "[[spain]]"
 ---

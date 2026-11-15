@@ -1,7 +1,9 @@
 ---
 name: Tiago Sa
+aliases:
+  - Tiago Sa
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Keyvan Chemirani
+aliases:
+  - Keyvan Chemirani
 countries:
-  - iran
+  - "[[iran]]"
 instruments:
-  - perc
+  - "[[perc]]"
 ---

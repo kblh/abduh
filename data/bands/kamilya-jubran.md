@@ -1,7 +1,9 @@
 ---
 name: Kamilya Jubran
+aliases:
+  - Kamilya Jubran
 countries:
-  - palestine
+  - "[[palestine]]"
 instruments:
-  - oud
+  - "[[oud]]"
 ---

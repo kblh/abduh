@@ -1,7 +1,9 @@
 ---
 name: BO.DA
+aliases:
+  - BO.DA
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Manuel Galban
+aliases:
+  - Manuel Galban
 countries:
-  - cuba
+  - "[[cuba]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

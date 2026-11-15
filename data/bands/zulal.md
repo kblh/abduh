@@ -1,5 +1,7 @@
 ---
 name: Zulal
+aliases:
+  - Zulal
 countries:
-  - armenia
+  - "[[armenia]]"
 ---

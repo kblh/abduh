@@ -1,9 +1,11 @@
 ---
 name: Rodolphe Burger
+aliases:
+  - Rodolphe Burger
 countries:
-  - france
+  - "[[france]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 members:
   - Kat Onoma
 ---

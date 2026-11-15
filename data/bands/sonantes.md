@@ -1,7 +1,9 @@
 ---
 name: Sonantes
+aliases:
+  - Sonantes
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

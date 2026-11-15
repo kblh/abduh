@@ -1,3 +1,5 @@
 ---
 name: delhi
+aliases:
+  - delhi
 ---

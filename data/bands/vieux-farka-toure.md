@@ -1,9 +1,11 @@
 ---
 name: Vieux Farka Toure
+aliases:
+  - Vieux Farka Toure
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - blues
+  - "[[blues]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

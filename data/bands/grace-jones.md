@@ -1,7 +1,9 @@
 ---
 name: Grace Jones
+aliases:
+  - Grace Jones
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - ska
+  - "[[ska]]"
 ---

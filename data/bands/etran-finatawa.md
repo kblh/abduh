@@ -1,8 +1,10 @@
 ---
 name: Etran Finatawa
+aliases:
+  - Etran Finatawa
 countries:
-  - niger
+  - "[[niger]]"
 styles:
-  - tuareg
-  - wodaabe
+  - "[[tuareg]]"
+  - "[[wodaabe]]"
 ---

@@ -1,9 +1,11 @@
 ---
 name: Ayala Asherov
+aliases:
+  - Ayala Asherov
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

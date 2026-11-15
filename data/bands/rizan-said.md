@@ -1,8 +1,10 @@
 ---
 name: Rizan Said
+aliases:
+  - Rizan Said
 countries:
-  - syria
+  - "[[syria]]"
 instruments:
-  - keyboard
-  - piano
+  - "[[keyboard]]"
+  - "[[piano]]"
 ---

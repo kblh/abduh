@@ -1,7 +1,9 @@
 ---
 name: Luciana Oliveira
+aliases:
+  - Luciana Oliveira
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

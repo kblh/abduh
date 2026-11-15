@@ -1,7 +1,9 @@
 ---
 name: Ali Hassan Kuban
+aliases:
+  - Ali Hassan Kuban
 countries:
-  - egypt
+  - "[[egypt]]"
 styles:
-  - nubia
+  - "[[nubia]]"
 ---

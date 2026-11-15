@@ -1,7 +1,9 @@
 ---
 name: Flow MC
+aliases:
+  - Flow MC
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

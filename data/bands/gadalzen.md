@@ -1,5 +1,7 @@
 ---
 name: Gadalzen
+aliases:
+  - Gadalzen
 countries:
-  - france
+  - "[[france]]"
 ---

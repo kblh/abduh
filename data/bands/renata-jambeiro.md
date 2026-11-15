@@ -1,7 +1,9 @@
 ---
 name: Renata Jambeiro
+aliases:
+  - Renata Jambeiro
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

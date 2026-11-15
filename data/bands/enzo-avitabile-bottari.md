@@ -1,7 +1,9 @@
 ---
 name: Enzo Avitabile & Bottari
+aliases:
+  - Enzo Avitabile & Bottari
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

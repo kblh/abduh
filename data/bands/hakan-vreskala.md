@@ -1,8 +1,10 @@
 ---
 name: Hakan Vreskala
+aliases:
+  - Hakan Vreskala
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

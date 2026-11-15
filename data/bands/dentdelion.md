@@ -1,7 +1,9 @@
 ---
 name: Dentdelion
+aliases:
+  - Dentdelion
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - quebec
+  - "[[quebec]]"
 ---

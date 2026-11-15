@@ -1,7 +1,9 @@
 ---
 name: Trombone Shorty
+aliases:
+  - Trombone Shorty
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

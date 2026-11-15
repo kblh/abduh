@@ -1,5 +1,7 @@
 ---
 name: Burkina Faso
+aliases:
+  - Burkina Faso
 continent: africa
 flag: 🇧🇫
 ---

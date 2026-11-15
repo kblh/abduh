@@ -1,9 +1,11 @@
 ---
 name: Fatima Spar
+aliases:
+  - Fatima Spar
 countries:
-  - austria
+  - "[[austria]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 tags:
-  - turkish
+  - "[[turkish]]"
 ---

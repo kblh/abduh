@@ -1,8 +1,10 @@
 ---
 name: Zeynep Karababa
+aliases:
+  - Zeynep Karababa
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

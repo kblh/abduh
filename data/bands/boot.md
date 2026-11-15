@@ -1,5 +1,7 @@
 ---
 name: Boot
+aliases:
+  - Boot
 countries:
-  - sweden
+  - "[[sweden]]"
 ---

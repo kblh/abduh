@@ -1,9 +1,11 @@
 ---
 name: Mamadou Diabaté
+aliases:
+  - Mamadou Diabaté
 countries:
-  - burkina-faso
-  - mali
+  - "[[burkina-faso]]"
+  - "[[mali]]"
 instruments:
-  - balafon
-  - kora
+  - "[[balafon]]"
+  - "[[kora]]"
 ---

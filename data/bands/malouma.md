@@ -1,7 +1,9 @@
 ---
 name: Malouma
+aliases:
+  - Malouma
 countries:
-  - mauritania
+  - "[[mauritania]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

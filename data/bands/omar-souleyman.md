@@ -1,7 +1,9 @@
 ---
 name: Omar Souleyman
+aliases:
+  - Omar Souleyman
 countries:
-  - syria
+  - "[[syria]]"
 instruments:
-  - keyboard
+  - "[[keyboard]]"
 ---

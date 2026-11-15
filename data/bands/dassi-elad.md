@@ -1,7 +1,9 @@
 ---
 name: Dassi Elad
+aliases:
+  - Dassi Elad
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

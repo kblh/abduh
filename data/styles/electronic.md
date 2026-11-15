@@ -1,3 +1,5 @@
 ---
 name: electronic
+aliases:
+  - electronic
 ---

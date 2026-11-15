@@ -1,7 +1,9 @@
 ---
 name: Ben Sharpa
+aliases:
+  - Ben Sharpa
 countries:
-  - south-africa
+  - "[[south-africa]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

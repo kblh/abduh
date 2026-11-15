@@ -1,7 +1,9 @@
 ---
 name: Djelimady Tounkara
+aliases:
+  - Djelimady Tounkara
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Ruba Shamshoum
+aliases:
+  - Ruba Shamshoum
 countries:
-  - palestine
+  - "[[palestine]]"
 tags:
-  - woman
-  - dublin
+  - "[[woman]]"
+  - "[[dublin]]"
 ---

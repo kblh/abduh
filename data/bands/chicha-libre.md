@@ -1,7 +1,9 @@
 ---
 name: Chicha Libre
+aliases:
+  - Chicha Libre
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - latin
+  - "[[latin]]"
 ---

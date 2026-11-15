@@ -1,5 +1,7 @@
 ---
 name: Ankata
+aliases:
+  - Ankata
 countries:
-  - mali
+  - "[[mali]]"
 ---

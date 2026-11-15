@@ -1,8 +1,10 @@
 ---
 name: Nayan Ghosh
+aliases:
+  - Nayan Ghosh
 countries:
-  - india
+  - "[[india]]"
 instruments:
-  - tabla
-  - sitar
+  - "[[tabla]]"
+  - "[[sitar]]"
 ---

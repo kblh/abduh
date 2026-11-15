@@ -1,7 +1,9 @@
 ---
 name: Roy Paci & Aretuska
+aliases:
+  - Roy Paci & Aretuska
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Sväng
+aliases:
+  - Sväng
 countries:
-  - finland
+  - "[[finland]]"
 instruments:
-  - harmonica
+  - "[[harmonica]]"
 ---

@@ -1,3 +1,5 @@
 ---
 name: cumbia
+aliases:
+  - cumbia
 ---

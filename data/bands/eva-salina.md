@@ -1,11 +1,13 @@
 ---
 name: Eva Salina
+aliases:
+  - Eva Salina
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - balkan
+  - "[[balkan]]"
 instruments:
-  - accordion
+  - "[[accordion]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

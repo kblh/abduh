@@ -1,9 +1,11 @@
 ---
 name: Eero Grundström
+aliases:
+  - Eero Grundström
 countries:
-  - finland
+  - "[[finland]]"
 styles:
-  - harmonium
+  - "[[harmonium]]"
 instruments:
-  - harmonica
+  - "[[harmonica]]"
 ---

@@ -1,5 +1,7 @@
 ---
 name: Fred
+aliases:
+  - Fred
 countries:
-  - france
+  - "[[france]]"
 ---

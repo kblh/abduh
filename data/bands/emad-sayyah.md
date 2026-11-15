@@ -1,7 +1,9 @@
 ---
 name: Emad Sayyah
+aliases:
+  - Emad Sayyah
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

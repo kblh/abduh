@@ -1,7 +1,9 @@
 ---
 name: La Yegros
+aliases:
+  - La Yegros
 countries:
-  - argentina
+  - "[[argentina]]"
 styles:
-  - cumbia
+  - "[[cumbia]]"
 ---

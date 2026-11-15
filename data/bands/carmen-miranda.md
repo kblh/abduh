@@ -1,7 +1,9 @@
 ---
 name: Carmen Miranda
+aliases:
+  - Carmen Miranda
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - tropicalismo
+  - "[[tropicalismo]]"
 ---

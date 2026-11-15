@@ -1,5 +1,7 @@
 ---
 name: Malevaje
+aliases:
+  - Malevaje
 countries:
-  - spain
+  - "[[spain]]"
 ---

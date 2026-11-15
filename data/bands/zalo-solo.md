@@ -1,7 +1,9 @@
 ---
 name: Zalo Solo
+aliases:
+  - Zalo Solo
 countries:
-  - uruguay
+  - "[[uruguay]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

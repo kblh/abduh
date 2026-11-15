@@ -1,7 +1,9 @@
 ---
 name: Fiona Apple
+aliases:
+  - Fiona Apple
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - folk
+  - "[[folk]]"
 ---

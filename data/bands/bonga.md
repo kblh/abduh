@@ -1,7 +1,9 @@
 ---
 name: Bonga
+aliases:
+  - Bonga
 countries:
-  - angola
+  - "[[angola]]"
 tags:
-  - politic
+  - "[[politic]]"
 ---

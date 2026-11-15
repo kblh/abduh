@@ -1,8 +1,10 @@
 ---
 name: Erkin Koray
+aliases:
+  - Erkin Koray
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

@@ -1,10 +1,12 @@
 ---
 name: Jerry Gonzalez
+aliases:
+  - Jerry Gonzalez
 countries:
-  - usa
-  - puerto-rico
+  - "[[usa]]"
+  - "[[puerto-rico]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - trumpet
+  - "[[trumpet]]"
 ---

@@ -1,3 +1,5 @@
 ---
 name: jazz
+aliases:
+  - jazz
 ---

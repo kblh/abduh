@@ -1,5 +1,7 @@
 ---
 name: Soniquete
+aliases:
+  - Soniquete
 countries:
-  - spain
+  - "[[spain]]"
 ---

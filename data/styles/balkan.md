@@ -1,3 +1,5 @@
 ---
 name: balkan
+aliases:
+  - balkan
 ---

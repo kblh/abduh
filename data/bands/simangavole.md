@@ -1,7 +1,9 @@
 ---
 name: Simangavole
+aliases:
+  - Simangavole
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 styles:
-  - maloya
+  - "[[maloya]]"
 ---

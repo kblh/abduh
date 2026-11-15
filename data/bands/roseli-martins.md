@@ -1,7 +1,9 @@
 ---
 name: Roseli Martins
+aliases:
+  - Roseli Martins
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

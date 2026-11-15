@@ -1,8 +1,10 @@
 ---
 name: Gevende
+aliases:
+  - Gevende
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

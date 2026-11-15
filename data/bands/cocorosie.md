@@ -1,7 +1,9 @@
 ---
 name: CocoRosie
+aliases:
+  - CocoRosie
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - folk
+  - "[[folk]]"
 ---

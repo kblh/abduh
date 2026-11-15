@@ -1,9 +1,11 @@
 ---
 name: Carolina Chocolate Drops
+aliases:
+  - Carolina Chocolate Drops
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
 ---

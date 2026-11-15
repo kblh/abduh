@@ -1,8 +1,10 @@
 ---
 name: Minor Empire
+aliases:
+  - Minor Empire
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

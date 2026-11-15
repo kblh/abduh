@@ -1,8 +1,10 @@
 ---
 name: Nilufer Saritas
+aliases:
+  - Nilufer Saritas
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

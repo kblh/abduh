@@ -1,7 +1,9 @@
 ---
 name: Bachar Mar-Khalife
+aliases:
+  - Bachar Mar-Khalife
 countries:
-  - lebanon
+  - "[[lebanon]]"
 instruments:
-  - piano
+  - "[[piano]]"
 ---

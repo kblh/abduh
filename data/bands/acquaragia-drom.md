@@ -1,8 +1,10 @@
 ---
 name: Acquaragia Drom
+aliases:
+  - Acquaragia Drom
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
-  - gipsy
+  - "[[pizzica]]"
+  - "[[gipsy]]"
 ---

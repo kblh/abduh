@@ -1,9 +1,11 @@
 ---
 name: Sudan Archives
+aliases:
+  - Sudan Archives
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - folk
+  - "[[folk]]"
 instruments:
-  - violin
+  - "[[violin]]"
 ---

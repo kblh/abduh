@@ -1,7 +1,9 @@
 ---
 name: Dee Dee Bridgewater
+aliases:
+  - Dee Dee Bridgewater
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

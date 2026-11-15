@@ -1,7 +1,9 @@
 ---
 name: Rua
+aliases:
+  - Rua
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

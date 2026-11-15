@@ -1,7 +1,9 @@
 ---
 name: Eliane Elias
+aliases:
+  - Eliane Elias
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,9 +1,11 @@
 ---
 name: Badi Assad
+aliases:
+  - Badi Assad
 countries:
-  - brasil
+  - "[[brasil]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

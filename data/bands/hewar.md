@@ -1,5 +1,7 @@
 ---
 name: Hewar
+aliases:
+  - Hewar
 countries:
-  - syria
+  - "[[syria]]"
 ---

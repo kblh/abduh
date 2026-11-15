@@ -1,5 +1,7 @@
 ---
 name: Kabbalah
+aliases:
+  - Kabbalah
 countries:
-  - france
+  - "[[france]]"
 ---

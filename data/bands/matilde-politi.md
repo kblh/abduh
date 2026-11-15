@@ -1,7 +1,9 @@
 ---
 name: Matilde Politi
+aliases:
+  - Matilde Politi
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

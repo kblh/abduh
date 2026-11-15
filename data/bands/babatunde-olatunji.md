@@ -1,8 +1,10 @@
 ---
 name: Babatunde Olatunji
+aliases:
+  - Babatunde Olatunji
 countries:
-  - nigeria
-  - usa
+  - "[[nigeria]]"
+  - "[[usa]]"
 instruments:
-  - perc
+  - "[[perc]]"
 ---

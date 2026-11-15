@@ -1,7 +1,9 @@
 ---
 name: Karolina
+aliases:
+  - Karolina
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Melingo
+aliases:
+  - Melingo
 countries:
-  - argentina
+  - "[[argentina]]"
 styles:
-  - tango
+  - "[[tango]]"
 ---

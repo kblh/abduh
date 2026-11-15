@@ -1,9 +1,11 @@
 ---
 name: Samite
+aliases:
+  - Samite
 countries:
-  - uganda
-  - usa
+  - "[[uganda]]"
+  - "[[usa]]"
 instruments:
-  - flute
-  - kalimba
+  - "[[flute]]"
+  - "[[kalimba]]"
 ---

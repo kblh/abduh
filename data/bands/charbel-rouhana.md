@@ -1,7 +1,9 @@
 ---
 name: Charbel Rouhana
+aliases:
+  - Charbel Rouhana
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

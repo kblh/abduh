@@ -1,7 +1,9 @@
 ---
 name: Anoushka Shankar
+aliases:
+  - Anoushka Shankar
 countries:
-  - india
+  - "[[india]]"
 instruments:
-  - sitar
+  - "[[sitar]]"
 ---

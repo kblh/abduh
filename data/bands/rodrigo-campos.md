@@ -1,7 +1,9 @@
 ---
 name: Rodrigo Campos
+aliases:
+  - Rodrigo Campos
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

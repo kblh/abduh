@@ -1,7 +1,9 @@
 ---
 name: Tezeta
+aliases:
+  - Tezeta
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

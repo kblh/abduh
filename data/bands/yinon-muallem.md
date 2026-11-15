@@ -1,7 +1,9 @@
 ---
 name: Yinon Muallem
+aliases:
+  - Yinon Muallem
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Curumin
+aliases:
+  - Curumin
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

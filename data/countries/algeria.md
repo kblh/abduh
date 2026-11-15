@@ -1,5 +1,7 @@
 ---
 name: Algeria
+aliases:
+  - Algeria
 continent: africa
 flag: 🇩🇿
 ---

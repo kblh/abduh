@@ -1,7 +1,9 @@
 ---
 name: Criolo
+aliases:
+  - Criolo
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

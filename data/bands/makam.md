@@ -1,5 +1,7 @@
 ---
 name: Makam
+aliases:
+  - Makam
 countries:
-  - hungary
+  - "[[hungary]]"
 ---

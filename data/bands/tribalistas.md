@@ -1,7 +1,9 @@
 ---
 name: Tribalistas
+aliases:
+  - Tribalistas
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - samba
+  - "[[samba]]"
 ---

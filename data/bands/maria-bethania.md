@@ -1,7 +1,9 @@
 ---
 name: Maria Bethania
+aliases:
+  - Maria Bethania
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

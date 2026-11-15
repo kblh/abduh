@@ -1,7 +1,9 @@
 ---
 name: Seu Jorge & Almaz
+aliases:
+  - Seu Jorge & Almaz
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

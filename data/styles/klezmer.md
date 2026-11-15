@@ -1,3 +1,5 @@
 ---
 name: klezmer
+aliases:
+  - klezmer
 ---

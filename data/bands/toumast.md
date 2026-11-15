@@ -1,7 +1,9 @@
 ---
 name: Toumast
+aliases:
+  - Toumast
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - tuareg
+  - "[[tuareg]]"
 ---

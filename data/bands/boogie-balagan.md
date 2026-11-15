@@ -1,7 +1,9 @@
 ---
 name: Boogie Balagan
+aliases:
+  - Boogie Balagan
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

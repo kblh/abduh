@@ -1,8 +1,10 @@
 ---
 name: Orient Expressions
+aliases:
+  - Orient Expressions
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

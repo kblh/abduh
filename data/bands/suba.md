@@ -1,7 +1,9 @@
 ---
 name: Suba
+aliases:
+  - Suba
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

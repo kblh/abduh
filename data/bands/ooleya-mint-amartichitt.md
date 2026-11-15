@@ -1,9 +1,11 @@
 ---
 name: Ooleya Mint Amartichitt
+aliases:
+  - Ooleya Mint Amartichitt
 countries:
-  - mauritania
+  - "[[mauritania]]"
 instruments:
-  - ardin
+  - "[[ardin]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

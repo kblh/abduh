@@ -1,8 +1,10 @@
 ---
 name: Cedric Watson & Bijou Creole
+aliases:
+  - Cedric Watson & Bijou Creole
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - cajun
-  - zydeco
+  - "[[cajun]]"
+  - "[[zydeco]]"
 ---

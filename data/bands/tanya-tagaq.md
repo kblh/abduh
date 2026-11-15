@@ -1,8 +1,10 @@
 ---
 name: Tanya Tagaq
+aliases:
+  - Tanya Tagaq
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - blues
-  - inuit
+  - "[[blues]]"
+  - "[[inuit]]"
 ---

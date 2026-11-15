@@ -1,7 +1,9 @@
 ---
 name: La Squadra
+aliases:
+  - La Squadra
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

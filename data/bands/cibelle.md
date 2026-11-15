@@ -1,7 +1,9 @@
 ---
 name: Cibelle
+aliases:
+  - Cibelle
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

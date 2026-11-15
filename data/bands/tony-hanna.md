@@ -1,7 +1,9 @@
 ---
 name: Tony Hanna
+aliases:
+  - Tony Hanna
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

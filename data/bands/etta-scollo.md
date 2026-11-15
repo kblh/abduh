@@ -1,7 +1,9 @@
 ---
 name: Etta Scollo
+aliases:
+  - Etta Scollo
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

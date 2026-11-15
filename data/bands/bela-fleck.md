@@ -1,9 +1,11 @@
 ---
 name: Bela Fleck
+aliases:
+  - Bela Fleck
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
 ---

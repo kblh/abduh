@@ -1,7 +1,9 @@
 ---
 name: Wado
+aliases:
+  - Wado
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

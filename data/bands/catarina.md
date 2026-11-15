@@ -1,7 +1,9 @@
 ---
 name: Catarina
+aliases:
+  - Catarina
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,5 +1,7 @@
 ---
 name: IMG
+aliases:
+  - IMG
 countries:
-  - france
+  - "[[france]]"
 ---

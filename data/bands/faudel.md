@@ -1,7 +1,9 @@
 ---
 name: Faudel
+aliases:
+  - Faudel
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - rai
+  - "[[rai]]"
 ---

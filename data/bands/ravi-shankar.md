@@ -1,7 +1,9 @@
 ---
 name: Ravi Shankar
+aliases:
+  - Ravi Shankar
 countries:
-  - india
+  - "[[india]]"
 instruments:
-  - sitar
+  - "[[sitar]]"
 ---

@@ -1,5 +1,7 @@
 ---
 name: Chalga
+aliases:
+  - Chalga
 countries:
-  - hungary
+  - "[[hungary]]"
 ---

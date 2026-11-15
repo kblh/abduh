@@ -1,8 +1,10 @@
 ---
 name: Karmete
+aliases:
+  - Karmete
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

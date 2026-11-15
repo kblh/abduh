@@ -1,7 +1,9 @@
 ---
 name: Chango Spasiuk
+aliases:
+  - Chango Spasiuk
 countries:
-  - argentina
+  - "[[argentina]]"
 styles:
-  - tango
+  - "[[tango]]"
 ---

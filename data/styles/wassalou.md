@@ -1,3 +1,5 @@
 ---
 name: wassalou
+aliases:
+  - wassalou
 ---

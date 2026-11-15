@@ -1,8 +1,10 @@
 ---
 name: Raina Rai
+aliases:
+  - Raina Rai
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - berber
-  - gnawa
+  - "[[berber]]"
+  - "[[gnawa]]"
 ---

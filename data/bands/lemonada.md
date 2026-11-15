@@ -1,7 +1,9 @@
 ---
 name: Lemonada
+aliases:
+  - Lemonada
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

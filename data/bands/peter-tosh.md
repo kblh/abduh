@@ -1,7 +1,9 @@
 ---
 name: Peter Tosh
+aliases:
+  - Peter Tosh
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - raggae
+  - "[[raggae]]"
 ---

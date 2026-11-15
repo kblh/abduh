@@ -1,7 +1,9 @@
 ---
 name: Samba Toure
+aliases:
+  - Samba Toure
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

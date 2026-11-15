@@ -1,11 +1,13 @@
 ---
 name: Ali Farka Toure
+aliases:
+  - Ali Farka Toure
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - blues
+  - "[[blues]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 tags:
-  - niafunke
+  - "[[niafunke]]"
 ---

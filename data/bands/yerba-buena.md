@@ -1,7 +1,9 @@
 ---
 name: Yerba Buena
+aliases:
+  - Yerba Buena
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - latin
+  - "[[latin]]"
 ---

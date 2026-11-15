@@ -1,7 +1,9 @@
 ---
 name: Tim Maia
+aliases:
+  - Tim Maia
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Nomad
+aliases:
+  - Nomad
 bands:
-  - bombino
+  - "[[bombino]]"
 year: 2013
 label: Nonesuch
 image: cds/bombino-nomad.avif

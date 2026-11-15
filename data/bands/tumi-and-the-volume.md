@@ -1,7 +1,9 @@
 ---
 name: Tumi And The Volume
+aliases:
+  - Tumi And The Volume
 countries:
-  - south-africa
+  - "[[south-africa]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

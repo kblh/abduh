@@ -1,7 +1,9 @@
 ---
 name: Ecoalaize
+aliases:
+  - Ecoalaize
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

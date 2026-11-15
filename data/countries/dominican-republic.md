@@ -1,5 +1,7 @@
 ---
 name: Dominican Republic
+aliases:
+  - Dominican Republic
 continent: america
 flag: 🇩🇴
 ---

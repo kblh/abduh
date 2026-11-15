@@ -1,7 +1,9 @@
 ---
 name: Kerlox Dub Band
+aliases:
+  - Kerlox Dub Band
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

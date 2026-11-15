@@ -1,3 +1,5 @@
 ---
 name: congos
+aliases:
+  - congos
 ---

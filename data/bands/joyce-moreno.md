@@ -1,7 +1,9 @@
 ---
 name: Joyce Moreno
+aliases:
+  - Joyce Moreno
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

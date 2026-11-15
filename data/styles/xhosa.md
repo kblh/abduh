@@ -1,3 +1,5 @@
 ---
 name: xhosa
+aliases:
+  - xhosa
 ---

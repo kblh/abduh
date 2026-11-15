@@ -1,7 +1,9 @@
 ---
 name: Getatchew Mekurya
+aliases:
+  - Getatchew Mekurya
 countries:
-  - ethiopia
+  - "[[ethiopia]]"
 instruments:
-  - sax
+  - "[[sax]]"
 ---

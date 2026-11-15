@@ -1,9 +1,11 @@
 ---
 name: Abigail Washburn
+aliases:
+  - Abigail Washburn
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
 ---

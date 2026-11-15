@@ -1,7 +1,9 @@
 ---
 name: Tania Saleh
+aliases:
+  - Tania Saleh
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

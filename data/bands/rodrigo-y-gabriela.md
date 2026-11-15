@@ -1,7 +1,9 @@
 ---
 name: Rodrigo y Gabriela
+aliases:
+  - Rodrigo y Gabriela
 countries:
-  - mexico
+  - "[[mexico]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

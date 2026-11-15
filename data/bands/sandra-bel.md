@@ -1,7 +1,9 @@
 ---
 name: Sandra Bel
+aliases:
+  - Sandra Bel
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

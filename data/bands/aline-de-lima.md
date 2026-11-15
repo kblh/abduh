@@ -1,7 +1,9 @@
 ---
 name: Aline De Lima
+aliases:
+  - Aline De Lima
 countries:
-  - brasil
+  - "[[brasil]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

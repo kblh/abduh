@@ -1,7 +1,9 @@
 ---
 name: Kanazoé Orkestra
+aliases:
+  - Kanazoé Orkestra
 countries:
-  - burkina-faso
+  - "[[burkina-faso]]"
 instruments:
-  - balafon
+  - "[[balafon]]"
 ---

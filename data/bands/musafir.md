@@ -1,9 +1,11 @@
 ---
 name: Musafir
+aliases:
+  - Musafir
 countries:
-  - india
+  - "[[india]]"
 styles:
-  - rock
+  - "[[rock]]"
 instruments:
-  - delhi
+  - "[[delhi]]"
 ---

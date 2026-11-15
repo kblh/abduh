@@ -1,7 +1,9 @@
 ---
 name: Amal Murkus
+aliases:
+  - Amal Murkus
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

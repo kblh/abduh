@@ -1,3 +1,5 @@
 ---
 name: blind
+aliases:
+  - blind
 ---

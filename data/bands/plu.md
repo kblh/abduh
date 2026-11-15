@@ -1,5 +1,7 @@
 ---
 name: Plu
+aliases:
+  - Plu
 countries:
-  - united-kingdom
+  - "[[united-kingdom]]"
 ---

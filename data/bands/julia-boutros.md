@@ -1,7 +1,9 @@
 ---
 name: Julia Boutros
+aliases:
+  - Julia Boutros
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

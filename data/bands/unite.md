@@ -1,5 +1,7 @@
 ---
 name: Unite
+aliases:
+  - Unite
 countries:
-  - united-kingdom
+  - "[[united-kingdom]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Sorie Kondi
+aliases:
+  - Sorie Kondi
 countries:
-  - sierra-leone
+  - "[[sierra-leone]]"
 instruments:
-  - kondi
+  - "[[kondi]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Paloma del Cerro
+aliases:
+  - Paloma del Cerro
 countries:
-  - argentina
+  - "[[argentina]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

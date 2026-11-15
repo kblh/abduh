@@ -1,7 +1,9 @@
 ---
 name: Mercedes Sosa
+aliases:
+  - Mercedes Sosa
 countries:
-  - argentina
+  - "[[argentina]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

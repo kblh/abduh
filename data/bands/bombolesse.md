@@ -1,5 +1,7 @@
 ---
 name: Bombolesse
+aliases:
+  - Bombolesse
 countries:
-  - canada
+  - "[[canada]]"
 ---

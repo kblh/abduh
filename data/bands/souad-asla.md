@@ -1,8 +1,10 @@
 ---
 name: Souad Asla
+aliases:
+  - Souad Asla
 countries:
-  - algeria
+  - "[[algeria]]"
 styles:
-  - berber
-  - gnawa
+  - "[[berber]]"
+  - "[[gnawa]]"
 ---

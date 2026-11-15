@@ -1,5 +1,7 @@
 ---
 name: Caligagan
+aliases:
+  - Caligagan
 countries:
-  - france
+  - "[[france]]"
 ---

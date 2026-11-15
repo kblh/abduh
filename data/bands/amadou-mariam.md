@@ -1,10 +1,12 @@
 ---
 name: Amadou & Mariam
+aliases:
+  - Amadou & Mariam
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - diaspora
-  - blind
+  - "[[diaspora]]"
+  - "[[blind]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

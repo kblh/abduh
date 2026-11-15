@@ -1,7 +1,9 @@
 ---
 name: The Ragbirds
+aliases:
+  - The Ragbirds
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - folk
+  - "[[folk]]"
 ---

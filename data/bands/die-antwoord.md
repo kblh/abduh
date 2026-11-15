@@ -1,8 +1,10 @@
 ---
 name: Die Antwoord
+aliases:
+  - Die Antwoord
 countries:
-  - south-africa
+  - "[[south-africa]]"
 styles:
-  - rave
-  - rap
+  - "[[rave]]"
+  - "[[rap]]"
 ---

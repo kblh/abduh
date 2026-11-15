@@ -1,5 +1,7 @@
 ---
 name: Tunisia
+aliases:
+  - Tunisia
 continent: africa
 flag: 🇹🇳
 ---

@@ -1,5 +1,7 @@
 ---
 name: Lira
+aliases:
+  - Lira
 countries:
-  - south-africa
+  - "[[south-africa]]"
 ---

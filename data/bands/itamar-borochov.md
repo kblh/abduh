@@ -1,9 +1,11 @@
 ---
 name: Itamar Borochov
+aliases:
+  - Itamar Borochov
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - trumpet
+  - "[[trumpet]]"
 ---

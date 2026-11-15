@@ -1,7 +1,9 @@
 ---
 name: Ze Renato
+aliases:
+  - Ze Renato
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

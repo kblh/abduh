@@ -1,7 +1,9 @@
 ---
 name: Herbie Hancock
+aliases:
+  - Herbie Hancock
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

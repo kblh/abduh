@@ -1,7 +1,9 @@
 ---
 name: Soriba Kouyate
+aliases:
+  - Soriba Kouyate
 countries:
-  - senegal
+  - "[[senegal]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

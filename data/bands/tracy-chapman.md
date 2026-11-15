@@ -1,7 +1,9 @@
 ---
 name: Tracy Chapman
+aliases:
+  - Tracy Chapman
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - folk
+  - "[[folk]]"
 ---

@@ -1,3 +1,5 @@
 ---
 name: balafon
+aliases:
+  - balafon
 ---

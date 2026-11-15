@@ -1,5 +1,7 @@
 ---
 name: Nevoa
+aliases:
+  - Nevoa
 countries:
-  - portugal
+  - "[[portugal]]"
 ---

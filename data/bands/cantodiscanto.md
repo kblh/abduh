@@ -1,7 +1,9 @@
 ---
 name: Cantodiscanto
+aliases:
+  - Cantodiscanto
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

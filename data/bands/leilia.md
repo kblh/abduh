@@ -1,5 +1,7 @@
 ---
 name: Leilia
+aliases:
+  - Leilia
 countries:
-  - spain
+  - "[[spain]]"
 ---

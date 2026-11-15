@@ -1,10 +1,12 @@
 ---
 name: Mitra Sumara
+aliases:
+  - Mitra Sumara
 countries:
-  - iran
-  - usa
+  - "[[iran]]"
+  - "[[usa]]"
 styles:
-  - diaspora
-  - farsi
-  - funk
+  - "[[diaspora]]"
+  - "[[farsi]]"
+  - "[[funk]]"
 ---

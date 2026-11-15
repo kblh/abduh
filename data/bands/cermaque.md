@@ -1,5 +1,7 @@
 ---
 name: Cermaque
+aliases:
+  - Cermaque
 countries:
-  - czech
+  - "[[czech]]"
 ---

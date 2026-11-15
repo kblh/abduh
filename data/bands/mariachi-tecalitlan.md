@@ -1,8 +1,10 @@
 ---
 name: Mariachi Tecalitlan
+aliases:
+  - Mariachi Tecalitlan
 countries:
-  - mexico
+  - "[[mexico]]"
 styles:
-  - mariachi
-  - brass
+  - "[[mariachi]]"
+  - "[[brass]]"
 ---

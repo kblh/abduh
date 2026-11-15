@@ -1,7 +1,9 @@
 ---
 name: Jeszcze Raz
+aliases:
+  - Jeszcze Raz
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

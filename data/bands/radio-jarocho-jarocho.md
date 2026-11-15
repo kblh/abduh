@@ -1,8 +1,10 @@
 ---
 name: Radio Jarocho jarocho
+aliases:
+  - Radio Jarocho jarocho
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - latin
-  - son
+  - "[[latin]]"
+  - "[[son]]"
 ---

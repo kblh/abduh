@@ -1,7 +1,9 @@
 ---
 name: David Krakauer
+aliases:
+  - David Krakauer
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

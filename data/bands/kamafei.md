@@ -1,7 +1,9 @@
 ---
 name: Kamafei
+aliases:
+  - Kamafei
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

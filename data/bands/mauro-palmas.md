@@ -1,7 +1,9 @@
 ---
 name: Mauro Palmas
+aliases:
+  - Mauro Palmas
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

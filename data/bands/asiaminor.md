@@ -1,8 +1,10 @@
 ---
 name: Asiaminor
+aliases:
+  - Asiaminor
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

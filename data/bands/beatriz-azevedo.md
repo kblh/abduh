@@ -1,10 +1,12 @@
 ---
 name: Beatriz Azevedo
+aliases:
+  - Beatriz Azevedo
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - samba
+  - "[[samba]]"
 tags:
-  - woman
-  - poet
+  - "[[woman]]"
+  - "[[poet]]"
 ---

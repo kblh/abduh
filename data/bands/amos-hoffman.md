@@ -1,9 +1,11 @@
 ---
 name: Amos Hoffman
+aliases:
+  - Amos Hoffman
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - oud
+  - "[[oud]]"
 ---

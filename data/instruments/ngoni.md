@@ -1,3 +1,5 @@
 ---
 name: ngoni
+aliases:
+  - ngoni
 ---

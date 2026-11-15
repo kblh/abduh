@@ -1,5 +1,7 @@
 ---
 name: Intik
+aliases:
+  - Intik
 countries:
-  - france
+  - "[[france]]"
 ---

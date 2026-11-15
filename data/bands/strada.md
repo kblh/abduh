@@ -1,7 +1,9 @@
 ---
 name: Strada
+aliases:
+  - Strada
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - quebec
+  - "[[quebec]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Abidin Ensemble
+aliases:
+  - Abidin Ensemble
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

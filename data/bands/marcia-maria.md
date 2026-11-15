@@ -1,7 +1,9 @@
 ---
 name: Marcia Maria
+aliases:
+  - Marcia Maria
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,7 +1,9 @@
 ---
 name: Frank London
+aliases:
+  - Frank London
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

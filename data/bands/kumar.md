@@ -1,7 +1,9 @@
 ---
 name: Kumar
+aliases:
+  - Kumar
 countries:
-  - cuba
+  - "[[cuba]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

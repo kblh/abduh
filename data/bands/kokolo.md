@@ -1,7 +1,9 @@
 ---
 name: Kokolo
+aliases:
+  - Kokolo
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Bendeniz
+aliases:
+  - Bendeniz
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

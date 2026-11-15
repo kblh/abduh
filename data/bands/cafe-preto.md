@@ -1,7 +1,9 @@
 ---
 name: Cafe Preto
+aliases:
+  - Cafe Preto
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

@@ -1,5 +1,7 @@
 ---
 name: Zuri
+aliases:
+  - Zuri
 countries:
-  - spain
+  - "[[spain]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Dubioza kolektiv
+aliases:
+  - Dubioza kolektiv
 countries:
-  - bosnia
+  - "[[bosnia]]"
 styles:
-  - ska
-  - brass
+  - "[[ska]]"
+  - "[[brass]]"
 ---

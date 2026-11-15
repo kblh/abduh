@@ -1,10 +1,12 @@
 ---
 name: La 25e Corde
+aliases:
+  - La 25e Corde
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 styles:
-  - fusion
+  - "[[fusion]]"
 instruments:
-  - kora
-  - violin
+  - "[[kora]]"
+  - "[[violin]]"
 ---

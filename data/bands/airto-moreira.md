@@ -1,9 +1,11 @@
 ---
 name: Airto Moreira
+aliases:
+  - Airto Moreira
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - drums
+  - "[[drums]]"
 ---

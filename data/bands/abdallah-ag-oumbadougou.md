@@ -1,7 +1,9 @@
 ---
 name: Abdallah ag Oumbadougou
+aliases:
+  - Abdallah ag Oumbadougou
 countries:
-  - niger
+  - "[[niger]]"
 styles:
-  - tuareg
+  - "[[tuareg]]"
 ---

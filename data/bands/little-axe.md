@@ -1,7 +1,9 @@
 ---
 name: Little Axe
+aliases:
+  - Little Axe
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - blues
+  - "[[blues]]"
 ---

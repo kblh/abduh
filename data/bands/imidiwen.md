@@ -1,7 +1,9 @@
 ---
 name: Imidiwen
+aliases:
+  - Imidiwen
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - tuareg
+  - "[[tuareg]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Kirika
+aliases:
+  - Kirika
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

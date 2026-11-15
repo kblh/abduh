@@ -1,7 +1,9 @@
 ---
 name: Irving Fields Trio
+aliases:
+  - Irving Fields Trio
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

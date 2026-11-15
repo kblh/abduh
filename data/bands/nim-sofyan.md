@@ -1,9 +1,11 @@
 ---
 name: Nim Sofyan
+aliases:
+  - Nim Sofyan
 countries:
-  - australia
-  - turkey
+  - "[[australia]]"
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

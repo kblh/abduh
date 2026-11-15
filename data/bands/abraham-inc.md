@@ -1,7 +1,9 @@
 ---
 name: Abraham Inc.
+aliases:
+  - Abraham Inc.
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

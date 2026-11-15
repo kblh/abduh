@@ -1,7 +1,9 @@
 ---
 name: Toumani Diabate
+aliases:
+  - Toumani Diabate
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

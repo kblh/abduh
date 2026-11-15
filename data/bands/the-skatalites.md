@@ -1,7 +1,9 @@
 ---
 name: The Skatalites
+aliases:
+  - The Skatalites
 countries:
-  - jamaica
+  - "[[jamaica]]"
 styles:
-  - ska
+  - "[[ska]]"
 ---

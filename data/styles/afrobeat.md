@@ -1,3 +1,5 @@
 ---
 name: afrobeat
+aliases:
+  - afrobeat
 ---

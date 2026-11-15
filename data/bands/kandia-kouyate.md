@@ -1,9 +1,11 @@
 ---
 name: Kandia Kouyate
+aliases:
+  - Kandia Kouyate
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - kora
+  - "[[kora]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

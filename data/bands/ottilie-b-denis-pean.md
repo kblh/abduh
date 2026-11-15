@@ -1,7 +1,9 @@
 ---
 name: OTTiLiE [B] + Denis Pean
+aliases:
+  - OTTiLiE [B] + Denis Pean
 countries:
-  - france
+  - "[[france]]"
 tags:
-  - marseille
+  - "[[marseille]]"
 ---

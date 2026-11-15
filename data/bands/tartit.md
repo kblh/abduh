@@ -1,7 +1,9 @@
 ---
 name: Tartit
+aliases:
+  - Tartit
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - tuareg
+  - "[[tuareg]]"
 ---

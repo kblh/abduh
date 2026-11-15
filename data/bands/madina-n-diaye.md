@@ -1,11 +1,13 @@
 ---
 name: Madina N'Diaye
+aliases:
+  - Madina N'Diaye
 countries:
-  - mali
+  - "[[mali]]"
 styles:
-  - blind
+  - "[[blind]]"
 instruments:
-  - kora
+  - "[[kora]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

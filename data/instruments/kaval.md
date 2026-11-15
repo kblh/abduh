@@ -1,3 +1,5 @@
 ---
 name: kaval
+aliases:
+  - kaval
 ---

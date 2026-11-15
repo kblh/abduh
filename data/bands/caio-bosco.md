@@ -1,7 +1,9 @@
 ---
 name: Caio Bosco
+aliases:
+  - Caio Bosco
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

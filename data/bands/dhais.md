@@ -1,5 +1,7 @@
 ---
 name: Dhais
+aliases:
+  - Dhais
 countries:
-  - spain
+  - "[[spain]]"
 ---

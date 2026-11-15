@@ -1,7 +1,9 @@
 ---
 name: Kalascima
+aliases:
+  - Kalascima
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

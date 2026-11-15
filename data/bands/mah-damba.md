@@ -1,7 +1,9 @@
 ---
 name: Mah Damba
+aliases:
+  - Mah Damba
 countries:
-  - mali
+  - "[[mali]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

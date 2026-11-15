@@ -1,7 +1,9 @@
 ---
 name: Ladysmith Black Mambazo
+aliases:
+  - Ladysmith Black Mambazo
 countries:
-  - south-africa
+  - "[[south-africa]]"
 styles:
-  - a-capella
+  - "[[a-capella]]"
 ---

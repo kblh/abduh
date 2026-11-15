@@ -1,8 +1,10 @@
 ---
 name: Nedret Ural
+aliases:
+  - Nedret Ural
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

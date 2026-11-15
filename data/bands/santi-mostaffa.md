@@ -1,7 +1,9 @@
 ---
 name: Santi Mostaffa
+aliases:
+  - Santi Mostaffa
 countries:
-  - uruguay
+  - "[[uruguay]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

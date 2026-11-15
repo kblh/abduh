@@ -1,7 +1,9 @@
 ---
 name: Gasper
+aliases:
+  - Gasper
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

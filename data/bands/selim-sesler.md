@@ -1,8 +1,10 @@
 ---
 name: Selim Sesler
+aliases:
+  - Selim Sesler
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

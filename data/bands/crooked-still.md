@@ -1,9 +1,11 @@
 ---
 name: Crooked Still
+aliases:
+  - Crooked Still
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
 ---

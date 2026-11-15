@@ -1,7 +1,9 @@
 ---
 name: Issa Hassan
+aliases:
+  - Issa Hassan
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

@@ -1,3 +1,5 @@
 ---
 name: ladino
+aliases:
+  - ladino
 ---

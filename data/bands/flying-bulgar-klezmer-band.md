@@ -1,7 +1,9 @@
 ---
 name: Flying Bulgar Klezmer Band
+aliases:
+  - Flying Bulgar Klezmer Band
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

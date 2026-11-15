@@ -1,5 +1,7 @@
 ---
 name: Moulettes
+aliases:
+  - Moulettes
 countries:
-  - united-kingdom
+  - "[[united-kingdom]]"
 ---

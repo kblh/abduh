@@ -1,8 +1,10 @@
 ---
 name: Mikail Aslan
+aliases:
+  - Mikail Aslan
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

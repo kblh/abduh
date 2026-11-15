@@ -1,3 +1,5 @@
 ---
 name: punjabi
+aliases:
+  - punjabi
 ---

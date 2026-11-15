@@ -1,7 +1,9 @@
 ---
 name: Baciamolemani
+aliases:
+  - Baciamolemani
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

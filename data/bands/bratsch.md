@@ -1,5 +1,7 @@
 ---
 name: Bratsch
+aliases:
+  - Bratsch
 countries:
-  - france
+  - "[[france]]"
 ---

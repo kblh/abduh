@@ -1,5 +1,7 @@
 ---
 name: Hradistan
+aliases:
+  - Hradistan
 countries:
-  - czech
+  - "[[czech]]"
 ---

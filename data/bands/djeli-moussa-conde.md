@@ -1,7 +1,9 @@
 ---
 name: Djeli Moussa Conde
+aliases:
+  - Djeli Moussa Conde
 countries:
-  - guinea
+  - "[[guinea]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

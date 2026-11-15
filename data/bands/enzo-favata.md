@@ -1,7 +1,9 @@
 ---
 name: Enzo Favata
+aliases:
+  - Enzo Favata
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

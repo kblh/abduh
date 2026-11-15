@@ -1,7 +1,9 @@
 ---
 name: Chick Corea
+aliases:
+  - Chick Corea
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

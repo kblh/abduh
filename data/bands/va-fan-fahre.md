@@ -1,7 +1,9 @@
 ---
 name: Va Fan Fahre
+aliases:
+  - Va Fan Fahre
 countries:
-  - belgium
+  - "[[belgium]]"
 styles:
-  - brass
+  - "[[brass]]"
 ---

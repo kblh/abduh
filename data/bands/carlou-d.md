@@ -1,7 +1,9 @@
 ---
 name: Carlou D
+aliases:
+  - Carlou D
 countries:
-  - senegal
+  - "[[senegal]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

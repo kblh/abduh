@@ -1,5 +1,7 @@
 ---
 name: Fofoulah
+aliases:
+  - Fofoulah
 countries:
-  - senegal
+  - "[[senegal]]"
 ---

@@ -1,9 +1,11 @@
 ---
 name: Gangstagrass
+aliases:
+  - Gangstagrass
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
 ---

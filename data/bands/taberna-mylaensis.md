@@ -1,7 +1,9 @@
 ---
 name: Taberna Mylaensis
+aliases:
+  - Taberna Mylaensis
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

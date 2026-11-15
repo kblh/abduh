@@ -1,3 +1,5 @@
 ---
 name: dublin
+aliases:
+  - dublin
 ---

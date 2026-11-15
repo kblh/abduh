@@ -1,9 +1,11 @@
 ---
 name: Moondog
+aliases:
+  - Moondog
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - folk
+  - "[[folk]]"
 tags:
-  - new-york
+  - "[[new-york]]"
 ---

@@ -1,11 +1,13 @@
 ---
 name: Dorothy Ashby
+aliases:
+  - Dorothy Ashby
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - harp
+  - "[[harp]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

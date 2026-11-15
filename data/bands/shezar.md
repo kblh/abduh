@@ -1,5 +1,7 @@
 ---
 name: Shezar
+aliases:
+  - Shezar
 countries:
-  - syria
+  - "[[syria]]"
 ---

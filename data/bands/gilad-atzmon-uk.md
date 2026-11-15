@@ -1,10 +1,12 @@
 ---
 name: Gilad Atzmon uk
+aliases:
+  - Gilad Atzmon uk
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
-  - diaspora
+  - "[[sephardic]]"
+  - "[[diaspora]]"
 instruments:
-  - sax
+  - "[[sax]]"
 ---

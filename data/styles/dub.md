@@ -1,3 +1,5 @@
 ---
 name: dub
+aliases:
+  - dub
 ---

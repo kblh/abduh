@@ -1,7 +1,9 @@
 ---
 name: Joni Haastrup
+aliases:
+  - Joni Haastrup
 countries:
-  - nigeria
+  - "[[nigeria]]"
 styles:
-  - afro-funk
+  - "[[afro-funk]]"
 ---

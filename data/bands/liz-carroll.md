@@ -1,9 +1,11 @@
 ---
 name: Liz Carroll
+aliases:
+  - Liz Carroll
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
 ---

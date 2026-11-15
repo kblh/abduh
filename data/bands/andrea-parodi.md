@@ -1,7 +1,9 @@
 ---
 name: Andrea Parodi
+aliases:
+  - Andrea Parodi
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

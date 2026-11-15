@@ -1,7 +1,9 @@
 ---
 name: Bon Débarras
+aliases:
+  - Bon Débarras
 countries:
-  - canada
+  - "[[canada]]"
 styles:
-  - quebec
+  - "[[quebec]]"
 ---

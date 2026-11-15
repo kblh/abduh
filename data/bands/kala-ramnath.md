@@ -1,7 +1,9 @@
 ---
 name: Kala Ramnath
+aliases:
+  - Kala Ramnath
 countries:
-  - india
+  - "[[india]]"
 instruments:
-  - violin
+  - "[[violin]]"
 ---

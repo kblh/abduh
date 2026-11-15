@@ -1,7 +1,9 @@
 ---
 name: Toufic Farroukh
+aliases:
+  - Toufic Farroukh
 countries:
-  - lebanon
+  - "[[lebanon]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 ---

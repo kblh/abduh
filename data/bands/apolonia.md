@@ -1,7 +1,9 @@
 ---
 name: Apolonia
+aliases:
+  - Apolonia
 countries:
-  - reunion-france
+  - "[[reunion-france]]"
 styles:
-  - sega
+  - "[[sega]]"
 ---

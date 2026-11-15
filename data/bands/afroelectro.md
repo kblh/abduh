@@ -1,7 +1,9 @@
 ---
 name: Afroelectro
+aliases:
+  - Afroelectro
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - afrobeat
+  - "[[afrobeat]]"
 ---

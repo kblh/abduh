@@ -1,9 +1,11 @@
 ---
 name: La Cumbia Chicharra
+aliases:
+  - La Cumbia Chicharra
 countries:
-  - france
+  - "[[france]]"
 styles:
-  - cumbia
+  - "[[cumbia]]"
 tags:
-  - marseille
+  - "[[marseille]]"
 ---

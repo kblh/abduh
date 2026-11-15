@@ -1,7 +1,9 @@
 ---
 name: Seu Jorge
+aliases:
+  - Seu Jorge
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

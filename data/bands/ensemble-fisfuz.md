@@ -1,8 +1,10 @@
 ---
 name: Ensemble Fisfuz
+aliases:
+  - Ensemble Fisfuz
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---

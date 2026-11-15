@@ -1,7 +1,9 @@
 ---
 name: Matchless
+aliases:
+  - Matchless
 bands:
-  - deep-cabaret
+  - "[[deep-cabaret]]"
 year: 2020
 image: cds/deep-cabaret-matchless.avif
 image_source: https://deepcabaret.bandcamp.com/album/matchless-reissue

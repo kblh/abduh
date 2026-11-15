@@ -1,7 +1,9 @@
 ---
 name: Buena Vista Social Club
+aliases:
+  - Buena Vista Social Club
 countries:
-  - cuba
+  - "[[cuba]]"
 members:
   - Compay Segundo
   - Eliades Ochoa

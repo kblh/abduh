@@ -1,7 +1,9 @@
 ---
 name: Joanna Newsom
+aliases:
+  - Joanna Newsom
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - folk
+  - "[[folk]]"
 ---

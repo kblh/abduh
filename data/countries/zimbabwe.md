@@ -1,5 +1,7 @@
 ---
 name: Zimbabwe
+aliases:
+  - Zimbabwe
 continent: africa
 flag: 🇿🇼
 ---

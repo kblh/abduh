@@ -1,7 +1,9 @@
 ---
 name: Nahawa Doumbia
+aliases:
+  - Nahawa Doumbia
 countries:
-  - mali
+  - "[[mali]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

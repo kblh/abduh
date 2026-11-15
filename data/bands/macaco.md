@@ -1,5 +1,7 @@
 ---
 name: Macaco
+aliases:
+  - Macaco
 countries:
-  - spain
+  - "[[spain]]"
 ---

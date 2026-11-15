@@ -1,5 +1,7 @@
 ---
 name: Selvaganesh
+aliases:
+  - Selvaganesh
 countries:
-  - india
+  - "[[india]]"
 ---

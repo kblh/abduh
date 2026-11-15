@@ -1,7 +1,9 @@
 ---
 name: Rita Botto
+aliases:
+  - Rita Botto
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

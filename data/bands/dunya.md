@@ -1,5 +1,7 @@
 ---
 name: Dunya
+aliases:
+  - Dunya
 countries:
-  - france
+  - "[[france]]"
 ---

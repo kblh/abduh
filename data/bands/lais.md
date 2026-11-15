@@ -1,7 +1,9 @@
 ---
 name: Laïs
+aliases:
+  - Laïs
 countries:
-  - belgium
+  - "[[belgium]]"
 styles:
-  - a-capella
+  - "[[a-capella]]"
 ---

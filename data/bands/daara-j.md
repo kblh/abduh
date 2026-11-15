@@ -1,7 +1,9 @@
 ---
 name: Daara J
+aliases:
+  - Daara J
 countries:
-  - senegal
+  - "[[senegal]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

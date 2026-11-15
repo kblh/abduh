@@ -1,10 +1,12 @@
 ---
 name: Lolomis
+aliases:
+  - Lolomis
 countries:
-  - france
+  - "[[france]]"
 styles:
-  - balkan
+  - "[[balkan]]"
 instruments:
-  - flute
-  - harp
+  - "[[flute]]"
+  - "[[harp]]"
 ---

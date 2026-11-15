@@ -1,5 +1,7 @@
 ---
 name: Norig
+aliases:
+  - Norig
 countries:
-  - france
+  - "[[france]]"
 ---

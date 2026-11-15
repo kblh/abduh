@@ -1,7 +1,9 @@
 ---
 name: Boom Pam
+aliases:
+  - Boom Pam
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - surf
+  - "[[surf]]"
 ---

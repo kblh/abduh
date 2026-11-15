@@ -1,3 +1,5 @@
 ---
 name: organ
+aliases:
+  - organ
 ---

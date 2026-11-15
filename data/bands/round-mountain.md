@@ -1,9 +1,11 @@
 ---
 name: Round Mountain
+aliases:
+  - Round Mountain
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - country
-  - bluegrass
-  - appalachian
+  - "[[country]]"
+  - "[[bluegrass]]"
+  - "[[appalachian]]"
 ---

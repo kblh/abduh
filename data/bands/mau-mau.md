@@ -1,7 +1,9 @@
 ---
 name: Mau Mau
+aliases:
+  - Mau Mau
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

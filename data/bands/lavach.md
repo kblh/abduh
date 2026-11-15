@@ -1,5 +1,7 @@
 ---
 name: Lavach
+aliases:
+  - Lavach
 countries:
-  - france
+  - "[[france]]"
 ---

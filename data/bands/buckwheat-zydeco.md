@@ -1,8 +1,10 @@
 ---
 name: Buckwheat Zydeco
+aliases:
+  - Buckwheat Zydeco
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - cajun
-  - zydeco
+  - "[[cajun]]"
+  - "[[zydeco]]"
 ---

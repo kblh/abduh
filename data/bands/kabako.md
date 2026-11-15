@@ -1,7 +1,9 @@
 ---
 name: Kabako
+aliases:
+  - Kabako
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

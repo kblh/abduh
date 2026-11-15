@@ -1,7 +1,9 @@
 ---
 name: Golem
+aliases:
+  - Golem
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - klezmer
+  - "[[klezmer]]"
 ---

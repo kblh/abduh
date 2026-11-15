@@ -1,7 +1,9 @@
 ---
 name: Trio Mocoto
+aliases:
+  - Trio Mocoto
 countries:
-  - brasil
+  - "[[brasil]]"
 styles:
-  - mpb
+  - "[[mpb]]"
 ---

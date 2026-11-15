@@ -1,7 +1,9 @@
 ---
 name: Youngblood Brass Band
+aliases:
+  - Youngblood Brass Band
 countries:
-  - usa
+  - "[[usa]]"
 styles:
-  - brass
+  - "[[brass]]"
 ---

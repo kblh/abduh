@@ -1,7 +1,9 @@
 ---
 name: Kruzenshtern & Parohod
+aliases:
+  - Kruzenshtern & Parohod
 countries:
-  - israel
+  - "[[israel]]"
 styles:
-  - sephardic
+  - "[[sephardic]]"
 ---

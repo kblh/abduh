@@ -1,7 +1,9 @@
 ---
 name: Unavantaluna
+aliases:
+  - Unavantaluna
 countries:
-  - italy
+  - "[[italy]]"
 styles:
-  - pizzica
+  - "[[pizzica]]"
 ---

@@ -1,8 +1,10 @@
 ---
 name: Sousou & Maher Cissoko
+aliases:
+  - Sousou & Maher Cissoko
 countries:
-  - senegal
-  - sweden
+  - "[[senegal]]"
+  - "[[sweden]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

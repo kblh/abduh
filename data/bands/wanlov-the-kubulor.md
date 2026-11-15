@@ -1,7 +1,9 @@
 ---
 name: Wanlov the Kubulor
+aliases:
+  - Wanlov the Kubulor
 countries:
-  - ghana
+  - "[[ghana]]"
 styles:
-  - rap
+  - "[[rap]]"
 ---

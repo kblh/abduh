@@ -1,7 +1,9 @@
 ---
 name: Kassa Mady Diabata
+aliases:
+  - Kassa Mady Diabata
 countries:
-  - mali
+  - "[[mali]]"
 instruments:
-  - guitar
+  - "[[guitar]]"
 ---

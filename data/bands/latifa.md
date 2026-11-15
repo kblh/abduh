@@ -1,7 +1,9 @@
 ---
 name: Latifa
+aliases:
+  - Latifa
 countries:
-  - tunisia
+  - "[[tunisia]]"
 tags:
-  - woman
+  - "[[woman]]"
 ---

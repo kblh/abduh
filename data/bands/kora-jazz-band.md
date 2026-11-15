@@ -1,9 +1,11 @@
 ---
 name: Kora Jazz Band
+aliases:
+  - Kora Jazz Band
 countries:
-  - guinea
+  - "[[guinea]]"
 styles:
-  - jazz
+  - "[[jazz]]"
 instruments:
-  - kora
+  - "[[kora]]"
 ---

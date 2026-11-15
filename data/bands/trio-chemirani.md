@@ -1,7 +1,9 @@
 ---
 name: Trio Chemirani
+aliases:
+  - Trio Chemirani
 countries:
-  - iran
+  - "[[iran]]"
 instruments:
-  - perc
+  - "[[perc]]"
 ---

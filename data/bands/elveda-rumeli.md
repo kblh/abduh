@@ -1,8 +1,10 @@
 ---
 name: Elveda Rumeli
+aliases:
+  - Elveda Rumeli
 countries:
-  - turkey
+  - "[[turkey]]"
 styles:
-  - psychedelic
-  - rock
+  - "[[psychedelic]]"
+  - "[[rock]]"
 ---
