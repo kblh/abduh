@@ -7,5 +7,6 @@ countries:
 styles:
   - "[[duo]]"
   - "[[electronic]]"
+tags:
   - "[[berlin]]"
 ---

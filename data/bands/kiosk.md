@@ -5,6 +5,6 @@ aliases:
 countries:
   - "[[iran]]"
   - "[[usa]]"
-styles:
+tags:
   - "[[diaspora]]"
 ---

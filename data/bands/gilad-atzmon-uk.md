@@ -6,7 +6,8 @@ countries:
   - "[[israel]]"
 styles:
   - "[[sephardic]]"
-  - "[[diaspora]]"
 instruments:
   - "[[sax]]"
+tags:
+  - "[[diaspora]]"
 ---

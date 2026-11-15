@@ -6,7 +6,7 @@ continent: america
 flag: 🇩🇴
 ---
 
-Vic Contreras [[~m]]
+Vic Contreras (m)
 Rita Indiana
 Irka Mateo
 Vicente García

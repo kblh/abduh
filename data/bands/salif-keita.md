@@ -4,6 +4,6 @@ aliases:
   - Salif Keita
 countries:
   - "[[mali]]"
-styles:
+tags:
   - "[[albino]]"
 ---

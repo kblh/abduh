@@ -4,6 +4,6 @@ aliases:
   - Rajery
 countries:
   - "[[madagascar]]"
-styles:
+instruments:
   - "[[valiha]]"
 ---

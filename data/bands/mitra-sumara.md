@@ -6,7 +6,8 @@ countries:
   - "[[iran]]"
   - "[[usa]]"
 styles:
-  - "[[diaspora]]"
   - "[[farsi]]"
   - "[[funk]]"
+tags:
+  - "[[diaspora]]"
 ---

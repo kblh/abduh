@@ -1120,12 +1120,12 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "diaspora",
-        "blind"
-      ],
       "instruments": [
         "guitar"
+      ],
+      "tags": [
+        "diaspora",
+        "blind"
       ],
       "body": ""
     },
@@ -3171,7 +3171,9 @@
         "ghana"
       ],
       "styles": [
-        "rap",
+        "rap"
+      ],
+      "tags": [
         "diaspora"
       ],
       "body": ""
@@ -6677,11 +6679,9 @@
       "countries": [
         "finland"
       ],
-      "styles": [
-        "harmonium"
-      ],
       "instruments": [
-        "harmonica"
+        "harmonica",
+        "harmonium"
       ],
       "body": ""
     },
@@ -8688,11 +8688,13 @@
         "israel"
       ],
       "styles": [
-        "sephardic",
-        "diaspora"
+        "sephardic"
       ],
       "instruments": [
         "sax"
+      ],
+      "tags": [
+        "diaspora"
       ],
       "body": ""
     },
@@ -10983,7 +10985,9 @@
       ],
       "styles": [
         "duo",
-        "electronic",
+        "electronic"
+      ],
+      "tags": [
         "berlin"
       ],
       "body": ""
@@ -11799,7 +11803,7 @@
         "iran",
         "usa"
       ],
-      "styles": [
+      "tags": [
         "diaspora"
       ],
       "body": ""
@@ -13787,14 +13791,12 @@
       "countries": [
         "mali"
       ],
-      "styles": [
-        "blind"
-      ],
       "instruments": [
         "kora"
       ],
       "tags": [
-        "woman"
+        "woman",
+        "blind"
       ],
       "body": ""
     },
@@ -15592,9 +15594,11 @@
         "usa"
       ],
       "styles": [
-        "diaspora",
         "farsi",
         "funk"
+      ],
+      "tags": [
+        "diaspora"
       ],
       "body": ""
     },
@@ -16568,12 +16572,12 @@
         "iran",
         "canada"
       ],
-      "styles": [
-        "diaspora"
-      ],
       "members": [
         "Azam Ali",
         "Loga Ramin Torkian"
+      ],
+      "tags": [
+        "diaspora"
       ],
       "body": ""
     },
@@ -18307,11 +18311,11 @@
       "countries": [
         "germany"
       ],
-      "styles": [
-        "berlin"
-      ],
       "members": [
         "Niko Schabel"
+      ],
+      "tags": [
+        "berlin"
       ],
       "body": ""
     },
@@ -18412,7 +18416,7 @@
       "countries": [
         "madagascar"
       ],
-      "styles": [
+      "instruments": [
         "valiha"
       ],
       "body": ""
@@ -18792,7 +18796,7 @@
         "israel",
         "france"
       ],
-      "styles": [
+      "tags": [
         "diaspora"
       ],
       "body": ""
@@ -19453,7 +19457,7 @@
       "countries": [
         "mali"
       ],
-      "styles": [
+      "tags": [
         "albino"
       ],
       "body": ""
@@ -24860,7 +24864,7 @@
       "name": "Dominican Republic",
       "continent": "america",
       "flag": "🇩🇴",
-      "body": "Vic Contreras [[~m]]\nRita Indiana\nIrka Mateo\nVicente García\nPopulation: 10.2 million (UN, 2010)Capital: Santo DomingoArea: 48,072 sq km (18,696 sq miles)Major language: SpanishMajor religion: Christianity\n50 - 60 let prožívala Dominikánská Republika energetickou krizi. Lidé se scházeli večer na balkonech bytů a poslouchali hudbu z rádií na baterky\n"
+      "body": "Vic Contreras (m)\nRita Indiana\nIrka Mateo\nVicente García\nPopulation: 10.2 million (UN, 2010)Capital: Santo DomingoArea: 48,072 sq km (18,696 sq miles)Major language: SpanishMajor religion: Christianity\n50 - 60 let prožívala Dominikánská Republika energetickou krizi. Lidé se scházeli večer na balkonech bytů a poslouchali hudbu z rádií na baterky\n"
     },
     {
       "id": "ecuador",
@@ -25517,7 +25521,7 @@
       "name": "Tunisia",
       "continent": "africa",
       "flag": "🇹🇳",
-      "body": "## Ghalia Benali\n[[~w]] - singer, songwriter, writer and graphic designer - 1968 (age 51 years), [Brussels, Belgium](https://www.google.com/search?client=safari&rls=en&q=Brussels&stick=H4sIAAAAAAAAAOPgE-LSz9U3MM4yTK9KVuIAsQ3Nzau0xLKTrfQLUvMLclKBVFFxfp5VUn5R3iJWDqei0uLi1JxiACFDW2w7AAAA&sa=X&ved=2ahUKEwjdxuaVoM_iAhUPKuwKHRpDDr8QmxMoATAgegQIDRAT)\n"
+      "body": "## Ghalia Benali\n(w) - singer, songwriter, writer and graphic designer - 1968 (age 51 years), [Brussels, Belgium](https://www.google.com/search?client=safari&rls=en&q=Brussels&stick=H4sIAAAAAAAAAOPgE-LSz9U3MM4yTK9KVuIAsQ3Nzau0xLKTrfQLUvMLclKBVFFxfp5VUn5R3iJWDqei0uLi1JxiACFDW2w7AAAA&sa=X&ved=2ahUKEwjdxuaVoM_iAhUPKuwKHRpDDr8QmxMoATAgegQIDRAT)\n"
     },
     {
       "id": "turkey",
@@ -25633,11 +25637,6 @@
       "body": ""
     },
     {
-      "id": "albino",
-      "name": "albino",
-      "body": ""
-    },
-    {
       "id": "appalachian",
       "name": "appalachian",
       "body": ""
@@ -25650,16 +25649,6 @@
     {
       "id": "berber",
       "name": "berber",
-      "body": ""
-    },
-    {
-      "id": "berlin",
-      "name": "berlin",
-      "body": ""
-    },
-    {
-      "id": "blind",
-      "name": "blind",
       "body": ""
     },
     {
@@ -25723,11 +25712,6 @@
       "body": ""
     },
     {
-      "id": "diaspora",
-      "name": "diaspora",
-      "body": ""
-    },
-    {
       "id": "dub",
       "name": "dub",
       "body": ""
@@ -25781,11 +25765,6 @@
     {
       "id": "gnawa",
       "name": "gnawa",
-      "body": ""
-    },
-    {
-      "id": "harmonium",
-      "name": "harmonium",
       "body": ""
     },
     {
@@ -25979,11 +25958,6 @@
       "body": ""
     },
     {
-      "id": "valiha",
-      "name": "valiha",
-      "body": ""
-    },
-    {
       "id": "voodoo",
       "name": "voodoo",
       "body": ""
@@ -26091,6 +26065,12 @@
     {
       "id": "harmonica",
       "name": "harmonica",
+      "body": ""
+    },
+    {
+      "id": "harmonium",
+      "name": "harmonium",
+      "added": "2026-11-15",
       "body": ""
     },
     {
@@ -26212,6 +26192,12 @@
       "body": ""
     },
     {
+      "id": "valiha",
+      "name": "valiha",
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
       "id": "vibraphone",
       "name": "vibraphone",
       "added": "2026-11-15",
@@ -26225,6 +26211,30 @@
     }
   ],
   "tags": [
+    {
+      "id": "albino",
+      "name": "albino",
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "berlin",
+      "name": "berlin",
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "blind",
+      "name": "blind",
+      "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "diaspora",
+      "name": "diaspora",
+      "added": "2026-11-15",
+      "body": ""
+    },
     {
       "id": "dublin",
       "name": "dublin",

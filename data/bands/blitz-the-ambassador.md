@@ -6,5 +6,6 @@ countries:
   - "[[ghana]]"
 styles:
   - "[[rap]]"
+tags:
   - "[[diaspora]]"
 ---
