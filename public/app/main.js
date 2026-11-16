@@ -3,7 +3,6 @@ import { initTheme, toggleTheme, effectiveTheme } from './ui/theme.js';
 import { parseHash, buildHash } from './router.js';
 import { loadData, buildStore } from './store.js';
 import { buildIndex } from './search.js';
-import { mountDecor } from './ui/decor.js';
 
 const NAV = [['home', 'Domů', '#/'], ['bands', 'Kapely', '#/bands'], ['cds', 'CD', '#/cds'], ['styles', 'Styly', '#/styles'], ['instruments', 'Nástroje', '#/instruments'], ['countries', 'Země', '#/countries'], ['shelves', 'Poličky', '#/shelves'], ['tags', 'Tagy', '#/tags']];
 const SECTION = { band: 'bands', cd: 'cds', style: 'styles', instrument: 'instruments', country: 'countries', shelf: 'shelves', tag: 'tags', search: 'search' };
@@ -40,7 +39,6 @@ function buildShell() {
     mount,
     h('nav', { class: 'tabbar', 'aria-label': 'Sekce' }, tabLinks));
   document.getElementById('shell').replaceWith(shell);
-  mountDecor(shell);
   document.addEventListener('keydown', (e) => {
     if (e.key === '/' && !/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName) && !e.metaKey && !e.ctrlKey) {
       e.preventDefault();
