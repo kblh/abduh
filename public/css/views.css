@@ -2,7 +2,7 @@
 .detail-head { display: flex; flex-direction: column; gap: 24px; margin-bottom: 32px; }
 .photo { position: relative; width: min(100%, 300px); aspect-ratio: 1; flex: none; }
 .photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.photo-ph { display: grid; place-items: center; align-content: center; background: var(--surface); border: 2px solid var(--line); }
+.photo-ph { display: grid; place-items: center; align-content: center; background: var(--raised); }
 .photo-initials { font: 400 72px var(--font-display); letter-spacing: -.02em; }
 .photo-flag { font-size: 32px; }
 .photo.round img, .photo.round.photo-ph { border-radius: 9999px; }
