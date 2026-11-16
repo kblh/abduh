@@ -1,6 +1,6 @@
 # abduh
 
-Osobní hudební sbírka: data v `data/` (Markdown + YAML), build do `public/data.json` a `public/img/`.
+Osobní hudební sbírka: data v `abduh-data/` (Markdown + YAML), build do `public/data.json` a `public/img/`.
 
 - `npm run build` – validace a build dat
 - `npm test` – testy

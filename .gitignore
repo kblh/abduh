@@ -4,7 +4,7 @@ node_modules/
 .DS_Store
 
 # Obsidian: sdílíme nastavení a pohledy, ne místní stav
-data/.obsidian/workspace.json
-data/.obsidian/workspaces.json
-data/.obsidian/cache
-data/.trash/
+abduh-data/.obsidian/workspace.json
+abduh-data/.obsidian/workspaces.json
+abduh-data/.obsidian/cache
+abduh-data/.trash/

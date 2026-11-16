@@ -80,7 +80,7 @@ function renderReport(report, proposed, pairs) {
 }
 
 export function migrate(vaultDir, o = {}) {
-  const dataDir = o.dataDir ?? 'data';
+  const dataDir = o.dataDir ?? 'abduh-data';
   const reportPath = o.reportPath ?? 'docs/migration-report.md';
   const aliasesPath = o.aliasesPath ?? 'scripts/tag-aliases.json';
   const aliases = existsSync(aliasesPath) ? JSON.parse(readFileSync(aliasesPath, 'utf8')) : {};

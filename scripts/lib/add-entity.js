@@ -43,7 +43,7 @@ const memberKey = (m) => (isLink(m) ? unwikilink(m) : normalizeName(m));
 
 const isEmpty = (v) => v === undefined || v === null || v === '' || (Array.isArray(v) && v.length === 0);
 
-export function addEntity(input, { dataDir = 'data', merge = false, force = false } = {}) {
+export function addEntity(input, { dataDir = 'abduh-data', merge = false, force = false } = {}) {
   const { type, fields, body = '' } = input;
   if (!['band', 'cd', 'shelf', 'tag'].includes(type)) throw new Error(`unsupported type: ${type}`);
   if ('image' in fields || 'image_source' in fields) {

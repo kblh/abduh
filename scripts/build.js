@@ -6,7 +6,7 @@ import { buildData } from './lib/build-data.js';
 import { addedDates } from './lib/added-dates.js';
 import { findOrphanImages } from './lib/images.js';
 
-const dataDir = process.argv[2] ?? 'data';
+const dataDir = process.argv[2] ?? 'abduh-data';
 const out = process.argv[3] ?? 'public/data.json';
 const imagesDir = join(dataDir, 'images');
 const outImg = join(dirname(out), 'img');

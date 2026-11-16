@@ -1,19 +1,27 @@
 import { execFileSync } from 'node:child_process';
 
+// the vault folder used to be called `data`; history before the rename lives there
+const LEGACY_DIRS = ['data'];
+
 export function addedDates(dataDir, { bulkThreshold = 50 } = {}) {
   const map = new Map();
   let out;
+  let top; let prefixes;
   try {
-    out = execFileSync('git', ['log', '--no-renames', '--diff-filter=A', '--name-only', '--relative', '--format=%x00%as', '--', '.'], {
-      cwd: dataDir, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'], maxBuffer: 256 * 1024 * 1024,
+    top = execFileSync('git', ['rev-parse', '--show-toplevel'], { cwd: dataDir, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] }).trim();
+    const own = execFileSync('git', ['rev-parse', '--show-prefix'], { cwd: dataDir, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] }).trim().replace(/\/$/, '');
+    prefixes = [...new Set([own, ...LEGACY_DIRS])].filter(Boolean);
+    out = execFileSync('git', ['log', '--no-renames', '--diff-filter=A', '--name-only', '--format=%x00%as', '--', ...prefixes], {
+      cwd: top, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'], maxBuffer: 256 * 1024 * 1024,
     });
   } catch {
     return map;
   }
+  const strip = (f) => { for (const p of prefixes) if (f.startsWith(`${p}/`)) return f.slice(p.length + 1); return f; };
   // newest commit first; iterating on and overwriting leaves the oldest add per file
   for (const block of out.split('\0').slice(1)) {
     const [date, ...rest] = block.split('\n');
-    const files = rest.filter((f) => f.endsWith('.md'));
+    const files = rest.filter((f) => f.endsWith('.md')).map(strip);
     if (files.length > bulkThreshold) continue;
     for (const f of files) map.set(f.slice(0, -3), date.trim());
   }

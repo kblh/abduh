@@ -1,11 +1,11 @@
 ---
 name: abduh-add
-description: Přidá nebo doplní kapelu/umělce, album (CD) nebo poličku ve sbírce Abduh (data/ v tomto repu) – s odkazy (Spotify, Bandcamp, web), obrázkem, českým bio, členy a výběrem alb. Použij na „přidej album Tassili od Tinariwen", „přidej kapelu X", „doplň kapelu Y", „založ poličku Z", „dej to na poličku Z", na odkazy ze Spotify/Bandcampu/webu a na „importuj z Apple Notes".
+description: Přidá nebo doplní kapelu/umělce, album (CD) nebo poličku ve sbírce Abduh (abduh-data/ v tomto repu) – s odkazy (Spotify, Bandcamp, web), obrázkem, českým bio, členy a výběrem alb. Použij na „přidej album Tassili od Tinariwen", „přidej kapelu X", „doplň kapelu Y", „založ poličku Z", „dej to na poličku Z", na odkazy ze Spotify/Bandcampu/webu a na „importuj z Apple Notes".
 ---
 
 # abduh-add
 
-Přidává a doplňuje obsah v `data/` (Markdown + YAML frontmatter, viz `docs/jak-to-funguje.md`). Soubory nikdy nepiš ručně – vždy přes skripty níže. Nic necommituj.
+Přidává a doplňuje obsah v `abduh-data/` (Markdown + YAML frontmatter, viz `docs/jak-to-funguje.md`). Soubory nikdy nepiš ručně – vždy přes skripty níže. Nic necommituj.
 
 Co nenajdeš, **nevymýšlej** a vynech. Respektuj licence; texty nekopíruj, shrň je vlastními slovy.
 
@@ -13,16 +13,16 @@ Co nenajdeš, **nevymýšlej** a vynech. Respektuj licence; texty nekopíruj, sh
 
 Vstupem je URL (Spotify, Bandcamp, web) nebo jméno.
 
-1. **Zjisti jméno a zemi** ze zdroje (stránka za odkazem, MusicBrainz, Wikipedie). Země je povinná (`ls data/countries`); když ji nenajdeš, zeptej se.
-2. **Zjisti, zda už existuje:** `ls data/bands | grep <slug>` a porovnej i jména bez diakritiky (`add-entity` stejně odmítne duplicitu).
+1. **Zjisti jméno a zemi** ze zdroje (stránka za odkazem, MusicBrainz, Wikipedie). Země je povinná (`ls abduh-data/countries`); když ji nenajdeš, zeptej se.
+2. **Zjisti, zda už existuje:** `ls abduh-data/bands | grep <slug>` a porovnej i jména bez diakritiky (`add-entity` stejně odmítne duplicitu).
    - **Existuje:** přečti soubor a doplň **vše, co chybí** přes `--merge` (odkazy, obrázek, bio, členové). `--merge` doplňuje jen prázdná pole, nic nepřepisuje, takže se na něj nemusíš ptát. Pak pokračuj bodem 6 a zeptej se na dosud nezařazená alba.
    - **Neexistuje:** založ nový záznam.
 3. **Odkazy:** najdi kapelu na Spotify i Bandcampu (a případně web, Wikipedie). Přidej jen ty, u kterých jsi si jistý, že jde o stejného umělce. Typy: spotify, bandcamp, apple-music, youtube, website, wikipedia, discogs, other (`node scripts/extract-links.js < text`).
 4. **Obrázek:** najdi kandidáty (Wikimedia Commons, tisková fotka na webu kapely, Bandcamp). **Předlož je uživateli (URL, zdroj, licence) a použij až po schválení.** Pak `node scripts/add-image.js band <id> <url|soubor> --source <stránka>` (AVIF 400×400). Když stažení selže, stáhni soubor `curl -sL -A "Mozilla/5.0"` a předej lokální cestu. Existující obrázek `add-image` nepřepíše (`--force` jen na výslovné přání).
 5. **Bio:** najdi krátké bio (2–4 věty, Wikipedie, Bandcamp, Spotify „About"), **přelož ho do češtiny** a vlastními slovy shrň. Zapiš do pole `body` (viz příklad). Existující bio nepřepisuj.
-6. **Alba:** najdi alba (MusicBrainz release groups typu album, Bandcamp, Spotify), odeber ta, která už jsou v databázi (`ls data/cds | grep ^<id>-`), a **zeptej se, která chce uživatel zařadit** (viz „Interaktivní rozhodování"). Vybraná alba zařaď podle „Přidání alba".
+6. **Alba:** najdi alba (MusicBrainz release groups typu album, Bandcamp, Spotify), odeber ta, která už jsou v databázi (`ls abduh-data/cds | grep ^<id>-`), a **zeptej se, která chce uživatel zařadit** (viz „Interaktivní rozhodování"). Vybraná alba zařaď podle „Přidání alba".
 7. **Členové** (u kapely, ne u sólisty): vyhledej členy (Wikipedie, MusicBrainz) a dej je do `members` jako jména. Člen, který už je v databázi jako samostatná kapela/umělec (stejné jméno bez ohledu na velikost písmen a diakritiku), se **sám propojí** odkazem (`"[[id]]"`, na webu je to odkaz). Platí to i obráceně: když **založíš novou kapelu**, kterou jiná kapela uvádí jen jako textové jméno člena, `add-entity` ji tam nahradí odkazem a vypíše ID upravených kapel v poli `linked` (zmiň je v shrnutí). Při `--merge` se zpětně nelinkuje. Nic dalšího dělat nemusíš.
-8. **Styly, nástroje a tagy** jen z existujících (`ls data/styles data/instruments data/tags`); jinak vynech. Styl je hudební žánr; nástroj, země a tag (místo, přívlastek, poznámka – např. `woman` u žen, `dublin`, `diaspora`) nepatří do `styles`. Nový tag nejdřív vytvoř: `{"type":"tag","fields":{"name":"new york"}}` přes `add-entity.js` (pole `tags` u kapely pak obsahuje jeho ID).
+8. **Styly, nástroje a tagy** jen z existujících (`ls abduh-abduh-data/styles abduh-data/instruments abduh-data/tags`); jinak vynech. Styl je hudební žánr; nástroj, země a tag (místo, přívlastek, poznámka – např. `woman` u žen, `dublin`, `diaspora`) nepatří do `styles`. Nový tag nejdřív vytvoř: `{"type":"tag","fields":{"name":"new york"}}` přes `add-entity.js` (pole `tags` u kapely pak obsahuje jeho ID).
 9. **Zapiš** (JSON na stdin; `--merge` jen pro existující):
    ```
    node scripts/add-entity.js [--merge] <<'JSON'
@@ -58,7 +58,7 @@ Výběr alb i schválení obrázku předlož přehledně. Vždy funguje tabulka 
 ## Poličky
 
 Polička (`type: "shelf"`) je pojmenovaný seznam kapel a/nebo CD (obojí může být na jedné poličce). Pole: `name` (povinné), `bands` a `cds` (ID existujících kapel / CD; obě pole jsou volitelná, může být i prázdná polička). Nemá obrázek ani odkazy.
-- Před zápisem ověř, že všechna ID existují (`ls data/bands data/cds`); neexistující kapelu nebo CD nejdřív přidej. Validace jinak zápis odmítne.
+- Před zápisem ověř, že všechna ID existují (`ls abduh-abduh-data/bands abduh-data/cds`); neexistující kapelu nebo CD nejdřív přidej. Validace jinak zápis odmítne.
 - Nová polička: `{"type":"shelf","fields":{"name":"Pouštní blues","bands":["tinariwen"],"cds":["tinariwen-tassili"]}}` přes `add-entity.js`.
 - Přidání na existující poličku: `--merge` s týmž `name` připojí nové ID do `bands`/`cds` (bez duplicit), existující položky nechá; jen s potvrzením uživatele.
 

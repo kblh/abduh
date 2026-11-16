@@ -25,7 +25,7 @@ export async function fetchImage(url, { fetchFn = fetch } = {}) {
   return buf;
 }
 
-export async function addImage({ type, slug, src, source, force = false, dataDir = 'data' }) {
+export async function addImage({ type, slug, src, source, force = false, dataDir = 'abduh-data' }) {
   if (!['band', 'cd'].includes(type)) throw new Error(`unsupported type ${type}`);
   if (!/^[a-z0-9-]+$/.test(slug)) throw new Error(`invalid slug: ${slug}`);
   const file = join(dataDir, DIRS[type], `${slug}.md`);

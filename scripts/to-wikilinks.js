@@ -4,7 +4,7 @@ import { writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { DIRS, loadAll, serializeEntity } from './lib/entity-file.js';
 
-const dataDir = process.argv[2] ?? 'data';
+const dataDir = process.argv[2] ?? 'abduh-data';
 const all = loadAll(dataDir);
 for (const e of all) writeFileSync(join(dataDir, DIRS[e.type], `${e.id}.md`), serializeEntity(e));
 console.log(`rewrote ${all.length} files`);

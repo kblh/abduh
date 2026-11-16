@@ -7,10 +7,10 @@ Abduh je webová aplikace jen pro čtení, která zobrazuje hudební sbírku: ka
 ## Hlavní myšlenka
 
 ```
-data/ (Markdown soubory)  →  npm run build  →  public/data.json + public/img/  →  prohlížeč
+abduh-data/ (Markdown soubory)  →  npm run build  →  public/data.json + public/img/  →  prohlížeč
 ```
 
-1. Sbírka se spravuje jako Markdown soubory v `data/`.
+1. Sbírka se spravuje jako Markdown soubory v `abduh-data/`.
 2. **Build** je zvaliduje a slepí do jednoho `public/data.json` a zkopíruje obrázky.
 3. **Aplikace** v `public/` je statická. Prohlížeč si stáhne `data.json` (asi 460 KB, 61 KB po zkomprimování), postaví si indexy v paměti a vše ostatní (hledání, filtry, stránky) dělá lokálně. Žádný server ani databáze.
 4. **GitHub Actions** po každém pushi na `main` spustí build a nasadí složku `public/` na GitHub Pages.
@@ -19,9 +19,9 @@ data/ (Markdown soubory)  →  npm run build  →  public/data.json + public/img
 
 | Složka | Co v ní je |
 |---|---|
-| `data/` | **Zdroj pravdy.** Jeden `.md` soubor na entitu. |
-| `data/bands`, `cds`, `shelves`, `countries`, `styles`, `instruments`, `tags` | Jednotlivé typy entit. |
-| `data/images/` | Původní obrázky (AVIF 400×400), `bands/` a `cds/`. |
+| `abduh-data/` | **Zdroj pravdy.** Jeden `.md` soubor na entitu. |
+| `abduh-data/bands`, `cds`, `shelves`, `countries`, `styles`, `instruments`, `tags` | Jednotlivé typy entit. |
+| `abduh-data/images/` | Původní obrázky (AVIF 400×400), `bands/` a `cds/`. |
 | `public/` | **Hotová aplikace**, kterou servíruje web. |
 | `public/index.html` | Jediná stránka, načte moduly. |
 | `public/app/` | JavaScript aplikace. |
@@ -58,18 +58,18 @@ Vazby jsou přes ID, ne přes pozici, a build zkontroluje, že všechna ID exist
 
 ## Obsidian
 
-Složka `data/` je zároveň Obsidian vault (otevřít přes „Open folder as vault"). Build ji neovlivní, čte jen složky s entitami.
+Složka `abduh-data/` je zároveň Obsidian vault (otevřít přes „Open folder as vault"). Build ji neovlivní, čte jen složky s entitami.
 
-- `data/.obsidian/` – sdílené nastavení (wikilinky, základní pluginy, šablony). Místní stav (`workspace.json`) je v `.gitignore`.
-- `data/_views/*.base` – pohledy v Bases: Kapely (tabulka a karty s obrázky), CD (tabulka a karty), Police, Země, Styly, Nástroje, Tagy.
-- `data/_templates/` – šablony pro nové entity (příkaz „Insert template"). Novou poznámku je potřeba vytvořit ve správné složce (`bands/`, `cds/`…), její název je ID.
+- `abduh-data/.obsidian/` – sdílené nastavení (wikilinky, základní pluginy, šablony). Místní stav (`workspace.json`) je v `.gitignore`.
+- `abduh-data/_views/*.base` – pohledy v Bases: Kapely (tabulka a karty s obrázky), CD (tabulka a karty), Police, Země, Styly, Nástroje, Tagy.
+- `abduh-data/_templates/` – šablony pro nové entity (příkaz „Insert template"). Novou poznámku je potřeba vytvořit ve správné složce (`bands/`, `cds/`…), její název je ID.
 - Kapely dané země, stylu nebo tagu a CD kapely se ukazují v panelu zpětných odkazů, bez dalšího kódu.
 
 ## Build proces
 
 Spouští se `npm run build` (soubor `scripts/build.js`):
 
-1. načte všechny `.md` z `data/` (`scripts/lib/entity-file.js`),
+1. načte všechny `.md` z `abduh-data/` (`scripts/lib/entity-file.js`),
 2. zvaliduje (`validate.js`: povinná pole, existence odkazů, formát odkazů, chybějící obrázky),
 3. z gitu zjistí datum prvního commitu každého souboru a uloží ho jako `added`. Z toho se počítá „Nově zapsané" a razítko NOVÉ. Hromadné importy přes 50 souborů se ignorují, nové necommitnuté soubory dostanou dnešní datum (`added-dates.js`),
 4. zapíše `public/data.json` (`build-data.js`) a zkopíruje použité obrázky do `public/img/`.
@@ -109,7 +109,7 @@ Při každém pushi na `main` workflow `pages.yml` udělá: checkout s celou his
 
 ## Přidávání obsahu
 
-Většinou přes skill `abduh-add` (např. `/abduh-add <odkaz na Spotify>`). Ten dohledá údaje, zavolá `add-entity.js` a `add-image.js` a ověří build. Soubory v `data/` se ručně nepíšou, aby byl formát vždy správný.
+Většinou přes skill `abduh-add` (např. `/abduh-add <odkaz na Spotify>`). Ten dohledá údaje, zavolá `add-entity.js` a `add-image.js` a ověří build. Soubory v `abduh-data/` se ručně nepíšou, aby byl formát vždy správný.
 
 ## Možný redesign
 
