@@ -3,7 +3,6 @@ import { bandRow, chip, flagList, initials, placeholderCard, sectionTitle } from
 import { recentlyAdded, isNew } from '../store.js';
 import { prettyStyle } from '../text.js';
 import { bigSearchField } from './search.js';
-import { fmt } from '../labels.js';
 
 const TIPS = ['kora', 'cuba', 'rai', 'žena'];
 
@@ -29,7 +28,7 @@ export function render({ store, setQuery, today }) {
   return h('section', { class: 'home' },
     bigSearchField('', (v) => setQuery(v)),
     h('p', { class: 'tips' }, 'zkus: ', TIPS.flatMap((t, i) => [i ? ' · ' : '', h('a', { href: `#/search?q=${encodeURIComponent(t)}` }, t)])),
-    h('div', { class: 'tiles' }, tiles.map(([key, label, href]) => h('a', { class: 'tile', href }, h('span', { class: 'tile-n' }, fmt(store.byId[key].size)), h('span', { class: 'tile-l' }, label), h('span', { class: 'tile-go' }, 'procházet →')))),
+    h('div', { class: 'tiles' }, tiles.map(([key, label, href]) => h('a', { class: 'tile', href }, h('span', { class: 'tile-n' }, String(store.byId[key].size)), h('span', { class: 'tile-l' }, label), h('span', { class: 'tile-go' }, 'procházet →')))),
     h('div', { class: 'home-cols' },
       fresh.length ? h('div', null, sectionTitle('Nově zapsané'), fresh.map((e) => e.bands
         ? h('a', { class: 'band-row cd-line', href: `#/cds/${encodeURIComponent(e.id)}` }, e.image ? h('img', { class: 'thumb', src: e.image, alt: '', loading: 'lazy', width: 50, height: 50 }) : h('span', { class: 'thumb thumb-ph' }, placeholderCard(initials(e.name), null)), h('span', { class: 'row-body' }, h('span', { class: 'row-name' }, h('span', { class: 'row-title' }, e.name), isNew(e, today) ? h('span', { class: 'stamp-new' }, 'NOVÉ') : null), h('span', { class: 'row-meta' }, `CD · ${e.bands.map((b) => store.byId.bands.get(b)?.name).filter(Boolean).join(' & ')}`)))
