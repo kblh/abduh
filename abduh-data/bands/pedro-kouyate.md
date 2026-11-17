@@ -7,4 +7,6 @@ countries:
 instruments:
   - "[[guitar]]"
   - "[[kamele-ngoni]]"
+tags:
+  - "[[griot]]"
 ---

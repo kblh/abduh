@@ -8,4 +8,6 @@ styles:
   - "[[rap]]"
 instruments:
   - "[[kora]]"
+tags:
+  - "[[griot]]"
 ---

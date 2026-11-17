@@ -8,4 +8,5 @@ instruments:
   - "[[kora]]"
 tags:
   - "[[woman]]"
+  - "[[griot]]"
 ---

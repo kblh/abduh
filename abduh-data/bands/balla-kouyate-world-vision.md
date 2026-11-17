@@ -4,4 +4,6 @@ aliases:
   - Balla Kouyate & World Vision
 countries:
   - "[[mali]]"
+tags:
+  - "[[griot]]"
 ---

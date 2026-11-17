@@ -6,4 +6,6 @@ countries:
   - "[[mali]]"
 instruments:
   - "[[balafon]]"
+tags:
+  - "[[griot]]"
 ---

@@ -1128,8 +1128,7 @@
         "blind"
       ],
       "modified": "2026-11-15",
-      "body": "",
-      "rank": 7
+      "body": ""
     },
     {
       "id": "amal-murkus",
@@ -2426,7 +2425,12 @@
       "countries": [
         "mali"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 0
     },
     {
       "id": "ballake-sissoko",
@@ -2602,7 +2606,12 @@
       "instruments": [
         "ngoni"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 1
     },
     {
       "id": "batata-y-su-rumba-palenquera",
@@ -3179,8 +3188,7 @@
         "diaspora"
       ],
       "modified": "2026-11-15",
-      "body": "",
-      "rank": 8
+      "body": ""
     },
     {
       "id": "blue-king-brown",
@@ -5505,8 +5513,7 @@
         }
       ],
       "added": "2026-11-15",
-      "body": "Dawuna (vlastním jménem Ian Mugerwa) je ugandsko-americký umělec, který vyrostl ve Virginii a žije v Baltimoru. Hraje experimentální R&B, soul a elektroniku.\n",
-      "rank": 5
+      "body": "Dawuna (vlastním jménem Ian Mugerwa) je ugandsko-americký umělec, který vyrostl ve Virginii a žije v Baltimoru. Hraje experimentální R&B, soul a elektroniku.\n"
     },
     {
       "id": "daxar",
@@ -6056,8 +6063,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 0
+      "body": ""
     },
     {
       "id": "djeli-moussa-diawara",
@@ -6072,8 +6078,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 1
+      "body": ""
     },
     {
       "id": "djelimady-tounkara",
@@ -6088,8 +6093,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 2
+      "body": ""
     },
     {
       "id": "djeneba-seck",
@@ -6730,8 +6734,7 @@
         "harmonium"
       ],
       "modified": "2026-11-15",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "egschiglen",
@@ -8745,8 +8748,7 @@
         "diaspora"
       ],
       "modified": "2026-11-15",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "gilberto-gil",
@@ -9251,7 +9253,12 @@
       "countries": [
         "guinea"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 2
     },
     {
       "id": "hadouk-trio",
@@ -10710,7 +10717,12 @@
       "instruments": [
         "kora"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 3
     },
     {
       "id": "joe-zawinul",
@@ -11020,8 +11032,7 @@
         }
       ],
       "added": "2026-11-15",
-      "body": "Anglický kytarista, skladatel a producent (nar. 1961 v Londýně), který část dětství prožil v Egyptě. V 80. letech hrál s Impossible Dreamers a v Invaders of the Heart Jaha Wobbla, později spolupracoval s Robertem Plantem na albu Mighty ReArranger. Jako producent stál za prvním a třetím albem Tinariwen. Spojuje blues se saharskou a západoafrickou hudbou – v duu s gambijským griotem Juldehem Camarou a později s italským hudebníkem Mauro Durantem.\n",
-      "rank": 6
+      "body": "Anglický kytarista, skladatel a producent (nar. 1961 v Londýně), který část dětství prožil v Egyptě. V 80. letech hrál s Impossible Dreamers a v Invaders of the Heart Jaha Wobbla, později spolupracoval s Robertem Plantem na albu Mighty ReArranger. Jako producent stál za prvním a třetím albem Tinariwen. Spojuje blues se saharskou a západoafrickou hudbou – v duu s gambijským griotem Juldehem Camarou a později s italským hudebníkem Mauro Durantem.\n"
     },
     {
       "id": "justyna-steczkowska",
@@ -11075,8 +11086,7 @@
         "berlin"
       ],
       "modified": "2026-11-15",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "kabuta-mukulu",
@@ -11274,9 +11284,12 @@
         "kora"
       ],
       "tags": [
-        "woman"
+        "woman",
+        "griot"
       ],
-      "body": ""
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 4
     },
     {
       "id": "kanizsa-csillagai",
@@ -11527,7 +11540,12 @@
       "instruments": [
         "guitar"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 5
     },
     {
       "id": "kassav",
@@ -12200,7 +12218,12 @@
       "instruments": [
         "balafon"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 6
     },
     {
       "id": "krar-collective",
@@ -14279,7 +14302,12 @@
         "balafon",
         "kora"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 7
     },
     {
       "id": "mamane-barka",
@@ -16818,8 +16846,7 @@
         }
       ],
       "modified": "2026-11-17",
-      "body": "Mauritánská griotka, zpěvačka, skladatelka a instrumentalistka. Spojuje tradiční maurskou hudbu své griotské rodiny s rockem, bluesem a psychedelií; hraje na ardin, mauritánskou harfu.\n",
-      "rank": 3
+      "body": "Mauritánská griotka, zpěvačka, skladatelka a instrumentalistka. Spojuje tradiční maurskou hudbu své griotské rodiny s rockem, bluesem a psychedelií; hraje na ardin, mauritánskou harfu.\n"
     },
     {
       "id": "nova",
@@ -17874,7 +17901,12 @@
         "guitar",
         "kamele-ngoni"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 8
     },
     {
       "id": "pekko-kappi",
@@ -19229,8 +19261,7 @@
         }
       ],
       "modified": "2026-11-17",
-      "body": "Katalánská zpěvačka, skladatelka a herečka z Barcelony (nar. 1992), známá jako Rosalía. Ve 14 letech ji uchvátila španělská lidová hudba, vystudovala muzikologii na Katalánské hudební vysoké škole (2017). Kritika ji označuje za „atypickou popovou hvězdu“ pro prolínání žánrů: z flamenka vyšla na albu *El mal querer* (2018) a v *Motomami* (2022) ho míchá s pop, reggaetonem a elektronikou.\\n",
-      "rank": 4
+      "body": "Katalánská zpěvačka, skladatelka a herečka z Barcelony (nar. 1992), známá jako Rosalía. Ve 14 letech ji uchvátila španělská lidová hudba, vystudovala muzikologii na Katalánské hudební vysoké škole (2017). Kritika ji označuje za „atypickou popovou hvězdu“ pro prolínání žánrů: z flamenka vyšla na albu *El mal querer* (2018) a v *Motomami* (2022) ho míchá s pop, reggaetonem a elektronikou.\\n"
     },
     {
       "id": "rosanna-zelia",
@@ -20847,7 +20878,12 @@
       "instruments": [
         "kora"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 9
     },
     {
       "id": "sorie-kondi",
@@ -22661,7 +22697,12 @@
       "instruments": [
         "kora"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 10
     },
     {
       "id": "toumast",
@@ -24318,7 +24359,12 @@
       "countries": [
         "mali"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 11
     },
     {
       "id": "zap-mama",

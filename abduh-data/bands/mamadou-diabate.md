@@ -8,4 +8,6 @@ countries:
 instruments:
   - "[[balafon]]"
   - "[[kora]]"
+tags:
+  - "[[griot]]"
 ---
