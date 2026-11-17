@@ -6,6 +6,8 @@ countries:
   - "[[mali]]"
 tags:
   - "[[albino]]"
+image: bands/salif-keita.avif
+image_source: https://www.google.com/search?q=Salif+Keita
 links:
   - type: spotify
     url: https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx

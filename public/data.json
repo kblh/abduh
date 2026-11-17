@@ -19719,6 +19719,8 @@
       "tags": [
         "albino"
       ],
+      "image": "img/bands/salif-keita.avif",
+      "image_source": "https://www.google.com/search?q=Salif+Keita",
       "links": [
         {
           "type": "spotify",
@@ -19727,7 +19729,7 @@
       ],
       "modified": "2026-11-17",
       "body": "Salif Keita je malijský zpěvák a skladatel, pocházející z královského rodu Mandingů, přezdívaný „Zlatý hlas Afriky“. Proslavil se v 70. letech v kapelách Rail Band a Les Ambassadeurs a od 80. let má úspěšnou sólovou kariéru, v níž spojuje mandingskou tradici s popem, funkem a elektronikou. Je albín, což v jeho rodné zemi dlouho znamenalo společenské vyloučení, a později se stal jeho zastáncem.\n",
-      "rank": 2
+      "rank": 0
     },
     {
       "id": "sally-nyolo",
@@ -22160,7 +22162,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 0
+      "rank": 2
     },
     {
       "id": "the-idan-raichel-project",
