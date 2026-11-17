@@ -25496,7 +25496,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 0
+      "rank": 1
     },
     {
       "id": "ita",
@@ -25506,17 +25506,14 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "poustni-blues",
       "name": "Pouštní blues",
       "bands": [
-        "abdallah-ag-oumbadougou",
         "bombino",
         "etran-finatawa",
-        "ezza",
-        "ibrahim-djo-experience",
         "imidiwen",
         "kel-assouf",
         "mdou-moctar",
@@ -25527,8 +25524,9 @@
         "toumast"
       ],
       "added": "2026-11-13",
+      "modified": "2026-11-17",
       "body": "",
-      "rank": 2
+      "rank": 0
     }
   ],
   "countries": [
