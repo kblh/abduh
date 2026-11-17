@@ -7,7 +7,7 @@ import { plural } from '../labels.js';
 
 export function registerView({ store, params }, o) {
   const q = params.query;
-  const items = [...store.byId[o.group].values()].map((s) => ({ id: s.id, name: prettyStyle(s.name), n: o.bandsMap(store).get(s.id)?.length ?? 0 }));
+  const items = [...store.byId[o.group].values()].map((s) => ({ id: s.id, name: prettyStyle(s.name), icon: s.icon, n: o.bandsMap(store).get(s.id)?.length ?? 0 }));
   const byCount = q.sort === 'count';
   const sorted = [...items].sort(byCount ? (a, b) => b.n - a.n || (normalize(a.name) < normalize(b.name) ? -1 : 1) : (a, b) => (normalize(a.name) < normalize(b.name) ? -1 : 1));
   const reg = h('div', { class: 'register' });
@@ -22,7 +22,7 @@ export function registerView({ store, params }, o) {
     }
     reg.replaceChildren(...[...groups].map(([letter, ss]) => h('div', { class: 'reg-group' },
       letter ? h('div', { class: 'reg-letter' }, letter) : null,
-      ss.map((s) => h('a', { class: 'reg-line', href: `#/${o.route}/${encodeURIComponent(s.id)}` }, h('span', null, s.name), h('i', { class: 'leader' }), h('small', null, s.n))))));
+      ss.map((s) => h('a', { class: 'reg-line', href: `#/${o.route}/${encodeURIComponent(s.id)}` }, h('span', null, o.icons ? `${s.icon ?? '♪'} ${s.name}` : s.name), h('i', { class: 'leader' }), h('small', null, s.n))))));
     if (!list.length) reg.append(h('p', { class: 'hand-note' }, 'nic takového tu není'));
   };
   paint();
