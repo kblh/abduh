@@ -45,7 +45,7 @@ const isEmpty = (v) => v === undefined || v === null || v === '' || (Array.isArr
 
 export function addEntity(input, { dataDir = 'abduh-data', merge = false, force = false } = {}) {
   const { type, fields, body = '' } = input;
-  if (!['band', 'cd', 'shelf', 'tag'].includes(type)) throw new Error(`unsupported type: ${type}`);
+  if (!['band', 'cd', 'shelf', 'tag', 'style', 'instrument'].includes(type)) throw new Error(`unsupported type: ${type}`);
   if ('image' in fields || 'image_source' in fields) {
     throw new Error('image fields are set only by add-image');
   }

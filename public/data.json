@@ -26192,7 +26192,19 @@
       "id": "ardin",
       "name": "ardin",
       "added": "2026-11-14",
-      "body": ""
+      "body": "Loutna z Mauretánie se 14 strunami. Ozvučná skříň je z tykve potažené telecí kůží.\n"
+    },
+    {
+      "id": "baglamas",
+      "name": "baglamas",
+      "added": "2026-11-17",
+      "body": "Řecký nástroj s pražci, malý, spíš jako ukulele. Má rytmickou roli, jako hi-hat. Viz saz.\n"
+    },
+    {
+      "id": "balaba",
+      "name": "balaba",
+      "added": "2026-11-17",
+      "body": "Velký balafon z jižního Mali, z oblasti Bélédougou.\n"
     },
     {
       "id": "balafon",
@@ -26217,9 +26229,27 @@
       "body": ""
     },
     {
+      "id": "bolon",
+      "name": "bolon",
+      "added": "2026-11-17",
+      "body": "Basová harfa se 3 až 4 strunami. Hraje na ni Sali Sidibe. Není zas tak velká, měl ji například Momo Wandel v Angoulême.\n"
+    },
+    {
+      "id": "bouzouki",
+      "name": "bouzouki",
+      "added": "2026-11-17",
+      "body": "Řecký nástroj s pražci, specifický typ sazu nebo tanbury. Dříve měl tři páry strun, dnes čtyři. Podle Kariho Reimana (Värttinä) se do Švédska nedostal z Řecka, ale z Irska, kde silně zdomácněl. Pro lidovou hudbu se hodí lépe než kytara: dají se na něj zahrát hlubší tóny, zní „etničtěji“ a umožňuje střídat melodii a doprovod (totéž uvádějí liner notes Musica Svecia). Viz též cittern.\n"
+    },
+    {
       "id": "cello",
       "name": "cello",
       "body": ""
+    },
+    {
+      "id": "cittern",
+      "name": "cittern",
+      "added": "2026-11-17",
+      "body": "Menší než mandola, struny v párech, hraje se trsátkem. Viz též bouzouki.\n"
     },
     {
       "id": "clarinet",
@@ -26238,10 +26268,46 @@
       "body": ""
     },
     {
+      "id": "cura",
+      "name": "cura",
+      "added": "2026-11-17",
+      "body": "Nejmenší forma sazu (též baglama), drnkací nástroj. Na rozdíl od sazu má jen šest strun.\n"
+    },
+    {
+      "id": "daf",
+      "name": "daf",
+      "added": "2026-11-17",
+      "body": "Tamburína, na kterou hraje například Alim Qasimov. Také daff, dafli nebo daphli: bubínek, který doprovází qawwali a lidovou hudbu. Řecká obdoba je defi (viz To Meraki).\n"
+    },
+    {
+      "id": "defi",
+      "name": "defi",
+      "added": "2026-11-17",
+      "body": "Řecký buben (viz To Meraki). Viz daf.\n"
+    },
+    {
       "id": "delhi",
       "name": "delhi",
       "added": "2026-11-14",
       "body": ""
+    },
+    {
+      "id": "dhol",
+      "name": "dhol",
+      "added": "2026-11-17",
+      "body": "Velký oboustranný válcový buben. Levá ruka velkou zahnutou paličkou vyťukává základní rytmus, pravá lehkou paličkou jemné ozdoby. Klíčový nástroj původní pandžábské bhangry. Foto dholu a dholaku: TFF 97, s. 55.\n"
+    },
+    {
+      "id": "dholak",
+      "name": "dholak",
+      "added": "2026-11-17",
+      "body": "Oboustranný buben oblíbený v severní a střední Indii. Doprovází qawwali, bhajan a kirtan a hraje se na něj i v lidové hudbě, o svátcích a na svatbách. Hraje se rukama nebo hůlkami: pravá strana dává vysoký zvuk, levá basový. Viz dhol.\n"
+    },
+    {
+      "id": "donso-ngoni",
+      "name": "donso ngoni",
+      "added": "2026-11-17",
+      "body": "Lovecká harfa (loutna) z tykve, nástroj lovců. Má 3 struny, novější modely 4, 5 i 6. Z ní vznikla kora a kamele ngoni.\n"
     },
     {
       "id": "drums",
@@ -26250,15 +26316,39 @@
       "body": ""
     },
     {
+      "id": "fle",
+      "name": "fle",
+      "added": "2026-11-17",
+      "body": "Chřestidla (křestidla) s mušličkami.\n"
+    },
+    {
       "id": "flute",
       "name": "flute",
       "body": ""
+    },
+    {
+      "id": "gadulka",
+      "name": "gadulka",
+      "added": "2026-11-17",
+      "body": "Bulharský smyčcový nástroj příbuzný kemenči.\n"
+    },
+    {
+      "id": "gimbri",
+      "name": "gimbri",
+      "added": "2026-11-17",
+      "body": "Loutna s hruškovitou ozvučnou skříní, basový model. Ten, na který hraje El Hussaine Kili, je hranatý. Rozšířený severoafrický nástroj subsaharského původu: kulatý hmatník bez pražců, dvě nebo tři struny a tělo s blánou z kůže jako buben. Říká se mu také sintir.\n"
     },
     {
       "id": "guitar",
       "name": "guitar",
       "icon": "🎸",
       "body": ""
+    },
+    {
+      "id": "guitarra-portuguesa",
+      "name": "guitarra portuguesa",
+      "added": "2026-11-17",
+      "body": "Portugalská kytara má šest párů kovových strun, dvě nejvyšší laděné unisono a ostatní v oktávách. Hraje se na ni prsty opatřenými prstýnky. K doprovodu fada se používá spolu se španělskou kytarou, na kterou se hraje nehty a která má nylonové struny.\n"
     },
     {
       "id": "harmonica",
@@ -26276,6 +26366,12 @@
       "name": "harp",
       "icon": "🪉",
       "body": ""
+    },
+    {
+      "id": "hoddu",
+      "name": "hoddu",
+      "added": "2026-11-17",
+      "body": "Loutna Fulbů, příbuzná ngoni.\n"
     },
     {
       "id": "hurdy-gurdy",
@@ -26297,12 +26393,24 @@
       "id": "kamele-ngoni",
       "name": "kamele ngoni",
       "added": "2026-11-14",
-      "body": ""
+      "body": "„Harfa mládeže“: menší, o kvartu výše laděná verze donso ngoni se 6 strunami, z tykve. Na lovecký nástroj směli hrát jen vybraní lovci; mladík Alata Brulaye vyrobil kolem 70. let v kraji Wassoulou jeho kopii pro širokou veřejnost, což byla podobná revoluce jako vznik rock and rollu. Dává hudbě z Wassoulou (jižní Mali) výrazné, funkové basové linky, které určují rytmus i harmonii. Viz CD Kamale Ngoni – Kelea (Indigo LBLC 2517, 1995).\n"
+    },
+    {
+      "id": "kariyang",
+      "name": "kariyang",
+      "added": "2026-11-17",
+      "body": "Třecí železo.\n"
     },
     {
       "id": "kaval",
       "name": "kaval",
       "body": ""
+    },
+    {
+      "id": "kemence",
+      "name": "kemence",
+      "added": "2026-11-17",
+      "body": "Původně perský smyčcový nástroj se třemi strunami, rozšířený v Turecku a arabských zemích. Kemen je turecké označení pro evropské housle. Příbuzné nástroje jsou lira (řecké ostrovy a pevnina) a gadulka (Bulharsko). Viz též rabab.\n"
     },
     {
       "id": "keyboard",
@@ -26325,18 +26433,24 @@
     {
       "id": "kora",
       "name": "kora",
-      "body": ""
+      "body": "Harfová loutna z tykve, vzniklá v předkoloniálních dobách z donso ngoni, lovecké harfy. Má 21 strun a rozsah tří oktáv.\n"
+    },
+    {
+      "id": "lira-nastroj",
+      "name": "lira (nástroj)",
+      "added": "2026-11-17",
+      "body": "Smyčcový nástroj příbuzný kemenči, na řeckých ostrovech i na pevnině.\\n"
     },
     {
       "id": "mbira",
       "name": "mbira",
-      "body": ""
+      "body": "Hlavní tradiční nástroj lidu Šona ze Zimbabwe (mbira dzavadzimu, „mbira duchů předků“), na který se hraje přes tisíc let při obřadech, na královských dvorech i při společenských příležitostech. Má 22 až 28 kovových jazýčků na dřevěné desce, obvykle vložené do velké tykve (deze) jako rezonátoru. Hraje se dvěma palci shora dolů a pravým ukazovákem zdola nahoru.\n\nSkladba je cyklický základní vzorec s mnoha propletenými melodiemi, často v kontrastních rytmech, a variace dělají každé provedení jedinečné. Dvě mbiry spolu vytvářejí bohatou polyfonii a polyrytmii. Repertoár stovek skladeb se předává z generace na generaci a některé dnes oblíbené skladby se hrají přes 500 let: při obřadech (mapira) se předkové přivolávají jejich oblíbenými písněmi.\n\nMbira zní při obřadech, osobní meditaci, léčitelství i oslavách a používá ji i několik zimbabwských elektrických popových kapel.\n"
     },
     {
       "id": "ngoni",
       "name": "ngoni",
       "added": "2026-11-14",
-      "body": ""
+      "body": "Strunná loutna o 5 strunách, vzhledem podobná sintiru, který má strun 3.\n"
     },
     {
       "id": "organ",
@@ -26368,10 +26482,34 @@
       "body": ""
     },
     {
+      "id": "qraqeb",
+      "name": "qraqeb",
+      "added": "2026-11-17",
+      "body": "Chřestidla gnawů.\n"
+    },
+    {
+      "id": "rabab",
+      "name": "rabab",
+      "added": "2026-11-17",
+      "body": "Také rebab. V Maroku „spike fiddle“ (housle s bodcem) podobné kemenči, s jednou až dvěma strunami, hrají na něj Berbeři (Rough Guide, vol. 1, s. 568). Vyskytuje se i v Indonésii a Malajsii. V Afghánistánu je rebab loutna s krátkým krkem, příbuzná sarodu.\n"
+    },
+    {
       "id": "sax",
       "name": "sax",
       "icon": "🎷",
       "body": ""
+    },
+    {
+      "id": "saz",
+      "name": "saz",
+      "added": "2026-11-17",
+      "body": "Loutna s pražci. V Turecku označuje baglama-saz všechny loutny. Hrají na ni dervišové, sólově i ve skupině sazů. Podle Rough Guide má dva páry a jednu trojici strun. Podle Kostase má bordunovou strunu, které se hráč při hře stále dotýká (na rozdíl od rezonanční struny sitaru), a melodie se hraje na zbylé dvě. Viz též baglamas, cura, bouzouki a tar.\n"
+    },
+    {
+      "id": "sintir",
+      "name": "sintir",
+      "added": "2026-11-17",
+      "body": "Hranatá velká drnkací loutna, příbuzná ngoni, na kterou hrají gnawové hlavně v Maroku. Má jedinou tlustou strunu, tělo jako buben a snímatelný rezonátor, který přidává bzučivý zvuk hlubokým, rezonujícím tónům. Viz též gimbri.\n"
     },
     {
       "id": "sitar",
@@ -26382,6 +26520,24 @@
       "id": "tabla",
       "name": "tabla",
       "body": ""
+    },
+    {
+      "id": "tapan",
+      "name": "tapan",
+      "added": "2026-11-17",
+      "body": "Podle Petara něco jako darbuka nebo malé djembe. Podle CD Kočani možná velký buben.\n"
+    },
+    {
+      "id": "tar",
+      "name": "tar",
+      "added": "2026-11-17",
+      "body": "Loutna z Persie s uprostřed zúženou ozvučnicí a pražci (fotografováno v Řecku). Tar je také název tamburíny.\n"
+    },
+    {
+      "id": "tidinit",
+      "name": "tidinit",
+      "added": "2026-11-17",
+      "body": "Loutna z Mauretánie s plochou ozvučnou skříní, dvěma melodickými a dvěma krátkými doprovodnými strunami. Tvarem i zvukem připomíná ngoni.\n"
     },
     {
       "id": "trumpet",
@@ -26406,6 +26562,12 @@
       "name": "violin",
       "icon": "🎻",
       "body": ""
+    },
+    {
+      "id": "xalam",
+      "name": "xalam",
+      "added": "2026-11-17",
+      "body": "Loutna Wolofů se 3 až 5 strunami, příbuzná ngoni.\n"
     }
   ],
   "tags": [
