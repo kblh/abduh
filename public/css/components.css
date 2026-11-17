@@ -89,3 +89,7 @@ p.hand-note { margin: 0; }
 .page-title { display: flex; flex-wrap: wrap; align-items: center; column-gap: 12px; row-gap: 4px; }
 .page-title .title-ic { margin-right: 0; vertical-align: baseline; }
 .page-title .count, .page-title .hand-note { margin-left: 0; white-space: nowrap; }
+.section-title { flex-wrap: wrap; align-items: center; row-gap: 4px; }
+.section-title > span { display: inline-flex; align-items: center; }
+.section-title small { white-space: nowrap; }
+.section-title .title-ic { margin-right: .3em; }
