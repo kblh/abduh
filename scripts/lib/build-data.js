@@ -6,6 +6,7 @@ const memberLink = /^\[\[([^\]|#]+)\]\]$/;
 
 export function buildData(entities, added = new Map(), modified = new Map()) {
   const out = {};
+  const order = new Map([...modified.keys()].map((k, i) => [k, i]));
   const bandName = new Map(entities.filter((e) => e.type === 'band').map((e) => [e.id, e.fields.name]));
   for (const [group, type] of Object.entries(GROUPS)) {
     out[group] = entities
@@ -26,6 +27,13 @@ export function buildData(entities, added = new Map(), modified = new Map()) {
         if (changed && changed !== when) f.modified = changed;
         return { id: e.id, ...f, body: e.body };
       });
+  }
+  // same-day ties: keep the git order for the 12 most recently changed entities of each group
+  for (const [group, type] of Object.entries(GROUPS)) {
+    const key = (e) => order.get(`${DIRS[type]}/${e.id}`);
+    out[group].filter((e) => key(e) != null)
+      .sort((a, b) => (b.modified ?? b.added ?? '').localeCompare(a.modified ?? a.added ?? '') || key(a) - key(b))
+      .slice(0, 12).forEach((e, i) => { e.rank = i; });
   }
   return out;
 }

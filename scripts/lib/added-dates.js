@@ -60,13 +60,15 @@ export function modifiedDates(dataDir, { bulkThreshold = 50 } = {}) {
     for (const f of files) if (!map.has(f.slice(0, -3))) map.set(f.slice(0, -3), date.trim());
   }
   const today = new Date().toLocaleDateString('sv-SE');
+  const fresh = [];
   for (const args of [['ls-files', '--others', '--exclude-standard', '--', '.'], ['diff', '--name-only', '--relative', 'HEAD', '--', '.']]) {
     try {
       const files = execFileSync('git', args, { cwd: dataDir, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] })
         .split('\n').filter((f) => f.endsWith('.md'));
       if (files.length > bulkThreshold) continue;
-      for (const f of files) map.set(f.slice(0, -3), today);
+      for (const f of files) { map.set(f.slice(0, -3), today); fresh.push(f.slice(0, -3)); }
     } catch { /* ignore */ }
   }
-  return map;
+  // iteration order = newest change first (uncommitted files lead); build-data uses it to break same-day ties
+  return new Map([...fresh.map((k) => [k, map.get(k)]), ...[...map].filter(([k]) => !fresh.includes(k))]);
 }

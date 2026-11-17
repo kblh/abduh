@@ -67,6 +67,6 @@ export function recentlyChanged(store, group, n) {
   const when = (e) => e.modified ?? e.added;
   return [...(store.data[group] ?? [])]
     .filter(when)
-    .sort((a, b) => (when(a) < when(b) ? 1 : when(a) > when(b) ? -1 : byName(a, b)))
+    .sort((a, b) => (when(a) < when(b) ? 1 : when(a) > when(b) ? -1 : (a.rank ?? 99) - (b.rank ?? 99) || byName(a, b)))
     .slice(0, n);
 }

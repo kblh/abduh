@@ -43,3 +43,8 @@ test('recentlyChanged sorts by modified, falling back to added', () => {
   assert.deepEqual(recentlyChanged(st, 'tags', 5).map((e) => e.id), ['b', 'a']);
   assert.equal(recentlyChanged(st, 'tags', 1).length, 1);
 });
+
+test('recentlyChanged breaks same-day ties by rank before name', () => {
+  const st = { data: { tags: [{ id: 'a', name: 'a', added: '2026-01-01' }, { id: 'z', name: 'z', added: '2026-01-01', rank: 0 }] } };
+  assert.deepEqual(recentlyChanged(st, 'tags', 5).map((e) => e.id), ['z', 'a']);
+});
