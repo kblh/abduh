@@ -26,7 +26,7 @@ export function render({ store, params, today }) {
     h('p', { class: 'breadcrumb' }, h('a', { href: '#/instruments' }, 'Nástroje'), ` / ${ins.name}`),
     h('header', { class: 'detail-head' }, ins.image ? h('img', { class: 'ins-big ins-photo', src: ins.image, alt: ins.name, width: 200, height: 200 }) : h('div', { class: 'ins-big' }, [...ins.name][0]?.toUpperCase() ?? ''),
       h('div', { class: 'detail-main' }, h('p', { class: 'eyebrow' }, 'NÁSTROJ'), h('h1', { class: 'detail-title' }, ins.name), h('small', { class: 'count' }, plural(bands.length, 'kapela', 'kapely', 'kapel')), body)),
-    sectionTitle('Kdo na ni hraje'),
+    sectionTitle('Kdo na to hraje'),
     h('div', { class: 'filters' },
       sel('ZEMĚ', countries, (id) => store.byId.countries.get(id)?.name ?? id, (v) => { country = v; }),
       sel('STYL', styles, (id) => prettyStyle(store.byId.styles.get(id)?.name ?? id), (v) => { style = v; })),
