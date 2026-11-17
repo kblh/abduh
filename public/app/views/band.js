@@ -35,7 +35,7 @@ export function render({ store, params, today }) {
         e?.image || ex ? h('div', { class: 'fact-body' }, e?.image ? h('img', { class: 'fact-img', src: e.image, alt: '', loading: 'lazy', width: 64, height: 64 }) : null, ex ? h('p', { class: 'fact-ex' }, ex) : null) : null);
     })));
   };
-  const instrumentsBox = factBox('Nástroje', 'instruments', band.instruments ?? [], 'instruments', (id, e) => `${e?.icon ?? ''} ${e?.name ?? id}`.trim());
+  const instrumentsBox = factBox('Nástroje', 'instruments', band.instruments ?? [], 'instruments', (id, e) => e?.name ?? id);
   const tagsBox = factBox('Tagy', 'tags', band.tags ?? [], 'tags', (id, e) => (id === 'woman' ? 'ŽENA' : (e?.name ?? id)));
   const side = [chipsBox('Styly', 'styles', styleChips), instrumentsBox, tagsBox].filter(Boolean);
   const sideBox = side.length ? h('aside', { class: 'facets' }, side) : null;

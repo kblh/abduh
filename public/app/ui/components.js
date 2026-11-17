@@ -49,7 +49,7 @@ export function bandRow(store, band, { today = new Date(), showNew = true } = {}
   const styles = (band.styles ?? []).map((s) => prettyStyle(store.byId.styles.get(s)?.name ?? s));
   const instruments = (band.instruments ?? []).map((i) => {
     const ins = store.byId.instruments.get(i);
-    return `${ins?.icon ?? ''} ${ins?.name ?? i}`.trim();
+    return ins?.name ?? i;
   });
   return h('a', { class: 'band-row', href: `#/bands/${encodeURIComponent(band.id)}` },
     thumb,

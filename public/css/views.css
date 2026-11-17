@@ -95,7 +95,7 @@
 .reg-line small { font: 400 12px var(--font-body); color: var(--ink-soft); }
 .reg-line:hover span { color: var(--accent); }
 .ins-big, .flag-big { font-size: 120px; line-height: 1; width: 200px; height: 200px; display: grid; place-items: center; background: var(--surface); border: 2px solid var(--line); flex: none; }
-.ins-big { font-size: 96px; }
+.ins-big { font: 400 96px/1 var(--font-display); background: var(--raised); border: 0; }
 .continent { margin-bottom: 10px; position: relative; }
 .continent-total { position: absolute; right: 0; top: 0; margin: 0; }
 .country-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 0 24px; }

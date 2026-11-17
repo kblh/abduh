@@ -38,7 +38,7 @@ export function render({ store, index, params, setQuery }) {
     cds: (hits) => h('section', null, sectionTitle('CD', hits.length), h('div', { class: 'cd-grid' }, hits.map((x) => cdCard(store, store.byId.cds.get(x.id))))),
     instruments: (hits) => h('section', null, sectionTitle('Nástroje', hits.length), hits.map((x) => {
       const i = store.byId.instruments.get(x.id);
-      return link(`#/instruments/${encodeURIComponent(i.id)}`, h('span', null, `${i.icon ?? ''} ${i.name}`.trim()), h('small', null, store.bandsByInstrument.get(i.id)?.length ?? 0));
+      return link(`#/instruments/${encodeURIComponent(i.id)}`, h('span', null, i.name), h('small', null, store.bandsByInstrument.get(i.id)?.length ?? 0));
     })),
     styles: (hits) => h('section', null, sectionTitle('Styly', hits.length), hits.map((x) => {
       const s = store.byId.styles.get(x.id);

@@ -21,7 +21,7 @@ export function render({ store, setQuery, today }) {
         h('span', { class: 'discover-name' }, b.name),
         flagList(store, b.countries ?? []),
         h('span', { class: 'chips' }, (b.styles ?? []).slice(0, 2).map((s) => chip(prettyStyle(store.byId.styles.get(s)?.name ?? s), null, 'style')),
-          (b.instruments ?? []).slice(0, 2).map((i) => chip(`${store.byId.instruments.get(i)?.icon ?? ''} ${store.byId.instruments.get(i)?.name ?? i}`.trim(), null, 'instrument'))))));
+          (b.instruments ?? []).slice(0, 2).map((i) => chip(store.byId.instruments.get(i)?.name ?? i, null, 'instrument'))))));
   };
   roll();
 
@@ -42,6 +42,6 @@ export function render({ store, setQuery, today }) {
       h('div', null, h('h2', { class: 'section-title' }, h('span', null, 'Náhodný objev'), h('button', { class: 'reroll', type: 'button', onClick: roll }, 'další ↻')), discover)),
     h('div', { class: 'home-trio' },
       block('Styly', 'styles', changedList('styles', (e) => prettyStyle(e.name))),
-      block('Nástroje', 'instruments', changedList('instruments', (e) => `${e.icon ?? '♪'} ${e.name}`)),
+      block('Nástroje', 'instruments', changedList('instruments', (e) => e.name)),
       block('Tagy', 'tags', changedList('tags', (e) => e.name))));
 }
