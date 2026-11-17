@@ -84,6 +84,7 @@ export function addEntity(input, { dataDir = 'abduh-data', merge = false, force 
         const have = new Set((merged.members ?? []).map(memberKey));
         merged.members = [...(merged.members ?? []), ...v.filter((m) => !have.has(memberKey(m)))];
       }
+      else if (k === 'tags' && Array.isArray(v)) merged.tags = [...new Set([...(merged.tags ?? []), ...v])];
       else if (k === 'links' && Array.isArray(v)) {
         const have = new Set((merged.links ?? []).map((l) => l.url));
         merged.links = [...(merged.links ?? []), ...v.filter((l) => !have.has(l.url))];

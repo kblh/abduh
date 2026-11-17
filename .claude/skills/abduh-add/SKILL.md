@@ -72,7 +72,7 @@ Jedna poznámka může obsahovat více odkazů.
 ## Pozor
 
 - **Nikdy nepoužívej `--force`** (přepsal by existující entitu). Doplnění chybějících polí dělá `--merge`.
-- `--merge` doplňuje jen prázdná pole; u `links` a `members` připojí nové položky, existující nechá; bio a ostatní vyplněná pole nepřepíše.
+- `--merge` doplňuje jen prázdná pole; u `links`, `members` a `tags` připojí nové položky, existující nechá; bio a ostatní vyplněná pole nepřepíše.
 - Výměna už existujícího obrázku (`add-image --force`) jen na výslovné přání uživatele.
 - Obrázek kapely se použije až po schválení; obal alba se použije rovnou. Obrázky nejsou povinné.
 - Ve sbírce jsou ID unikátní napříč všemi typy (kapela a tag nemohou mít stejné ID).

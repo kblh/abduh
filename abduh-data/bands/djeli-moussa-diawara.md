@@ -6,4 +6,6 @@ countries:
   - "[[guinea]]"
 instruments:
   - "[[kora]]"
+tags:
+  - "[[griot]]"
 ---

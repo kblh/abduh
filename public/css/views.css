@@ -131,3 +131,4 @@
 .home-trio .section-title { margin-top: 32px; }
 .reg-line .stamp-new { align-self: center; }
 @media (min-width: 900px) { .home-trio { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.ins-photo { object-fit: cover; display: block; }

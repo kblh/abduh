@@ -6,7 +6,7 @@ const opt = (n) => (args.includes(`--${n}`) ? args[args.indexOf(`--${n}`) + 1] :
 const pos = args.filter((a, i) => !a.startsWith('--') && !(i > 0 && args[i - 1] === '--source'));
 const [type, slug, src] = pos;
 if (!type || !slug || !src) {
-  console.error('usage: node scripts/add-image.js <band|cd> <slug> <url|file> [--source <url>] [--force]');
+  console.error('usage: node scripts/add-image.js <band|cd|instrument> <slug> <url|file> [--source <url>] [--force]');
   process.exit(1);
 }
 try {

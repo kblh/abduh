@@ -24,7 +24,7 @@ export function render({ store, params, today }) {
   const sel = (label, map, nameOf, set) => h('select', { class: 'filter-select', 'aria-label': label, onChange: (e) => { set(e.target.value); paint(); } }, h('option', { value: '' }, `${label} ▾`), [...map].sort((a, b) => b[1] - a[1]).map(([id, n]) => h('option', { value: id }, `${nameOf(id)} (${n})`)));
   return h('article', { class: 'detail' },
     h('p', { class: 'breadcrumb' }, h('a', { href: '#/instruments' }, 'Nástroje'), ` / ${ins.name}`),
-    h('header', { class: 'detail-head' }, h('div', { class: 'ins-big' }, ins.icon ?? '♪'),
+    h('header', { class: 'detail-head' }, ins.image ? h('img', { class: 'ins-big ins-photo', src: ins.image, alt: ins.name, width: 200, height: 200 }) : h('div', { class: 'ins-big' }, ins.icon ?? '♪'),
       h('div', { class: 'detail-main' }, h('p', { class: 'eyebrow' }, 'NÁSTROJ'), h('h1', { class: 'detail-title' }, ins.name, h('small', { class: 'count' }, ` ${plural(bands.length, 'kapela', 'kapely', 'kapel')}`)), body)),
     sectionTitle('Kdo na ni hraje'),
     h('div', { class: 'filters' },

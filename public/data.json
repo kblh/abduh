@@ -1129,7 +1129,7 @@
       ],
       "modified": "2026-11-15",
       "body": "",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "amal-murkus",
@@ -3180,7 +3180,7 @@
       ],
       "modified": "2026-11-15",
       "body": "",
-      "rank": 4
+      "rank": 8
     },
     {
       "id": "blue-king-brown",
@@ -5506,7 +5506,7 @@
       ],
       "added": "2026-11-15",
       "body": "Dawuna (vlastním jménem Ian Mugerwa) je ugandsko-americký umělec, který vyrostl ve Virginii a žije v Baltimoru. Hraje experimentální R&B, soul a elektroniku.\n",
-      "rank": 1
+      "rank": 5
     },
     {
       "id": "daxar",
@@ -6052,7 +6052,12 @@
       "instruments": [
         "kora"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 0
     },
     {
       "id": "djeli-moussa-diawara",
@@ -6063,7 +6068,12 @@
       "instruments": [
         "kora"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 1
     },
     {
       "id": "djelimady-tounkara",
@@ -6074,7 +6084,12 @@
       "instruments": [
         "guitar"
       ],
-      "body": ""
+      "tags": [
+        "griot"
+      ],
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 2
     },
     {
       "id": "djeneba-seck",
@@ -6716,7 +6731,7 @@
       ],
       "modified": "2026-11-15",
       "body": "",
-      "rank": 5
+      "rank": 9
     },
     {
       "id": "egschiglen",
@@ -8731,7 +8746,7 @@
       ],
       "modified": "2026-11-15",
       "body": "",
-      "rank": 6
+      "rank": 10
     },
     {
       "id": "gilberto-gil",
@@ -11006,7 +11021,7 @@
       ],
       "added": "2026-11-15",
       "body": "Anglický kytarista, skladatel a producent (nar. 1961 v Londýně), který část dětství prožil v Egyptě. V 80. letech hrál s Impossible Dreamers a v Invaders of the Heart Jaha Wobbla, později spolupracoval s Robertem Plantem na albu Mighty ReArranger. Jako producent stál za prvním a třetím albem Tinariwen. Spojuje blues se saharskou a západoafrickou hudbou – v duu s gambijským griotem Juldehem Camarou a později s italským hudebníkem Mauro Durantem.\n",
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "justyna-steczkowska",
@@ -11061,7 +11076,7 @@
       ],
       "modified": "2026-11-15",
       "body": "",
-      "rank": 7
+      "rank": 11
     },
     {
       "id": "kabuta-mukulu",
@@ -11879,8 +11894,7 @@
         "diaspora"
       ],
       "modified": "2026-11-15",
-      "body": "",
-      "rank": 8
+      "body": ""
     },
     {
       "id": "kiran-ahluwalia",
@@ -13873,8 +13887,7 @@
         "blind"
       ],
       "modified": "2026-11-15",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "madredeus",
@@ -15678,8 +15691,7 @@
         "diaspora"
       ],
       "modified": "2026-11-15",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "mitsoura",
@@ -16659,8 +16671,7 @@
         "diaspora"
       ],
       "modified": "2026-11-15",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "nizar-rohana",
@@ -16779,13 +16790,36 @@
       "countries": [
         "mauritania"
       ],
+      "styles": [
+        "psychedelic",
+        "blues"
+      ],
       "instruments": [
         "ardin"
       ],
       "tags": [
-        "woman"
+        "woman",
+        "griot"
       ],
-      "body": ""
+      "image": "img/bands/noura-mint-seymali.avif",
+      "image_source": "https://soundcloud.com/noura-mint-seymali",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://noura-mint-seymali.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Noura_Mint_Seymali"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2HnmTIZBaC6upua76nuGIY"
+        }
+      ],
+      "modified": "2026-11-17",
+      "body": "Mauritánská griotka, zpěvačka, skladatelka a instrumentalistka. Spojuje tradiční maurskou hudbu své griotské rodiny s rockem, bluesem a psychedelií; hraje na ardin, mauritánskou harfu.\n",
+      "rank": 3
     },
     {
       "id": "nova",
@@ -19196,7 +19230,7 @@
       ],
       "modified": "2026-11-17",
       "body": "Katalánská zpěvačka, skladatelka a herečka z Barcelony (nar. 1992), známá jako Rosalía. Ve 14 letech ji uchvátila španělská lidová hudba, vystudovala muzikologii na Katalánské hudební vysoké škole (2017). Kritika ji označuje za „atypickou popovou hvězdu“ pro prolínání žánrů: z flamenka vyšla na albu *El mal querer* (2018) a v *Motomami* (2022) ho míchá s pop, reggaetonem a elektronikou.\\n",
-      "rank": 0
+      "rank": 4
     },
     {
       "id": "rosanna-zelia",
@@ -24651,7 +24685,7 @@
       ],
       "added": "2026-11-15",
       "body": "",
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "dawuna-love-s-arp",
@@ -24670,7 +24704,7 @@
       ],
       "added": "2026-11-15",
       "body": "",
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "deep-cabaret-matchless",
@@ -24714,8 +24748,7 @@
         }
       ],
       "added": "2026-11-14",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "juana-molina-halo",
@@ -24757,7 +24790,7 @@
       ],
       "added": "2026-11-15",
       "body": "",
-      "rank": 5
+      "rank": 8
     },
     {
       "id": "justin-adams-in-trance",
@@ -24777,7 +24810,7 @@
       ],
       "added": "2026-11-15",
       "body": "",
-      "rank": 6
+      "rank": 9
     },
     {
       "id": "justin-adams-ribbons",
@@ -24789,7 +24822,7 @@
       "label": "Wayward",
       "added": "2026-11-15",
       "body": "",
-      "rank": 7
+      "rank": 10
     },
     {
       "id": "justin-adams-still-moving",
@@ -24808,7 +24841,7 @@
       ],
       "added": "2026-11-15",
       "body": "",
-      "rank": 8
+      "rank": 11
     },
     {
       "id": "justin-adams-sweet-release",
@@ -24827,8 +24860,7 @@
         }
       ],
       "added": "2026-11-15",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "justin-adams-tell-no-lies",
@@ -24847,8 +24879,64 @@
         }
       ],
       "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "noura-mint-seymali-arbina",
+      "name": "Arbina",
+      "bands": [
+        "noura-mint-seymali"
+      ],
+      "year": 2016,
+      "image": "img/cds/noura-mint-seymali-arbina.avif",
+      "image_source": "https://noura-mint-seymali.bandcamp.com/album/arbina",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://noura-mint-seymali.bandcamp.com/album/arbina"
+        }
+      ],
+      "added": "2026-11-17",
       "body": "",
-      "rank": 10
+      "rank": 0
+    },
+    {
+      "id": "noura-mint-seymali-tzenni",
+      "name": "Tzenni",
+      "bands": [
+        "noura-mint-seymali"
+      ],
+      "year": 2014,
+      "image": "img/cds/noura-mint-seymali-tzenni.avif",
+      "image_source": "https://noura-mint-seymali.bandcamp.com/album/tzenni",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://noura-mint-seymali.bandcamp.com/album/tzenni"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 1
+    },
+    {
+      "id": "noura-mint-seymali-yenbett",
+      "name": "Yenbett",
+      "bands": [
+        "noura-mint-seymali"
+      ],
+      "year": 2025,
+      "image": "img/cds/noura-mint-seymali-yenbett.avif",
+      "image_source": "https://noura-mint-seymali.bandcamp.com/album/yenbett",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://noura-mint-seymali.bandcamp.com/album/yenbett"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 2
     },
     {
       "id": "rosalia-vila-tobella-el-mal-querer",
@@ -24861,7 +24949,7 @@
       "image_source": "https://protisedi.cz/wp-content/uploads/2018/11/obal.jpg",
       "added": "2026-11-17",
       "body": "",
-      "rank": 0
+      "rank": 3
     },
     {
       "id": "rosalia-vila-tobella-lux",
@@ -24874,7 +24962,7 @@
       "image_source": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
       "added": "2026-11-17",
       "body": "",
-      "rank": 1
+      "rank": 4
     },
     {
       "id": "rosalia-vila-tobella-motomami",
@@ -24887,7 +24975,7 @@
       "image_source": "lokální soubor (obal alba Motomami)",
       "added": "2026-11-17",
       "body": "",
-      "rank": 2
+      "rank": 5
     }
   ],
   "shelves": [
@@ -26302,6 +26390,8 @@
     {
       "id": "ardin",
       "name": "ardin",
+      "image": "img/instruments/ardin.avif",
+      "image_source": "https://organology.net/wp-content/uploads/2025/02/Ardin-musical-instrument-img.jpg",
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "Loutna z Mauretánie se 14 strunami. Ozvučná skříň je z tykve potažené telecí kůží.\n",
@@ -26311,20 +26401,22 @@
       "id": "baglamas",
       "name": "baglamas",
       "added": "2026-11-17",
-      "body": "Řecký nástroj s pražci, malý, spíš jako ukulele. Má rytmickou roli, jako hi-hat. Viz saz.\n",
-      "rank": 3
+      "body": "Řecký nástroj s pražci, malý, spíš jako ukulele. Má rytmickou roli, jako hi-hat. Viz saz.\n"
     },
     {
       "id": "balaba",
       "name": "balaba",
       "added": "2026-11-17",
-      "body": "Velký balafon z jižního Mali, z oblasti Bélédougou.\n",
-      "rank": 4
+      "body": "Velký balafon z jižního Mali, z oblasti Bélédougou.\n"
     },
     {
       "id": "balafon",
       "name": "balafon",
-      "body": ""
+      "image": "img/instruments/balafon.avif",
+      "image_source": "https://www.afroton.de/media/image/8b/44/23/Afroton_Balafon_12_Toene_Ghana_ca_L_75cm_B_45cm_H_40cm_ABF609.jpg",
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 3
     },
     {
       "id": "banjo",
@@ -26340,12 +26432,18 @@
     {
       "id": "biram",
       "name": "biram",
+      "image": "img/instruments/biram.avif",
+      "image_source": "https://kora-music.com/pics/Niger,N'Guigmi,Toubou,Malam%20Maman%20Barka,Biram.jpg",
       "added": "2026-11-14",
-      "body": ""
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 4
     },
     {
       "id": "bolon",
       "name": "bolon",
+      "image": "img/instruments/bolon.avif",
+      "image_source": "https://wmic.net/wp-content/uploads/2021/02/Bass-Bolonah450.jpg",
       "added": "2026-11-17",
       "body": "Basová harfa se 3 až 4 strunami. Hraje na ni Sali Sidibe. Není zas tak velká, měl ji například Momo Wandel v Angoulême.\n",
       "rank": 5
@@ -26354,8 +26452,16 @@
       "id": "bouzouki",
       "name": "bouzouki",
       "added": "2026-11-17",
-      "body": "Řecký nástroj s pražci, specifický typ sazu nebo tanbury. Dříve měl tři páry strun, dnes čtyři. Podle Kariho Reimana (Värttinä) se do Švédska nedostal z Řecka, ale z Irska, kde silně zdomácněl. Pro lidovou hudbu se hodí lépe než kytara: dají se na něj zahrát hlubší tóny, zní „etničtěji“ a umožňuje střídat melodii a doprovod (totéž uvádějí liner notes Musica Svecia). Viz též cittern.\n",
-      "rank": 6
+      "body": "Řecký nástroj s pražci, specifický typ sazu nebo tanbury. Dříve měl tři páry strun, dnes čtyři. Podle Kariho Reimana (Värttinä) se do Švédska nedostal z Řecka, ale z Irska, kde silně zdomácněl. Pro lidovou hudbu se hodí lépe než kytara: dají se na něj zahrát hlubší tóny, zní „etničtěji“ a umožňuje střídat melodii a doprovod (totéž uvádějí liner notes Musica Svecia). Viz též cittern.\n"
+    },
+    {
+      "id": "cajon",
+      "name": "cajon",
+      "image": "img/instruments/cajon.avif",
+      "image_source": "https://r2.gear4music.com/media/59/597075/600/preview.jpg",
+      "added": "2026-11-17",
+      "body": "Dřevěná bedna, na které hráč sedí a bije do přední desky (tapa); je tenčí než zbytek a tvoří hrací plochu, zadní strana má otvor pro projekci zvuku. Bývá vysoká asi 50 cm a hluboká i široká asi 30 cm. Při horním okraji zní ostře a vysoko, uprostřed basově. Typy se liší strunami, rolničkami nebo strunami od malého bubnu uvnitř za přední deskou, které dávají zvuk podobný malému bubnu (na Kubě se často vynechávají pro čistší zvuk).\n\nCajon je symbolickým nástrojem černošské komunity v Peru a jako mnohé jihoamerické perkuse nahradil africké bubny, které byly otrokům zakázány. Podle tradice byly prvními cajony bedny sběračů ovoce a v přístavech Callao, Pisco, Trujillo a Ica také bedny od piva. Na Kubě existuje v některých stylech rumby, kde se prý hrálo na bedny od ryb. Slyšet je na nahrávkách Susany Baca a prakticky na všech afroperuánských deskách (viz kompilaci The Soul of Black Peru, kterou produkoval David Byrne). Slavní hráči: Julio „Chocolate“ Algendones, Juan „Cotito“ Medrano, Eusebio „Pititi“ Sirio a Caitro Soto.\n\nDo flamenka cajon přivedl v 70. letech Paco de Lucía: Caitro Soto mu ho podle jedné verze představil na turné v Jižní Americe koncem 70. let. Paco dal dva nástroje brazilskému perkusionistovi Rubemu Dantasovi a sevillskému tanečníkovi Manuelu Solerovi, flamenco ho okamžitě přijalo a dnes ho používají téměř všichni mladí flamenkáři jako tradiční nástroj. Susana Baca potvrdila, že se to stalo na večírku, který pro Paca pořádala v Limě. Cajon se hodí do téměř jakéhokoli akustického prostředí, zesílený i k elektronické hudbě, třeba drum'n'bassu, a váží jen asi dvě kila.\n",
+      "rank": 0
     },
     {
       "id": "cello",
@@ -26366,8 +26472,7 @@
       "id": "cittern",
       "name": "cittern",
       "added": "2026-11-17",
-      "body": "Menší než mandola, struny v párech, hraje se trsátkem. Viz též bouzouki.\n",
-      "rank": 7
+      "body": "Menší než mandola, struny v párech, hraje se trsátkem. Viz též bouzouki.\n"
     },
     {
       "id": "clarinet",
@@ -26383,28 +26488,35 @@
     {
       "id": "cuatro",
       "name": "cuatro",
-      "body": ""
+      "image": "img/instruments/cuatro.avif",
+      "image_source": "https://tucuatro.com/wp-content/uploads/sites/1/2019/12/cuatro-1.png.webp",
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 6
     },
     {
       "id": "cura",
       "name": "cura",
+      "image": "img/instruments/cura.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Cura.png",
       "added": "2026-11-17",
       "body": "Nejmenší forma sazu (též baglama), drnkací nástroj. Na rozdíl od sazu má jen šest strun.\n",
-      "rank": 8
+      "rank": 7
     },
     {
       "id": "daf",
       "name": "daf",
+      "image": "img/instruments/daf.avif",
+      "image_source": "https://danse-soufie.com/wp-content/uploads/2025/08/Cours-de-DAF.webp",
       "added": "2026-11-17",
       "body": "Tamburína, na kterou hraje například Alim Qasimov. Také daff, dafli nebo daphli: bubínek, který doprovází qawwali a lidovou hudbu. Řecká obdoba je defi (viz To Meraki).\n",
-      "rank": 9
+      "rank": 8
     },
     {
       "id": "defi",
       "name": "defi",
       "added": "2026-11-17",
-      "body": "Řecký buben (viz To Meraki). Viz daf.\n",
-      "rank": 10
+      "body": "Řecký buben (viz To Meraki). Viz daf.\n"
     },
     {
       "id": "delhi",
@@ -26416,8 +26528,7 @@
       "id": "dhol",
       "name": "dhol",
       "added": "2026-11-17",
-      "body": "Velký oboustranný válcový buben. Levá ruka velkou zahnutou paličkou vyťukává základní rytmus, pravá lehkou paličkou jemné ozdoby. Klíčový nástroj původní pandžábské bhangry. Foto dholu a dholaku: TFF 97, s. 55.\n",
-      "rank": 11
+      "body": "Velký oboustranný válcový buben. Levá ruka velkou zahnutou paličkou vyťukává základní rytmus, pravá lehkou paličkou jemné ozdoby. Klíčový nástroj původní pandžábské bhangry. Foto dholu a dholaku: TFF 97, s. 55.\n"
     },
     {
       "id": "dholak",
@@ -26428,8 +26539,11 @@
     {
       "id": "donso-ngoni",
       "name": "donso ngoni",
+      "image": "img/instruments/donso-ngoni.avif",
+      "image_source": "https://kora-music.com/pics/Mali,Wassoulou,Hunters,Donso%20Ngoni.jpg",
       "added": "2026-11-17",
-      "body": "Lovecká harfa (loutna) z tykve, nástroj lovců. Má 3 struny, novější modely 4, 5 i 6. Z ní vznikla kora a kamele ngoni.\n"
+      "body": "Lovecká harfa (loutna) z tykve, nástroj lovců. Má 3 struny, novější modely 4, 5 i 6. Z ní vznikla kora a kamele ngoni.\n",
+      "rank": 9
     },
     {
       "id": "drums",
@@ -26489,7 +26603,7 @@
       "icon": "🪉",
       "modified": "2026-11-17",
       "body": "info: od Petra Dorůžky - Thomas Loefke, WOMEX 98 \n\nAž do minulého století se užívaly měděné struny, které se dost špatně ladily, a pak po vzoru koncertních harf je nahradily struny ze střev, pedály, \n\nKoncertní harfy, aby obstály vedle ostatních nástrojů, musely být větší a větší - původně vznikly podle  keltské harfy, ale zvětšovaly se, daly k nim pedály, a kvůli pedálům tam museli dát střevové struny, \n\nA teď jsou dva druhy keltský harf, s kovovými a střevovými strunami, na kovové se hraje nehty, a střevové bříšky prstů, \n\nTradiční způsob hry na harfu vymizel v Irsku koncem minulého století, a to se pak změnilo v padesátých letech, kdy lidé začali znovu hrát na harfy, a dnes se hraje na tento nástroj mnohem víc než dříve. \n\nA pak je také nový nástroj, elektrická harfa s nylonovými strunami, pokrok se nedá zastavit.",
-      "rank": 1
+      "rank": 11
     },
     {
       "id": "hoddu",
@@ -26542,6 +26656,13 @@
       "name": "keyboard",
       "icon": "🎹",
       "body": ""
+    },
+    {
+      "id": "khomus",
+      "name": "khomus",
+      "added": "2026-11-17",
+      "body": "V tuvinštině slovo khomus označuje temir-khomus, tedy brumli (jew harp). Chakaský strunný khomus od mistra Topoeva má tvar posvátné labutě.\n",
+      "rank": 1
     },
     {
       "id": "kologo",
@@ -26678,7 +26799,7 @@
       "name": "txalaparta",
       "added": "2026-11-17",
       "body": "Baskická perkuse ze dvou či tří silných dřevěných prken položených na dvou velkých kulatých koších (někdy přikrytých dekami, aby prkna dobře zněla). Hrají na ni dva hráči, txalapartariak, každý se dvěma krátkými dřevěnými hůlkami (asi 25 cm). Údery míří svisle shora, nikdy vodorovně. Podle jedné verze se zvuk odvozuje od cvalu koňských kopyt (chacun-chacun). Dnes se txalaparta dělá i z kamene a kovu.\n\nKaždý hráč má svůj časový prostor, do kterého druhý nesmí zasahovat. Prostor se během hry zkracuje i natahuje a právě vzájemný respekt drží rytmus pohromadě. Základní údery (kolpeak): txakun (dva údery těsně za sebou), herena (jeden úder v prostoru dvou), hutsunea (pauza, hráč ve svém prostoru neudeří) a hiru kolpeko txakuna (tři údery v prostoru dvou). Někdo rytmy zapisuje, většina hráčů improvizuje a zdobí rytmus druhého.\n\nPředpokládá se, že sloužila ke komunikaci mezi vzdálenými statky (zvláštní rytmus ohlašoval třeba hotový cider nebo úmrtí). Před několika desetiletími ji obnovili starší lidé v cider barech v Gipuzkoa, v okolí Astigarragy a Lesaky na hranici s Navarrou, kde se používala k ohlášení, že je sagardoa (cider) hotová. Dnes je to hudební nástroj. Básník a sochař Jorge Oteiza o ní napsal, že levá ruka zpívá, zatímco pravá pracuje na své svobodě.\n\nNahrávky: Tomas San Miguel con Txalaparta – Lezao (Narada, mísí baskickou hudbu s new age) a Joxan Goikoetxea & Juan Mari Beltran – Egurraren orpotik dator… Juan Mari Beltran je výrobce baskických nástrojů a výborný hráč.\n",
-      "rank": 0
+      "rank": 10
     },
     {
       "id": "valiha",
@@ -26711,41 +26832,48 @@
       "name": "albino",
       "added": "2026-11-15",
       "body": "",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "baltimore",
       "name": "baltimore",
       "added": "2026-11-15",
       "body": "",
-      "rank": 0
+      "rank": 1
     },
     {
       "id": "berlin",
       "name": "berlin",
       "added": "2026-11-15",
       "body": "",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "blind",
       "name": "blind",
       "added": "2026-11-15",
       "body": "",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "diaspora",
       "name": "diaspora",
       "added": "2026-11-15",
       "body": "",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "dublin",
       "name": "dublin",
       "added": "2026-11-14",
       "body": ""
+    },
+    {
+      "id": "griot",
+      "name": "griot",
+      "added": "2026-11-17",
+      "body": "Griot (jali, djeli, jeli; žena jelimuso) je západoafrický dědičný hudebník, básník, historik a znalec rodokmenů. Podle marockého cestovatele ze 14. století měli grioti roli tlumočníků, veřejných řečníků, básníků, historiků a aktivních hudebníků. Fungují také jako důvěrní poradci a prostředníci mezi znesvářenými stranami.\n\nKasta griotů stála ve společnosti poměrně nízko. Nejvýš jsou „svobodní lidé“ (aristokracie bez specifického povolání), pod nimi lidé spojení s řemeslem (kováři, koželuzi), pak grioti, islámští kazatelé, baviči („grioti griotů“, kteří oslavují griouty i všechny nad sebou) a nejníže potomci otroků a válečných zajatců. Svobodní jsou mecenáši a ochránci griotů a ti jim za podporu skládají oslavné písně. Platí to dodnes: na novém CD ze západní Afriky je velká šance, že najdete oslavnou píseň na mecenáše, sponzora nebo politika.\n\nU Mandů se kasty dělí na horon (zemědělci, lovci, šlechta a vůdci komunity) a nyamakala (specialisté: kováři neboli numu, bardi neboli jeli a koželuzi neboli garanke). Nyamakala zacházejí s nyama, zdrojem síly a energie za každou činností, a právě to je spojuje a odděluje od zbytku mandského světa. Horon se s nyamakala veřejně nestýká, ale využívá jejich služby (řešení tělesných i duchovních problémů, svěřuje jim náboženskou výchovu dětí) a bez porady s nimi nečiní rozhodnutí. Nyamakala jsou v očích horon všechno, čím by oni být neměli: pohrávají si s kouzly a veřejně se poddávají emocím, tančí a hrají hudbu.\n",
+      "rank": 0
     },
     {
       "id": "manchester",
