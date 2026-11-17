@@ -2430,7 +2430,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 0
+      "rank": 4
     },
     {
       "id": "ballake-sissoko",
@@ -2611,7 +2611,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 1
+      "rank": 5
     },
     {
       "id": "batata-y-su-rumba-palenquera",
@@ -9258,7 +9258,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "hadouk-trio",
@@ -10722,7 +10722,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "joe-zawinul",
@@ -11289,7 +11289,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 4
+      "rank": 8
     },
     {
       "id": "kanizsa-csillagai",
@@ -11545,7 +11545,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 5
+      "rank": 9
     },
     {
       "id": "kassav",
@@ -12223,7 +12223,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 6
+      "rank": 10
     },
     {
       "id": "krar-collective",
@@ -13705,6 +13705,35 @@
       "body": ""
     },
     {
+      "id": "lucrecia-dalt",
+      "name": "Lucrecia Dalt",
+      "countries": [
+        "colombia"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "tags": [
+        "woman"
+      ],
+      "image": "img/bands/lucrecia-dalt.avif",
+      "image_source": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://lucreciadalt.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "Lucrecia Dalt je kolumbijská experimentální hudebnice narozená v Pereiře, dnes žijící v Berlíně. Původně se věnovala inženýrství a geologii, než se vydala za hudbou; debutovala v roce 2005 a časem se od zasněné elektronické pop hudby posunula k abstraktnější, surrealistické tvorbě. Vydává u RVNG Intl a složila hudbu k seriálu The Baby.\n",
+      "rank": 0
+    },
+    {
       "id": "luigi-cinque",
       "name": "Luigi Cinque",
       "countries": [
@@ -14307,7 +14336,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 7
+      "rank": 11
     },
     {
       "id": "mamane-barka",
@@ -14939,6 +14968,35 @@
         "spain"
       ],
       "body": ""
+    },
+    {
+      "id": "marina-herlop",
+      "name": "Marina Herlop",
+      "countries": [
+        "catalonia"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "tags": [
+        "woman"
+      ],
+      "image": "img/bands/marina-herlop.avif",
+      "image_source": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://marinaherlop.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "Marina Herlop (vlastním jménem Marina Hernández López) je katalánská experimentální hudebnice a klasicky vzdělaná klavíristka. Její první alba stála na klavíru a hlase, později se posunula k elektronice a nezvyklým vokálním aranžím. Od alba Pripyat vydávala u labelu PAN, nejnovější Dja Dja vydává samostatně.\n",
+      "rank": 1
     },
     {
       "id": "mario-bihari-bachtale-apsa",
@@ -17905,8 +17963,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 8
+      "body": ""
     },
     {
       "id": "pekko-kappi",
@@ -19618,6 +19675,35 @@
       "body": ""
     },
     {
+      "id": "salami-rose-joe-louis",
+      "name": "Salami Rose Joe Louis",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "tags": [
+        "woman"
+      ],
+      "image": "img/bands/salami-rose-joe-louis.avif",
+      "image_source": "https://salamirosejoelouismusic.bandcamp.com",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://salamirosejoelouismusic.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "Salami Rose Joe Louis je projekt kalifornské hudebnice Lindsay Olsen, která se po práci klimatoložky věnuje hudbě naplno. Jde o krátké, skicovité skladby plné syntezátorů, experimentálního popu a abstraktních beatů s kosmickou obrazností. Po několika samostatných albech vydává u labelu Brainfeeder.\n",
+      "rank": 2
+    },
+    {
       "id": "salif-keita",
       "name": "Salif Keita",
       "countries": [
@@ -19811,6 +19897,31 @@
         "mpb"
       ],
       "body": ""
+    },
+    {
+      "id": "sara-gioielli",
+      "name": "Sara Gioielli",
+      "countries": [
+        "italy"
+      ],
+      "tags": [
+        "woman"
+      ],
+      "image": "img/bands/sara-gioielli.avif",
+      "image_source": "https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://saragioielli.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "Sara Gioielli je neapolská zpěvačka, skladatelka a producentka z Pozzuoli, narozená v roce 2001. Řadu let zpívala v dětském sboru divadla Teatro San Carlo. Ve své tvorbě spojuje jazz, současnou hudbu, pop a operní vlivy; debutové album Gioielli Neri vydala v říjnu 2025.\n",
+      "rank": 3
     },
     {
       "id": "sara-tavares",
@@ -20882,8 +20993,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "sorie-kondi",
@@ -22701,8 +22811,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "toumast",
@@ -24363,8 +24472,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "zap-mama",
@@ -24730,8 +24838,7 @@
         }
       ],
       "added": "2026-11-15",
-      "body": "",
-      "rank": 6
+      "body": ""
     },
     {
       "id": "dawuna-love-s-arp",
@@ -24749,8 +24856,7 @@
         }
       ],
       "added": "2026-11-15",
-      "body": "",
-      "rank": 7
+      "body": ""
     },
     {
       "id": "deep-cabaret-matchless",
@@ -24835,8 +24941,7 @@
         }
       ],
       "added": "2026-11-15",
-      "body": "",
-      "rank": 8
+      "body": ""
     },
     {
       "id": "justin-adams-in-trance",
@@ -24855,8 +24960,7 @@
         }
       ],
       "added": "2026-11-15",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "justin-adams-ribbons",
@@ -24867,8 +24971,7 @@
       "year": 2017,
       "label": "Wayward",
       "added": "2026-11-15",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "justin-adams-still-moving",
@@ -24886,8 +24989,7 @@
         }
       ],
       "added": "2026-11-15",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "justin-adams-sweet-release",
@@ -24928,6 +25030,100 @@
       "body": ""
     },
     {
+      "id": "lucrecia-dalt-a-danger-to-ourselves",
+      "name": "A Danger to Ourselves",
+      "bands": [
+        "lucrecia-dalt"
+      ],
+      "year": 2025,
+      "image": "img/cds/lucrecia-dalt-a-danger-to-ourselves.avif",
+      "image_source": "https://lucreciadalt.bandcamp.com/album/a-danger-to-ourselves",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/57qCSMVr1gZhW68IZXoPmC"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://lucreciadalt.bandcamp.com/album/a-danger-to-ourselves"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 0
+    },
+    {
+      "id": "lucrecia-dalt-ay",
+      "name": "¡Ay!",
+      "bands": [
+        "lucrecia-dalt"
+      ],
+      "year": 2022,
+      "label": "RVNG Intl",
+      "image": "img/cds/lucrecia-dalt-ay.avif",
+      "image_source": "https://lucreciadalt.bandcamp.com/album/ay",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://lucreciadalt.bandcamp.com/album/ay"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 1
+    },
+    {
+      "id": "marina-herlop-dja-dja",
+      "name": "Dja Dja",
+      "bands": [
+        "marina-herlop"
+      ],
+      "year": 2026,
+      "image": "img/cds/marina-herlop-dja-dja.avif",
+      "image_source": "https://marinaherlop.bandcamp.com/album/dja-dja",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://marinaherlop.bandcamp.com/album/dja-dja"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 2
+    },
+    {
+      "id": "marina-herlop-pripyat",
+      "name": "Pripyat",
+      "bands": [
+        "marina-herlop"
+      ],
+      "year": 2022,
+      "label": "PAN",
+      "image": "img/cds/marina-herlop-pripyat.avif",
+      "image_source": "https://marinaherlop.bandcamp.com/album/pripyat",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://marinaherlop.bandcamp.com/album/pripyat"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 3
+    },
+    {
       "id": "noura-mint-seymali-arbina",
       "name": "Arbina",
       "bands": [
@@ -24944,7 +25140,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 0
+      "rank": 8
     },
     {
       "id": "noura-mint-seymali-tzenni",
@@ -24963,7 +25159,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 1
+      "rank": 9
     },
     {
       "id": "noura-mint-seymali-yenbett",
@@ -24982,7 +25178,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 2
+      "rank": 10
     },
     {
       "id": "rosalia-vila-tobella-el-mal-querer",
@@ -24995,7 +25191,7 @@
       "image_source": "https://protisedi.cz/wp-content/uploads/2018/11/obal.jpg",
       "added": "2026-11-17",
       "body": "",
-      "rank": 3
+      "rank": 11
     },
     {
       "id": "rosalia-vila-tobella-lux",
@@ -25007,8 +25203,7 @@
       "image": "img/cds/rosalia-vila-tobella-lux.avif",
       "image_source": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
       "added": "2026-11-17",
-      "body": "",
-      "rank": 4
+      "body": ""
     },
     {
       "id": "rosalia-vila-tobella-motomami",
@@ -25020,11 +25215,128 @@
       "image": "img/cds/rosalia-vila-tobella-motomami.avif",
       "image_source": "lokální soubor (obal alba Motomami)",
       "added": "2026-11-17",
+      "body": ""
+    },
+    {
+      "id": "salami-rose-joe-louis-akousmatikous",
+      "name": "Akousmatikous",
+      "bands": [
+        "salami-rose-joe-louis"
+      ],
+      "year": 2023,
+      "label": "Brainfeeder",
+      "image": "img/cds/salami-rose-joe-louis-akousmatikous.avif",
+      "image_source": "https://salamirosejoelouismusic.bandcamp.com/album/akousmatikous",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://salamirosejoelouismusic.bandcamp.com/album/akousmatikous"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 4
+    },
+    {
+      "id": "salami-rose-joe-louis-lorings",
+      "name": "Lorings",
+      "bands": [
+        "salami-rose-joe-louis"
+      ],
+      "year": 2025,
+      "image": "img/cds/salami-rose-joe-louis-lorings.avif",
+      "image_source": "https://salamirosejoelouismusic.bandcamp.com/album/lorings",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://salamirosejoelouismusic.bandcamp.com/album/lorings"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI"
+        }
+      ],
+      "added": "2026-11-17",
       "body": "",
       "rank": 5
+    },
+    {
+      "id": "salami-rose-joe-louis-zdenka-2080",
+      "name": "Zdenka 2080",
+      "bands": [
+        "salami-rose-joe-louis"
+      ],
+      "year": 2019,
+      "label": "Brainfeeder",
+      "image": "img/cds/salami-rose-joe-louis-zdenka-2080.avif",
+      "image_source": "https://salamirosejoelouismusic.bandcamp.com/album/zdenka-2080",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://salamirosejoelouismusic.bandcamp.com/album/zdenka-2080"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4qvZ2pUy4LN9nCZ7BHiHic"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 6
+    },
+    {
+      "id": "sara-gioielli-gioielli-neri",
+      "name": "Gioielli Neri",
+      "bands": [
+        "sara-gioielli"
+      ],
+      "year": 2025,
+      "image": "img/cds/sara-gioielli-gioielli-neri.avif",
+      "image_source": "https://saragioielli.bandcamp.com/album/gioielli-neri",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://saragioielli.bandcamp.com/album/gioielli-neri"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 7
     }
   ],
   "shelves": [
+    {
+      "id": "ex",
+      "name": "EX",
+      "bands": [
+        "salami-rose-joe-louis",
+        "lucrecia-dalt",
+        "marina-herlop",
+        "dawuna",
+        "sara-gioielli"
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 0
+    },
+    {
+      "id": "ita",
+      "name": "ITA",
+      "bands": [
+        "sara-gioielli"
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 1
+    },
     {
       "id": "poustni-blues",
       "name": "Pouštní blues",
@@ -25045,7 +25357,7 @@
       ],
       "added": "2026-11-13",
       "body": "",
-      "rank": 0
+      "rank": 2
     }
   ],
   "countries": [
