@@ -1,7 +1,7 @@
 import { h, svg } from '../ui/dom.js';
 import { TAB_ICONS } from '../ui/icons.js';
 import { bandRow, chip, flagList, initials, placeholderCard, sectionTitle } from '../ui/components.js';
-import { recentlyAdded, isNew } from '../store.js';
+import { recentlyChanged, isNew } from '../store.js';
 import { prettyStyle } from '../text.js';
 import { bigSearchField } from './search.js';
 
@@ -25,14 +25,23 @@ export function render({ store, setQuery, today }) {
   };
   roll();
 
-  const fresh = recentlyAdded(store, 6);
+  const fmtDate = (d) => new Date(`${d}T00:00:00Z`).toLocaleDateString('cs-CZ', { day: 'numeric', month: 'numeric', timeZone: 'UTC' });
+  const changedList = (group, nameOf, href) => {
+    const items = recentlyChanged(store, group, 5);
+    return items.length ? items.map((e) => h('a', { class: 'reg-line', href: `#/${group}/${encodeURIComponent(e.id)}` },
+      h('span', null, nameOf(e)), isNew(e, today) ? h('span', { class: 'stamp-new' }, 'NOVÉ') : null, h('i', { class: 'leader' }), h('small', null, fmtDate(e.modified ?? e.added)))) : h('p', { class: 'hand-note' }, 'zatím nic');
+  };
+  const block = (title, key, body) => h('div', null, sectionTitle(title, 'NOVÉ A UPRAVENÉ', key), body);
+  const freshBands = recentlyChanged(store, 'bands', 6);
   return h('section', { class: 'home' },
     bigSearchField('', (v) => setQuery(v)),
     h('p', { class: 'tips' }, 'zkus: ', TIPS.flatMap((t, i) => [i ? ' · ' : '', h('a', { href: `#/search?q=${encodeURIComponent(t)}` }, t)])),
     h('div', { class: 'tiles' }, tiles.map(([key, label, href]) => h('a', { class: key === 'bands' ? 'tile tile-main' : 'tile', href }, h('span', { class: 'tile-n' }, String(store.byId[key].size)), h('span', { class: 'tile-l' }, h('span', { class: 'tile-ic' }, svg(TAB_ICONS[key])), label)))),
     h('div', { class: 'home-cols' },
-      fresh.length ? h('div', null, sectionTitle('Nově zapsané'), fresh.map((e) => e.bands
-        ? h('a', { class: 'band-row cd-line', href: `#/cds/${encodeURIComponent(e.id)}` }, e.image ? h('img', { class: 'thumb', src: e.image, alt: '', loading: 'lazy', width: 50, height: 50 }) : h('span', { class: 'thumb thumb-ph' }, placeholderCard(initials(e.name), null)), h('span', { class: 'row-body' }, h('span', { class: 'row-name' }, h('span', { class: 'row-title' }, e.name), isNew(e, today) ? h('span', { class: 'stamp-new' }, 'NOVÉ') : null), h('span', { class: 'row-meta' }, `CD · ${e.bands.map((b) => store.byId.bands.get(b)?.name).filter(Boolean).join(' & ')}`)))
-        : bandRow(store, e, { today }))) : null,
-      h('div', null, h('h2', { class: 'section-title' }, h('span', null, 'Náhodný objev'), h('button', { class: 'reroll', type: 'button', onClick: roll }, 'další ↻')), discover)));
+      block('Kapely', 'bands', freshBands.map((e) => bandRow(store, e, { today }))),
+      h('div', null, h('h2', { class: 'section-title' }, h('span', null, 'Náhodný objev'), h('button', { class: 'reroll', type: 'button', onClick: roll }, 'další ↻')), discover)),
+    h('div', { class: 'home-trio' },
+      block('Styly', 'styles', changedList('styles', (e) => prettyStyle(e.name))),
+      block('Nástroje', 'instruments', changedList('instruments', (e) => `${e.icon ?? '♪'} ${e.name}`)),
+      block('Tagy', 'tags', changedList('tags', (e) => e.name))));
 }

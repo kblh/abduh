@@ -125,3 +125,9 @@
 @media (min-width: 900px) { .shelf-grid { grid-template-columns: repeat(auto-fill, minmax(190px, 190px)); } }
 
 @media (min-width: 900px) { .tile { padding: 20px; } .tile-n { font-size: 38px; } }
+
+.home-trio { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0 48px; }
+.home-trio > * { min-width: 0; }
+.home-trio .section-title { margin-top: 32px; }
+.reg-line .stamp-new { align-self: center; }
+@media (min-width: 900px) { .home-trio { grid-template-columns: repeat(3, minmax(0, 1fr)); } }

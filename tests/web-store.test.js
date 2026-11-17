@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { buildStore, isNew, recentlyAdded } from '../public/app/store.js';
+import { buildStore, isNew, recentlyAdded, recentlyChanged } from '../public/app/store.js';
 import { data } from './web-fixture-data.js';
 
 const store = buildStore(data);
@@ -36,4 +36,10 @@ test('isNew is true within 30 days, false after or without added', () => {
 test('recentlyAdded skips entities without added, newest first', () => {
   assert.deepEqual(recentlyAdded(store, 5).map((e) => e.id), ['tinariwen-tassili', 'tinariwen']);
   assert.equal(recentlyAdded(store, 1).length, 1);
+});
+
+test('recentlyChanged sorts by modified, falling back to added', () => {
+  const st = { data: { tags: [{ id: 'a', name: 'a', added: '2026-01-01' }, { id: 'b', name: 'b', added: '2025-01-01', modified: '2026-02-01' }, { id: 'c', name: 'c' }] } };
+  assert.deepEqual(recentlyChanged(st, 'tags', 5).map((e) => e.id), ['b', 'a']);
+  assert.equal(recentlyChanged(st, 'tags', 1).length, 1);
 });

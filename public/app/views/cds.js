@@ -1,3 +1,4 @@
+import { icon } from '../ui/icons.js';
 import { h } from '../ui/dom.js';
 import { cdCard, emptyState } from '../ui/components.js';
 import { buildHash } from '../router.js';
@@ -7,7 +8,7 @@ export function render({ store, params }) {
   const q = params.query;
   const href = (patch) => buildHash('cds', { query: { ...q, ...patch } });
   const all = [...store.byId.cds.values()];
-  const title = h('h1', { class: 'page-title' }, 'Cédéčka ', h('span', { class: 'count' }, all.length), all.length ? h('em', { class: 'hand-note' }, 'sbírka teprve roste') : null);
+  const title = h('h1', { class: 'page-title' }, icon('cds'), 'Cédéčka ', h('span', { class: 'count' }, all.length), all.length ? h('em', { class: 'hand-note' }, 'sbírka teprve roste') : null);
   if (!all.length) return h('section', null, title, emptyState('Zatím tu není žádné cédéčko.', 'Až nějaké zapíšu do sbírky, objeví se tady – s obalem, nebo jako kartička s názvem.', { label: 'PROJÍT KAPELY →', href: '#/bands' }));
 
   let list = all.filter((c) => (!q.kapela || c.bands?.includes(q.kapela)) && (!q.rok || String(c.year) === q.rok) && (q.cover !== '1' || c.image));

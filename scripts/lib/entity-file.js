@@ -4,7 +4,7 @@ import YAML from 'yaml';
 
 export const TYPES = ['band', 'cd', 'shelf', 'country', 'style', 'instrument', 'tag'];
 export const DIRS = { band: 'bands', cd: 'cds', shelf: 'shelves', country: 'countries', style: 'styles', instrument: 'instruments', tag: 'tags' };
-export const KEY_ORDER = ['name', 'aliases', 'continent', 'flag', 'icon', 'bands', 'cds', 'countries', 'year', 'label', 'styles', 'instruments', 'members', 'tags', 'image', 'image_source', 'links', 'added'];
+export const KEY_ORDER = ['name', 'aliases', 'continent', 'flag', 'icon', 'bands', 'cds', 'countries', 'year', 'label', 'styles', 'instruments', 'members', 'tags', 'image', 'image_source', 'links', 'added', 'modified'];
 
 // Fields that hold references to other entities. On disk they are Obsidian wikilinks
 // ("[[mali]]"); in memory (validate, build, add-entity) they are plain ids.

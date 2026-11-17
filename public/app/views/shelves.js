@@ -1,3 +1,4 @@
+import { icon } from '../ui/icons.js';
 import { h } from '../ui/dom.js';
 import { emptyState } from '../ui/components.js';
 import { normalize } from '../text.js';
@@ -13,7 +14,7 @@ function cover(store, shelf) {
 
 export function render({ store }) {
   const shelves = [...store.byId.shelves.values()].sort((a, b) => (normalize(a.name) < normalize(b.name) ? -1 : 1));
-  const title = h('h1', { class: 'page-title' }, 'Poličky ', h('span', { class: 'count' }, shelves.length));
+  const title = h('h1', { class: 'page-title' }, icon('shelves'), 'Poličky ', h('span', { class: 'count' }, shelves.length));
   if (!shelves.length) return h('section', null, title, emptyState('Zatím tu není žádná polička.', null));
   return h('section', null, title, h('div', { class: 'shelf-grid' }, shelves.map((s) => {
     const meta = [s.bands?.length ? plural(s.bands.length, 'kapela', 'kapely', 'kapel') : '', s.cds?.length ? plural(s.cds.length, 'CD', 'CD', 'CD') : ''].filter(Boolean).join(' · ') || 'prázdná';

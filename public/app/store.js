@@ -61,3 +61,12 @@ export function recentlyAdded(store, n) {
     .sort((a, b) => (a.added < b.added ? 1 : a.added > b.added ? -1 : byName(a, b)))
     .slice(0, n);
 }
+
+// newest first by last change (modified, else added); only entities with a known date
+export function recentlyChanged(store, group, n) {
+  const when = (e) => e.modified ?? e.added;
+  return [...(store.data[group] ?? [])]
+    .filter(when)
+    .sort((a, b) => (when(a) < when(b) ? 1 : when(a) > when(b) ? -1 : byName(a, b)))
+    .slice(0, n);
+}

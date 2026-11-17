@@ -1,3 +1,5 @@
+import { h, svg } from './dom.js';
+
 // shared stroke icons (24x24, currentColor)
 const ICON = (body) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="miter" aria-hidden="true">${body}</svg>`;
 // tab bar (icon only) and home tiles
@@ -11,3 +13,6 @@ export const TAB_ICONS = {
   tags: ICON('<path d="M3 3h9l9 9-9 9-9-9zM8 8h.01"/>'),
   countries: ICON('<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3.5 3.5 3.5 14.5 0 18M12 3c-3.5 3.5-3.5 14.5 0 18"/>'),
 };
+
+// decorative icon for headings and tiles
+export const icon = (key, cls = 'title-ic') => (TAB_ICONS[key] ? h('span', { class: cls, 'aria-hidden': 'true' }, svg(TAB_ICONS[key])) : null);

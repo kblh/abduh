@@ -1,3 +1,4 @@
+import { icon } from '../ui/icons.js';
 import { h } from '../ui/dom.js';
 import { CONTINENTS, CONTINENT_ORDER, fmt, plural } from '../labels.js';
 import { normalize } from '../text.js';
@@ -21,7 +22,7 @@ export function render({ store }) {
       h('h2', { class: 'section-title' }, h('span', null, CONTINENTS[k] ?? k), h('small', null, plural(items.length, 'země', 'země', 'zemí'))), grid);
   });
   return h('section', null,
-    h('h1', { class: 'page-title' }, 'Země ', h('span', { class: 'count' }, fmt(store.byId.countries.size)), h('em', { class: 'hand-note' }, `${sections.length} kontinentů`)),
+    h('h1', { class: 'page-title' }, icon('countries'), 'Země ', h('span', { class: 'count' }, fmt(store.byId.countries.size)), h('em', { class: 'hand-note' }, `${sections.length} kontinentů`)),
     h('div', { class: 'filters' }, CONTINENT_ORDER.filter((k) => by[k]?.length).map((k) => h('a', { class: 'filter-select', href: `#/countries`, onClick: (e) => { e.preventDefault(); document.getElementById(`c-${k}`)?.scrollIntoView({ behavior: 'smooth' }); } }, `${CONTINENTS[k]} ${by[k].length}`))),
     sections);
 }

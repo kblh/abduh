@@ -1,3 +1,4 @@
+import { icon } from '../ui/icons.js';
 import { h } from '../ui/dom.js';
 import { virtualList } from '../ui/virtual-list.js';
 import { bandRow } from '../ui/components.js';
@@ -54,7 +55,7 @@ export function render({ store, params, today }) {
     onInput: (e) => { text = e.target.value; list.update(refreshMeta()); } }));
 
   return h('section', { class: 'list-view' },
-    h('h1', { class: 'page-title' }, 'Kapely ', count, q.country ? h('em', { class: 'hand-note' }, `jen ${store.byId.countries.get(q.country)?.name ?? q.country}`) : null),
+    h('h1', { class: 'page-title' }, icon('bands'), 'Kapely ', count, q.country ? h('em', { class: 'hand-note' }, `jen ${store.byId.countries.get(q.country)?.name ?? q.country}`) : null),
     search,
     h('div', { class: 'filters' },
       active('country', 'ZEMĚ'), active('style', 'STYL'), active('instrument', 'NÁSTROJ'), active('tag', 'TAG'),

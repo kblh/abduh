@@ -1127,6 +1127,7 @@
         "diaspora",
         "blind"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -3176,6 +3177,7 @@
       "tags": [
         "diaspora"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -3326,6 +3328,7 @@
           "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
         }
       ],
+      "modified": "2026-11-13",
       "body": ""
     },
     {
@@ -6708,6 +6711,7 @@
         "harmonica",
         "harmonium"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -8721,6 +8725,7 @@
       "tags": [
         "diaspora"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -10908,6 +10913,7 @@
       ],
       "image": "img/bands/juana-molina.avif",
       "image_source": "https://www.ica.art/media/12340.jpeg",
+      "modified": "2026-11-14",
       "body": ""
     },
     {
@@ -11047,6 +11053,7 @@
       "tags": [
         "berlin"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -11630,6 +11637,7 @@
       ],
       "image": "img/bands/kel-assouf.avif",
       "image_source": "https://commons.wikimedia.org/wiki/File:Kel_Assouf_at_Womad_Fuerteventura.jpg",
+      "modified": "2026-11-13",
       "body": ""
     },
     {
@@ -11863,6 +11871,7 @@
       "tags": [
         "diaspora"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -13855,6 +13864,7 @@
         "woman",
         "blind"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -15293,6 +15303,7 @@
       ],
       "image": "img/bands/mdou-moctar.avif",
       "image_source": "https://commons.wikimedia.org/wiki/File:Mdou_Moctar_(15609545012).jpg",
+      "modified": "2026-11-13",
       "body": ""
     },
     {
@@ -15657,6 +15668,7 @@
       "tags": [
         "diaspora"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -16636,6 +16648,7 @@
       "tags": [
         "diaspora"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -18374,6 +18387,7 @@
       "tags": [
         "berlin"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -18476,6 +18490,7 @@
       "instruments": [
         "valiha"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -18856,6 +18871,7 @@
       "tags": [
         "diaspora"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -19167,6 +19183,7 @@
           "url": "https://en.wikipedia.org/wiki/Rosal%C3%ADa"
         }
       ],
+      "modified": "2026-11-17",
       "body": "Katalánská zpěvačka, skladatelka a herečka z Barcelony (nar. 1992), známá jako Rosalía. Ve 14 letech ji uchvátila španělská lidová hudba, vystudovala muzikologii na Katalánské hudební vysoké škole (2017). Kritika ji označuje za „atypickou popovou hvězdu“ pro prolínání žánrů: z flamenka vyšla na albu *El mal querer* (2018) a v *Motomami* (2022) ho míchá s pop, reggaetonem a elektronikou.\\n"
     },
     {
@@ -19532,6 +19549,7 @@
       "tags": [
         "albino"
       ],
+      "modified": "2026-11-15",
       "body": ""
     },
     {
@@ -21457,6 +21475,7 @@
       ],
       "image": "img/bands/tamikrest.avif",
       "image_source": "https://commons.wikimedia.org/wiki/File:Tamikrest_in_concert-Italy_2010.JPG",
+      "modified": "2026-11-13",
       "body": ""
     },
     {
@@ -22319,6 +22338,7 @@
       ],
       "image": "img/bands/tinariwen.avif",
       "image_source": "https://commons.wikimedia.org/wiki/File:Tinariwen-Bardentreffen_2010.jpg",
+      "modified": "2026-11-13",
       "body": ""
     },
     {
@@ -24987,6 +25007,7 @@
       "name": "Burkina Faso",
       "continent": "africa",
       "flag": "🇧🇫",
+      "modified": "2026-11-12",
       "body": "Population: 16.3 million (UN, 2010)\nCapital: Ouagadougou\nArea: 274,200 sq km (105,870 sq miles)\nMajor languages: French, indigenous languages\nMajor religions: Indigenous beliefs, Islam, Christianity\nPolitics: Coup leader Blaise Compaore won a new five-year term in 2010 after 23 years at the helm\nEconomy: The UN rates Burkina Faso as the world's third poorest country\nInternational: Burkina Faso has been linked to conflicts within the region. Many citizens who have traditionally worked in Ivory Coast have fled instability there\n"
     },
     {
@@ -25113,6 +25134,7 @@
       "name": "Dominican Republic",
       "continent": "america",
       "flag": "🇩🇴",
+      "modified": "2026-11-15",
       "body": "Vic Contreras (m)\nRita Indiana\nIrka Mateo\nVicente García\nPopulation: 10.2 million (UN, 2010)Capital: Santo DomingoArea: 48,072 sq km (18,696 sq miles)Major language: SpanishMajor religion: Christianity\n50 - 60 let prožívala Dominikánská Republika energetickou krizi. Lidé se scházeli večer na balkonech bytů a poslouchali hudbu z rádií na baterky\n"
     },
     {
@@ -25281,6 +25303,7 @@
       "name": "Honduras",
       "continent": "america",
       "flag": "🇭🇳",
+      "modified": "2026-11-12",
       "body": "Military rule, corruption, a huge wealth gap, crime and natural disasters have rendered Honduras one of the least developed and least secure countries in Central America.\nPopulation: 7.6 million (UN, 2010)\nCapital: Tegucigalpa\nArea: 112,492 sq km (43,433 sq miles)\nMajor languages: Spanish, indigenous languages, English\nMajor religion: Christianity\n"
     },
     {
@@ -25344,6 +25367,7 @@
       "name": "Italy",
       "continent": "europe",
       "flag": "🇮🇹",
+      "modified": "2026-11-12",
       "body": "Markku Lepisto, David Munnelly, Riccardo Tesi, Bruno Le Tron, Didier Laloy\n"
     },
     {
@@ -25574,6 +25598,7 @@
       "name": "Peru",
       "continent": "america",
       "flag": "🇵🇪",
+      "modified": "2026-11-12",
       "body": "Population: 29.4 million (UN, 2011)\nCapital: Lima\nArea: 1.28 million sq km (496,225 sq miles)\nMajor languages: Spanish, Quechua, Aymara\nMajor religion: Christianity\nPeru's rich and varied heritage includes the ancient Incan capital of Cuzco and the lost city of Machu Picchu. The country boasts spectacular scenery, including Lake Titicaca, the world's highest navigable lake.\nIt is rich in copper, silver, lead, zinc, oil and gold. The country experienced an economic boom in the 2000s, and in 2011 Peru was said to have one of the world's fastest-growing economies\nThe first African Peruvians arrived with the conquistadors in 1521, to return permanently in 1525. One of the biggest import of African slaves occurred between 1529 and 1537 when Francisco Pizzaro was granted permits to import 363 slaves to colonial Peru for public construction; building bridges and road systems.\n"
     },
     {
@@ -25770,6 +25795,7 @@
       "name": "Tunisia",
       "continent": "africa",
       "flag": "🇹🇳",
+      "modified": "2026-11-15",
       "body": "## Ghalia Benali\n(w) - singer, songwriter, writer and graphic designer - 1968 (age 51 years), [Brussels, Belgium](https://www.google.com/search?client=safari&rls=en&q=Brussels&stick=H4sIAAAAAAAAAOPgE-LSz9U3MM4yTK9KVuIAsQ3Nzau0xLKTrfQLUvMLclKBVFFxfp5VUn5R3iJWDqei0uLi1JxiACFDW2w7AAAA&sa=X&ved=2ahUKEwjdxuaVoM_iAhUPKuwKHRpDDr8QmxMoATAgegQIDRAT)\n"
     },
     {
@@ -25805,6 +25831,7 @@
       "name": "United Kingdom",
       "continent": "europe",
       "flag": "🇬🇧",
+      "modified": "2026-11-12",
       "body": "## Scotland\n## 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales\n"
     },
     {
@@ -26243,6 +26270,7 @@
       "id": "ardin",
       "name": "ardin",
       "added": "2026-11-14",
+      "modified": "2026-11-17",
       "body": "Loutna z Mauretánie se 14 strunami. Ozvučná skříň je z tykve potažené telecí kůží.\n"
     },
     {
@@ -26444,6 +26472,7 @@
       "id": "kamele-ngoni",
       "name": "kamele ngoni",
       "added": "2026-11-14",
+      "modified": "2026-11-17",
       "body": "„Harfa mládeže“: menší, o kvartu výše laděná verze donso ngoni se 6 strunami, z tykve. Na lovecký nástroj směli hrát jen vybraní lovci; mladík Alata Brulaye vyrobil kolem 70. let v kraji Wassoulou jeho kopii pro širokou veřejnost, což byla podobná revoluce jako vznik rock and rollu. Dává hudbě z Wassoulou (jižní Mali) výrazné, funkové basové linky, které určují rytmus i harmonii. Viz CD Kamale Ngoni – Kelea (Indigo LBLC 2517, 1995).\n"
     },
     {
@@ -26484,6 +26513,7 @@
     {
       "id": "kora",
       "name": "kora",
+      "modified": "2026-11-17",
       "body": "Harfová loutna z tykve, vzniklá v předkoloniálních dobách z donso ngoni, lovecké harfy. Má 21 strun a rozsah tří oktáv.\n"
     },
     {
@@ -26495,12 +26525,14 @@
     {
       "id": "mbira",
       "name": "mbira",
+      "modified": "2026-11-17",
       "body": "Hlavní tradiční nástroj lidu Šona ze Zimbabwe (mbira dzavadzimu, „mbira duchů předků“), na který se hraje přes tisíc let při obřadech, na královských dvorech i při společenských příležitostech. Má 22 až 28 kovových jazýčků na dřevěné desce, obvykle vložené do velké tykve (deze) jako rezonátoru. Hraje se dvěma palci shora dolů a pravým ukazovákem zdola nahoru.\n\nSkladba je cyklický základní vzorec s mnoha propletenými melodiemi, často v kontrastních rytmech, a variace dělají každé provedení jedinečné. Dvě mbiry spolu vytvářejí bohatou polyfonii a polyrytmii. Repertoár stovek skladeb se předává z generace na generaci a některé dnes oblíbené skladby se hrají přes 500 let: při obřadech (mapira) se předkové přivolávají jejich oblíbenými písněmi.\n\nMbira zní při obřadech, osobní meditaci, léčitelství i oslavách a používá ji i několik zimbabwských elektrických popových kapel.\n"
     },
     {
       "id": "ngoni",
       "name": "ngoni",
       "added": "2026-11-14",
+      "modified": "2026-11-17",
       "body": "Strunná loutna o 5 strunách, vzhledem podobná sintiru, který má strun 3.\n"
     },
     {

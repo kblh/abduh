@@ -1,3 +1,4 @@
+import { icon } from './icons.js';
 import { h } from './dom.js';
 import { prettyStyle } from '../text.js';
 import { isNew } from '../store.js';
@@ -28,8 +29,8 @@ export function stampLink(label, url) {
 export const linkButtons = (links = []) =>
   h('div', { class: 'stamp-links' }, links.map((l) => stampLink(LINK_LABELS[l.type] ?? 'ODKAZ', l.url)));
 
-export function sectionTitle(text, count) {
-  return h('h2', { class: 'section-title' }, h('span', null, text), count != null ? h('small', null, count) : null);
+export function sectionTitle(text, count, iconKey) {
+  return h('h2', { class: 'section-title' }, h('span', null, iconKey ? icon(iconKey) : null, text), count != null ? h('small', null, count) : null);
 }
 
 export function emptyState(title, text, cta) {

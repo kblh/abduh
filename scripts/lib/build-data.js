@@ -4,7 +4,7 @@ const GROUPS = { bands: 'band', cds: 'cd', shelves: 'shelf', countries: 'country
 
 const memberLink = /^\[\[([^\]|#]+)\]\]$/;
 
-export function buildData(entities, added = new Map()) {
+export function buildData(entities, added = new Map(), modified = new Map()) {
   const out = {};
   const bandName = new Map(entities.filter((e) => e.type === 'band').map((e) => [e.id, e.fields.name]));
   for (const [group, type] of Object.entries(GROUPS)) {
@@ -22,6 +22,8 @@ export function buildData(entities, added = new Map()) {
         }
         const when = added.get(`${DIRS[type]}/${e.id}`);
         if (when) f.added = when;
+        const changed = modified.get(`${DIRS[type]}/${e.id}`);
+        if (changed && changed !== when) f.modified = changed;
         return { id: e.id, ...f, body: e.body };
       });
   }

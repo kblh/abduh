@@ -1,4 +1,5 @@
 // Shared template for styles and tags: register (list) and detail views.
+import { icon } from '../ui/icons.js';
 import { h } from '../ui/dom.js';
 import { bandRow, prose, sectionTitle } from '../ui/components.js';
 import { normalize, prettyStyle } from '../text.js';
@@ -27,7 +28,7 @@ export function registerView({ store, params }, o) {
   };
   paint();
   return h('section', null,
-    h('h1', { class: 'page-title' }, `${o.title} `, h('span', { class: 'count' }, items.length), h('em', { class: 'hand-note' }, o.note)),
+    h('h1', { class: 'page-title' }, icon(o.route), `${o.title} `, h('span', { class: 'count' }, items.length), h('em', { class: 'hand-note' }, o.note)),
     h('label', { class: 'search-field list-search' }, h('input', { type: 'search', placeholder: o.placeholder, 'aria-label': o.placeholder.replace('…', ''), autocomplete: 'off', onInput: (e) => { text = e.target.value; paint(); } })),
     h('p', { class: 'filters' }, h('span', { class: 'sort' }, 'ŘADIT ', h('a', { href: buildHash(o.route), 'aria-current': byCount ? null : 'true' }, 'A–Z'), h('a', { href: buildHash(o.route, { query: { sort: 'count' } }), 'aria-current': byCount ? 'true' : null }, 'počet kapel'))),
     reg);
