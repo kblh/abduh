@@ -8,4 +8,6 @@ bands:
   - "[[marina-herlop]]"
   - "[[dawuna]]"
   - "[[sara-gioielli]]"
+  - "[[kamilya-jubran]]"
+  - "[[the-growth-eternal]]"
 ---

@@ -2430,7 +2430,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "ballake-sissoko",
@@ -2611,7 +2611,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 5
+      "rank": 8
     },
     {
       "id": "batata-y-su-rumba-palenquera",
@@ -9258,7 +9258,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 6
+      "rank": 9
     },
     {
       "id": "hadouk-trio",
@@ -10722,7 +10722,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 7
+      "rank": 10
     },
     {
       "id": "joe-zawinul",
@@ -11237,7 +11237,17 @@
       "instruments": [
         "oud"
       ],
-      "body": ""
+      "image": "img/bands/kamilya-jubran.avif",
+      "image_source": "https://the.akdn/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0ZV2R4aq7rkX0pWXLGa42d"
+        }
+      ],
+      "modified": "2026-11-17",
+      "body": "Palestinská zpěvačka, hráčka na oud a skladatelka. Od počátku 80. let do roku 2002 byla hlavním hlasem jeruzalémské skupiny Sabreen. Od roku 2002 žije v Evropě (Bern, později Paříž) a věnuje se sólové a experimentální tvorbě, často ve spolupráci se švýcarským trumpetistou a elektronikem Wernerem Haslerem.\n",
+      "rank": 1
     },
     {
       "id": "kan",
@@ -11289,7 +11299,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 8
+      "rank": 11
     },
     {
       "id": "kanizsa-csillagai",
@@ -11544,8 +11554,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "kassav",
@@ -12222,8 +12231,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "krar-collective",
@@ -13731,7 +13739,7 @@
       ],
       "added": "2026-11-17",
       "body": "Lucrecia Dalt je kolumbijská experimentální hudebnice narozená v Pereiře, dnes žijící v Berlíně. Původně se věnovala inženýrství a geologii, než se vydala za hudbou; debutovala v roce 2005 a časem se od zasněné elektronické pop hudby posunula k abstraktnější, surrealistické tvorbě. Vydává u RVNG Intl a složila hudbu k seriálu The Baby.\n",
-      "rank": 0
+      "rank": 3
     },
     {
       "id": "luigi-cinque",
@@ -14335,8 +14343,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "mamane-barka",
@@ -14996,7 +15003,7 @@
       ],
       "added": "2026-11-17",
       "body": "Marina Herlop (vlastním jménem Marina Hernández López) je katalánská experimentální hudebnice a klasicky vzdělaná klavíristka. Její první alba stála na klavíru a hlase, později se posunula k elektronice a nezvyklým vokálním aranžím. Od alba Pripyat vydávala u labelu PAN, nejnovější Dja Dja vydává samostatně.\n",
-      "rank": 1
+      "rank": 4
     },
     {
       "id": "mario-bihari-bachtale-apsa",
@@ -19701,7 +19708,7 @@
       ],
       "added": "2026-11-17",
       "body": "Salami Rose Joe Louis je projekt kalifornské hudebnice Lindsay Olsen, která se po práci klimatoložky věnuje hudbě naplno. Jde o krátké, skicovité skladby plné syntezátorů, experimentálního popu a abstraktních beatů s kosmickou obrazností. Po několika samostatných albech vydává u labelu Brainfeeder.\n",
-      "rank": 2
+      "rank": 5
     },
     {
       "id": "salif-keita",
@@ -19712,8 +19719,15 @@
       "tags": [
         "albino"
       ],
-      "modified": "2026-11-15",
-      "body": ""
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "modified": "2026-11-17",
+      "body": "Salif Keita je malijský zpěvák a skladatel, pocházející z královského rodu Mandingů, přezdívaný „Zlatý hlas Afriky“. Proslavil se v 70. letech v kapelách Rail Band a Les Ambassadeurs a od 80. let má úspěšnou sólovou kariéru, v níž spojuje mandingskou tradici s popem, funkem a elektronikou. Je albín, což v jeho rodné zemi dlouho znamenalo společenské vyloučení, a později se stal jeho zastáncem.\n",
+      "rank": 2
     },
     {
       "id": "sally-nyolo",
@@ -19921,7 +19935,7 @@
       ],
       "added": "2026-11-17",
       "body": "Sara Gioielli je neapolská zpěvačka, skladatelka a producentka z Pozzuoli, narozená v roce 2001. Řadu let zpívala v dětském sboru divadla Teatro San Carlo. Ve své tvorbě spojuje jazz, současnou hudbu, pop a operní vlivy; debutové album Gioielli Neri vydala v říjnu 2025.\n",
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "sara-tavares",
@@ -22125,6 +22139,28 @@
         "united-kingdom"
       ],
       "body": ""
+    },
+    {
+      "id": "the-growth-eternal",
+      "name": "The Growth Eternal",
+      "countries": [
+        "usa"
+      ],
+      "image": "img/bands/the-growth-eternal.avif",
+      "image_source": "https://open.spotify.com/artist/7Mb2dw6lrp0Hn2H9HJf0Tw",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/7Mb2dw6lrp0Hn2H9HJf0Tw"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://thegrowtheternal.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 0
     },
     {
       "id": "the-idan-raichel-project",
@@ -24881,7 +24917,7 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 0
+      "rank": 6
     },
     {
       "id": "juana-molina-doga",
@@ -24906,7 +24942,7 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 1
+      "rank": 7
     },
     {
       "id": "juana-molina-halo",
@@ -24931,7 +24967,7 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 2
+      "rank": 8
     },
     {
       "id": "justin-adams-desert-road",
@@ -25039,6 +25075,25 @@
       "body": ""
     },
     {
+      "id": "kamilya-jubran-wameedd",
+      "name": "Wameedd",
+      "bands": [
+        "kamilya-jubran"
+      ],
+      "year": 2010,
+      "image": "img/cds/kamilya-jubran-wameedd.avif",
+      "image_source": "https://open.spotify.com/album/7LJulw6IHrv6w68PEJHDVE",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7LJulw6IHrv6w68PEJHDVE"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 0
+    },
+    {
       "id": "lucrecia-dalt-a-danger-to-ourselves",
       "name": "A Danger to Ourselves",
       "bands": [
@@ -25060,7 +25115,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 3
+      "rank": 9
     },
     {
       "id": "lucrecia-dalt-ay",
@@ -25085,7 +25140,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 4
+      "rank": 10
     },
     {
       "id": "marina-herlop-dja-dja",
@@ -25109,7 +25164,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 5
+      "rank": 11
     },
     {
       "id": "marina-herlop-pripyat",
@@ -25133,8 +25188,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 6
+      "body": ""
     },
     {
       "id": "noura-mint-seymali-arbina",
@@ -25153,8 +25207,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 7
+      "body": ""
     },
     {
       "id": "noura-mint-seymali-tzenni",
@@ -25173,8 +25226,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 8
+      "body": ""
     },
     {
       "id": "noura-mint-seymali-yenbett",
@@ -25193,8 +25245,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "rosalia-vila-tobella-el-mal-querer",
@@ -25254,8 +25305,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "salami-rose-joe-louis-lorings",
@@ -25278,8 +25328,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "salami-rose-joe-louis-zdenka-2080",
@@ -25306,6 +25355,82 @@
       "body": ""
     },
     {
+      "id": "salif-keita-la-difference",
+      "name": "La Différence",
+      "bands": [
+        "salif-keita"
+      ],
+      "year": 2009,
+      "image": "img/cds/salif-keita-la-difference.avif",
+      "image_source": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 1
+    },
+    {
+      "id": "salif-keita-moffou",
+      "name": "Moffou",
+      "bands": [
+        "salif-keita"
+      ],
+      "year": 2002,
+      "image": "img/cds/salif-keita-moffou.avif",
+      "image_source": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 2
+    },
+    {
+      "id": "salif-keita-tale",
+      "name": "Talé",
+      "bands": [
+        "salif-keita"
+      ],
+      "year": 2012,
+      "image": "img/cds/salif-keita-tale.avif",
+      "image_source": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 3
+    },
+    {
+      "id": "salif-keita-un-autre-blanc",
+      "name": "Un autre blanc",
+      "bands": [
+        "salif-keita"
+      ],
+      "year": 2018,
+      "image": "img/cds/salif-keita-un-autre-blanc.avif",
+      "image_source": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 4
+    },
+    {
       "id": "sara-gioielli-gioielli-neri",
       "name": "Gioielli Neri",
       "bands": [
@@ -25327,6 +25452,31 @@
       ],
       "added": "2026-11-17",
       "body": ""
+    },
+    {
+      "id": "the-growth-eternal-bass-tone-paintings",
+      "name": "Bass Tone Paintings",
+      "bands": [
+        "the-growth-eternal"
+      ],
+      "year": 2020,
+      "label": "Leaving Records",
+      "image": "img/cds/the-growth-eternal-bass-tone-paintings.avif",
+      "image_source": "https://thegrowtheternal.bandcamp.com/album/bass-tone-paintings",
+      "bandcamp_id": 2187833078,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2yWrcsiiH4bgUTb9qRvRsZ"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://thegrowtheternal.bandcamp.com/album/bass-tone-paintings"
+        }
+      ],
+      "added": "2026-11-17",
+      "body": "",
+      "rank": 5
     }
   ],
   "shelves": [
@@ -25338,7 +25488,9 @@
         "lucrecia-dalt",
         "marina-herlop",
         "dawuna",
-        "sara-gioielli"
+        "sara-gioielli",
+        "kamilya-jubran",
+        "the-growth-eternal"
       ],
       "added": "2026-11-17",
       "body": "",
