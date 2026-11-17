@@ -22,7 +22,7 @@ Vstupem je URL (Spotify, Bandcamp, web) nebo jméno.
 5. **Bio:** najdi krátké bio (2–4 věty, Wikipedie, Bandcamp, Spotify „About"), **přelož ho do češtiny** a vlastními slovy shrň. Zapiš do pole `body` (viz příklad). Existující bio nepřepisuj.
 6. **Alba:** najdi alba (MusicBrainz release groups typu album, Bandcamp, Spotify), odeber ta, která už jsou v databázi (`ls abduh-data/cds | grep ^<id>-`), a **zeptej se, která chce uživatel zařadit** (viz „Interaktivní rozhodování"). Vybraná alba zařaď podle „Přidání alba".
 7. **Členové** (u kapely, ne u sólisty): vyhledej členy (Wikipedie, MusicBrainz) a dej je do `members` jako jména. Člen, který už je v databázi jako samostatná kapela/umělec (stejné jméno bez ohledu na velikost písmen a diakritiku), se **sám propojí** odkazem (`"[[id]]"`, na webu je to odkaz). Platí to i obráceně: když **založíš novou kapelu**, kterou jiná kapela uvádí jen jako textové jméno člena, `add-entity` ji tam nahradí odkazem a vypíše ID upravených kapel v poli `linked` (zmiň je v shrnutí). Při `--merge` se zpětně nelinkuje. Nic dalšího dělat nemusíš.
-8. **Styly, nástroje a tagy** jen z existujících (`ls abduh-abduh-data/styles abduh-data/instruments abduh-data/tags`); jinak vynech. Styl je hudební žánr; nástroj, země a tag (místo, přívlastek, poznámka – např. `woman` u žen, `dublin`, `diaspora`) nepatří do `styles`. Nový tag nejdřív vytvoř: `{"type":"tag","fields":{"name":"new york"}}` přes `add-entity.js` (pole `tags` u kapely pak obsahuje jeho ID).
+8. **Styly, nástroje a tagy** jen z existujících (`ls abduh-data/styles abduh-data/instruments abduh-data/tags`); jinak vynech. Styl je hudební žánr; nástroj, země a tag (místo, přívlastek, poznámka – např. `woman` u žen, `dublin`, `diaspora`) nepatří do `styles`. Nový tag nejdřív vytvoř: `{"type":"tag","fields":{"name":"new york"}}` přes `add-entity.js` (pole `tags` u kapely pak obsahuje jeho ID).
 9. **Zapiš** (JSON na stdin; `--merge` jen pro existující):
    ```
    node scripts/add-entity.js [--merge] <<'JSON'
@@ -46,7 +46,8 @@ Vstupem je URL (Spotify, Bandcamp, web), nebo se tento postup volá z „Přidá
    ```
    Když album existuje, doplň odkazy a obrázek přes `--merge` (připojí nové odkazy podle URL).
 4. **Obrázek:** vyhledej obal (Bandcamp `og:image`, Cover Art Archive, Spotify) a **rovnou ho použij**: `node scripts/add-image.js cd <id> <url|soubor> --source <stránka alba>`.
-5. **Ověř:** `npm run build`.
+5. **Přehrávač:** má-li album odkaz na Bandcamp, spusť `node scripts/add-bandcamp-ids.js` (doplní `bandcamp_id` všem CD, kterým chybí; na detailu CD pak je embed přehrávač). Ručně `bandcamp_id` nezapisuj.
+6. **Ověř:** `npm run build`.
 
 ## Interaktivní rozhodování
 
@@ -58,7 +59,7 @@ Výběr alb i schválení obrázku předlož přehledně. Vždy funguje tabulka 
 ## Poličky
 
 Polička (`type: "shelf"`) je pojmenovaný seznam kapel a/nebo CD (obojí může být na jedné poličce). Pole: `name` (povinné), `bands` a `cds` (ID existujících kapel / CD; obě pole jsou volitelná, může být i prázdná polička). Nemá obrázek ani odkazy.
-- Před zápisem ověř, že všechna ID existují (`ls abduh-abduh-data/bands abduh-data/cds`); neexistující kapelu nebo CD nejdřív přidej. Validace jinak zápis odmítne.
+- Před zápisem ověř, že všechna ID existují (`ls abduh-data/bands abduh-data/cds`); neexistující kapelu nebo CD nejdřív přidej. Validace jinak zápis odmítne.
 - Nová polička: `{"type":"shelf","fields":{"name":"Pouštní blues","bands":["tinariwen"],"cds":["tinariwen-tassili"]}}` přes `add-entity.js`.
 - Přidání na existující poličku: `--merge` s týmž `name` připojí nové ID do `bands`/`cds` (bez duplicit), existující položky nechá; jen s potvrzením uživatele.
 
@@ -76,4 +77,6 @@ Jedna poznámka může obsahovat více odkazů.
 - Výměna už existujícího obrázku (`add-image --force`) jen na výslovné přání uživatele.
 - Obrázek kapely se použije až po schválení; obal alba se použije rovnou. Obrázky nejsou povinné.
 - Ve sbírce jsou ID unikátní napříč všemi typy (kapela a tag nemohou mít stejné ID).
-- Styl, který neexistuje, `add-entity` založit neumí; vynech ho a uživateli to řekni.
+- Styl nebo nástroj, který neexistuje, jde založit přes `add-entity.js` (`{"type":"instrument","fields":{"name":"txalaparta"},"body":"popis česky"}`, u stylu `"type":"style"`). Zakládej je jen na žádost uživatele nebo když je nutně potřebuješ; u kapely jinak nevymýšlej styl.
+- Nástroje mají jen `name`, popis (`body`, česky, vlastními slovy) a volitelně obrázek: `node scripts/add-image.js instrument <id> <url|soubor> --source <stránka>`. Emoji se nepoužívají.
+- Když je ID obsazené jiným typem (např. `lira` je kapela), použij jiný název (`lira (nástroj)` → `lira-nastroj`).

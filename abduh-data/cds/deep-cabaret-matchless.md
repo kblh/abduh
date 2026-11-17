@@ -7,6 +7,7 @@ bands:
 year: 2020
 image: cds/deep-cabaret-matchless.avif
 image_source: https://deepcabaret.bandcamp.com/album/matchless-reissue
+bandcamp_id: 2413402482
 links:
   - type: spotify
     url: https://open.spotify.com/album/7I82ysSKoZjrXceLtYYxoI

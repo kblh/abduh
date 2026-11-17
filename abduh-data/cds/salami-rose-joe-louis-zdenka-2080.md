@@ -8,6 +8,7 @@ year: 2019
 label: Brainfeeder
 image: cds/salami-rose-joe-louis-zdenka-2080.avif
 image_source: https://salamirosejoelouismusic.bandcamp.com/album/zdenka-2080
+bandcamp_id: 1815552077
 links:
   - type: bandcamp
     url: https://salamirosejoelouismusic.bandcamp.com/album/zdenka-2080

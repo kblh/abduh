@@ -2,6 +2,7 @@ import { h } from '../ui/dom.js';
 import { cdCard, chip, linkButtons, prose, sectionTitle } from '../ui/components.js';
 import { prettyStyle } from '../text.js';
 import { czDate } from '../labels.js';
+import { effectiveTheme } from '../ui/theme.js';
 
 export function render({ store, params }) {
   const cd = store.byId.cds.get(params.id);
@@ -29,5 +30,30 @@ export function render({ store, params }) {
         cd.links?.length ? linkButtons(cd.links) : null)),
     notes ? h('div', null, sectionTitle('Poznámky'), notes) : null,
     others.length ? h('div', null, sectionTitle(`Další od ${bands[0]?.name ?? ''}`), h('div', { class: 'cd-grid' }, others.map((c) => cdCard(store, c)))) : null,
-    shelves.length ? h('div', null, sectionTitle('Na poličkách'), h('div', { class: 'chips' }, shelves.map((s) => chip(s.name, `#/shelves/${encodeURIComponent(s.id)}`, 'instrument')))) : null);
+    shelves.length ? h('div', null, sectionTitle('Na poličkách'), h('div', { class: 'chips' }, shelves.map((s) => chip(s.name, `#/shelves/${encodeURIComponent(s.id)}`, 'instrument')))) : null,
+    bandcampPlayer(cd));
+}
+
+// Bandcamp's embed needs the numeric album id (bandcamp_id), not the album URL.
+// Its colors are URL params, so the src follows the app theme (toggle or system setting).
+const PLAYER_COLORS = { dark: ['0a0a0a', 'ef4444'], light: ['fafafa', 'dc2626'] };
+const playerSrc = (id) => {
+  const [bg, link] = PLAYER_COLORS[effectiveTheme()];
+  return `https://bandcamp.com/EmbeddedPlayer/album=${id}/size=large/bgcol=${bg}/linkcol=${link}/tracklist=true/artwork=small/`;
+};
+
+function bandcampPlayer(cd) {
+  const hasLink = (cd.links ?? []).some((l) => l.type === 'bandcamp');
+  if (!hasLink || !Number.isInteger(cd.bandcamp_id)) return null;
+  const frame = h('iframe', { class: 'bandcamp-player', src: playerSrc(cd.bandcamp_id), title: `Bandcamp: ${cd.name}`, loading: 'lazy' });
+  const refresh = () => {
+    if (!frame.isConnected) { observer.disconnect(); mq.removeEventListener('change', refresh); return; }
+    const src = playerSrc(cd.bandcamp_id);
+    if (frame.getAttribute('src') !== src) frame.setAttribute('src', src);
+  };
+  const observer = new MutationObserver(refresh);
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+  const mq = matchMedia('(prefers-color-scheme: dark)');
+  mq.addEventListener('change', refresh);
+  return h('div', null, sectionTitle('Přehrávač'), frame);
 }

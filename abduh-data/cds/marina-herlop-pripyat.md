@@ -8,6 +8,7 @@ year: 2022
 label: PAN
 image: cds/marina-herlop-pripyat.avif
 image_source: https://marinaherlop.bandcamp.com/album/pripyat
+bandcamp_id: 2869592693
 links:
   - type: spotify
     url: https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE

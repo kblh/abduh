@@ -8,6 +8,7 @@ year: 2023
 label: Brainfeeder
 image: cds/salami-rose-joe-louis-akousmatikous.avif
 image_source: https://salamirosejoelouismusic.bandcamp.com/album/akousmatikous
+bandcamp_id: 1940426066
 links:
   - type: bandcamp
     url: https://salamirosejoelouismusic.bandcamp.com/album/akousmatikous

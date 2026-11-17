@@ -145,3 +145,4 @@
 .home-bands { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0 48px; }
 .home-bands > * { min-width: 0; }
 @media (min-width: 900px) { .home-bands { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.bandcamp-player { display: block; width: 100%; max-width: 350px; height: 472px; border: 0; }

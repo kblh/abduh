@@ -24867,6 +24867,7 @@
       "year": 2020,
       "image": "img/cds/deep-cabaret-matchless.avif",
       "image_source": "https://deepcabaret.bandcamp.com/album/matchless-reissue",
+      "bandcamp_id": 2413402482,
       "links": [
         {
           "type": "spotify",
@@ -24878,7 +24879,9 @@
         }
       ],
       "added": "2026-11-14",
-      "body": ""
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 0
     },
     {
       "id": "juana-molina-doga",
@@ -24889,6 +24892,7 @@
       "year": 2025,
       "image": "img/cds/juana-molina-doga.avif",
       "image_source": "https://juanamolina.bandcamp.com/album/doga",
+      "bandcamp_id": 2065986272,
       "links": [
         {
           "type": "spotify",
@@ -24900,7 +24904,9 @@
         }
       ],
       "added": "2026-11-14",
-      "body": ""
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 1
     },
     {
       "id": "juana-molina-halo",
@@ -24911,6 +24917,7 @@
       "year": 2017,
       "image": "img/cds/juana-molina-halo.avif",
       "image_source": "https://juanamolina.bandcamp.com/album/halo",
+      "bandcamp_id": 3794687900,
       "links": [
         {
           "type": "spotify",
@@ -24922,7 +24929,9 @@
         }
       ],
       "added": "2026-11-14",
-      "body": ""
+      "modified": "2026-11-17",
+      "body": "",
+      "rank": 2
     },
     {
       "id": "justin-adams-desert-road",
@@ -25038,6 +25047,7 @@
       "year": 2025,
       "image": "img/cds/lucrecia-dalt-a-danger-to-ourselves.avif",
       "image_source": "https://lucreciadalt.bandcamp.com/album/a-danger-to-ourselves",
+      "bandcamp_id": 3657310671,
       "links": [
         {
           "type": "spotify",
@@ -25050,7 +25060,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 0
+      "rank": 3
     },
     {
       "id": "lucrecia-dalt-ay",
@@ -25062,6 +25072,7 @@
       "label": "RVNG Intl",
       "image": "img/cds/lucrecia-dalt-ay.avif",
       "image_source": "https://lucreciadalt.bandcamp.com/album/ay",
+      "bandcamp_id": 1359310722,
       "links": [
         {
           "type": "spotify",
@@ -25074,7 +25085,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 1
+      "rank": 4
     },
     {
       "id": "marina-herlop-dja-dja",
@@ -25085,6 +25096,7 @@
       "year": 2026,
       "image": "img/cds/marina-herlop-dja-dja.avif",
       "image_source": "https://marinaherlop.bandcamp.com/album/dja-dja",
+      "bandcamp_id": 395671848,
       "links": [
         {
           "type": "spotify",
@@ -25097,7 +25109,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 2
+      "rank": 5
     },
     {
       "id": "marina-herlop-pripyat",
@@ -25109,6 +25121,7 @@
       "label": "PAN",
       "image": "img/cds/marina-herlop-pripyat.avif",
       "image_source": "https://marinaherlop.bandcamp.com/album/pripyat",
+      "bandcamp_id": 2869592693,
       "links": [
         {
           "type": "spotify",
@@ -25121,7 +25134,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "noura-mint-seymali-arbina",
@@ -25132,6 +25145,7 @@
       "year": 2016,
       "image": "img/cds/noura-mint-seymali-arbina.avif",
       "image_source": "https://noura-mint-seymali.bandcamp.com/album/arbina",
+      "bandcamp_id": 1939331711,
       "links": [
         {
           "type": "bandcamp",
@@ -25140,7 +25154,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 8
+      "rank": 7
     },
     {
       "id": "noura-mint-seymali-tzenni",
@@ -25151,6 +25165,7 @@
       "year": 2014,
       "image": "img/cds/noura-mint-seymali-tzenni.avif",
       "image_source": "https://noura-mint-seymali.bandcamp.com/album/tzenni",
+      "bandcamp_id": 3149554650,
       "links": [
         {
           "type": "bandcamp",
@@ -25159,7 +25174,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 9
+      "rank": 8
     },
     {
       "id": "noura-mint-seymali-yenbett",
@@ -25170,6 +25185,7 @@
       "year": 2025,
       "image": "img/cds/noura-mint-seymali-yenbett.avif",
       "image_source": "https://noura-mint-seymali.bandcamp.com/album/yenbett",
+      "bandcamp_id": 3515867299,
       "links": [
         {
           "type": "bandcamp",
@@ -25178,7 +25194,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 10
+      "rank": 9
     },
     {
       "id": "rosalia-vila-tobella-el-mal-querer",
@@ -25190,8 +25206,7 @@
       "image": "img/cds/rosalia-vila-tobella-el-mal-querer.avif",
       "image_source": "https://protisedi.cz/wp-content/uploads/2018/11/obal.jpg",
       "added": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "rosalia-vila-tobella-lux",
@@ -25227,6 +25242,7 @@
       "label": "Brainfeeder",
       "image": "img/cds/salami-rose-joe-louis-akousmatikous.avif",
       "image_source": "https://salamirosejoelouismusic.bandcamp.com/album/akousmatikous",
+      "bandcamp_id": 1940426066,
       "links": [
         {
           "type": "bandcamp",
@@ -25239,7 +25255,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 4
+      "rank": 10
     },
     {
       "id": "salami-rose-joe-louis-lorings",
@@ -25250,6 +25266,7 @@
       "year": 2025,
       "image": "img/cds/salami-rose-joe-louis-lorings.avif",
       "image_source": "https://salamirosejoelouismusic.bandcamp.com/album/lorings",
+      "bandcamp_id": 546251432,
       "links": [
         {
           "type": "bandcamp",
@@ -25262,7 +25279,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 5
+      "rank": 11
     },
     {
       "id": "salami-rose-joe-louis-zdenka-2080",
@@ -25274,6 +25291,7 @@
       "label": "Brainfeeder",
       "image": "img/cds/salami-rose-joe-louis-zdenka-2080.avif",
       "image_source": "https://salamirosejoelouismusic.bandcamp.com/album/zdenka-2080",
+      "bandcamp_id": 1815552077,
       "links": [
         {
           "type": "bandcamp",
@@ -25285,8 +25303,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 6
+      "body": ""
     },
     {
       "id": "sara-gioielli-gioielli-neri",
@@ -25297,6 +25314,7 @@
       "year": 2025,
       "image": "img/cds/sara-gioielli-gioielli-neri.avif",
       "image_source": "https://saragioielli.bandcamp.com/album/gioielli-neri",
+      "bandcamp_id": 1591017579,
       "links": [
         {
           "type": "spotify",
@@ -25308,8 +25326,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 7
+      "body": ""
     }
   ],
   "shelves": [

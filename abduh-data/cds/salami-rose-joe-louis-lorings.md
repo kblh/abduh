@@ -7,6 +7,7 @@ bands:
 year: 2025
 image: cds/salami-rose-joe-louis-lorings.avif
 image_source: https://salamirosejoelouismusic.bandcamp.com/album/lorings
+bandcamp_id: 546251432
 links:
   - type: bandcamp
     url: https://salamirosejoelouismusic.bandcamp.com/album/lorings
