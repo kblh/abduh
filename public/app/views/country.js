@@ -18,7 +18,7 @@ export function render({ store, params, today }) {
       h('div', { class: 'flag-big' }, country.flag ?? '🏳'),
       h('div', { class: 'detail-main' },
         h('p', { class: 'eyebrow' }, `ZEMĚ · ${(CONTINENTS[country.continent] ?? '').toUpperCase()}`),
-        h('h1', { class: 'detail-title' }, country.name, h('small', { class: 'count' }, ` ${plural(bands.length, 'kapela', 'kapely', 'kapel')}`)),
+        h('h1', { class: 'detail-title' }, country.name), h('small', { class: 'count' }, plural(bands.length, 'kapela', 'kapely', 'kapel')),
         h('div', { class: 'chips' }, ordered.filter(([s]) => s).slice(0, 6).map(([s, bs]) => chip(`${prettyStyle(store.byId.styles.get(s)?.name ?? s)} · ${bs.length}`, `#/bands?country=${encodeURIComponent(country.id)}&style=${encodeURIComponent(s)}`, 'style'))))),
     body ? h('div', null, sectionTitle('Hudba a historie'), body, long ? h('button', { class: 'more-btn', type: 'button', onClick: (e) => { body.classList.remove('clamped'); e.target.remove(); } }, 'číst dál ↓') : null) : null,
     ordered.map(([s, bs]) => h('section', { class: 'style-group' },

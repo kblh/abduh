@@ -35,16 +35,23 @@ function buildShell() {
       h('a', { class: 'logo', href: '#/' }, h('img', { class: 'logo-img', src: 'logo.svg', alt: '', width: 32, height: 32 }), 'Abduh'),
       h('nav', { class: 'nav', 'aria-label': 'Hlavní' }, navLinks),
       h('div', { class: 'header-tools' },
-        h('label', { class: 'search-field header-search' }, svg(SEARCH_ICON), headerInput, h('kbd', null, '/')),
+        h('label', { class: 'search-field header-search' }, svg(SEARCH_ICON), headerInput, h('kbd', { title: '/ nebo ⌘K' }, '/')),
         h('a', { class: 'search-link', href: '#/search', 'aria-label': 'Hledat' }, svg(SEARCH_ICON)),
         themeBtn)),
     mount,
     h('nav', { class: 'tabbar', 'aria-label': 'Sekce' }, tabLinks));
   document.getElementById('shell').replaceWith(shell);
+  const focusSearch = () => {
+    const input = document.querySelector('.big-search input') ?? (headerInput.offsetParent ? headerInput : null);
+    if (!input) { location.hash = '#/search'; return; }
+    input.focus();
+    input.select();
+  };
   document.addEventListener('keydown', (e) => {
+    if ((e.metaKey || e.ctrlKey) && !e.altKey && e.key.toLowerCase() === 'k') { e.preventDefault(); focusSearch(); return; }
     if (e.key === '/' && !/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName) && !e.metaKey && !e.ctrlKey) {
       e.preventDefault();
-      (document.querySelector('.big-search input') ?? headerInput).focus();
+      focusSearch();
     }
   });
 }
