@@ -19152,7 +19152,22 @@
       "styles": [
         "flamenco"
       ],
-      "body": ""
+      "tags": [
+        "woman"
+      ],
+      "image": "img/bands/rosalia-vila-tobella.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_27_(cropped).jpg",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rosal%C3%ADa"
+        }
+      ],
+      "body": "Katalánská zpěvačka, skladatelka a herečka z Barcelony (nar. 1992), známá jako Rosalía. Ve 14 letech ji uchvátila španělská lidová hudba, vystudovala muzikologii na Katalánské hudební vysoké škole (2017). Kritika ji označuje za „atypickou popovou hvězdu“ pro prolínání žánrů: z flamenka vyšla na albu *El mal querer* (2018) a v *Motomami* (2022) ho míchá s pop, reggaetonem a elektronikou.\\n"
     },
     {
       "id": "rosanna-zelia",
@@ -24792,6 +24807,42 @@
         }
       ],
       "added": "2026-11-15",
+      "body": ""
+    },
+    {
+      "id": "rosalia-vila-tobella-el-mal-querer",
+      "name": "El mal querer",
+      "bands": [
+        "rosalia-vila-tobella"
+      ],
+      "year": 2018,
+      "image": "img/cds/rosalia-vila-tobella-el-mal-querer.avif",
+      "image_source": "https://protisedi.cz/wp-content/uploads/2018/11/obal.jpg",
+      "added": "2026-11-17",
+      "body": ""
+    },
+    {
+      "id": "rosalia-vila-tobella-lux",
+      "name": "Lux",
+      "bands": [
+        "rosalia-vila-tobella"
+      ],
+      "year": 2025,
+      "image": "img/cds/rosalia-vila-tobella-lux.avif",
+      "image_source": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+      "added": "2026-11-17",
+      "body": ""
+    },
+    {
+      "id": "rosalia-vila-tobella-motomami",
+      "name": "Motomami",
+      "bands": [
+        "rosalia-vila-tobella"
+      ],
+      "year": 2022,
+      "image": "img/cds/rosalia-vila-tobella-motomami.avif",
+      "image_source": "lokální soubor (obal alba Motomami)",
+      "added": "2026-11-17",
       "body": ""
     }
   ],
