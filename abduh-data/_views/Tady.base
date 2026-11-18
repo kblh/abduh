@@ -1,6 +1,7 @@
 filters:
-  and:
+  or:
     - file.hasLink(this.file)
+    - this.file.hasLink(file)
 properties:
   note.name:
     displayName: Název
