@@ -2430,7 +2430,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "ballake-sissoko",
@@ -2611,7 +2611,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "batata-y-su-rumba-palenquera",
@@ -9258,7 +9258,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "hadouk-trio",
@@ -10722,7 +10722,7 @@
       ],
       "modified": "2026-11-17",
       "body": "",
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "joe-zawinul",
@@ -11247,7 +11247,7 @@
       ],
       "modified": "2026-11-17",
       "body": "Palestinská zpěvačka, hráčka na oud a skladatelka. Od počátku 80. let do roku 2002 byla hlavním hlasem jeruzalémské skupiny Sabreen. Od roku 2002 žije v Evropě (Bern, později Paříž) a věnuje se sólové a experimentální tvorbě, často ve spolupráci se švýcarským trumpetistou a elektronikem Wernerem Haslerem.\n",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "kan",
@@ -11298,8 +11298,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "kanizsa-csillagai",
@@ -13739,7 +13738,7 @@
       ],
       "added": "2026-11-17",
       "body": "Lucrecia Dalt je kolumbijská experimentální hudebnice narozená v Pereiře, dnes žijící v Berlíně. Původně se věnovala inženýrství a geologii, než se vydala za hudbou; debutovala v roce 2005 a časem se od zasněné elektronické pop hudby posunula k abstraktnější, surrealistické tvorbě. Vydává u RVNG Intl a složila hudbu k seriálu The Baby.\n",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "luigi-cinque",
@@ -15003,7 +15002,7 @@
       ],
       "added": "2026-11-17",
       "body": "Marina Herlop (vlastním jménem Marina Hernández López) je katalánská experimentální hudebnice a klasicky vzdělaná klavíristka. Její první alba stála na klavíru a hlase, později se posunula k elektronice a nezvyklým vokálním aranžím. Od alba Pripyat vydávala u labelu PAN, nejnovější Dja Dja vydává samostatně.\n",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "mario-bihari-bachtale-apsa",
@@ -19091,6 +19090,37 @@
       "body": ""
     },
     {
+      "id": "robert-plant",
+      "name": "Robert Plant",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "rock",
+        "blues",
+        "folk"
+      ],
+      "image": "img/bands/robert-plant.avif",
+      "image_source": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "type": "website",
+          "url": "https://robertplant.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Robert_Plant"
+        }
+      ],
+      "added": "2026-11-18",
+      "body": "Anglický zpěvák a textař, známý především jako frontman Led Zeppelin (1968–1980). Po rozpadu skupiny rozvíjel sólovou dráhu a spolupracoval s Jimmym Pagem i s Alison Krauss, jejich album Raising Sand získalo Grammy za album roku. Řadí se k nejvýraznějším rockovým zpěvákům, oceňovaným pro silný a rozsáhlý hlas.\n",
+      "rank": 0
+    },
+    {
       "id": "roberto-fonseca",
       "name": "Roberto Fonseca",
       "countries": [
@@ -19708,7 +19738,7 @@
       ],
       "added": "2026-11-17",
       "body": "Salami Rose Joe Louis je projekt kalifornské hudebnice Lindsay Olsen, která se po práci klimatoložky věnuje hudbě naplno. Jde o krátké, skicovité skladby plné syntezátorů, experimentálního popu a abstraktních beatů s kosmickou obrazností. Po několika samostatných albech vydává u labelu Brainfeeder.\n",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "salif-keita",
@@ -19729,7 +19759,7 @@
       ],
       "modified": "2026-11-17",
       "body": "Salif Keita je malijský zpěvák a skladatel, pocházející z královského rodu Mandingů, přezdívaný „Zlatý hlas Afriky“. Proslavil se v 70. letech v kapelách Rail Band a Les Ambassadeurs a od 80. let má úspěšnou sólovou kariéru, v níž spojuje mandingskou tradici s popem, funkem a elektronikou. Je albín, což v jeho rodné zemi dlouho znamenalo společenské vyloučení, a později se stal jeho zastáncem.\n",
-      "rank": 0
+      "rank": 1
     },
     {
       "id": "sally-nyolo",
@@ -19937,7 +19967,7 @@
       ],
       "added": "2026-11-17",
       "body": "Sara Gioielli je neapolská zpěvačka, skladatelka a producentka z Pozzuoli, narozená v roce 2001. Řadu let zpívala v dětském sboru divadla Teatro San Carlo. Ve své tvorbě spojuje jazz, současnou hudbu, pop a operní vlivy; debutové album Gioielli Neri vydala v říjnu 2025.\n",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "sara-tavares",
@@ -22162,7 +22192,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "the-idan-raichel-project",
@@ -24919,7 +24949,7 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "juana-molina-doga",
@@ -24944,7 +24974,7 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "juana-molina-halo",
@@ -24969,7 +24999,7 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "justin-adams-desert-road",
@@ -25093,7 +25123,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 0
+      "rank": 2
     },
     {
       "id": "lucrecia-dalt-a-danger-to-ourselves",
@@ -25117,7 +25147,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "lucrecia-dalt-ay",
@@ -25141,8 +25171,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "marina-herlop-dja-dja",
@@ -25165,8 +25194,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "marina-herlop-pripyat",
@@ -25248,6 +25276,44 @@
       ],
       "added": "2026-11-17",
       "body": ""
+    },
+    {
+      "id": "robert-plant-lullaby-and-the-ceaseless-roar",
+      "name": "lullaby and... The Ceaseless Roar",
+      "bands": [
+        "robert-plant"
+      ],
+      "year": 2014,
+      "image": "img/cds/robert-plant-lullaby-and-the-ceaseless-roar.avif",
+      "image_source": "https://open.spotify.com/album/0kqVbnOKFngwXJ7by8Xlns",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0kqVbnOKFngwXJ7by8Xlns"
+        }
+      ],
+      "added": "2026-11-18",
+      "body": "",
+      "rank": 0
+    },
+    {
+      "id": "robert-plant-saving-grace",
+      "name": "Saving Grace",
+      "bands": [
+        "robert-plant"
+      ],
+      "year": 2025,
+      "image": "img/cds/robert-plant-saving-grace.avif",
+      "image_source": "https://open.spotify.com/album/3E3qeXLdDtaX16OV4kbNoF",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/3E3qeXLdDtaX16OV4kbNoF"
+        }
+      ],
+      "added": "2026-11-18",
+      "body": "",
+      "rank": 1
     },
     {
       "id": "rosalia-vila-tobella-el-mal-querer",
@@ -25373,7 +25439,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 1
+      "rank": 3
     },
     {
       "id": "salif-keita-moffou",
@@ -25392,7 +25458,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "salif-keita-tale",
@@ -25411,7 +25477,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "salif-keita-un-autre-blanc",
@@ -25430,7 +25496,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "sara-gioielli-gioielli-neri",
@@ -25478,7 +25544,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 5
+      "rank": 7
     }
   ],
   "shelves": [
