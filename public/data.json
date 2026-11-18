@@ -711,7 +711,17 @@
       "instruments": [
         "drums"
       ],
-      "body": ""
+      "image": "img/bands/airto-moreira.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Airto_Moreira.jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Airto_Moreira"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Brazilský bubeník a perkusionista, který se proslavil koncem šedesátých let v souboru Quarteto Novo. Po přesídlení do USA hrál jazzfusion s Milesem Davisem, Return to Forever, Weather Report a Santanou. Je manželem zpěvačky Flory Purim.\n",
+      "rank": 0
     },
     {
       "id": "aiwa",
@@ -1561,7 +1571,17 @@
       "styles": [
         "pizzica"
       ],
-      "body": ""
+      "image": "img/bands/anna-cinzia-villani.avif",
+      "image_source": "https://iltaccodibacco.it/blog/26905.html",
+      "links": [
+        {
+          "type": "other",
+          "url": "https://iltaccodibacco.it/blog/26905.html"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Zpěvačka, tamburellistka, tanečnice a badatelka tradiční hudby ze Salenta v jižní Itálii, spojená s městečkem Zollino. S folkovými soubory vystupuje od začátku devadesátých let a učí se od starých zpěváků z malých vesnic. Vydala například alba Ninnamorella (2008), Salento in Dub (2010) a Fimmana, mare e focu.\n",
+      "rank": 1
     },
     {
       "id": "anna-rynefors-erik-ask-upmark",
@@ -1854,7 +1874,9 @@
       "styles": [
         "rap"
       ],
-      "body": ""
+      "modified": "2026-11-18",
+      "body": "Rapper z Ouagadougou v Burkině Faso, vlastním jménem Mamadou Armel Konkobo, který zároveň hospodaří jako farmář na okraji města. Rapuje od roku 2009 a v textech kombinuje francouzštinu s místními jazyky; věnuje se společenským a politickým tématům i změně klimatu. K jeho albům patří Wogdog Blues a Moogho (2015).\n",
+      "rank": 2
     },
     {
       "id": "arto-tuncboyaciyan",
@@ -2070,7 +2092,17 @@
       "styles": [
         "cumbia"
       ],
-      "body": ""
+      "image": "img/bands/axel-krygier.avif",
+      "image_source": "https://www.womex.com/virtual/soyouz_folklore_1/axel_krygier",
+      "links": [
+        {
+          "type": "other",
+          "url": "https://www.allmusic.com/artist/axel-krygier-mn0000051722/biography"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Argentinský multiinstrumentalista narozený v roce 1969 v Buenos Aires, původně saxofonista skupin Instrucción Cívica a La Portuaria. Od poloviny devadesátých let se věnuje sólové kariéře a mísí jazz, rock, elektroniku, cumbii a argentinskou lidovou hudbu. Je spojen s elektro-cumbia scénou kolem ZZK a skládá i filmovou a divadelní hudbu.\n",
+      "rank": 3
     },
     {
       "id": "ay-kherel",
@@ -2429,8 +2461,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 8
+      "body": ""
     },
     {
       "id": "ballake-sissoko",
@@ -2610,8 +2641,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "batata-y-su-rumba-palenquera",
@@ -2650,7 +2680,11 @@
         "woman",
         "poet"
       ],
-      "body": ""
+      "image": "img/bands/beatriz-azevedo.avif",
+      "image_source": "https://www.womex.com/virtual/acrobeat/beatriz_azevedo",
+      "modified": "2026-11-18",
+      "body": "Brazilská básnířka, zpěvačka, skladatelka a performerka z São Paula, která propojuje hudbu, divadlo, literaturu a audiovizuální umění. Má doktorát z divadelních umění a léta se zabývá antropofagií, na niž navazuje její tvorba. Její alba, například Bum Bum do Poeta, Mapa-mundi nebo Alegria, spojují samba s poezií.\n",
+      "rank": 4
     },
     {
       "id": "beats-antique",
@@ -2820,7 +2854,11 @@
       "styles": [
         "rap"
       ],
-      "body": ""
+      "image": "img/bands/ben-sharpa.avif",
+      "image_source": "https://www.deezer.com/artist/372169",
+      "modified": "2026-11-18",
+      "body": "Jihoafrický undergroundový rapper a producent (vlastním jménem Kgotso Semela), který se prosadil v kapském hip-hopu. Vydal debutové album B. Sharpa (2008) u labelu Pioneer Unit se singlem Hegemony o policejní brutalitě a vystupoval na evropských festivalech. Zemřel v červenci 2018.\n",
+      "rank": 5
     },
     {
       "id": "benat-achiary",
@@ -3338,8 +3376,9 @@
           "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
         }
       ],
-      "modified": "2026-11-13",
-      "body": ""
+      "modified": "2026-11-18",
+      "body": "Omara Moctar, známý jako Bombino, je tuarežský kytarista a zpěvák z nigerského Agadezu. Hraje tuarežský rock a blues postavený na hypnotických kytarových liniích a v posledních letech vystupuje po celém světě. Jeho album Nomad (2013) produkoval Dan Auerbach z The Black Keys.\n",
+      "rank": 6
     },
     {
       "id": "bombolesse",
@@ -3440,7 +3479,15 @@
       "styles": [
         "surf"
       ],
-      "body": ""
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Boom_Pam"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Telavivská kapela založená v roce 2003 a pojmenovaná podle písně Arise Sana. Kvarteto s elektrickou kytarou, tubou, klávesami a bicími mísí surf rock s tureckými, balkánskými a středomořskými vlivy. Mezi alba patří Boom Pam (2005), Puerto Rican Nights (2008), Alakazam (2010) a Royal (2023).\n",
+      "rank": 7
     },
     {
       "id": "boot",
@@ -3605,7 +3652,11 @@
       "styles": [
         "pizzica"
       ],
-      "body": ""
+      "image": "img/bands/briganti-di-terra-d-otranto.avif",
+      "image_source": "https://www.deezer.com/artist/269424",
+      "modified": "2026-11-18",
+      "body": "Salentská folková skupina z oblasti Grecìa Salentina v jižní Apulii, vzniklá kolem roku 2001 v Martignanu. Hraje pizzicu, tarantu a písně v řeckém dialektu griko, k tomu pracovní písně a melancholické milostné balady. Jedním z jejích alb je Focu de paja z roku 2009.\n",
+      "rank": 8
     },
     {
       "id": "brigitte-fontaine",
@@ -3880,7 +3931,17 @@
       "styles": [
         "tropicalismo"
       ],
-      "body": ""
+      "image": "img/bands/caetano-veloso.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Caetano_Veloso_(cropped).jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Caetano_Veloso"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Brazilský zpěvák, skladatel a spisovatel, jedna z klíčových postav hnutí Tropicália na konci 60. let, které spojilo brazilskou lidovou hudbu s rockem a avantgardou. Podílel se na kolektivním albu Tropicália: ou Panis et Circencis (1968) spolu s Gilbertem Gilem, Gal Costou, Tomem Zé a Os Mutantes. Patří k nejuznávanějším jménům brazilské hudby.\n",
+      "rank": 9
     },
     {
       "id": "cafe-preto",
@@ -4033,7 +4094,17 @@
       "styles": [
         "pizzica"
       ],
-      "body": ""
+      "image": "img/bands/cantodiscanto.avif",
+      "image_source": "https://www.womex.com/virtual/medinsud_aps/cantodiscanto",
+      "links": [
+        {
+          "type": "other",
+          "url": "https://www.womex.com/virtual/medinsud_aps/cantodiscanto"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Italská folková skupina, která vznikla v osmdesátých letech mezi Neapolí a Boloňí. Jejím zakladatelem je kytarista Guido Sodo a hraje akusticky s vlivy jihoitalské lidové hudby, fada a brazilské hudby. Vystupovala na festivalech jako Notte della Taranta a Umbria Jazz, nejnovější album Pandemusica vyšlo v roce 2022.\n",
+      "rank": 10
     },
     {
       "id": "canzoniere-grecanico-salentino",
@@ -4177,7 +4248,17 @@
       "styles": [
         "rap"
       ],
-      "body": ""
+      "image": "img/bands/carlou-d.avif",
+      "image_source": "https://carloud.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://carloud.bandcamp.com"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Senegalský zpěvák a kytarista, vlastním jménem Ibrahima Loucard, původem z Dakaru. Proslavil se jako rapper v legendární skupině Positive Black Soul, poté se obrátil k vlastní písňové tvorbě a zpěvu. Svůj styl nazývá „muzikr“ – spojení hudby a súfijského zikru, protože patří k súfijské větvi Baye Fall.\n",
+      "rank": 11
     },
     {
       "id": "carlton-rara",
@@ -4249,7 +4330,16 @@
         "bluegrass",
         "appalachian"
       ],
-      "body": ""
+      "image": "img/bands/carolina-chocolate-drops.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Carolinachocolatedrops.jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Old-time string band z Durhamu v Severní Karolíně. Jejich album Genuine Negro Jig z roku 2010 získalo cenu Grammy za nejlepší tradiční folkové album.\n"
     },
     {
       "id": "catarina",
@@ -4790,7 +4880,16 @@
       "styles": [
         "jazz"
       ],
-      "body": ""
+      "image": "img/bands/christiane-karam.avif",
+      "image_source": "https://college.berklee.edu/node/1049267",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://christianekaram.bandcamp.com/"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Zpěvačka, skladatelka a vedoucí kapely narozená v Bejrútu, s libanonskými a arménskými kořeny. Žije v USA, vyučuje na Berklee College of Music a vede soubor ZilZALA i balkánský sbor Pletenitsa. Její album Nar z roku 2021 propojuje jazz s tradicemi Blízkého východu.\n"
     },
     {
       "id": "christina-rosmini",
@@ -4828,7 +4927,8 @@
       "styles": [
         "mpb"
       ],
-      "body": ""
+      "modified": "2026-11-18",
+      "body": "Brazilská zpěvačka a vizuální umělkyně narozená roku 1978 v São Paulu, působící mezi Londýnem, Berlínem a Brazílií. Proslavila se hostováním na albu São Paulo Confessions producenta Suby. Vlastní desky Cibelle (2003) a The Shine of Dried Electric Leaves (2006) spojují elektroniku s brazilskou písní.\n"
     },
     {
       "id": "cie-rassegna",
@@ -4928,7 +5028,20 @@
       "styles": [
         "raggae"
       ],
-      "body": ""
+      "image": "img/bands/clinton-fearon.avif",
+      "image_source": "https://www.putumayo.com/clintonfearon",
+      "links": [
+        {
+          "type": "website",
+          "url": "https://clintonfearon.com/"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Clinton_Fearon"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Jamajský reggae zpěvák, skladatel a basista, dlouholetý člen skupiny The Gladiators. Po americkém turné v roce 1987 se usadil v Seattlu, kde založil kapelu The Defenders a později Boogie Brown Band. Od té doby vydává sólová alba, například Heart and Soul nebo Breaking News.\n"
     },
     {
       "id": "club-des-belugas",
@@ -5387,7 +5500,16 @@
       "styles": [
         "mpb"
       ],
-      "body": ""
+      "image": "img/bands/daniela-mercury.avif",
+      "image_source": "https://www.deezer.com/artist/8649",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Daniela_Mercury"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Brazilská zpěvačka, skladatelka, tanečnice a producentka narozená roku 1965 v Salvadoru. Prodala přes 11 milionů desek a získala Latin Grammy za album Balé Mulato. Proslavila se energickou směsicí axé a brazilských rytmů.\n"
     },
     {
       "id": "daniele-sepe",
@@ -5806,7 +5928,16 @@
         "blues",
         "rockabilly"
       ],
-      "body": ""
+      "image": "img/bands/devil-doll.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Devil_Doll_(12).jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Devil_Doll_(American_band)"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Americká rockabilly kapela, kterou vede zpěvačka Colleen Duffy. Hrají syrovou směs rockabilly a blues; skladba „Faith in Love“ z alba Queen of Pain (2003) zazněla v seriálu Buffy, přemožitelka upírů. Po několikaleté pauze způsobené nemocí zpěvačky se v roce 2018 vrátili sbírkou na nové album.\n"
     },
     {
       "id": "devotchka",
@@ -6215,7 +6346,16 @@
       "styles": [
         "mpb"
       ],
-      "body": ""
+      "image": "img/bands/dom-la-nena.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Dom_La_Nena_at_TAFFF_2026.jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dom_La_Nena"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Dominique Pereira Pinto je brazilská violoncellistka, zpěvačka a skladatelka. Debutové album Ela vydala v lednu 2013 a hraje komorně laděnou, intimní hudbu na pomezí MPB a folku.\n"
     },
     {
       "id": "domna-samiou",
@@ -6305,7 +6445,16 @@
       "tags": [
         "woman"
       ],
-      "body": ""
+      "image": "img/bands/dorothy-ashby.avif",
+      "image_source": "https://en.wikipedia.org/wiki/Dorothy_Ashby",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dorothy_Ashby"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Americká jazzová harfenistka, zpěvačka a skladatelka (1932–1986). Prosadila harfu jako plnohodnotný improvizační nástroj v jazzu, na který zvládla hrát i bebop. Prosadila se jako Afroameričanka v oboru, v němž dominovali muži, a dnes patří k nejuznávanějším jazzovým harfenistům.\n"
     },
     {
       "id": "dostrescinco",
@@ -7784,7 +7933,16 @@
       "styles": [
         "afrobeat"
       ],
-      "body": ""
+      "image": "img/bands/femi-kuti.avif",
+      "image_source": "https://www.deezer.com/artist/2763",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Femi_Kuti"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Nigerijský saxofonista, zpěvák a skladatel, narozený roku 1962 v Londýně a vyrůstající v Lagosu. Je nejstarším synem zakladatele afrobeatu Fely Kutiho a pokračovatelem rodinné hudební i politické tradice. Hraje energický afrobeat s dechovou sekcí a angažovanými texty.\n"
     },
     {
       "id": "fenoamby",
@@ -8033,7 +8191,14 @@
       "styles": [
         "klezmer"
       ],
-      "body": ""
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Flying_Bulgar_Klezmer_Band"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Kanadská kapela z Toronta (1988–2010), známá také jako Flying Bulgars. Hrála klezmer, tedy hudbu východoevropských Židů, a obohacovala ji o prvky rocku, jazzu a salsy. „Bulgar“ v názvu neodkazuje na národ, ale na tanec.\n"
     },
     {
       "id": "fofoulah",
@@ -8060,7 +8225,10 @@
       "styles": [
         "rap"
       ],
-      "body": ""
+      "image": "img/bands/fokn-bois.avif",
+      "image_source": "https://www.deezer.com/artist/1618261",
+      "modified": "2026-11-18",
+      "body": "Ghanské hiphopové duo Wanlov the Kubolor a M3NSA, oficiálně aktivní od roku 2008 a později usazené v Budapešti. Svůj styl nazývají gospel porn rap a proslavili se satirickými, společensky kritickými texty. Vystupovali mimo jiné na Glastonbury a natočili pidžinové filmové muzikály.\n"
     },
     {
       "id": "folk-error",
@@ -8473,7 +8641,16 @@
         "bluegrass",
         "appalachian"
       ],
-      "body": ""
+      "image": "img/bands/gangstagrass.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Gangstagrass_at_Thirsty_Nickel.jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gangstagrass"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Americká skupina z Brooklynu, kterou založil a vede producent Rench (Oscar Owens). Spojuje pravý bluegrass s rapem do nového žánru a nejvíc se proslavila ústřední písní seriálu Justified stanice FX.\n"
     },
     {
       "id": "garcia",
@@ -8722,7 +8899,16 @@
       "styles": [
         "pizzica"
       ],
-      "body": ""
+      "image": "img/bands/gianmaria-testa.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Gianmaria_Testa-63.jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gianmaria_Testa"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Italský písničkář a kytarista (1958–2016), který hrál na pódiích od roku 1990 a na festivalu v Recanati získal dvě po sobě jdoucí hlavní ceny. Debutoval albem Montgolfières (1995), zpíval italsky i francouzsky a jeho hudba se blížila folku, jazzu a world music. Po celou kariéru pracoval jako přednosta nádraží v italském Cuneu.\n"
     },
     {
       "id": "gigi",
@@ -9257,8 +9443,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "hadouk-trio",
@@ -10077,7 +10262,16 @@
       "styles": [
         "klezmer"
       ],
-      "body": ""
+      "image": "img/bands/irving-fields-trio.avif",
+      "image_source": "https://en.wikipedia.org/wiki/Irving_Fields",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Irving_Fields"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Americké trio pianisty a skladatele Irvinga Fieldse (1915–2016), který ho založil po službě v armádě. Proslulo albem Bagels & Bongos z roku 1959, které spojuje židovské melodie s latinskoamerickými rytmy a prodalo se ho dva miliony kopií. Fields později hrál v newyorské hotelové sále Oak Room v Plaze a dožil se 101 let.\n"
     },
     {
       "id": "isabelle-bazin",
@@ -10123,7 +10317,16 @@
       "styles": [
         "wassalou"
       ],
-      "body": ""
+      "image": "img/bands/issa-bagayogo.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Issa_Bagayogo_kamale_ngoni.jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Issa_Bagayogo"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Malijský hudebník (1961–2016), který zpíval a hrál na kamele n’goni, šestistrunný západoafrický nástroj podobný bendžu. S producentem a klávesistou Yvesem Wernertem spojil wassoulou s elektronikou a vydal čtyři alba u labelu Six Degrees Records. Zemřel v říjnu 2016 po dlouhé nemoci.\n"
     },
     {
       "id": "issa-hassan",
@@ -10146,7 +10349,16 @@
         "psychedelic",
         "rock"
       ],
-      "body": ""
+      "image": "img/bands/istanbul-oriental-ensemble.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:BurhanOcalInstanbulOrientalEnsemble20080916.jpg",
+      "links": [
+        {
+          "type": "other",
+          "url": "https://www.allmusic.com/artist/istanbul-oriental-ensemble-mn0000092181"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Soubor, který v Turecku v roce 1991 založil perkusionista a multiinstrumentalista Burhan Öçal. Hraje tradiční turecké a thrácké romské hudební styly a pracuje s nástroji osmanské a lidové tradice. Mezi alba patří Grand Bazaar.\n"
     },
     {
       "id": "italie",
@@ -10721,8 +10933,7 @@
         "griot"
       ],
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "joe-zawinul",
@@ -10965,7 +11176,16 @@
       "styles": [
         "jazz"
       ],
-      "body": ""
+      "image": "img/bands/julia-boutros.avif",
+      "image_source": "https://en.wikipedia.org/wiki/Julia_Boutros",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Julia_Boutros"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Libanonská zpěvačka a hudebnice narozená roku 1968, známá také jako humanitární aktivistka. Patří k nejpopulárnějším hlasům arabského světa a zpívá často angažované písně s libanonskou a vlasteneckou tematikou.\n"
     },
     {
       "id": "juliette",
@@ -11246,8 +11466,7 @@
         }
       ],
       "modified": "2026-11-17",
-      "body": "Palestinská zpěvačka, hráčka na oud a skladatelka. Od počátku 80. let do roku 2002 byla hlavním hlasem jeruzalémské skupiny Sabreen. Od roku 2002 žije v Evropě (Bern, později Paříž) a věnuje se sólové a experimentální tvorbě, často ve spolupráci se švýcarským trumpetistou a elektronikem Wernerem Haslerem.\n",
-      "rank": 2
+      "body": "Palestinská zpěvačka, hráčka na oud a skladatelka. Od počátku 80. let do roku 2002 byla hlavním hlasem jeruzalémské skupiny Sabreen. Od roku 2002 žije v Evropě (Bern, později Paříž) a věnuje se sólové a experimentální tvorbě, často ve spolupráci se švýcarským trumpetistou a elektronikem Wernerem Haslerem.\n"
     },
     {
       "id": "kan",
@@ -12783,7 +13002,16 @@
       "styles": [
         "a-capella"
       ],
-      "body": ""
+      "image": "img/bands/ladysmith-black-mambazo.avif",
+      "image_source": "https://en.wikipedia.org/wiki/Ladysmith_Black_Mambazo",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ladysmith_Black_Mambazo"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Jihoafrická mužská vokální skupina zpívající ve stylech isicathamiya a mbube. Světově se proslavila spoluprací s Paulem Simonem na albu Graceland z roku 1986. Získala několik cen, včetně pěti Grammy.\n"
     },
     {
       "id": "laima-jansone",
@@ -13737,8 +13965,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "Lucrecia Dalt je kolumbijská experimentální hudebnice narozená v Pereiře, dnes žijící v Berlíně. Původně se věnovala inženýrství a geologii, než se vydala za hudbou; debutovala v roce 2005 a časem se od zasněné elektronické pop hudby posunula k abstraktnější, surrealistické tvorbě. Vydává u RVNG Intl a složila hudbu k seriálu The Baby.\n",
-      "rank": 4
+      "body": "Lucrecia Dalt je kolumbijská experimentální hudebnice narozená v Pereiře, dnes žijící v Berlíně. Původně se věnovala inženýrství a geologii, než se vydala za hudbou; debutovala v roce 2005 a časem se od zasněné elektronické pop hudby posunula k abstraktnější, surrealistické tvorbě. Vydává u RVNG Intl a složila hudbu k seriálu The Baby.\n"
     },
     {
       "id": "luigi-cinque",
@@ -15001,8 +15228,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "Marina Herlop (vlastním jménem Marina Hernández López) je katalánská experimentální hudebnice a klasicky vzdělaná klavíristka. Její první alba stála na klavíru a hlase, později se posunula k elektronice a nezvyklým vokálním aranžím. Od alba Pripyat vydávala u labelu PAN, nejnovější Dja Dja vydává samostatně.\n",
-      "rank": 5
+      "body": "Marina Herlop (vlastním jménem Marina Hernández López) je katalánská experimentální hudebnice a klasicky vzdělaná klavíristka. Její první alba stála na klavíru a hlase, později se posunula k elektronice a nezvyklým vokálním aranžím. Od alba Pripyat vydávala u labelu PAN, nejnovější Dja Dja vydává samostatně.\n"
     },
     {
       "id": "mario-bihari-bachtale-apsa",
@@ -15233,7 +15459,16 @@
       "styles": [
         "pizzica"
       ],
-      "body": ""
+      "image": "img/bands/mau-mau.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Maumau_2006.jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mau_Mau_(band)"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Italská kapela z Turína, kterou v roce 1990 založili Luca Morino, Fabio Barovero a Tatè Nsongan. Čerpá ze středomořské, africké, arabské i latinské hudby a zpívá převážně v piemontštině. Název odkazuje na keňské povstání Mau Mau a zároveň v piemontštině znamená lidi, kteří přicházejí zdaleka.\n"
     },
     {
       "id": "maui-y-los-sirenidos",
@@ -15285,7 +15520,16 @@
       "styles": [
         "pizzica"
       ],
-      "body": ""
+      "image": "img/bands/mauro-palmas.avif",
+      "image_source": "https://www.folkclub.it/en/concerti/27/mauro-palmas-alessandro-foresti-marco-argiolas/",
+      "links": [
+        {
+          "type": "other",
+          "url": "https://worldmusiccentral.org/artist-profiles-mauro-palmas/"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Sardinský skladatel, multiinstrumentalista a badatel narozený v roce 1956 v Cagliari. Hraje na mandolu a desetistrunnou liuto cantabile a dlouhá léta doprovází zpěvačku Elenu Leddu. Natáčí také vlastní alba, například spolu s elektronickým hudebníkem Francescem Meddou nebo s akordeonistou Giacomem Vardeu.\n"
     },
     {
       "id": "maut",
@@ -15304,7 +15548,10 @@
       "styles": [
         "quebec"
       ],
-      "body": ""
+      "image": "img/bands/mauvais-sort.avif",
+      "image_source": "https://artsmidwest.org/get-support/world-fest/artists/mauvais-sort/",
+      "modified": "2026-11-18",
+      "body": "Kanadská kapela z Québecu, která obměňuje tradiční quebeckou hudbu moderními aranžemi. Spojuje staré lidové texty s vlastními skladbami a příběhy. Vydala mimo jiné alba Jettatura (2002) a Koru (2005).\n"
     },
     {
       "id": "mawaca",
@@ -15679,7 +15926,20 @@
         "psychedelic",
         "rock"
       ],
-      "body": ""
+      "image": "img/bands/minor-empire.avif",
+      "image_source": "https://www.womex.com/virtual/mainstage_management/minor_empire",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Minor_Empire"
+        },
+        {
+          "type": "website",
+          "url": "https://minorempire.net/"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Turecko-kanadská skupina z Toronta, kterou v roce 2010 založili kytarista Ozan Boz a zpěvačka Ozgu Ozman. Míchá psychedelický rock, elektroniku, jazz a tradiční tureckou hudbu. Vydala alba Second Nature (2011) a Uprooted (2017).\n"
     },
     {
       "id": "minuit-guibolles",
@@ -16994,7 +17254,16 @@
       "styles": [
         "qawali"
       ],
-      "body": ""
+      "image": "img/bands/nusrat-fateh-ali-khan.avif",
+      "image_source": "https://en.wikipedia.org/wiki/Nusrat_Fateh_Ali_Khan",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nusrat_Fateh_Ali_Khan"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Pákistánský zpěvák a skladatel (1948–1997), největší jméno súfijské hudby qawwali. Vyrostl v hudebnickém rodě Qawwal Bachchon ka Gharana a vedle qawwali ovládal i hindustánskou klasickou hudbu. Spolupracoval také se západními umělci a stal se jedním z nejznámějších hudebníků Pákistánu.\n"
     },
     {
       "id": "o-questrada",
@@ -18421,7 +18690,14 @@
       "tags": [
         "woman"
       ],
-      "body": ""
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Queen_Ifrica"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Ventrice Morgan, vystupující jako Queen Ifrica, je jamajská reggae zpěvačka a dídžejka z kopců nad Montego Bay. Je dcerou ska hudebníka Derricka Morgana, vychovávala ji však matka a nevlastní otec.\n"
     },
     {
       "id": "quimbombo",
@@ -18696,7 +18972,10 @@
       "styles": [
         "mpb"
       ],
-      "body": ""
+      "image": "img/bands/raquel-coutinho.avif",
+      "image_source": "https://www.womex.com/virtual/oi_querida/raquel_coutinho",
+      "modified": "2026-11-18",
+      "body": "Brazilská zpěvačka, skladatelka a perkusionistka z Minas Gerais. Její hudba stojí na perkusivních rytmech afrobrazilské tradice, jako jsou congado a candomblé, a doplňuje je digitálními prvky. Debutové album Olho D'Água vyšlo v roce 2010 u francouzského labelu Satelitte a ten rok vystoupila na festivalu v Montreux.\n"
     },
     {
       "id": "raquel-tavares",
@@ -19117,8 +19396,7 @@
         }
       ],
       "added": "2026-11-18",
-      "body": "Anglický zpěvák a textař, známý především jako frontman Led Zeppelin (1968–1980). Po rozpadu skupiny rozvíjel sólovou dráhu a spolupracoval s Jimmym Pagem i s Alison Krauss, jejich album Raising Sand získalo Grammy za album roku. Řadí se k nejvýraznějším rockovým zpěvákům, oceňovaným pro silný a rozsáhlý hlas.\n",
-      "rank": 0
+      "body": "Anglický zpěvák a textař, známý především jako frontman Led Zeppelin (1968–1980). Po rozpadu skupiny rozvíjel sólovou dráhu a spolupracoval s Jimmym Pagem i s Alison Krauss, jejich album Raising Sand získalo Grammy za album roku. Řadí se k nejvýraznějším rockovým zpěvákům, oceňovaným pro silný a rozsáhlý hlas.\n"
     },
     {
       "id": "roberto-fonseca",
@@ -19737,8 +20015,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "Salami Rose Joe Louis je projekt kalifornské hudebnice Lindsay Olsen, která se po práci klimatoložky věnuje hudbě naplno. Jde o krátké, skicovité skladby plné syntezátorů, experimentálního popu a abstraktních beatů s kosmickou obrazností. Po několika samostatných albech vydává u labelu Brainfeeder.\n",
-      "rank": 6
+      "body": "Salami Rose Joe Louis je projekt kalifornské hudebnice Lindsay Olsen, která se po práci klimatoložky věnuje hudbě naplno. Jde o krátké, skicovité skladby plné syntezátorů, experimentálního popu a abstraktních beatů s kosmickou obrazností. Po několika samostatných albech vydává u labelu Brainfeeder.\n"
     },
     {
       "id": "salif-keita",
@@ -19758,8 +20035,7 @@
         }
       ],
       "modified": "2026-11-17",
-      "body": "Salif Keita je malijský zpěvák a skladatel, pocházející z královského rodu Mandingů, přezdívaný „Zlatý hlas Afriky“. Proslavil se v 70. letech v kapelách Rail Band a Les Ambassadeurs a od 80. let má úspěšnou sólovou kariéru, v níž spojuje mandingskou tradici s popem, funkem a elektronikou. Je albín, což v jeho rodné zemi dlouho znamenalo společenské vyloučení, a později se stal jeho zastáncem.\n",
-      "rank": 1
+      "body": "Salif Keita je malijský zpěvák a skladatel, pocházející z královského rodu Mandingů, přezdívaný „Zlatý hlas Afriky“. Proslavil se v 70. letech v kapelách Rail Band a Les Ambassadeurs a od 80. let má úspěšnou sólovou kariéru, v níž spojuje mandingskou tradici s popem, funkem a elektronikou. Je albín, což v jeho rodné zemi dlouho znamenalo společenské vyloučení, a později se stal jeho zastáncem.\n"
     },
     {
       "id": "sally-nyolo",
@@ -19923,7 +20199,10 @@
       "styles": [
         "rap"
       ],
-      "body": ""
+      "image": "img/bands/santi-mostaffa.avif",
+      "image_source": "https://www.deezer.com/artist/7694566",
+      "modified": "2026-11-18",
+      "body": "Uruguayský MC z Montevidea, který se prosadil i v zahraničí. Jeho skladba Las Mil y Una Noches zazněla v úvodu a titulcích filmu Logan. Vydal například album Escapismo (2018) a EP Hola, Santi (2021).\n"
     },
     {
       "id": "sapho",
@@ -19966,8 +20245,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "Sara Gioielli je neapolská zpěvačka, skladatelka a producentka z Pozzuoli, narozená v roce 2001. Řadu let zpívala v dětském sboru divadla Teatro San Carlo. Ve své tvorbě spojuje jazz, současnou hudbu, pop a operní vlivy; debutové album Gioielli Neri vydala v říjnu 2025.\n",
-      "rank": 7
+      "body": "Sara Gioielli je neapolská zpěvačka, skladatelka a producentka z Pozzuoli, narozená v roce 2001. Řadu let zpívala v dětském sboru divadla Teatro San Carlo. Ve své tvorbě spojuje jazz, současnou hudbu, pop a operní vlivy; debutové album Gioielli Neri vydala v říjnu 2025.\n"
     },
     {
       "id": "sara-tavares",
@@ -20224,7 +20502,16 @@
       "styles": [
         "mpb"
       ],
-      "body": ""
+      "image": "img/bands/seu-jorge.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Seu_Jorge.jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Seu_Jorge"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Brazilský zpěvák, písničkář a herec Jorge Mário da Silva, který je pokládán za obnovitele brazilského pop-samby. Mezi vlivy uvádí sambové školy a Stevieho Wondera. Jako herec se objevil ve filmech Město Boha a Život pod vodou, kde zpíval brazilské verze písní Davida Bowieho.\n"
     },
     {
       "id": "seu-jorge-almaz",
@@ -21232,7 +21519,14 @@
       "tags": [
         "woman"
       ],
-      "body": ""
+      "links": [
+        {
+          "type": "website",
+          "url": "https://stefani-valadez.squarespace.com"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Zpěvačka, kytaristka a perkusionistka z Los Angeles, jejímž hlavním repertoárem je sefardská a ladinská hudba. Hraje také jazz, blues a folk a vystupuje se svým souborem Stefani Valadez Ensemble.\n"
     },
     {
       "id": "stefano-valla-attilio-rocca-ettore-losini",
@@ -22162,7 +22456,14 @@
       "styles": [
         "afro-rock"
       ],
-      "body": ""
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Funkees"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Nigerijská afro-rocková skupina založená koncem šedesátých let, původně jako vojenská kapela po občanské válce. V roce 1973 se přesunula do Londýna, kde si získala oblibu mezi západoafrickými a karibskými emigranty, a o čtyři roky později se rozpadla. Hrála funkovou, taneční hudbu s texty v igboštině i angličtině.\n"
     },
     {
       "id": "the-gentle-good",
@@ -22191,8 +22492,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 3
+      "body": ""
     },
     {
       "id": "the-idan-raichel-project",
@@ -23302,7 +23602,16 @@
       "styles": [
         "rap"
       ],
-      "body": ""
+      "image": "img/bands/tumi-and-the-volume.avif",
+      "image_source": "https://www.deezer.com/artist/371287",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tumi_and_the_Volume"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Jihoafrické hiphopové těleso kolem rapera Tumi Molekaneho s kytaristou Tiagem Correiou-Paulem, basistou Davidem Bergmanem a bubeníkem Paulem Chibangou. Hraje živý africký hip-hop s kytarami a rytmikou a sdílí část členů s mosambickou kapelou 340ml. Původně v ní hrála také houslistka Kyla-Rose Smith.\n"
     },
     {
       "id": "tummel",
@@ -23321,7 +23630,10 @@
       "styles": [
         "folk"
       ],
-      "body": ""
+      "image": "img/bands/tunji-oyelana.avif",
+      "image_source": "https://www.deezer.com/artist/369162",
+      "modified": "2026-11-18",
+      "body": "Nigerijský folkový hudebník, herec a skladatel narozený roku 1939. Byl původním členem divadelní skupiny Orisun Masks Wola Soyinky a proslul s kapelou Tunji Oyelana and The Benders. Dlouhodobě žije ve Velké Británii.\n"
     },
     {
       "id": "turkish-gypsies",
@@ -23619,7 +23931,16 @@
       "styles": [
         "mpb"
       ],
-      "body": ""
+      "image": "img/bands/vanessa-da-mata.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:VanessadaMata_cropped.jpg",
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vanessa_da_Mata"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Brazilská zpěvačka, skladatelka a spisovatelka tvořící v duchu MPB, držitelka Latin Grammy. Z jejích písní se v Brazílii staly jedničkami hity Ai, Ai, Ai, Boa Sorte a Amado.\n"
     },
     {
       "id": "varttina",
@@ -24368,7 +24689,10 @@
       "styles": [
         "sephardic"
       ],
-      "body": ""
+      "image": "img/bands/yinon-muallem.avif",
+      "image_source": "https://yinonmuallem.bandcamp.com/",
+      "modified": "2026-11-18",
+      "body": "Izraelský hráč na úd, perkusionista a skladatel narozený roku 1968 v rodině iráckých Židů. Začínal u středovýchodních perkusí, pak se v Istanbulu učil hře na úd u Yurdala Tokcana a v Turecku žije. Na albech jako Klezmer for the Sultan, Back Home či Norwegian Oud propojuje orientální hudební tradice.\n"
     },
     {
       "id": "yma-sumac",
@@ -24559,7 +24883,14 @@
       "styles": [
         "rap"
       ],
-      "body": ""
+      "links": [
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zara_Moussa"
+        }
+      ],
+      "modified": "2026-11-18",
+      "body": "Nigerská rapperka a zpěvačka vystupující jako ZM, rodačka z Niamey. V roce 2002 vyhrála hiphopovou soutěž pořádanou francouzskou ambasádou a stala se první ženou ze západní Afriky, která podepsala nahrávací smlouvu; debutovala albem Kirari. V textech, ve francouzštině, zarmštině i hauštině, se věnuje právům žen, domácímu násilí a veřejnému zdraví.\n"
     },
     {
       "id": "zaragraf",
