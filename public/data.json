@@ -25649,7 +25649,7 @@
       "flag": "🇧🇫",
       "modified": "2026-11-12",
       "body": "Population: 16.3 million (UN, 2010)\nCapital: Ouagadougou\nArea: 274,200 sq km (105,870 sq miles)\nMajor languages: French, indigenous languages\nMajor religions: Indigenous beliefs, Islam, Christianity\nPolitics: Coup leader Blaise Compaore won a new five-year term in 2010 after 23 years at the helm\nEconomy: The UN rates Burkina Faso as the world's third poorest country\nInternational: Burkina Faso has been linked to conflicts within the region. Many citizens who have traditionally worked in Ivory Coast have fled instability there\n",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "burundi",
@@ -25690,8 +25690,11 @@
       "id": "catalonia",
       "name": "Catalonia",
       "continent": "europe",
+      "flag": "🇪🇸",
       "added": "2026-11-14",
-      "body": ""
+      "modified": "2026-11-18",
+      "body": "",
+      "rank": 0
     },
     {
       "id": "chad",
@@ -25777,7 +25780,7 @@
       "flag": "🇩🇴",
       "modified": "2026-11-15",
       "body": "Vic Contreras (m)\nRita Indiana\nIrka Mateo\nVicente García\nPopulation: 10.2 million (UN, 2010)Capital: Santo DomingoArea: 48,072 sq km (18,696 sq miles)Major language: SpanishMajor religion: Christianity\n50 - 60 let prožívala Dominikánská Republika energetickou krizi. Lidé se scházeli večer na balkonech bytů a poslouchali hudbu z rádií na baterky\n",
-      "rank": 0
+      "rank": 1
     },
     {
       "id": "ecuador",
@@ -25947,7 +25950,7 @@
       "flag": "🇭🇳",
       "modified": "2026-11-12",
       "body": "Military rule, corruption, a huge wealth gap, crime and natural disasters have rendered Honduras one of the least developed and least secure countries in Central America.\nPopulation: 7.6 million (UN, 2010)\nCapital: Tegucigalpa\nArea: 112,492 sq km (43,433 sq miles)\nMajor languages: Spanish, indigenous languages, English\nMajor religion: Christianity\n",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "hungary",
@@ -26012,7 +26015,7 @@
       "flag": "🇮🇹",
       "modified": "2026-11-12",
       "body": "Markku Lepisto, David Munnelly, Riccardo Tesi, Bruno Le Tron, Didier Laloy\n",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "ivory-coast-cote-d-ivoire",
@@ -26244,7 +26247,7 @@
       "flag": "🇵🇪",
       "modified": "2026-11-12",
       "body": "Population: 29.4 million (UN, 2011)\nCapital: Lima\nArea: 1.28 million sq km (496,225 sq miles)\nMajor languages: Spanish, Quechua, Aymara\nMajor religion: Christianity\nPeru's rich and varied heritage includes the ancient Incan capital of Cuzco and the lost city of Machu Picchu. The country boasts spectacular scenery, including Lake Titicaca, the world's highest navigable lake.\nIt is rich in copper, silver, lead, zinc, oil and gold. The country experienced an economic boom in the 2000s, and in 2011 Peru was said to have one of the world's fastest-growing economies\nThe first African Peruvians arrived with the conquistadors in 1521, to return permanently in 1525. One of the biggest import of African slaves occurred between 1529 and 1537 when Francisco Pizzaro was granted permits to import 363 slaves to colonial Peru for public construction; building bridges and road systems.\n",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "poland",
@@ -26442,7 +26445,7 @@
       "flag": "🇹🇳",
       "modified": "2026-11-15",
       "body": "## Ghalia Benali\n(w) - singer, songwriter, writer and graphic designer - 1968 (age 51 years), [Brussels, Belgium](https://www.google.com/search?client=safari&rls=en&q=Brussels&stick=H4sIAAAAAAAAAOPgE-LSz9U3MM4yTK9KVuIAsQ3Nzau0xLKTrfQLUvMLclKBVFFxfp5VUn5R3iJWDqei0uLi1JxiACFDW2w7AAAA&sa=X&ved=2ahUKEwjdxuaVoM_iAhUPKuwKHRpDDr8QmxMoATAgegQIDRAT)\n",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "turkey",
@@ -26479,7 +26482,7 @@
       "flag": "🇬🇧",
       "modified": "2026-11-12",
       "body": "## Scotland\n## 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales\n",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "uruguay",
