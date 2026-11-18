@@ -7,3 +7,5 @@ countries:
 styles:
   - "[[pizzica]]"
 ---
+
+Nuova Compagnia di Canto Popolare, zkráceně NCCP, je italská folková skupina založená v Neapoli roku 1969.

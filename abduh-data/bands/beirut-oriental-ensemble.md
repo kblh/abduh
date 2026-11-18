@@ -7,3 +7,5 @@ countries:
 styles:
   - "[[jazz]]"
 ---
+
+Libanonský instrumentální soubor, který se objevuje zejména jako doprovod oudisty Charbela Rouhany na albu Hand Made. Členové souboru hrají na úd, kánún, housle, violoncello a akordeon. Podrobnější historii se mi dohledat nepodařilo.
