@@ -5,3 +5,5 @@ aliases:
 countries:
   - "[[switzerland]]"
 ---
+
+Švýcarská skupina, která ukončila činnost roku 2012.
