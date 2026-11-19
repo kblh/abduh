@@ -24,6 +24,11 @@ Značení: `[ ]` čeká, `[x]` vyřešeno.
 - [ ] `barana-co` a `barana-trio`: menší sestava téhož souboru.
 - [ ] `lleuwen` a `lleuwen-steffan`: stejná osoba?
 - [ ] `lo-griyo`, `kora-jazz-band`: ověřit, že nejsou překryty jiným záznamem.
+- [ ] `kontrabando` a `alkis-zopoglou-kontrabando`: duplicita.
+- [ ] `maher-sousou-cissoko` a `sousou-maher-cissoko`: duplicita.
+- [ ] `toubab-krewe` a `toubab-krewe-kora-kamelengoni`: stejná kapela.
+- [ ] `darko-rundek-cargo-orkestar`: ověřit, zda existuje i samostatný `darko-rundek`.
+- [ ] `duoud` a `smadj`: Smadj je členem dua, ověřit překryv.
 - [ ] `zulal` a podobně: viz rozpory zemí níže.
 - [ ] Sloučeno už dříve: `cheikh-sidi-bemol` do `sidi-bemol` (hotovo, commit `7db7b75`). Bio o osobě Hocine Boukella (původní `cheikh-sidi-bemol`) ve zbylém záznamu chybí.
 
@@ -73,6 +78,18 @@ Opraveno: `vulgargrad` (Austrálie), `zoran-predin-the-gypsy-swing-band` (Slovin
 - [ ] `cheikh-sidi-bemol` / `sidi-bemol`: viz výše.
 - [ ] `world-kora-trio`: ve sbírce Mali, trio amerického violoncellisty, malijského hráče na koru a francouzského perkusionisty.
 - [ ] `bobo-rondelli`, `elena-ledda`, `enzo-avitabile`, `ska-j` a další: země sedí, ale styl pizzica je chybný (viz oddíl 3).
+- [ ] `kofia`: švédsko-palestinská kapela z Göteborgu, ve sbírce Palestina.
+- [ ] `filastine`: Grey Filastine (Los Angeles / Barcelona), ve sbírce Španělsko.
+- [ ] `duoud`: pařížské duo (Smadj, Mehdi Haddab), ve sbírce Tunisko.
+- [ ] `smadj`: francouzský hudebník tuniského původu.
+- [ ] `george-brooks`: americký saxofonista, ve sbírce Indie (nejistá fotka, 18 fanoušků na Deezeru).
+- [ ] `monika-jalili`: narozená v USA, částečně perského původu, ve sbírce Írán.
+- [ ] `syriana`: britsko-syrský projekt, ve sbírce Sýrie.
+- [ ] `violons-barbares`: francouzské trio ze Štrasburku, ve sbírce Mongolsko.
+- [ ] `maher-sousou-cissoko`: švédsko-senegalské duo, ve sbírce Švédsko.
+- [ ] `ani-cordero`: narozena v Bostonu, ve sbírce Portoriko.
+- [ ] `lenka-lichtenberg`: kanadská umělkyně českožidovského původu, ve sbírce Česko.
+- [ ] `eljuri`: MusicBrainz ji vede v USA, ve sbírce Ekvádor (bez bia).
 
 ## 3. Chybné styly ve sbírce
 
@@ -107,6 +124,10 @@ Styly jsem u kapel neměnil. Hlásili je agenti jako nesedící.
 - [ ] Datum úmrtí v bio (ověřit): `andrea-parodi` (2006), `jimmy-cliff` (rok 2025), `melingo` (2026), `ben-sharpa` (červenec 2018), `muluken-melesse` (duben 2024), `misia` (2024), `soriba-kouyate` (2010).
 - [ ] Bio zapsané s odkazem, ale stránku agent neotevřel (údaje jen ze shrnutí hledání): Faiz Ali Faiz, Fernanda Porto, Forro in the Dark, Najma, Mazal, Ghalia Benali.
 
+- [ ] Nejistá identita nebo slabý zdroj (dávka g): `vesna-petkovic` (předpokládaná jazzová zpěvačka z Niše), `tom-diakite`, `zalem-delarbre` (Viberate popisuje jiného Zalema), `gadjenko` (jen profil CMTRA), `une-anche-passe`, `mario-bihari-bachtale-apsa`, `kontrabando`, `alpargata`, `hamelmal-abate`, `balkansemblet`, `toque-de-caixa`, `soniquete`, `mohamed-ilyas-nyota-zameremeta-orchestra-of-zanzibar`, `didier-labbe-quartet` (jen listing), `filastine`, `binobin`, `rachel-magoola` (identita pravděpodobná), `shakti` (předpokládáno McLaughlin, ne belgická kapela), `romanyi-rota` (jediný blog), `erik-marchand-vs-rodolphe-burger`, `amira-saqati`, `agnes-herczku-nikola-parov` (bio o spolupráci), `klezzmates` (obecný obrázek), `cornelia-catanga`, `djeneba-seck`, `ricardo-ribeiro`, `oy` (shoda s Deezerem jen podle jména), `vujicsics` (identita nejistá), `zee-avi` (bio jedna věta), `darko-rundek-cargo-orkestar` (bio i foto jen o Rundkovi).
+- [ ] Překlepy v bio z dávky g opravené ručně: `ahmad-zahir`, `svanevit`.
+- [ ] Diakritika v bio dávky g-00 agent po zápisu nekontroloval: projít `oliver-mtukudzi`, `sussan-deyhim`, `manos-hadjidakis`, `hanggai`, `tonton-david`, `mohamed-abdelwahab`, `darko-rundek-cargo-orkestar`, `omar-sosa`, `lenka-lichtenberg`, `angelique-kidjo`, `fishtank-ensemble`, `kaya-project`.
+
 ## 5. Obrázky: pochybné, obaly alba, vodoznaky
 
 Obrázky u mnoha kapel jsou z Deezeru a agenti je často neprohlíželi nebo jen zběžně. Zdroj (`image_source`) je u nich obecná adresa Deezeru.
@@ -118,6 +139,11 @@ Obrázky u mnoha kapel jsou z Deezeru a agenti je často neprohlíželi nebo jen
 - [ ] Fotka celé kapely nebo jiného člena místo portrétu: `eugenio-bennato`, `frank-london`, `joe-zawinul`, `selim-sesler`, `dead-combo`, `club-des-belugas`, `les-cowboys-fringants` (jen basák), `mostar-sevdah-reunion`, `senor-coconut` (Uwe Schmidt).
 - [ ] Fotka je titulka alba s nápisem: `la-fanfare-du-belgistan`.
 - [ ] Fotka ze zkoušky: `african-footprint-international`.
+- [ ] Fotka s kruhovou značkou ve spodní části (možný vodoznak): `mbongwana-star`.
+- [ ] Stylizovaná promo grafika nebo ilustrace místo fotky: `amadou-mariam`, `kaya-project`, `alsarah-the-nubatones`.
+- [ ] Zvětšený výřez nižší kvality: `javier-ruibal`.
+- [ ] Obal alba nebo foto neurčených osob místo fotky kapely (dávka g): `vera-bila`, `kofia`, `makis-ablianitis`, `filastine`, `baklava`, `binobin`, `duoud`, `amira-saqati`, `dva`, `karolina-cicha-spolka`, `syriana`, `hamelmal-abate`, `slavic-soul-party`, `the-shee`, `soniquete`, `tom-diakite`, `bleizi-ruz`, `louise-attaque`, `vesna-petkovic`, `une-anche-passe`, `estrella-morente`, `smadj`, `gadjenko`, `monika-jalili`.
+- [ ] Obrázek bez ověření shody s Deezer profilem: `oy`, `george-brooks`, `bebel-gilberto`, `trio-chemirani`.
 - [ ] Plakát místo fotky: `raina-rai`.
 - [ ] Jen obal alba, ne fotka kapely (výběr): `bothy-band`, `carlou-d`, `yinon-muallem`, `briganti-di-terra-d-otranto`, `tumi-and-the-volume`, `tunji-oyelana`, `bulgarian-state-female-choir`, `kalascima`, `kamafei`, `kamel-el-harrachi`, `klezmer-conservatory-band`, `koby-israelite`, `kolektif-istanbul`, `kottarashky`, `l-orchestra-di-piazza-vittorio`, `emeline-michel`, `sandhya-sanjana`, `haydamaky`, `rotterdam-ska-jazz-foundation`, `kiosk`, `gevorg-dabagian`, `laver-bariu`, `magic-carpet`, `think-of-one`, `sierra-maestra`, `afion`, `monsieur-doumani`, `nuru-kane`, `swing-gadje`, `vocal-sampling`, `gloria-estefan`, `lleuwen-steffan`, `dusminguet`, `vulgargrad`, `tamara-suffren`, `boulpik`, `ole-lukkoye`, `muluken-melesse`, `123-min`, `ahava-raba`, `njava`, `geomungo-factory`, `tsuumi-sound-system`, `jaleo-real`, `eero-grundstrom`, `christina-rosmini`, `van-merwijks-music-machine`, `zva-12-28-band`, `dieuf-dieul-de-thies`, `bijan-chemirani`, `ojra-kiritchenko`, `maria-peszek`, `ale-moller-band`, `ansambl-mastika`, `aniada-a-noar`, `mazalda`, `palyrria`, `the-imagined-village`, `abdullah-chhadeh-nara`, `ljiljana-buttler`, `listolet`, `zen-zila`, `la-sabrosa-sabrosura`, `norig`, `cheikh-el-afrite`, `imperial-tiger-orchestra`, `yapa`, `les-brayauds`, `guto-pires`, `under-kontrol`, `soriba-kouyate`, `rupa-the-april-fishes`, `andy-irvine-paul-brady`, `cemil-kocgun`, `lo-griyo`, `kora-jazz-band`.
 - [ ] Licence: fotky z tiskových stránek, Deezeru a Womexu nemají ověřenou licenci (týká se hlavně dávek b, c, d, e, f). Wikimedia fotky mají licenci na Commons.
@@ -137,6 +163,8 @@ Pravidlo je „data jen přes skripty“, tady byla odchylka. Zkontrolovat, že 
 U kapel ve vzorku „styl + země“ zbývá asi 100 bez bia, u kapel bez stylu ve všech dávkách celkem několik set. Hlavní důvody: nejistá identita, obecné jméno, žádný zdroj. Seznam ID drží soubory ve scratchpadu (`left.txt`, `nostyle3.txt`). Až pokročí zpracování, vygeneruji aktuální seznam tady.
 
 - [ ] Rozhodnout, jestli se mají zpracovat ručně, nebo smazat jako nedohledatelné.
+- [ ] Dávka g, nezpracováno kvůli limitům Wikipedie a MusicBrainz (kandidáti na další kolo): `radio-rumeli`, `chants-sacres-gitans-en-povence`, `hassan-erraji-arabesque`, `kerkennai`, `vandor-vokal`, `hijazz-omar-al-musfi`, `benedikta`, `talyn-duulal`, `analogue-birds`, `hekuran-xhamballi`, `tomas-san-miguel-txalaparta`, `la-familia`, `aiwa`, `isabelle-bazin`, `anna-rynefors-erik-ask-upmark`, `al-akhareen`, `temenik-electric`, `polykandriotis-thanassis`, `dorantes`, `ziveli-orkestar`.
+- [ ] Dávka g, přeskočeno jako nejisté: `trio-cornemuse`, `chinese-turkestan`, `hiss`, `eljuri`, `porok-karpo`, `tend-m`, `machu-picchu`, `alambig-electrik`, `kiko-ruiz-ravi-prasad`, `ensemble-takht-musical-de-tunis`, `kabuta-mukulu`, `chalga`, `suna`, `bole-2-harlem`, `cimbaliband`, `hooshere-bezdikian`, `rosa-negra`, `after-phurikana`, `fimber-bravo`, `paloma-suanzes`, `nina-stiller`, `loubistok`, `tesi-vaillant-trovesi`, `ayhan-sicimoglu`, `marenostrum`, `sam-karpienia`, `maria-mulata`, `killah-p`, `no-blues`, `karamba-dioubate`, `loulou-djine`, `sukke`, `niftys`, `kamenko`, `kostas-pavlidis`.
 
 ## 8. Ostatní
 
