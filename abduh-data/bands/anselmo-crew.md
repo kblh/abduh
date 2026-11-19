@@ -5,3 +5,5 @@ aliases:
 countries:
   - "[[hungary]]"
 ---
+
+Maďarská world music kapela.
