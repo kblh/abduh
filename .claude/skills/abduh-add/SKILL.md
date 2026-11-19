@@ -30,7 +30,8 @@ Vstupem je URL (Spotify, Bandcamp, web) nebo jméno.
    JSON
    ```
    Vypíše `{id, created}`.
-10. **Ověř:** `npm run build` (musí skončit bez chyby) a **shrň**, co bylo přidáno, doplněno a co se nenašlo.
+10. **Prolinkuj bio:** `add-entity` sám odkáže jména jiných kapel v bio nové kapely (`[[id|text]]`, i skloněné tvary). Aby se odkazy objevily i v bio ostatních kapel, které novou kapelu zmiňují, spusť po zápisu (a po doplnění obrázku) `node scripts/link-bios.js --write` (bez `--write` jen vypíše návrh). Uveď v shrnutí počet nových odkazů.
+11. **Ověř:** `npm run build` (musí skončit bez chyby) a **shrň**, co bylo přidáno, doplněno a co se nenašlo.
 
 ## Přidání alba
 
@@ -71,6 +72,8 @@ Jedna poznámka může obsahovat více odkazů.
 3. Při více než jednom odkazu nejdřív **potvrď s uživatelem počet** a pak zpracuj každý jako samostatnou položku (kapela nebo album podle odkazu).
 
 ## Pozor
+
+- Odkazy v textu bio jsou wikilinky `[[id|text]]`; ručně je nepiš, dělá je `add-entity` a `scripts/link-bios.js`. Chybný odkaz oprav tak, že `[[id|text]]` změníš zpět na `text` (u jednoslovných názvů, které jsou i běžná slova, případně přidej jméno do `STOPLIST` v `scripts/lib/link-bio.js`).
 
 - **Nikdy nepoužívej `--force`** (přepsal by existující entitu). Doplnění chybějících polí dělá `--merge`.
 - `--merge` doplňuje jen prázdná pole; u `links`, `members` a `tags` připojí nové položky, existující nechá; bio a ostatní vyplněná pole nepřepíše.

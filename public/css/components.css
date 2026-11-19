@@ -32,6 +32,8 @@ p.hand-note { margin: 0; }
 .breadcrumb a:hover { color: var(--accent); }
 .prose { max-width: 680px; }
 .prose p { margin: 0 0 16px; font-size: 16px; line-height: 1.7; }
+.prose a.inline-link { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.prose a.inline-link:hover { color: var(--accent); }
 .notfound h1 { font: 400 56px/1.05 var(--font-display); letter-spacing: -.03em; margin: 0 0 16px; }
 
 /* list controls */

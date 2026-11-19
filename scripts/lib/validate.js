@@ -39,6 +39,10 @@ export function validate(entities, opts = {}) {
         if (t && !ids.band.has(t.split('/').pop())) errors.push(`${label}: members refers to unknown band "${t}"`);
       }
     }
+    for (const m of (e.body ?? '').matchAll(/\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]/g)) {
+      const target = m[1].trim().split('/').pop();
+      if (!typeOfId.has(target)) errors.push(`${label}: body links to unknown entity "${target}"`);
+    }
     for (const l of e.fields.links ?? []) {
       if (!LINK_TYPES.includes(l?.type)) errors.push(`${label}: bad link type "${l?.type}"`);
       if (!/^https?:\/\//i.test(l?.url ?? '')) errors.push(`${label}: link url must be http(s): "${l?.url}"`);

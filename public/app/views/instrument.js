@@ -20,7 +20,7 @@ export function render({ store, params, today }) {
   };
   paint();
   const cds = [...new Set(bands.flatMap((b) => store.cdsByBand.get(b.id) ?? []))];
-  const body = prose(ins.body);
+  const body = prose(ins.body, store);
   const sel = (label, map, nameOf, set) => h('select', { class: 'filter-select', 'aria-label': label, onChange: (e) => { set(e.target.value); paint(); } }, h('option', { value: '' }, `${label} ▾`), [...map].sort((a, b) => b[1] - a[1]).map(([id, n]) => h('option', { value: id }, `${nameOf(id)} (${n})`)));
   return h('article', { class: 'detail' },
     h('p', { class: 'breadcrumb' }, h('a', { href: '#/instruments' }, 'Nástroje'), ` / ${ins.name}`),

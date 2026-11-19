@@ -1,11 +1,11 @@
 import { h } from '../ui/dom.js';
 import { bandRow, cdCard, chip, countryLinks, initials, linkButtons, placeholderCard, prose, sectionTitle } from '../ui/components.js';
-import { prettyStyle } from '../text.js';
+import { prettyStyle, stripWikilinks } from '../text.js';
 import { CONTINENTS } from '../labels.js';
 
 // first paragraph, cut at a word boundary
 function excerpt(body, max = 140) {
-  const p = String(body ?? '').split(/\n\s*\n/).map((x) => x.trim()).find(Boolean);
+  const p = stripWikilinks(body).split(/\n\s*\n/).map((x) => x.trim()).find(Boolean);
   if (!p) return '';
   return p.length <= max ? p : `${p.slice(0, max).replace(/\s+\S*$/, '')}…`;
 }
@@ -43,7 +43,7 @@ export function render({ store, params, today }) {
   const style0 = band.styles?.[0];
   const similar = style0 ? (store.bandsByStyle.get(style0) ?? []).filter((b) => b.id !== band.id).slice(0, 3) : [];
   const shelves = store.shelvesOf('band', band.id);
-  const bio = prose(band.body);
+  const bio = prose(band.body, store);
   const members = band.members?.length ? h('aside', { class: 'members' }, sectionTitle('Členové'), h('ul', null, band.members.map((m) => h('li', null, typeof m === 'string' ? m : h('a', { href: `#/bands/${encodeURIComponent(m.id)}` }, m.name))))) : null;
 
   return h('article', { class: 'detail band-detail' },

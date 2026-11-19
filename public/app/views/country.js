@@ -9,7 +9,7 @@ export function render({ store, params, today }) {
   const groups = new Map();
   for (const b of bands) for (const s of (b.styles?.length ? b.styles : [''])) { if (!groups.has(s)) groups.set(s, []); groups.get(s).push(b); }
   const ordered = [...groups].sort((a, b) => (a[0] === '') - (b[0] === '') || b[1].length - a[1].length);
-  const body = prose(country.body);
+  const body = prose(country.body, store);
   const long = (country.body ?? '').length > 700;
   if (body && long) body.classList.add('clamped');
   return h('article', { class: 'detail' },

@@ -18,7 +18,7 @@ export function render({ store, params }) {
   ].filter(Boolean);
   const others = (store.cdsByBand.get(cd.bands?.[0]) ?? []).filter((c) => c.id !== cd.id);
   const shelves = store.shelvesOf('cd', cd.id);
-  const notes = prose(cd.body);
+  const notes = prose(cd.body, store);
   return h('article', { class: 'detail cd-detail' },
     h('p', { class: 'breadcrumb' }, h('a', { href: '#/cds' }, 'Cédéčka'), ` / ${cd.name}`),
     h('header', { class: 'detail-head' }, cover,

@@ -3,6 +3,7 @@ import { join } from 'node:path';
 import { DIRS, loadAll, parseEntity, serializeEntity, unwikilink } from './entity-file.js';
 import { normalizeName, slugify } from './slug.js';
 import { validate } from './validate.js';
+import { buildMatchers, linkBody } from './link-bio.js';
 
 const SAFE_ID = /^[a-z0-9-]+$/;
 const sameSet = (a = [], b = []) => a.length === b.length && a.every((x) => b.includes(x));
@@ -75,7 +76,13 @@ export function addEntity(input, { dataDir = 'abduh-data', merge = false, force 
   if (existing && !merge && !force) throw new Error(`${type} ${id} already exists (use --merge to complete missing fields)`);
 
   if (type === 'band' && fields.members) fields.members = linkMembers(fields.members, dataDir, fields.name);
-  let entity = { type, id, fields: { ...fields }, body };
+  // band names mentioned in a new bio become wikilinks
+  const linkBio = (text) => {
+    if (type !== 'band' || !text) return text;
+    const bands = loadAll(dataDir).filter((e) => e.type === 'band' && e.id !== id);
+    return linkBody(text, id, buildMatchers(bands), fields.name).body;
+  };
+  let entity = { type, id, fields: { ...fields }, body: linkBio(body) };
   if (existing && merge) {
     const merged = { ...existing.fields };
     for (const [k, v] of Object.entries(fields)) {
@@ -90,7 +97,7 @@ export function addEntity(input, { dataDir = 'abduh-data', merge = false, force 
         merged.links = [...(merged.links ?? []), ...v.filter((l) => !have.has(l.url))];
       } else if (isEmpty(merged[k])) merged[k] = v;
     }
-    entity = { type, id, fields: merged, body: existing.body || body };
+    entity = { type, id, fields: merged, body: existing.body || linkBio(body) };
   } else if (existing && force) {
     const keep = {};
     for (const k of ['image', 'image_source']) if (existing.fields[k]) keep[k] = existing.fields[k];

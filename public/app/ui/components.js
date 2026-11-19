@@ -70,9 +70,28 @@ export function cdCard(store, cd) {
     cover, h('span', { class: 'cd-title' }, cd.name), h('span', { class: 'cd-meta' }, [names, cd.year].filter(Boolean).join(' · ')));
 }
 
-export function prose(body) {
+// Text with Obsidian wikilinks "[[id]]" / "[[id|text]]" -> text nodes and links to the entity page.
+const WIKILINK = /\[\[([^\]|#]+)(?:\|([^\]]*))?\]\]/g;
+const GROUPS = ['bands', 'cds', 'countries', 'styles', 'instruments', 'tags', 'shelves'];
+
+export function linkify(text, store) {
+  const out = [];
+  let last = 0;
+  for (const m of text.matchAll(WIKILINK)) {
+    out.push(text.slice(last, m.index));
+    last = m.index + m[0].length;
+    const id = m[1].trim().split('/').pop();
+    const group = store ? GROUPS.find((g) => store.byId[g]?.has(id)) : null;
+    const label = (m[2] ?? (group ? store.byId[group].get(id).name : id)).trim();
+    out.push(group ? h('a', { class: 'inline-link', href: `#/${group}/${encodeURIComponent(id)}` }, label) : label);
+  }
+  out.push(text.slice(last));
+  return out;
+}
+
+export function prose(body, store) {
   const paras = String(body ?? '').split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
-  return paras.length ? h('div', { class: 'prose' }, paras.map((p) => h('p', null, p))) : null;
+  return paras.length ? h('div', { class: 'prose' }, paras.map((p) => h('p', null, linkify(p, store)))) : null;
 }
 
 export function countryLinks(store, ids = []) {

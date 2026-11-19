@@ -49,7 +49,7 @@ export function detailView({ store, params, today }, o) {
       h('p', { class: 'result-note' }, `${Math.min(8, shown.length)} z ${shown.length} · `, h('a', { href: `#/bands?${o.filterKey}=${enc(entity.id)}${country ? `&country=${enc(country)}` : ''}${photo ? '&photo=1' : ''}` }, 'všechny v seznamu kapel →')));
   };
   paint();
-  const body = prose(entity.body);
+  const body = prose(entity.body, store);
   return h('article', { class: 'detail' },
     h('p', { class: 'breadcrumb' }, h('a', { href: `#/${o.route}` }, o.listLabel), ` / ${prettyStyle(entity.name)}`),
     h('header', { class: 'style-head' }, h('span', { class: `chip chip-${o.kind} chip-big` }, prettyStyle(entity.name)), h('span', { class: 'count-big' }, plural(bands.length, 'kapela', 'kapely', 'kapel'))),

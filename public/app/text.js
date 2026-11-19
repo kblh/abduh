@@ -6,3 +6,6 @@ export function normalize(s) {
 }
 
 export const prettyStyle = (name) => String(name ?? '').replace(/-/g, ' ');
+
+// "[[id|text]]" / "[[id]]" -> plain text (for excerpts)
+export const stripWikilinks = (s) => String(s ?? '').replace(/\[\[([^\]|#]+)(?:\|([^\]]*))?\]\]/g, (_, id, t) => t ?? id);
