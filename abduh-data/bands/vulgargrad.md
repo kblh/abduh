@@ -3,7 +3,7 @@ name: VulgarGrad
 aliases:
   - VulgarGrad
 countries:
-  - "[[russia]]"
+  - "[[australia]]"
 image: bands/vulgargrad.avif
 image_source: https://www.deezer.com/artist/1588639
 ---

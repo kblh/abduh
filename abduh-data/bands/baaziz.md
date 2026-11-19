@@ -3,7 +3,7 @@ name: Baaziz
 aliases:
   - Baaziz
 countries:
-  - "[[france]]"
+  - "[[algeria]]"
 image: bands/baaziz.avif
 image_source: https://www.deezer.com/artist/58673
 links:

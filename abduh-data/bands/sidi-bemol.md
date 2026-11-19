@@ -4,6 +4,7 @@ aliases:
   - Sidi Bemol
 countries:
   - "[[france]]"
+  - "[[algeria]]"
 image: bands/sidi-bemol.avif
 image_source: https://fr.wikipedia.org/wiki/Cheikh_Sidi_B%C3%A9mol
 links:

@@ -811,7 +811,7 @@
       ],
       "modified": "2026-11-18",
       "body": "Brazilský bubeník a perkusionista, který se proslavil koncem šedesátých let v souboru Quarteto Novo. Po přesídlení do USA hrál jazzfusion s Milesem Davisem, Return to Forever, Weather Report a Santanou. Je manželem zpěvačky Flory Purim.\n",
-      "rank": 0
+      "rank": 4
     },
     {
       "id": "aiwa",
@@ -1739,7 +1739,7 @@
       ],
       "modified": "2026-11-18",
       "body": "Zpěvačka, tamburellistka, tanečnice a badatelka tradiční hudby ze Salenta v jižní Itálii, spojená s městečkem Zollino. S folkovými soubory vystupuje od začátku devadesátých let a učí se od starých zpěváků z malých vesnic. Vydala například alba Ninnamorella (2008), Salento in Dub (2010) a Fimmana, mare e focu.\n",
-      "rank": 1
+      "rank": 5
     },
     {
       "id": "anna-rynefors-erik-ask-upmark",
@@ -2084,7 +2084,7 @@
       ],
       "modified": "2026-11-18",
       "body": "Rapper z Ouagadougou v Burkině Faso, vlastním jménem Mamadou Armel Konkobo, který zároveň hospodaří jako farmář na okraji města. Rapuje od roku 2009 a v textech kombinuje francouzštinu s místními jazyky; věnuje se společenským a politickým tématům i změně klimatu. K jeho albům patří Wogdog Blues a Moogho (2015).\n",
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "arto-tuncboyaciyan",
@@ -2354,7 +2354,7 @@
       ],
       "modified": "2026-11-18",
       "body": "Argentinský multiinstrumentalista narozený v roce 1969 v Buenos Aires, původně saxofonista skupin Instrucción Cívica a La Portuaria. Od poloviny devadesátých let se věnuje sólové kariéře a mísí jazz, rock, elektroniku, cumbii a argentinskou lidovou hudbu. Je spojen s elektro-cumbia scénou kolem ZZK a skládá i filmovou a divadelní hudbu.\n",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "ay-kherel",
@@ -2541,7 +2541,7 @@
       "id": "baaziz",
       "name": "Baaziz",
       "countries": [
-        "france"
+        "algeria"
       ],
       "image": "img/bands/baaziz.avif",
       "image_source": "https://www.deezer.com/artist/58673",
@@ -2551,7 +2551,9 @@
           "url": "https://en.wikipedia.org/wiki/Baaziz"
         }
       ],
-      "body": "Alžírský zpěvák, textař a hudebník, vlastním jménem Abdelaziz Bekhti, narozený roku 1963 v Cherchellu.\n"
+      "modified": "2026-11-19",
+      "body": "Alžírský zpěvák, textař a hudebník, vlastním jménem Abdelaziz Bekhti, narozený roku 1963 v Cherchellu.\n",
+      "rank": 0
     },
     {
       "id": "babatunde-olatunji",
@@ -2994,7 +2996,7 @@
       "image_source": "https://www.womex.com/virtual/acrobeat/beatriz_azevedo",
       "modified": "2026-11-18",
       "body": "Brazilská básnířka, zpěvačka, skladatelka a performerka z São Paula, která propojuje hudbu, divadlo, literaturu a audiovizuální umění. Má doktorát z divadelních umění a léta se zabývá antropofagií, na niž navazuje její tvorba. Její alba, například Bum Bum do Poeta, Mapa-mundi nebo Alegria, spojují samba s poezií.\n",
-      "rank": 4
+      "rank": 8
     },
     {
       "id": "beats-antique",
@@ -3192,7 +3194,7 @@
       "image_source": "https://www.deezer.com/artist/372169",
       "modified": "2026-11-18",
       "body": "Jihoafrický undergroundový rapper a producent (vlastním jménem Kgotso Semela), který se prosadil v kapském hip-hopu. Vydal debutové album B. Sharpa (2008) u labelu Pioneer Unit se singlem Hegemony o policejní brutalitě a vystupoval na evropských festivalech. Zemřel v červenci 2018.\n",
-      "rank": 5
+      "rank": 9
     },
     {
       "id": "benat-achiary",
@@ -3796,7 +3798,7 @@
       ],
       "modified": "2026-11-18",
       "body": "Omara Moctar, známý jako Bombino, je tuarežský kytarista a zpěvák z nigerského Agadezu. Hraje tuarežský rock a blues postavený na hypnotických kytarových liniích a v posledních letech vystupuje po celém světě. Jeho album Nomad (2013) produkoval Dan Auerbach z The Black Keys.\n",
-      "rank": 6
+      "rank": 10
     },
     {
       "id": "bombolesse",
@@ -3927,7 +3929,7 @@
       ],
       "modified": "2026-11-18",
       "body": "Telavivská kapela založená v roce 2003 a pojmenovaná podle písně Arise Sana. Kvarteto s elektrickou kytarou, tubou, klávesami a bicími mísí surf rock s tureckými, balkánskými a středomořskými vlivy. Mezi alba patří Boom Pam (2005), Puerto Rican Nights (2008), Alakazam (2010) a Royal (2023).\n",
-      "rank": 7
+      "rank": 11
     },
     {
       "id": "boot",
@@ -4117,8 +4119,7 @@
       "image": "img/bands/briganti-di-terra-d-otranto.avif",
       "image_source": "https://www.deezer.com/artist/269424",
       "modified": "2026-11-18",
-      "body": "Salentská folková skupina z oblasti Grecìa Salentina v jižní Apulii, vzniklá kolem roku 2001 v Martignanu. Hraje pizzicu, tarantu a písně v řeckém dialektu griko, k tomu pracovní písně a melancholické milostné balady. Jedním z jejích alb je Focu de paja z roku 2009.\n",
-      "rank": 8
+      "body": "Salentská folková skupina z oblasti Grecìa Salentina v jižní Apulii, vzniklá kolem roku 2001 v Martignanu. Hraje pizzicu, tarantu a písně v řeckém dialektu griko, k tomu pracovní písně a melancholické milostné balady. Jedním z jejích alb je Focu de paja z roku 2009.\n"
     },
     {
       "id": "brigitte-fontaine",
@@ -4430,8 +4431,7 @@
         }
       ],
       "modified": "2026-11-18",
-      "body": "Brazilský zpěvák, skladatel a spisovatel, jedna z klíčových postav hnutí Tropicália na konci 60. let, které spojilo brazilskou lidovou hudbu s rockem a avantgardou. Podílel se na kolektivním albu Tropicália: ou Panis et Circencis (1968) spolu s Gilbertem Gilem, Gal Costou, Tomem Zé a Os Mutantes. Patří k nejuznávanějším jménům brazilské hudby.\n",
-      "rank": 9
+      "body": "Brazilský zpěvák, skladatel a spisovatel, jedna z klíčových postav hnutí Tropicália na konci 60. let, které spojilo brazilskou lidovou hudbu s rockem a avantgardou. Podílel se na kolektivním albu Tropicália: ou Panis et Circencis (1968) spolu s Gilbertem Gilem, Gal Costou, Tomem Zé a Os Mutantes. Patří k nejuznávanějším jménům brazilské hudby.\n"
     },
     {
       "id": "cafe-preto",
@@ -4611,8 +4611,7 @@
         }
       ],
       "modified": "2026-11-18",
-      "body": "Italská folková skupina, která vznikla v osmdesátých letech mezi Neapolí a Boloňí. Jejím zakladatelem je kytarista Guido Sodo a hraje akusticky s vlivy jihoitalské lidové hudby, fada a brazilské hudby. Vystupovala na festivalech jako Notte della Taranta a Umbria Jazz, nejnovější album Pandemusica vyšlo v roce 2022.\n",
-      "rank": 10
+      "body": "Italská folková skupina, která vznikla v osmdesátých letech mezi Neapolí a Boloňí. Jejím zakladatelem je kytarista Guido Sodo a hraje akusticky s vlivy jihoitalské lidové hudby, fada a brazilské hudby. Vystupovala na festivalech jako Notte della Taranta a Umbria Jazz, nejnovější album Pandemusica vyšlo v roce 2022.\n"
     },
     {
       "id": "canzoniere-grecanico-salentino",
@@ -4795,8 +4794,7 @@
         }
       ],
       "modified": "2026-11-18",
-      "body": "Senegalský zpěvák a kytarista, vlastním jménem Ibrahima Loucard, původem z Dakaru. Proslavil se jako rapper v legendární skupině Positive Black Soul, poté se obrátil k vlastní písňové tvorbě a zpěvu. Svůj styl nazývá „muzikr“ – spojení hudby a súfijského zikru, protože patří k súfijské větvi Baye Fall.\n",
-      "rank": 11
+      "body": "Senegalský zpěvák a kytarista, vlastním jménem Ibrahima Loucard, původem z Dakaru. Proslavil se jako rapper v legendární skupině Positive Black Soul, poté se obrátil k vlastní písňové tvorbě a zpěvu. Svůj styl nazývá „muzikr“ – spojení hudby a súfijského zikru, protože patří k súfijské větvi Baye Fall.\n"
     },
     {
       "id": "carlton-rara",
@@ -5352,16 +5350,6 @@
         "senegal"
       ],
       "body": ""
-    },
-    {
-      "id": "cheikh-sidi-bemol",
-      "name": "Cheikh Sidi Bemol",
-      "countries": [
-        "france"
-      ],
-      "image": "img/bands/cheikh-sidi-bemol.avif",
-      "image_source": "https://www.deezer.com/artist/58592",
-      "body": "Cheikh Sidi Bémol je umělecké jméno Hocina Boukella, který se podle jednoho profilu narodil v roce 1957 v Alžíru ve čtvrti Belcourt. Jeho první album vyšlo v roce 1998 a mísí tradiční hudbu s elektrickými kytarami; zdroje zmiňují vlivy Si Mohanda, Georgese Brassense a Johnnyho Cashe. Provozoval vlastní vydavatelství CSB Productions.\n"
     },
     {
       "id": "cheikha-rimitti",
@@ -23519,7 +23507,8 @@
       "id": "sidi-bemol",
       "name": "Sidi Bemol",
       "countries": [
-        "france"
+        "france",
+        "algeria"
       ],
       "image": "img/bands/sidi-bemol.avif",
       "image_source": "https://fr.wikipedia.org/wiki/Cheikh_Sidi_B%C3%A9mol",
@@ -23529,7 +23518,9 @@
           "url": "https://fr.wikipedia.org/wiki/Cheikh_Sidi_B%C3%A9mol"
         }
       ],
-      "body": "Cheikh Sidi Bémol je rocková skupina, kterou v roce 1992 založil Hocine „Elho“ Boukella v pařížském předměstí. Její zvuk spojuje rock a blues s keltsky laděnými baladami a tradičními alžírskými žánry, jako je chaâbi, gnawa a melhoun. Vydala například alba El Bandi, Gourbi Rock nebo Chouf!.\n"
+      "modified": "2026-11-19",
+      "body": "Cheikh Sidi Bémol je rocková skupina, kterou v roce 1992 založil Hocine „Elho“ Boukella v pařížském předměstí. Její zvuk spojuje rock a blues s keltsky laděnými baladami a tradičními alžírskými žánry, jako je chaâbi, gnawa a melhoun. Vydala například alba El Bandi, Gourbi Rock nebo Chouf!.\n",
+      "rank": 1
     },
     {
       "id": "sidi-toure",
@@ -27451,11 +27442,13 @@
       "id": "vulgargrad",
       "name": "VulgarGrad",
       "countries": [
-        "russia"
+        "australia"
       ],
       "image": "img/bands/vulgargrad.avif",
       "image_source": "https://www.deezer.com/artist/1588639",
-      "body": "VulgarGrad je sedmičlenná melbournská kapela, která hraje folkově-funkově-polkově-punkové verze tradičních ruských lidových a zlodějských písní (blatnyje pesni) a punkových klasik z doby perestrojky. Frontmanem je polsky narozený Jacek Koman. Skupina zazněla v roce 2008 v soundtracku australského seriálu Underbelly. Album King of Crooks.\n"
+      "modified": "2026-11-19",
+      "body": "VulgarGrad je sedmičlenná melbournská kapela, která hraje folkově-funkově-polkově-punkové verze tradičních ruských lidových a zlodějských písní (blatnyje pesni) a punkových klasik z doby perestrojky. Frontmanem je polsky narozený Jacek Koman. Skupina zazněla v roce 2008 v soundtracku australského seriálu Underbelly. Album King of Crooks.\n",
+      "rank": 2
     },
     {
       "id": "waaberi",
@@ -28454,7 +28447,7 @@
       "id": "zoran-predin-the-gypsy-swing-band",
       "name": "Zoran Predin & The Gypsy Swing Band",
       "countries": [
-        "serbia"
+        "slovenia"
       ],
       "image": "img/bands/zoran-predin-the-gypsy-swing-band.avif",
       "image_source": "https://www.deezer.com/artist/309822",
@@ -28464,7 +28457,9 @@
           "url": "https://en.wikipedia.org/wiki/Zoran_Predin"
         }
       ],
-      "body": "Zoran Predin je slovinský zpěvák, kytarista a skladatel narozený roku 1958 v Mariboru. V osmdesátých letech byl frontmanem rockové kapely Lačni Franz a od té doby vydává sólová alba a skládá pro film, televizi a divadlo. Spoluskládal také hymnu slovinské fotbalové reprezentace pro Euro 2000.\n"
+      "modified": "2026-11-19",
+      "body": "Zoran Predin je slovinský zpěvák, kytarista a skladatel narozený roku 1958 v Mariboru. V osmdesátých letech byl frontmanem rockové kapely Lačni Franz a od té doby vydává sólová alba a skládá pro film, televizi a divadlo. Spoluskládal také hymnu slovinské fotbalové reprezentace pro Euro 2000.\n",
+      "rank": 3
     },
     {
       "id": "zorita",

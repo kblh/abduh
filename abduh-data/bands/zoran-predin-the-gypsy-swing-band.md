@@ -3,7 +3,7 @@ name: Zoran Predin & The Gypsy Swing Band
 aliases:
   - Zoran Predin & The Gypsy Swing Band
 countries:
-  - "[[serbia]]"
+  - "[[slovenia]]"
 image: bands/zoran-predin-the-gypsy-swing-band.avif
 image_source: https://www.deezer.com/artist/309822
 links:
