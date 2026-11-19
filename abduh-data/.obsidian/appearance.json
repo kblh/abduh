@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "abduh"
   ],
-  "accentColor": "#bff55c"
+  "accentColor": "#f55c5c",
+  "cssTheme": "Abduh"
 }

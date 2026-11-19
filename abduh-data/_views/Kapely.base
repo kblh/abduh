@@ -9,6 +9,9 @@ properties:
 views:
   - type: table
     name: Tabulka
+    groupBy:
+      property: countries
+      direction: ASC
     order:
       - file.name
       - name
@@ -19,6 +22,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      file.name: 218
   - type: cards
     name: Karty
     order:

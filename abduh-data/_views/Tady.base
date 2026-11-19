@@ -44,5 +44,7 @@ views:
     order:
       - name
     sort:
+      - property: name
+        direction: ASC
       - property: file.name
         direction: ASC
