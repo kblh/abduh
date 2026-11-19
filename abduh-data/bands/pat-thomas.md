@@ -11,4 +11,4 @@ links:
     url: https://en.wikipedia.org/wiki/Pat_Thomas_(Ghanaian_musician)
 ---
 
-Ghanský zpěvák a skladatel narozený roku 1946 jako Nana Kwabena Amo Mensah. Je spojován se žánrem highlife a nejvíce se proslavil prací v kapelách, které vedl Ebo Taylor.
+Ghanský zpěvák a skladatel narozený roku 1946 jako Nana Kwabena Amo Mensah. Je spojován se žánrem highlife a nejvíce se proslavil prací v kapelách, které vedl [[ebo-taylor|Ebo Taylor]].

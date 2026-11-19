@@ -6,4 +6,4 @@ countries:
   - "[[france]]"
 ---
 
-Arnaud Van Lancker Quartet je čtyřčlenná formace akordeonisty Arnauda Van Lanckera, která zhruba dvacet let hraje intimní a poetické vlastní skladby inspirované jazzem, klasickou a světovou hudbou, zejména hudbou Orientu. Van Lancker spolupracoval například s Davidem Krakauerem a Titi Robinem.
+Arnaud Van Lancker Quartet je čtyřčlenná formace akordeonisty Arnauda Van Lanckera, která zhruba dvacet let hraje intimní a poetické vlastní skladby inspirované jazzem, klasickou a světovou hudbou, zejména hudbou Orientu. Van Lancker spolupracoval například s [[david-krakauer|Davidem Krakauerem]] a [[titi-robin|Titi Robinem]].

@@ -13,4 +13,4 @@ links:
     url: https://en.wikipedia.org/wiki/Tamikrest
 ---
 
-Malijská rocková skupina, kterou v roce 2006 v Tinzawatenu na hranici Mali s Alžírskem založili Ousmane Ag Mossa, Cheikh Ag Tiglia a Ali Kalghlgh. Spojuje pouštní blues a rock s tradicemi Tuaregů a inspirovala se Tinariwen. Mezi její alba patří Adagh (2010), Toumastin (2011), Chatma (2013) a Kidal (2017).
+Malijská rocková skupina, kterou v roce 2006 v Tinzawatenu na hranici Mali s Alžírskem založili Ousmane Ag Mossa, Cheikh Ag Tiglia a Ali Kalghlgh. Spojuje pouštní blues a rock s tradicemi Tuaregů a inspirovala se [[tinariwen|Tinariwen]]. Mezi její alba patří Adagh (2010), Toumastin (2011), Chatma (2013) a Kidal (2017).

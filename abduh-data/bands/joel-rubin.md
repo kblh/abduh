@@ -13,4 +13,4 @@ links:
     url: https://en.wikipedia.org/wiki/Joel_Rubin
 ---
 
-Americký klarinetista, klezmerový hudebník, etnomuzikolog a znalec židovské hudby. Do klezmerového revivalu se zapojil koncem 70. let a od té doby klezmer zkoumá, vyučuje i hraje. Působil mimo jiné ve skupinách Brave Old World, Joel Rubin Ensemble a Veretski Pass.
+Americký klarinetista, klezmerový hudebník, etnomuzikolog a znalec židovské hudby. Do klezmerového revivalu se zapojil koncem 70. let a od té doby klezmer zkoumá, vyučuje i hraje. Působil mimo jiné ve skupinách [[brave-old-world|Brave Old World]], Joel Rubin Ensemble a Veretski Pass.

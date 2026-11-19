@@ -6,14 +6,15 @@ Značení: `[ ]` čeká, `[x]` vyřešeno.
 
 ## Stav zpracování bií a obrázků u kapel
 
-Aktualizováno 2026-11-19 (po dávce j a fotce Boom Pam).
+Aktualizováno 2026-11-19 (po dávce k).
 
-- Kapel celkem: 2 725. Bio má 1 251 (46 %), obrázek 919 (34 %).
-- Se stylem a zemí: 638 kapel (522 má bio, 344 má obrázek). Bez bia zbývá 116.
-- Jen se zemí (bez stylu): 2 087 kapel (729 má bio, 575 má obrázek). Bez bia zbývá 1 358.
-- Dávky (150 kapel, 5 agentů po 30): pilot 60, hlavní průchod 570, opakování přeskočených 142, dávky d až j po 150 (kapely bez stylu, náhodný výběr z těch, které nikdo nezkoušel).
-- Nikdy nezkoušených kapel bez bia zbývá asi 1 190 (zhruba 8 dalších dávek). Přeskočených a neověřených je asi 285 (viz oddíl 7).
-- Commity: poslední data v commitu `79b9d1b`. Necommitnuto: fotka Boom Pam a tento soubor.
+- Kapel celkem: 2 725. Bio má 1 340 (49 %), obrázek 985 (36 %).
+- Se stylem a zemí: 638 kapel. Bez bia zbývá 116.
+- Jen se zemí (bez stylu): 2 087 kapel. Bez bia zbývá 1 269.
+- Dávky (150 kapel, 5 agentů po 30): pilot 60, hlavní průchod 570, opakování přeskočených 142, dávky d až k po 150 (kapely bez stylu, náhodný výběr z těch, které nikdo nezkoušel).
+- Nikdy nezkoušených kapel bez bia zbývá 1 040 (zhruba 7 dalších dávek). Přeskočených a neověřených je asi 390 (viz oddíl 7).
+- Tip pro stahování obrázků z Wikimedie při chybě 429: `https://commons.wikimedia.org/wiki/Special:FilePath/<soubor>?width=800`.
+- Commity: poslední data v commitu `e11d71c`. Necommitnuto: dávka k a tento soubor.
 
 Při každé další dávce aktualizuji tato čísla, doplním nové položky do oddílů 1 až 8 a vyřešené označím `[x]`.
 
@@ -66,6 +67,10 @@ Při každé další dávce aktualizuji tato čísla, doplním nové položky do
 - [ ] `ofra-haza-madonna-of-the-east-1957-2000-aids`: chybné ID, správně `ofra-haza`; ověřit existenci jiného záznamu.
 - [ ] `ar-braz-dan`: jméno ve sbírce je prohozené, správně Dan Ar Braz.
 - [ ] `marina` (Marina Herlop má CD `marina-herlop-dja-dja`, `marina-herlop-pripyat`).
+- [ ] `mahsa-marjan-vahdat` a `mahsa-vahdat-marjan-vahdat`: stejné duo (foto jen Mahsa).
+- [ ] `kila` a `kila-oki`; `souad-massi` a `souad-asla`: překryv.
+- [ ] `ross-daly` a `niki-tramba-ross-daly-labyrinth`: kolaborace.
+- [ ] `qawwali-flamenco`: spíš projekt nebo album než kapela. `narodni-tanec-merengue`: generický název.
 - [ ] `africa-express-presents-maison-des-jeunes`: album projektu Africa Express, ne kapela.
 - [ ] `zulal` a podobně: viz rozpory zemí níže.
 - [ ] Sloučeno už dříve: `cheikh-sidi-bemol` do `sidi-bemol` (hotovo, commit `7db7b75`). Bio o osobě Hocine Boukella (původní `cheikh-sidi-bemol`) ve zbylém záznamu chybí.
@@ -164,6 +169,12 @@ Opraveno: `vulgargrad` (Austrálie), `zoran-predin-the-gypsy-swing-band` (Slovin
 - [ ] `the-ukrainians`: britská skupina hrající ukrajinskou hudbu, ve sbírce Ukrajina.
 - [ ] `la-negra`: zpěvačka Amparo Velasco Bautista, ne kapela.
 - [ ] `trio-fado`: Berlín, ve sbírce Německo (sedí).
+- [ ] `dub-colossus`: britsko-etiopský projekt, ve sbírce Etiopie.
+- [ ] `deti-picasso`: armensko-ruská skupina, ve sbírce Rusko.
+- [ ] `transsylvanians`: maďarský soubor založený v Berlíně, ve sbírce Německo.
+- [ ] `anthony-joseph-the-spasm-band`: britsko-trinidadský, ve sbírce Trinidad (bio uvádí Velkou Británii).
+- [ ] `dilec-koc`: spíš Dilek Koç (turecká zpěvačka), ve sbírce Řecko (bez bia).
+- [ ] `opa`: MusicBrainz má řeckou O.P.A., ve sbírce Rusko (bez bia).
 
 ## 3. Chybné styly ve sbírce
 
@@ -209,6 +220,8 @@ Styly jsem u kapel neměnil. Hlásili je agenti jako nesedící.
 - [ ] Neobratné formulace v bio z dávky j (nejdou přepsat přes `--merge`): `balval` („Poslechnout se dají prvky jazzu…“), `dyaoule-pemba` („poté prosadila“).
 - [ ] Bio bez zdroje nebo slabý zdroj (dávka j): `netslov`, `g-ny`, `balval`, `triny`, `mucho-indio`, `new-york-gypsy-all-stars`, `tajne-slunce`, `brath`, `marlene-dorcena`, `nevoa`, `karavan-familia`, `la-bundu-band`, `titiman-flores`, `malevaje`, `ross-daly`, `renaud-garcia-fons`, `vlasta-redl`, `boikot`, `kadril`, `prague-ska-conspiracy`, `alkis-zopoglou-kontrabando`, `oreka-tx`, `dick-o-brass`, `rageous-gratoons`, `guadi-galego-guillermo-fernandez`, `vieux-diop`, `g8-transglobal`, `hoboud`, `boot`, `mamer`, `iva-nova`, `jacky-molard-quartet`.
 - [ ] `little-cow` (Kistehén, Maďarsko): kapela identifikovaná, bio a obrázek zatím chybí.
+- [ ] Slabé zdroje nebo nejistá identita (dávka k): `carmen-paris`, `dona-rosa`, `tie-and-the-love-process`, `trio-enserie`, `ibro-lolov`, `santa-macairo-orkestar`, `atash`, `terne-chave`, `dub-in-da-trip` (text může být smíchaný s jinou kapelou), `nisos`, `uxia`, `trio-tzane`, `asmara-allstars`, `paradox-trio`, `pressburger-klezmer-band`, `plu`, `fatma-zidan`, `uxukalhus`, `rona-hartner-dj-click`, `joe-arroyo-y-la-verdad` (bio o Joe Arroyovi), `philip-koutev` (o skladateli), `camerata-meiga`, `elio-reve-su-charangon`, `reelroad`, `brenna-mac-crimmon` (ve sbírce „Mac Crimmon“), `perunika-trio`, `mystere-trio`, `thiossane-ablaye-ndiaye`, `garcia` (český projekt, jméno obecné), `mohobub`, `poeta-magica` (jedna věta), `martirio` (jedna věta), `johannes-linstead`, `la33`, `mustapha-teddy-addy` (zkomolené jméno, patrně Mustapha Tettey Addy), `juliette` (přeskočeno, patrně Juliette Noureddine), `trio-erik-marchand`, `afro-cuban-all-stars`, `red-baraat`, `mabulu`, `dunja-knebl`, `ray-lema`.
+- [ ] Překlep nebo neobratnost v bio z dávky k: zatím nezkontrolováno, projít `mohamed-mounir` až `babatunde-olatunji` a další podle potřeby.
 - [ ] Název s překlepem: `freshly-ground` (správně Freshlyground).
 - [ ] Diakritika v bio dávky g-00 agent po zápisu nekontroloval: projít `oliver-mtukudzi`, `sussan-deyhim`, `manos-hadjidakis`, `hanggai`, `tonton-david`, `mohamed-abdelwahab`, `darko-rundek-cargo-orkestar`, `omar-sosa`, `lenka-lichtenberg`, `angelique-kidjo`, `fishtank-ensemble`, `kaya-project`.
 
@@ -231,6 +244,9 @@ Obrázky u mnoha kapel jsou z Deezeru a agenti je často neprohlíželi nebo jen
 - [ ] Foto jen jednoho člena nebo zpěvačky místo kapely (dávka h): `ojos-de-brujo`, `tamara-obrovac-quartet`, `tony-gatlif`.
 - [ ] Starší portrét nebo obal místo aktuální fotky: `gnonnas-pedro` (druhý Deezer profil `Gnonnas Pedro and His Dadjes Band`), `afrissippi` (logo na obalu), `al-akhareen`, `cordas-do-sol`, `dun-an-doras`, `vershki-da-koreshki`.
 - [ ] Obrázek chybí kvůli Wikimedia 429: `babos-gyula`.
+- [ ] Obrázek chybí kvůli Wikimedia 429 (dávka k): `enver-izmailov`, `petru-guelfucci`, `uxia`, `kila`, `philip-koutev`, `mabulu`, `afro-cuban-all-stars`, `dunja-knebl`, `mustapha-teddy-addy`.
+- [ ] Fotka nebo obal nesedí k celé kapele (dávka k): `dub-colossus` (jeden muž), `deti-picasso` (zpěvačka), `mahsa-marjan-vahdat` (jen Mahsa), `trio-erik-marchand` (Erik Marchand), `red-baraat` (nejspíš Sunny Jain), `bustan-abraham`, `johannes-linstead` a `la33` (330 px).
+- [ ] Obaly alba místo fotek (dávka k): `malick-pathe-sow`, `sonya-varoujian`, `santa-macairo-orkestar`, `rona-hartner-dj-click`, `fatma-zidan`, `uxukalhus`, `buena-vista-social-club`, `slonovski-bal`, `joe-arroyo-y-la-verdad`, `trio-tzane`, `asmara-allstars`, `paradox-trio`, `pressburger-klezmer-band`, `plu`, `anthony-joseph-the-spasm-band`, `transsylvanians`, `camerata-meiga`, `elio-reve-su-charangon`, `perunika-trio`, `mystere-trio`.
 - [ ] Obrázek chybí kvůli Wikimedia 429 (dávka i): `antonio-zambujo` (jen detail obličeje), `fernhill`, `massilia-sound-system` (Deezer má logo), `pacific-curls`, `stella-rambisai-chiweshe`, `jarabe-de-palo`.
 - [ ] Foto jen jednoho člena: `serge-teyssot-gay-khaled-aljaramani`, `mccoy-mrubata-greg-hadjiyorki-georgiades`, `abelardo-carbono`.
 - [ ] Malé nebo nekvalitní: `lord-mouse-the-kalypso-cats` (330×273), `gerardo-nunez` (cca 300 px), `marco-calliari` (v pozadí jeho jméno).
@@ -256,6 +272,8 @@ U kapel ve vzorku „styl + země“ zbývá asi 100 bez bia, u kapel bez stylu 
 - [ ] Rozhodnout, jestli se mají zpracovat ručně, nebo smazat jako nedohledatelné.
 - [ ] Dávka g, nezpracováno kvůli limitům Wikipedie a MusicBrainz (kandidáti na další kolo): `radio-rumeli`, `chants-sacres-gitans-en-povence`, `hassan-erraji-arabesque`, `kerkennai`, `vandor-vokal`, `hijazz-omar-al-musfi`, `benedikta`, `talyn-duulal`, `analogue-birds`, `hekuran-xhamballi`, `tomas-san-miguel-txalaparta`, `la-familia`, `aiwa`, `isabelle-bazin`, `anna-rynefors-erik-ask-upmark`, `al-akhareen`, `temenik-electric`, `polykandriotis-thanassis`, `dorantes`, `ziveli-orkestar`.
 - [ ] Dávka h, nezpracováno kvůli chybám zdrojů: `fanga-maalem-abdallah-guinea`, `batata-y-su-rumba-palenquera`, `the-magic-tombolinos`, `chehade-brothers`, `janka-nabay-and-the-bubu-gang`, `alians`, `aurelio-martinez`, `dobranotch`, `pancho-alvarez`, `kerkennai`, `vandor-vokal`, `analogue-birds`, `ziveli-orkestar`, `polykandriotis-thanassis`, `prosti-dumi`, `isabelle-bazin`, `berkovska-duchova-muzika`, `talyn-duulal`.
+- [ ] Dávka k, nezpracováno (Wikipedie 429, čas): `carnem`, `mdungu`, `ensemble-tumbash`, `the-bisserov-sisters-trakiiskata-troika`, `colomach`, `os-cempes`, `deluxe`, `forgotten-fish-memory-orchestra`, `bukarester-tango`, `claire-zalamansky`, `costa-rico`, `lenacay`, `juana-fe`, `ernesto-tito-puentes`, `kanaku-y-el-tigre`, `lautari-de-clejani`, `kuku-sebsebe`, `sam-tshabalala`, `bal-interterrestre`, `basco`, `haydee-alba`, `caci-vorba`, `mustafa-al-sunni`, `dedale`, `ti-coca`, `muzykanci`, `altiplano-siyavush-kerimi`, `romengo`, `sistema-de-sonido-urbano`, `florina-brass-band`, `o-questrada`, `the-alaev-family`, `markku-lepisto`, `at-tambur`, `aljibe`, `actitud-maria-marta`, `enamorada-madalena`, `shezar`, `zumrad-xalfa`.
+- [ ] Dávka k, přeskočeno jako nejisté: `kartick-gotam`, `opa`, `taltos`, `ottilie-b-denis-pean`, `el-reloj-secreto`, `forilalou`, `kapten-bolja`, `nomada`, `jonianet-saze-ensemble`, `pau-i-treva`, `bombolesse`, `calgija`, `hungry-for-hungary`, `sevane-et-manu`, `dilec-koc`, `dimitris-eustathiou`, `gipsy-burek-orkestar`, `niki-tramba-ross-daly-labyrinth`, `andrea-fultz`, `trillke-trio`.
 - [ ] Dávka j, přeskočeno jako nejisté: `tassili`, `the-arab-summit`, `el-hadj-n-diaye`, `mamia-cherif`, `herminia`, `sete-saias`, `loop`, `byvala-horni-volta`, `here-be-dragons`, `dirty-honkers`, `afro-guinguette`, `doudou-swing`, `bei-bei`, `img`, `azalai`, `sabugo-tente-firme`, `yalla-babo-express-orchestra`, `psalite-pujol-gil`, `no-mad`, `easternox`, `kalakuta-orchestra`, `bko-quintet`, `stefan-kozka`, `manuel-aranda`, `grupo-de-musica-tradicional-do-igaem`, `kojato-and-the-afro-latin-cougaritas`, `cumbia-ya`, `extra-golden`, `danjal`.
 - [ ] Dávka j, obrázek bez bia: `ganef`, `mo-rockin-project`, `la-minor`, `hk-les-saltimbanks`, `majorstuen`, `viorica-si-ionita-din-clejani`, `the-paradise-bangkok-molam-international-band`, `wipidoup`.
 - [ ] Dávka i, přeskočeno jako nejisté: `ziveli-orkestar`, `kirstine-sand`, `moya`, `the-magic-tombolinos`, `zaragraf`, `mzetamze`, `el-brujo-y-su-timba`, `imaz-elia`, `biorchestr`, `zirp`, `togo-tempo`, `karuan`, `antiquark`, `6-australes`, `anubia`, `na-lua`, `aljub-krama`, `folk-error`, `petit-taraf-grand-barouf`, `yona`, `captain-cumbia-y-su-combo`, `la-internacional-sonora-balkanera`, `sabu`, `iconium-ensemble`, `daxar`, `radio-malanga`, `joi-sound-system`, `poza`, `duo-voces-del-caney`, `ethioda`, `nabila`, `sleeping-camels`, `gadalzen`, `ayo-nelson-homaiah`, `abyssinia-infinite`, `fernanda-maria-and-others`.

@@ -13,4 +13,4 @@ links:
     url: https://en.wikipedia.org/wiki/Chemirani_Ensemble
 ---
 
-Trio Chemirani je perský hudební soubor rodiny Chemiraniových, který vznikl roku 1988 ve složení Djamchid, Bijan a Keyvan Chemirani. Patří do širšího rodinného souboru Chemirani Ensemble, který se věnuje perské klasické hudbě.
+Trio Chemirani je perský hudební soubor rodiny Chemiraniových, který vznikl roku 1988 ve složení Djamchid, Bijan a [[keyvan-chemirani|Keyvan Chemirani]]. Patří do širšího rodinného souboru Chemirani Ensemble, který se věnuje perské klasické hudbě.

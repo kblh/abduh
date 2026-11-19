@@ -12,4 +12,4 @@ links:
     url: https://en.wikipedia.org/wiki/Yemen_Blues
 ---
 
-Yemen Blues založili v roce 2008 zpěvák Ravid Kahalani a basista Omer Avital po dvou letech práce mezi New Yorkem a Tel Avivem. Skupina spojuje jemenský chorál s funkem, jazzem a rockem. Mezi alba patří Yemen Blues (2011), Insaniya (2015) a Shabazi (2023).
+Yemen Blues založili v roce 2008 zpěvák Ravid Kahalani a basista [[omer-avital|Omer Avital]] po dvou letech práce mezi New Yorkem a Tel Avivem. Skupina spojuje jemenský chorál s funkem, jazzem a rockem. Mezi alba patří Yemen Blues (2011), Insaniya (2015) a Shabazi (2023).

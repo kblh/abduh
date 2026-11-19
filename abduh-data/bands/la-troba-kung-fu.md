@@ -11,4 +11,4 @@ links:
     url: https://es.wikipedia.org/wiki/La_Troba_Kung-Fú
 ---
 
-La Troba Kung-Fú je katalánská kapela z Barcelony, kterou založil akordeonista a zpěvák Joan Garriga po rozpadu skupiny Dusminguet. Její hudba vychází z rumby a mísí ji s rockem, flamencem a reggae. Vydala alba Clavell morenet, Rumbia at Ernesto's, A la panxa del Bou a Santalegria.
+La Troba Kung-Fú je katalánská kapela z Barcelony, kterou založil akordeonista a zpěvák Joan Garriga po rozpadu skupiny [[dusminguet|Dusminguet]]. Její hudba vychází z rumby a mísí ji s rockem, flamencem a reggae. Vydala alba Clavell morenet, Rumbia at Ernesto's, A la panxa del Bou a Santalegria.

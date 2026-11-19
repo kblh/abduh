@@ -13,4 +13,4 @@ links:
     url: https://en.wikipedia.org/wiki/Brave_Old_World
 ---
 
-Klezmerová kapela americko-německého původu, vzniklá roku 1989. Washington Post ji nazval první supergrupou klezmerového oživení. V roce 1992 vyhrála mezinárodní festival klezmeru v Safedu v Izraeli. Mezi členy patřili Michael Alpert a Joel Rubin.
+Klezmerová kapela americko-německého původu, vzniklá roku 1989. Washington Post ji nazval první supergrupou klezmerového oživení. V roce 1992 vyhrála mezinárodní festival klezmeru v Safedu v Izraeli. Mezi členy patřili Michael Alpert a [[joel-rubin|Joel Rubin]].

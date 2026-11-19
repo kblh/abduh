@@ -13,4 +13,4 @@ links:
     url: https://en.wikipedia.org/wiki/Frank_London
 ---
 
-Frank London je americký trumpetista narozený roku 1958 v New Yorku, člen The Klezmatics a vedoucí Klezmer Brass Allstars. Hraje klezmer, jazz i world music a spolupracoval s množstvím umělců od Johna Zorna po Iggyho Popa. Učí na univerzitě SUNY Purchase a v roce 2007 získal Grammy za album současné world music.
+Frank London je americký trumpetista narozený roku 1958 v New Yorku, člen [[the-klezmatics|The Klezmatics]] a vedoucí Klezmer Brass Allstars. Hraje klezmer, jazz i world music a spolupracoval s množstvím umělců od Johna Zorna po Iggyho Popa. Učí na univerzitě SUNY Purchase a v roce 2007 získal Grammy za album současné world music.

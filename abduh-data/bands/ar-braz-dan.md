@@ -11,4 +11,4 @@ links:
     url: https://en.wikipedia.org/wiki/Dan_Ar_Braz
 ---
 
-Dan Ar Braz, vlastním jménem Daniel Le Bras, je bretaňský kytarista, zpěvák a skladatel. Založil pankeltský soubor L'Héritage des Celtes a jako kytarista dlouho spolupracoval s keltským harfeníkem Alanem Stivellem. V roce 1996 reprezentoval Francii na Eurovision Song Contest.
+Dan Ar Braz, vlastním jménem Daniel Le Bras, je bretaňský kytarista, zpěvák a skladatel. Založil pankeltský soubor L'Héritage des Celtes a jako kytarista dlouho spolupracoval s keltským harfeníkem [[alan-stivell|Alanem Stivellem]]. V roce 1996 reprezentoval Francii na Eurovision Song Contest.

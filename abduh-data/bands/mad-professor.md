@@ -11,4 +11,4 @@ links:
     url: https://en.wikipedia.org/wiki/Mad_Professor
 ---
 
-Mad Professor, vlastním jménem Neil Fraser, je britský dubový producent, zvukový inženýr a remixér. Spolupracoval s reggae umělci jako Lee Scratch Perry, Sly and Robbie nebo Horace Andy i s Sade, Massive Attack či Grace Jones.
+Mad Professor, vlastním jménem Neil Fraser, je britský dubový producent, zvukový inženýr a remixér. Spolupracoval s reggae umělci jako Lee Scratch Perry, Sly and Robbie nebo Horace Andy i s Sade, Massive Attack či [[grace-jones|Grace Jones]].

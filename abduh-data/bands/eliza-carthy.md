@@ -11,4 +11,4 @@ links:
     url: https://en.wikipedia.org/wiki/Eliza_Carthy
 ---
 
-Anglická folková zpěvačka a houslistka narozená roku 1975, dcera folkových hudebníků Martina Carthyho a Normy Waterson. Je nositelkou řádu MBE a považuje se za průkopnici zpěvu doprovázeného vlastní hrou na housle.
+Anglická folková zpěvačka a houslistka narozená roku 1975, dcera folkových hudebníků Martina Carthyho a [[norma-waterson|Normy Waterson]]. Je nositelkou řádu MBE a považuje se za průkopnici zpěvu doprovázeného vlastní hrou na housle.

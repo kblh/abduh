@@ -11,4 +11,4 @@ links:
     url: https://en.wikipedia.org/wiki/Caravan_Palace
 ---
 
-Caravan Palace je francouzská electro-swingová kapela z Paříže. K jejím vlivům patří Django Reinhardt, Vitalic, Lionel Hampton nebo Daft Punk. Debutové album vydala v říjnu 2008 u labelu Wagram a ve Francii se dostalo na 11. místo žebříčku.
+Caravan Palace je francouzská electro-swingová kapela z Paříže. K jejím vlivům patří [[django-reinhardt|Django Reinhardt]], Vitalic, Lionel Hampton nebo Daft Punk. Debutové album vydala v říjnu 2008 u labelu Wagram a ve Francii se dostalo na 11. místo žebříčku.

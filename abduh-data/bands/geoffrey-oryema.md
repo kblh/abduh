@@ -11,4 +11,4 @@ links:
     url: https://en.wikipedia.org/wiki/Geoffrey_Oryema
 ---
 
-Ugandský hudebník z okresu Nwoya, který po zavraždění otce, ministra za Idi Amina, odešel v roce 1977 do exilu. Zpíval svahilsky, acholsky, anglicky a francouzsky a mezinárodní uznání získal albem Beat the Border, na němž spolupracoval s Peterem Gabrielem a Brianem Enem. Žil v Paříži a zemřel v roce 2018.
+Ugandský hudebník z okresu Nwoya, který po zavraždění otce, ministra za Idi Amina, odešel v roce 1977 do exilu. Zpíval svahilsky, acholsky, anglicky a francouzsky a mezinárodní uznání získal albem Beat the Border, na němž spolupracoval s [[peter-gabriel|Peterem Gabrielem]] a Brianem Enem. Žil v Paříži a zemřel v roce 2018.

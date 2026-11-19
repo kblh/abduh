@@ -11,4 +11,4 @@ links:
     url: https://en.wikipedia.org/wiki/Concha_Buika
 ---
 
-Zpěvačka Concha Buika, narozená v roce 1972 na Mallorce rodičům z Rovníkové Guineje. Její hudba spojuje flamenco, copla, soul a jazz s africkými polyrytmy. Začínala jako bubenice a basistka; album Niña de Fuego bylo nominováno na Latin Grammy a La Noche Más Larga na Grammy.
+Zpěvačka [[concha-buika|Concha Buika]], narozená v roce 1972 na Mallorce rodičům z Rovníkové Guineje. Její hudba spojuje flamenco, copla, soul a jazz s africkými polyrytmy. Začínala jako bubenice a basistka; album Niña de Fuego bylo nominováno na Latin Grammy a La Noche Más Larga na Grammy.

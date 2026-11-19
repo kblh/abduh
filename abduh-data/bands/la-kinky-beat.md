@@ -11,4 +11,4 @@ links:
     url: https://es.wikipedia.org/wiki/La_Kinky_Beat
 ---
 
-Španělská kapela, která vznikla v Barceloně roku 2003 a hrála do roku 2013. Vyrostla ze splynutí několika projektů: Trimelón, Jaleo Real, Radio Bemba, Afrodisian Band a Radar Bcn.
+Španělská kapela, která vznikla v Barceloně roku 2003 a hrála do roku 2013. Vyrostla ze splynutí několika projektů: Trimelón, [[jaleo-real|Jaleo Real]], Radio Bemba, Afrodisian Band a Radar Bcn.

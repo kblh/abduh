@@ -13,4 +13,4 @@ links:
     url: https://en.wikipedia.org/wiki/Seckou_Keita
 ---
 
-Senegalský hráč na koru a bubeník narozený roku 1978 v Lindiane u Ziguinchoru. Patří k nemnoha zastáncům méně známého repertoáru kory z Casamance na jihu Senegalu. Spolupracoval s kubánským klavíristou Omarem Sosou a velšskou harfenicí Catrin Finch.
+Senegalský hráč na koru a bubeník narozený roku 1978 v Lindiane u Ziguinchoru. Patří k nemnoha zastáncům méně známého repertoáru kory z Casamance na jihu Senegalu. Spolupracoval s kubánským klavíristou [[omar-sosa|Omarem Sosou]] a velšskou harfenicí Catrin Finch.

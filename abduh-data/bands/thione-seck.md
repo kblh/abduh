@@ -11,4 +11,4 @@ links:
     url: https://en.wikipedia.org/wiki/Thione_Seck
 ---
 
-Senegalský zpěvák a skladatel žánru mbalax pocházející z rodiny wolofských griotů. Začínal v Orchestre Baobab, později založil vlastní skupinu Raam Daan, v níž působil až do své smrti v roce 2021.
+Senegalský zpěvák a skladatel žánru mbalax pocházející z rodiny wolofských griotů. Začínal v [[orchestra-baobab|Orchestre Baobab]], později založil vlastní skupinu Raam Daan, v níž působil až do své smrti v roce 2021.

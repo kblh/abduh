@@ -11,4 +11,4 @@ links:
     url: https://en.wikipedia.org/wiki/Yungchen_Lhamo
 ---
 
-Tibetská zpěvačka a autorka písní žijící ve Spojených státech; její jméno znamená „bohyně výmluvnosti“. V roce 1995 získala cenu ARIA za nejlepší world music album a poté ji angažovalo vydavatelství Real World Records Petera Gabriela.
+Tibetská zpěvačka a autorka písní žijící ve Spojených státech; její jméno znamená „bohyně výmluvnosti“. V roce 1995 získala cenu ARIA za nejlepší world music album a poté ji angažovalo vydavatelství Real World Records [[peter-gabriel|Petera Gabriela]].
