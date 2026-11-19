@@ -952,7 +952,7 @@
       ],
       "modified": "2026-11-18",
       "body": "Brazilský bubeník a perkusionista, který se proslavil koncem šedesátých let v souboru Quarteto Novo. Po přesídlení do USA hrál jazzfusion s Milesem Davisem, Return to Forever, Weather Report a Santanou. Je manželem zpěvačky Flory Purim.\n",
-      "rank": 5
+      "rank": 10
     },
     {
       "id": "aiwa",
@@ -2064,7 +2064,7 @@
       ],
       "modified": "2026-11-18",
       "body": "Zpěvačka, tamburellistka, tanečnice a badatelka tradiční hudby ze Salenta v jižní Itálii, spojená s městečkem Zollino. S folkovými soubory vystupuje od začátku devadesátých let a učí se od starých zpěváků z malých vesnic. Vydala například alba Ninnamorella (2008), Salento in Dub (2010) a Fimmana, mare e focu.\n",
-      "rank": 6
+      "rank": 11
     },
     {
       "id": "anna-rynefors-erik-ask-upmark",
@@ -2394,6 +2394,29 @@
       "body": "Pákistánský zpěvák narozený 1966, syn proslulého folkového zpěváka Alama Lohara. Je spjatý s pandžábskou lidovou hudbou a zpívá za doprovodu chimty, tradičního pandžábského nástroje podobného kleštím. V Pákistánu i Indii se proslavil písní Jugni z roku 2006.\n"
     },
     {
+      "id": "aris-san",
+      "name": "Aris San",
+      "countries": [
+        "greece",
+        "israel"
+      ],
+      "image": "img/bands/aris-san.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Famous_Greek_singer_Aris_San_(FL61714663).jpg",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6nSwMSz1vsa5qaCjHsEd96"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aris_San"
+        }
+      ],
+      "added": "2026-11-19",
+      "body": "Aris San (vlastním jménem Aristidis Seisanas, 1940–1992) byl řecko-izraelský zpěvák a majitel nočních klubů, rodák z Kalamaty. V sedmnácti letech odplul do Izraele, kde v klubu v Jaffě hrál na elektrickou kytaru jako na buzuki a spojoval řeckou hudbu s mizrachijskými vlivy, čímž ji v izraelské společnosti zpopularizoval. Proslavily ho písně jako „Sigal“ a „[[boom-pam|Boom Pam]]“. Později žil v New Yorku, kde provozoval klub Sirocco, a zemřel v Budapešti.\n",
+      "rank": 0
+    },
+    {
       "id": "aristides-moschos",
       "name": "Aristides Moschos",
       "countries": [
@@ -2467,8 +2490,7 @@
       "image": "img/bands/art-melody.avif",
       "image_source": "https://www.google.com/search?q=Art+Melody",
       "modified": "2026-11-18",
-      "body": "Rapper z Ouagadougou v Burkině Faso, vlastním jménem Mamadou Armel Konkobo, který zároveň hospodaří jako farmář na okraji města. Rapuje od roku 2009 a v textech kombinuje francouzštinu s místními jazyky; věnuje se společenským a politickým tématům i změně klimatu. K jeho albům patří Wogdog Blues a Moogho (2015).\n",
-      "rank": 7
+      "body": "Rapper z Ouagadougou v Burkině Faso, vlastním jménem Mamadou Armel Konkobo, který zároveň hospodaří jako farmář na okraji města. Rapuje od roku 2009 a v textech kombinuje francouzštinu s místními jazyky; věnuje se společenským a politickým tématům i změně klimatu. K jeho albům patří Wogdog Blues a Moogho (2015).\n"
     },
     {
       "id": "arto-tuncboyaciyan",
@@ -2766,8 +2788,7 @@
         }
       ],
       "modified": "2026-11-18",
-      "body": "Argentinský multiinstrumentalista narozený v roce 1969 v Buenos Aires, původně saxofonista skupin Instrucción Cívica a La Portuaria. Od poloviny devadesátých let se věnuje sólové kariéře a mísí jazz, rock, elektroniku, cumbii a argentinskou lidovou hudbu. Je spojen s elektro-cumbia scénou kolem ZZK a skládá i filmovou a divadelní hudbu.\n",
-      "rank": 8
+      "body": "Argentinský multiinstrumentalista narozený v roce 1969 v Buenos Aires, původně saxofonista skupin Instrucción Cívica a La Portuaria. Od poloviny devadesátých let se věnuje sólové kariéře a mísí jazz, rock, elektroniku, cumbii a argentinskou lidovou hudbu. Je spojen s elektro-cumbia scénou kolem ZZK a skládá i filmovou a divadelní hudbu.\n"
     },
     {
       "id": "ay-kherel",
@@ -3008,7 +3029,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Alžírský zpěvák, textař a hudebník, vlastním jménem Abdelaziz Bekhti, narozený roku 1963 v Cherchellu.\n",
-      "rank": 1
+      "rank": 6
     },
     {
       "id": "babatunde-olatunji",
@@ -3550,8 +3571,7 @@
       "image": "img/bands/beatriz-azevedo.avif",
       "image_source": "https://www.womex.com/virtual/acrobeat/beatriz_azevedo",
       "modified": "2026-11-18",
-      "body": "Brazilská básnířka, zpěvačka, skladatelka a performerka z São Paula, která propojuje hudbu, divadlo, literaturu a audiovizuální umění. Má doktorát z divadelních umění a léta se zabývá antropofagií, na niž navazuje její tvorba. Její alba, například Bum Bum do Poeta, Mapa-mundi nebo Alegria, spojují samba s poezií.\n",
-      "rank": 9
+      "body": "Brazilská básnířka, zpěvačka, skladatelka a performerka z São Paula, která propojuje hudbu, divadlo, literaturu a audiovizuální umění. Má doktorát z divadelních umění a léta se zabývá antropofagií, na niž navazuje její tvorba. Její alba, například Bum Bum do Poeta, Mapa-mundi nebo Alegria, spojují samba s poezií.\n"
     },
     {
       "id": "beats-antique",
@@ -3790,8 +3810,7 @@
       "image": "img/bands/ben-sharpa.avif",
       "image_source": "https://www.deezer.com/artist/372169",
       "modified": "2026-11-18",
-      "body": "Jihoafrický undergroundový rapper a producent (vlastním jménem Kgotso Semela), který se prosadil v kapském hip-hopu. Vydal debutové album B. Sharpa (2008) u labelu Pioneer Unit se singlem Hegemony o policejní brutalitě a vystupoval na evropských festivalech. Zemřel v červenci 2018.\n",
-      "rank": 10
+      "body": "Jihoafrický undergroundový rapper a producent (vlastním jménem Kgotso Semela), který se prosadil v kapském hip-hopu. Vydal debutové album B. Sharpa (2008) u labelu Pioneer Unit se singlem Hegemony o policejní brutalitě a vystupoval na evropských festivalech. Zemřel v červenci 2018.\n"
     },
     {
       "id": "benat-achiary",
@@ -4505,8 +4524,7 @@
         }
       ],
       "modified": "2026-11-18",
-      "body": "Omara Moctar, známý jako Bombino, je tuarežský kytarista a zpěvák z nigerského Agadezu. Hraje tuarežský rock a blues postavený na hypnotických kytarových liniích a v posledních letech vystupuje po celém světě. Jeho album Nomad (2013) produkoval Dan Auerbach z The Black Keys.\n",
-      "rank": 11
+      "body": "Omara Moctar, známý jako Bombino, je tuarežský kytarista a zpěvák z nigerského Agadezu. Hraje tuarežský rock a blues postavený na hypnotických kytarových liniích a v posledních letech vystupuje po celém světě. Jeho album Nomad (2013) produkoval Dan Auerbach z The Black Keys.\n"
     },
     {
       "id": "bombolesse",
@@ -4647,7 +4665,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Telavivská kapela založená v roce 2003 a pojmenovaná podle písně Arise Sana. Kvarteto s elektrickou kytarou, tubou, klávesami a bicími mísí surf rock s tureckými, balkánskými a středomořskými vlivy. Mezi alba patří Boom Pam (2005), Puerto Rican Nights (2008), Alakazam (2010) a Royal (2023).\n",
-      "rank": 0
+      "rank": 5
     },
     {
       "id": "boot",
@@ -11601,7 +11619,9 @@
       "countries": [
         "greece"
       ],
-      "body": "Georgia Dagaki je řecká zpěvačka a hráčka na lyru. Na lyru začala hrát ve dvanácti letech a v šestnácti už patřila k uznávaným postavám krétské lidové scény, kde je žen na tento nástroj málo. V roce 2009 se stala členkou kapely Erica Burdona a vydala debutové album Secret Love; později natočila i coververze písní významných řeckých skladatelů.\n"
+      "modified": "2026-11-19",
+      "body": "Georgia Dagaki je řecká zpěvačka a hráčka na lyru. Na lyru začala hrát ve dvanácti letech a v šestnácti už patřila k uznávaným postavám krétské lidové scény, kde je žen na tento nástroj málo. V roce 2009 se stala členkou kapely Erica [[burdon|Burdona]] a vydala debutové album Secret Love; později natočila i coververze písní významných řeckých skladatelů.\n",
+      "rank": 1
     },
     {
       "id": "georgia-ruth",
@@ -13567,7 +13587,9 @@
       "countries": [
         "syria"
       ],
-      "body": "Syrská skupina z Damašku, založená v roce 2002, která spojuje rock s hudbou Blízkého východu. Jádrem je kytarové a oudové duo kolem Khaleda Aljaramaniho, který vyučoval na damašské konzervatoři a v roce 2011 odešel do Francie. První album vyšlo v roce 2005, do roku 2013 skupina vydala tři alba a hrála i v Paříži.\n"
+      "modified": "2026-11-19",
+      "body": "Syrská skupina z Damašku, založená v roce 2002, která spojuje rock s hudbou Blízkého východu. Jádrem je kytarové a oudové duo kolem [[khaled|Khaleda]] Aljaramaniho, který vyučoval na damašské konzervatoři a v roce 2011 odešel do Francie. První album vyšlo v roce 2005, do roku 2013 skupina vydala tři alba a hrála i v Paříži.\n",
+      "rank": 2
     },
     {
       "id": "inti-illimani",
@@ -27656,7 +27678,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Cheikh Sidi Bémol je rocková skupina, kterou v roce 1992 založil Hocine „Elho“ Boukella v pařížském předměstí. Její zvuk spojuje rock a blues s keltsky laděnými baladami a tradičními alžírskými žánry, jako je chaâbi, gnawa a melhoun. Vydala například alba El Bandi, Gourbi Rock nebo Chouf!.\n",
-      "rank": 2
+      "rank": 7
     },
     {
       "id": "sidi-toure",
@@ -31356,7 +31378,9 @@
       "countries": [
         "portugal"
       ],
-      "body": "Tucanas je portugalská ženská bubenická skupina, která od roku 2001 pracuje na projektu spojujícím perkuse, hlasy a akordeon a skládá vlastní písně. Tvoří ji Sara Jónatas, Ana Cláudia Gonçalves, Catarina Ribeiro, Marina Henriques a Mónica Rocha. Debutové album Maria Café vyšlo u Farolu a hostují na něm Amélia Muge a dechová skupina [[kumpania-algazarra|Kumpania Algazarra]].\n"
+      "modified": "2026-11-19",
+      "body": "Tucanas je portugalská ženská bubenická skupina, která od roku 2001 pracuje na projektu spojujícím perkuse, hlasy a akordeon a skládá vlastní písně. Tvoří ji Sara Jónatas, Ana Cláudia Gonçalves, [[catarina|Catarina]] Ribeiro, Marina Henriques a Mónica Rocha. Debutové album Maria Café vyšlo u Farolu a hostují na něm Amélia Muge a dechová skupina [[kumpania-algazarra|Kumpania Algazarra]].\n",
+      "rank": 3
     },
     {
       "id": "tulipa-ruiz",
@@ -32251,7 +32275,7 @@
       "image_source": "https://www.deezer.com/artist/1588639",
       "modified": "2026-11-19",
       "body": "VulgarGrad je sedmičlenná melbournská kapela, která hraje folkově-funkově-polkově-punkové verze tradičních ruských lidových a zlodějských písní (blatnyje pesni) a punkových klasik z doby perestrojky. Frontmanem je polsky narozený Jacek Koman. Skupina zazněla v roce 2008 v soundtracku australského seriálu Underbelly. Album King of Crooks.\n",
-      "rank": 3
+      "rank": 8
     },
     {
       "id": "waaberi",
@@ -33347,7 +33371,9 @@
         "belgium"
       ],
       "wikipedia": "https://en.wikipedia.org/wiki/Zita_Swoon",
-      "body": "Zita Swoon je belgická indie rocková skupina, kterou v Antverpách roku 1993 založili Stef Kamil Carlens, člen dEUS, a Aarich Jespers; původně vystupovala jako A Beatband a Moondog Jr. Po sporu o jméno Moondog přijala název Zita Swoon. Mezi alba patří I Paint Pictures on a Wedding Dress (1998), Life = A Sexy Sanctuary (2001), Big City (2007) a jako Zita Swoon Group Wait for Me (2012).\n"
+      "modified": "2026-11-19",
+      "body": "Zita Swoon je belgická indie rocková skupina, kterou v Antverpách roku 1993 založili Stef Kamil Carlens, člen dEUS, a Aarich Jespers; původně vystupovala jako A Beatband a [[moondog|Moondog]] Jr. Po sporu o jméno Moondog přijala název Zita Swoon. Mezi alba patří I Paint Pictures on a Wedding Dress (1998), Life = A Sexy Sanctuary (2001), Big City (2007) a jako Zita Swoon Group Wait for Me (2012).\n",
+      "rank": 4
     },
     {
       "id": "ziveli-orkestar",
@@ -33415,7 +33441,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Zoran Predin je slovinský zpěvák, kytarista a skladatel narozený roku 1958 v Mariboru. V osmdesátých letech byl frontmanem rockové kapely Lačni Franz a od té doby vydává sólová alba a skládá pro film, televizi a divadlo. Spoluskládal také hymnu slovinské fotbalové reprezentace pro Euro 2000.\n",
-      "rank": 4
+      "rank": 9
     },
     {
       "id": "zorita",
@@ -33535,6 +33561,44 @@
   ],
   "cds": [
     {
+      "id": "aris-san-dam-dam",
+      "name": "דם דם",
+      "bands": [
+        "aris-san"
+      ],
+      "year": 1972,
+      "image": "img/cds/aris-san-dam-dam.avif",
+      "image_source": "https://open.spotify.com/album/4tlkpooTSlUhpmYlbdiA7P",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4tlkpooTSlUhpmYlbdiA7P"
+        }
+      ],
+      "added": "2026-11-19",
+      "body": "",
+      "rank": 0
+    },
+    {
+      "id": "aris-san-sigal-boom-pam-pepeloma",
+      "name": "סיגל - בום פם - פפלומה",
+      "bands": [
+        "aris-san"
+      ],
+      "year": 1970,
+      "image": "img/cds/aris-san-sigal-boom-pam-pepeloma.avif",
+      "image_source": "https://open.spotify.com/album/1FHnfHhVTsQSNh9qxIuemv",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1FHnfHhVTsQSNh9qxIuemv"
+        }
+      ],
+      "added": "2026-11-19",
+      "body": "",
+      "rank": 1
+    },
+    {
       "id": "bombino-nomad",
       "name": "Nomad",
       "bands": [
@@ -33612,7 +33676,7 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "juana-molina-doga",
@@ -33637,7 +33701,7 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "juana-molina-halo",
@@ -33661,8 +33725,7 @@
       ],
       "added": "2026-11-14",
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "justin-adams-desert-road",
@@ -33786,7 +33849,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "lucrecia-dalt-a-danger-to-ourselves",
@@ -33809,8 +33872,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "lucrecia-dalt-ay",
@@ -33957,7 +34019,7 @@
       ],
       "added": "2026-11-18",
       "body": "",
-      "rank": 0
+      "rank": 2
     },
     {
       "id": "robert-plant-saving-grace",
@@ -33976,7 +34038,7 @@
       ],
       "added": "2026-11-18",
       "body": "",
-      "rank": 1
+      "rank": 3
     },
     {
       "id": "rosalia-vila-tobella-el-mal-querer",
@@ -34102,7 +34164,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "salif-keita-moffou",
@@ -34121,7 +34183,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "salif-keita-tale",
@@ -34140,7 +34202,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "salif-keita-un-autre-blanc",
@@ -34159,7 +34221,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "sara-gioielli-gioielli-neri",
@@ -34207,7 +34269,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 7
+      "rank": 9
     }
   ],
   "shelves": [
