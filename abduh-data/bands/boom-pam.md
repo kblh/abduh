@@ -6,6 +6,8 @@ countries:
   - "[[israel]]"
 styles:
   - "[[surf]]"
+image: bands/boom-pam.avif
+image_source: https://www.google.com/search?q=Boom+Pam
 links:
   - type: wikipedia
     url: https://en.wikipedia.org/wiki/Boom_Pam

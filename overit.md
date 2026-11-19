@@ -4,6 +4,19 @@ Průběžný seznam věcí, které je potřeba ověřit nebo rozhodnout na konci
 
 Značení: `[ ]` čeká, `[x]` vyřešeno.
 
+## Stav zpracování bií a obrázků u kapel
+
+Aktualizováno 2026-11-19 (po dávce j a fotce Boom Pam).
+
+- Kapel celkem: 2 725. Bio má 1 251 (46 %), obrázek 919 (34 %).
+- Se stylem a zemí: 638 kapel (522 má bio, 344 má obrázek). Bez bia zbývá 116.
+- Jen se zemí (bez stylu): 2 087 kapel (729 má bio, 575 má obrázek). Bez bia zbývá 1 358.
+- Dávky (150 kapel, 5 agentů po 30): pilot 60, hlavní průchod 570, opakování přeskočených 142, dávky d až j po 150 (kapely bez stylu, náhodný výběr z těch, které nikdo nezkoušel).
+- Nikdy nezkoušených kapel bez bia zbývá asi 1 190 (zhruba 8 dalších dávek). Přeskočených a neověřených je asi 285 (viz oddíl 7).
+- Commity: poslední data v commitu `79b9d1b`. Necommitnuto: fotka Boom Pam a tento soubor.
+
+Při každé další dávce aktualizuji tato čísla, doplním nové položky do oddílů 1 až 8 a vyřešené označím `[x]`.
+
 ## 1. Duplicity a překryvy záznamů
 
 - [ ] `aynur` a `aynur-dogan`: stejná umělkyně, stejná fotka. Jeden záznam odstranit.
