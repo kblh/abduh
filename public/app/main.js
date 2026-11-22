@@ -7,6 +7,7 @@ import { buildIndex } from './search.js';
 
 const NAV = [['home', 'Domů', '#/'], ['bands', 'Kapely', '#/bands'], ['cds', 'CD', '#/cds'], ['styles', 'Styly', '#/styles'], ['instruments', 'Nástroje', '#/instruments'], ['countries', 'Země', '#/countries'], ['shelves', 'Poličky', '#/shelves'], ['tags', 'Tagy', '#/tags']];
 const SECTION = { band: 'bands', cd: 'cds', style: 'styles', instrument: 'instruments', country: 'countries', shelf: 'shelves', tag: 'tags', search: 'search' };
+const MAP_GROUP = { band: 'bands', style: 'styles', instrument: 'instruments', tag: 'tags' };
 const DETAIL_GROUP = { band: 'bands', cd: 'cds', style: 'styles', instrument: 'instruments', country: 'countries', shelf: 'shelves', tag: 'tags' };
 const SEARCH_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg>';
 
@@ -56,8 +57,8 @@ function buildShell() {
   });
 }
 
-function setActive(route) {
-  const key = route === 'home' ? 'home' : SECTION[route] ?? route;
+function setActive(route, kind) {
+  const key = route === 'home' ? 'home' : route === 'map' ? SECTION[kind] : SECTION[route] ?? route;
   for (const a of [...navLinks, ...tabLinks]) {
     if (a.dataset.key === key) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
   }
@@ -82,17 +83,17 @@ let renderToken = 0;
 export async function render() {
   if (!ctx) return;
   const token = ++renderToken;
-  let { route, id, query } = parseHash(location.hash);
-  const group = DETAIL_GROUP[route];
+  let { route, id, query, kind } = parseHash(location.hash);
+  const group = route === 'map' ? MAP_GROUP[kind] : DETAIL_GROUP[route];
   if (group && !ctx.store.byId[group].has(id)) route = 'notfound';
-  setActive(route);
+  setActive(route, kind);
   document.body.dataset.route = route;
   if (route !== 'search' && headerInput) headerInput.value = '';
   else if (headerInput && document.activeElement !== headerInput) headerInput.value = query.q ?? '';
   const view = await loadView(route);
   if (token !== renderToken) return;
   const refocus = document.activeElement?.closest?.('.big-search') ? true : false;
-  mount.replaceChildren(view.render({ ...ctx, params: { id, query }, today: new Date() }));
+  mount.replaceChildren(view.render({ ...ctx, params: { id, query, kind }, today: new Date() }));
   if (refocus) {
     const input = mount.querySelector('.big-search input');
     if (input) { input.focus(); input.setSelectionRange(input.value.length, input.value.length); }

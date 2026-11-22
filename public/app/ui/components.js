@@ -2,6 +2,7 @@ import { icon } from './icons.js';
 import { h } from './dom.js';
 import { prettyStyle } from '../text.js';
 import { isNew } from '../store.js';
+import { buildHash } from '../router.js';
 
 const LINK_LABELS = { spotify: 'SPOTIFY', bandcamp: 'BANDCAMP', 'apple-music': 'APPLE MUSIC', youtube: 'YOUTUBE', website: 'WEB', wikipedia: 'WIKIPEDIE', discogs: 'DISCOGS', other: 'ODKAZ' };
 
@@ -99,4 +100,8 @@ export function countryLinks(store, ids = []) {
     const c = store.byId.countries.get(id);
     return h('a', { href: `#/countries/${encodeURIComponent(id)}` }, c?.flag ? `${c.flag} ` : '', c?.name ?? id);
   }));
+}
+
+export function mapLink(kind, id) {
+  return h('a', { class: 'stamp-link map-link', href: buildHash('map', { kind, id }), 'aria-label': 'Mapa souvislostí' }, 'MAPA');
 }

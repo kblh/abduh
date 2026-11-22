@@ -1,7 +1,7 @@
 // Shared template for styles and tags: register (list) and detail views.
 import { icon } from '../ui/icons.js';
 import { h } from '../ui/dom.js';
-import { bandRow, prose, sectionTitle } from '../ui/components.js';
+import { bandRow, mapLink, prose, sectionTitle } from '../ui/components.js';
 import { normalize, prettyStyle } from '../text.js';
 import { buildHash } from '../router.js';
 import { plural } from '../labels.js';
@@ -52,7 +52,7 @@ export function detailView({ store, params, today }, o) {
   const body = prose(entity.body, store);
   return h('article', { class: 'detail' },
     h('p', { class: 'breadcrumb' }, h('a', { href: `#/${o.route}` }, o.listLabel), ` / ${prettyStyle(entity.name)}`),
-    h('header', { class: 'style-head' }, h('span', { class: `chip chip-${o.kind} chip-big` }, prettyStyle(entity.name)), h('span', { class: 'count-big' }, plural(bands.length, 'kapela', 'kapely', 'kapel'))),
+    h('header', { class: 'style-head' }, h('span', { class: `chip chip-${o.kind} chip-big` }, prettyStyle(entity.name)), h('span', { class: 'count-big' }, plural(bands.length, 'kapela', 'kapely', 'kapel')), mapLink(o.kind, entity.id)),
     body || countries.length ? h('div', { class: 'two-col' },
       h('div', null, body ? [sectionTitle(o.aboutTitle), body] : null),
       countries.length ? h('aside', null, sectionTitle('Podle zemí'), h('ul', { class: 'plain-list' }, countries.slice(0, 8).map(([id, n]) => {

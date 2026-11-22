@@ -1,5 +1,5 @@
 import { h } from '../ui/dom.js';
-import { bandRow, cdCard, chip, countryLinks, initials, linkButtons, placeholderCard, prose, sectionTitle } from '../ui/components.js';
+import { bandRow, cdCard, chip, mapLink, countryLinks, initials, linkButtons, placeholderCard, prose, sectionTitle } from '../ui/components.js';
 import { prettyStyle, stripWikilinks } from '../text.js';
 import { CONTINENTS } from '../labels.js';
 
@@ -54,7 +54,8 @@ export function render({ store, params, today }) {
         h('p', { class: 'eyebrow' }, ['KAPELA', continent.toUpperCase()].filter(Boolean).join(' · ')),
         h('h1', { class: 'detail-title' }, band.name),
         countryLinks(store, band.countries ?? []),
-        band.links?.length ? linkButtons(band.links) : null)),
+        band.links?.length ? linkButtons(band.links) : null,
+        h('p', null, mapLink('band', band.id)))),
     bio || members ? h('div', { class: 'two-col' }, bio ? h('div', null, sectionTitle('O kapele'), bio) : h('div'), members) : null,
     h('div', { class: sideBox ? 'two-col' : null },
       h('div', null, sectionTitle('Diskografie', `${cds.length} CD`, 'cds'),

@@ -1,4 +1,5 @@
 const LISTS = { bands: 'band', cds: 'cd', styles: 'style', instruments: 'instrument', countries: 'country', shelves: 'shelf', tags: 'tag' };
+const MAPPABLE = { bands: 'band', styles: 'style', instruments: 'instrument', tags: 'tag' };
 const NOTFOUND = { route: 'notfound', id: null, query: {} };
 
 export function parseHash(hash) {
@@ -16,6 +17,7 @@ export function parseHash(hash) {
     if (Object.hasOwn(LISTS, seg[0])) {
       if (seg.length === 1) return { route: seg[0], id: null, query };
       if (seg.length === 2) return { route: LISTS[seg[0]], id: seg[1], query };
+      if (seg.length === 3 && seg[2] === 'map' && MAPPABLE[seg[0]]) return { route: 'map', kind: MAPPABLE[seg[0]], id: seg[1], query };
     }
     return NOTFOUND;
   } catch {
@@ -23,7 +25,11 @@ export function parseHash(hash) {
   }
 }
 
-export function buildHash(route, { id, query = {} } = {}) {
+export function buildHash(route, { id, kind, query = {} } = {}) {
+  if (route === 'map') {
+    const list = Object.entries(MAPPABLE).find(([, one]) => one === kind)?.[0];
+    return `#/${list}/${encodeURIComponent(id)}/map`;
+  }
   const seg = route === 'home' ? '' : route === 'search' ? 'search'
     : Object.entries(LISTS).find(([, one]) => one === route)?.[0] ?? route;
   const q = Object.entries(query).filter(([, v]) => v !== '' && v != null)

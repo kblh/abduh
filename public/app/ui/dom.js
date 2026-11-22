@@ -21,3 +21,21 @@ export function svg(markup) {
   t.innerHTML = markup.trim();
   return t.content.firstChild;
 }
+
+const SVG_NS = 'http://www.w3.org/2000/svg';
+export function s(tag, props, ...children) {
+  const el = document.createElementNS(SVG_NS, tag);
+  for (const [k, v] of Object.entries(props ?? {})) {
+    if (v == null || v === false) continue;
+    if (k === 'class') el.setAttribute('class', v);
+    else if (k.startsWith('on')) el.addEventListener(k.slice(2).toLowerCase(), v);
+    else el.setAttribute(k, v === true ? '' : v);
+  }
+  const add = (c) => {
+    if (c == null || c === false) return;
+    if (Array.isArray(c)) c.forEach(add);
+    else el.append(c instanceof Node ? c : document.createTextNode(String(c)));
+  };
+  children.forEach(add);
+  return el;
+}
