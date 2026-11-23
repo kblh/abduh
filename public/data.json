@@ -1000,8 +1000,7 @@
         }
       ],
       "modified": "2026-11-18",
-      "body": "Brazilský bubeník a perkusionista, který se proslavil koncem šedesátých let v souboru Quarteto Novo. Po přesídlení do USA hrál jazzfusion s Milesem Davisem, Return to Forever, Weather Report a Santanou. Je manželem zpěvačky Flory Purim.\n",
-      "rank": 11
+      "body": "Brazilský bubeník a perkusionista, který se proslavil koncem šedesátých let v souboru Quarteto Novo. Po přesídlení do USA hrál jazzfusion s Milesem Davisem, Return to Forever, Weather Report a Santanou. Je manželem zpěvačky Flory Purim.\n"
     },
     {
       "id": "aiwa",
@@ -2543,7 +2542,7 @@
       ],
       "added": "2026-11-19",
       "body": "Aris San (vlastním jménem Aristidis Seisanas, 1940–1992) byl řecko-izraelský zpěvák a majitel nočních klubů, rodák z Kalamaty. V sedmnácti letech odplul do Izraele, kde v klubu v Jaffě hrál na elektrickou kytaru jako na buzuki a spojoval řeckou hudbu s mizrachijskými vlivy, čímž ji v izraelské společnosti zpopularizoval. Proslavily ho písně jako „Sigal“ a „[[boom-pam|Boom Pam]]“. Později žil v New Yorku, kde provozoval klub Sirocco, a zemřel v Budapešti.\n",
-      "rank": 1
+      "rank": 6
     },
     {
       "id": "aristides-moschos",
@@ -3188,8 +3187,7 @@
         }
       ],
       "modified": "2026-11-19",
-      "body": "Alžírský zpěvák, textař a hudebník, vlastním jménem Abdelaziz Bekhti, narozený roku 1963 v Cherchellu.\n",
-      "rank": 7
+      "body": "Alžírský zpěvák, textař a hudebník, vlastním jménem Abdelaziz Bekhti, narozený roku 1963 v Cherchellu.\n"
     },
     {
       "id": "babatunde-olatunji",
@@ -4890,7 +4888,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Telavivská kapela založená v roce 2003 a pojmenovaná podle písně Arise Sana. Kvarteto s elektrickou kytarou, tubou, klávesami a bicími mísí surf rock s tureckými, balkánskými a středomořskými vlivy. Mezi alba patří Boom Pam (2005), Puerto Rican Nights (2008), Alakazam (2010) a Royal (2023).\n",
-      "rank": 6
+      "rank": 11
     },
     {
       "id": "boot",
@@ -5792,7 +5790,9 @@
           "url": "https://en.wikipedia.org/wiki/Caravan_Palace"
         }
       ],
-      "body": "Caravan Palace je francouzská electro-swingová kapela z Paříže. K jejím vlivům patří [[django-reinhardt|Django Reinhardt]], Vitalic, Lionel Hampton nebo Daft Punk. Debutové album vydala v říjnu 2008 u labelu Wagram a ve Francii se dostalo na 11. místo žebříčku.\n"
+      "modified": "2026-11-23",
+      "body": "Caravan Palace je francouzská electro-swingová kapela z Paříže. K jejím vlivům patří [[django-reinhardt|Django Reinhardt]], Vitalic, [[lionel-hampton|Lionel Hampton]] nebo Daft Punk. Debutové album vydala v říjnu 2008 u labelu Wagram a ve Francii se dostalo na 11. místo žebříčku.\n",
+      "rank": 4
     },
     {
       "id": "carel-kraayenhof",
@@ -8268,7 +8268,7 @@
       ],
       "added": "2026-11-23",
       "body": "Mexický hudebník z Mexico City, který si většinu své hudby sám skládá, aranžuje a produkuje. Pohybuje se mezi experimentální a elektronickou hudbou se snovým, minimalistickým zvukem. Debutoval EP Dewey Martino 0 (2021), ve stejném roce vyšlo album Los Desamores de Dewey Martino.\n",
-      "rank": 0
+      "rank": 5
     },
     {
       "id": "dezoriental",
@@ -11963,6 +11963,30 @@
       "body": "Garmarna je švédská folkrocková kapela, jejíž písně vycházejí hlavně ze starých skandinávských balad. Album 6 z roku 2016 vyšlo po patnáctileté pauze, je elektroničtější a věnuje se aktuálním tématům jako uprchlíci, hranice a předsudky.\n"
     },
     {
+      "id": "gary-burton",
+      "name": "Gary Burton",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "vibraphone"
+      ],
+      "image": "img/bands/gary-burton.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Gary_Burton.jpg",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
+        }
+      ],
+      "added": "2026-11-23",
+      "body": "Americký jazzový vibrafonista narozený roku 1943 v Indianě. Proslul čtyřpalicovou technikou hry, díky níž z vibrafonu dělá plnohodnotný akordický nástroj. Hrál mimo jiné s Georgem Shearingem a Stanem Getzem, dlouhodobě spolupracoval s pianistou [[chick-corea|Chickem Coreou]] a později vyučoval na Berklee College of Music.\n",
+      "rank": 0
+    },
+    {
       "id": "gasper",
       "name": "Gasper",
       "countries": [
@@ -12126,7 +12150,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Georgia Dagaki je řecká zpěvačka a hráčka na lyru. Na lyru začala hrát ve dvanácti letech a v šestnácti už patřila k uznávaným postavám krétské lidové scény, kde je žen na tento nástroj málo. V roce 2009 se stala členkou kapely Erica [[burdon|Burdona]] a vydala debutové album Secret Love; později natočila i coververze písní významných řeckých skladatelů.\n",
-      "rank": 2
+      "rank": 7
     },
     {
       "id": "georgia-ruth",
@@ -14233,7 +14257,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Syrská skupina z Damašku, založená v roce 2002, která spojuje rock s hudbou Blízkého východu. Jádrem je kytarové a oudové duo kolem [[khaled|Khaleda]] Aljaramaniho, který vyučoval na damašské konzervatoři a v roce 2011 odešel do Francie. První album vyšlo v roce 2005, do roku 2013 skupina vydala tři alba a hrála i v Paříži.\n",
-      "rank": 3
+      "rank": 8
     },
     {
       "id": "inti-illimani",
@@ -15363,6 +15387,30 @@
         }
       ],
       "body": "Rakouský jazzový a jazzfusion klávesista a skladatel (1932–2007). Proslul u saxofonisty Cannonballa Adderleyho, hrál s Milesem Davisem a spoluzaložil skupiny Weather Report a The Zawinul Syndicate. Průkopnicky používal elektrické piano a syntezátor a čtenáři DownBeatu ho 28krát zvolili nejlepším elektrickým klávesistou.\n"
+    },
+    {
+      "id": "joel-ross",
+      "name": "Joel Ross",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "vibraphone"
+      ],
+      "image": "img/bands/joel-ross.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Joel_Ross_Kongsberg_Jazzfestival_2023_(195514).jpg",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "added": "2026-11-23",
+      "body": "Americký vibrafonista a skladatel z Chicaga, který patří k nejvýraznějším tvářím současné jazzové scény. Je členem labelu Blue Note, kde vydal alba jako KingMaker a Who Are You?, a spolupracuje s řadou mladých jazzmanů.\n",
+      "rank": 1
     },
     {
       "id": "joel-rubin",
@@ -18916,6 +18964,30 @@
         }
       ],
       "body": "Lindigo je skupina hrající maloya z ostrova Réunion, založená v roce 1999 v Bras-Panonu, jejímž lídrem je zpěvák a hudebník Olivier Araste. Akustickou maloyu doplňuje o vlivy afrobeatu, mandingské a afrokubánské hudby. Vydala osm alb a odehrála přes 1500 koncertů.\n"
+    },
+    {
+      "id": "lionel-hampton",
+      "name": "Lionel Hampton",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "vibraphone"
+      ],
+      "image": "img/bands/lionel-hampton.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Lionel_Hampton_1948.jpg",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        }
+      ],
+      "added": "2026-11-23",
+      "body": "Americký jazzový vibrafonista, bubeník a kapelník (1908–2002). Jako první učinil z vibrafonu významný jazzový nástroj, proslavil se v kvartetu Benny Goodmana a od 40. let vedl vlastní energický big band, známý hitem Flying Home.\n",
+      "rank": 2
     },
     {
       "id": "lira",
@@ -27547,6 +27619,31 @@
       "body": ""
     },
     {
+      "id": "roy-ayers",
+      "name": "Roy Ayers",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz",
+        "funk"
+      ],
+      "instruments": [
+        "vibraphone"
+      ],
+      "image": "img/bands/roy-ayers.avif",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Roy_Ayers_1.jpg",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "added": "2026-11-23",
+      "body": "Americký vibrafonista, zpěvák a skladatel z Los Angeles, narozený roku 1940. Od hard bopu přešel k jazz-funku a soulu a se skupinou Ubiquity natočil hity jako Everybody Loves the Sunshine. Jeho nahrávky patří k nejčastěji samplovaným, hlavně v hip hopu a acid jazzu.\n",
+      "rank": 3
+    },
+    {
       "id": "roy-paci-aretuska",
       "name": "Roy Paci & Aretuska",
       "countries": [
@@ -29096,8 +29193,7 @@
         }
       ],
       "modified": "2026-11-19",
-      "body": "Cheikh Sidi Bémol je rocková skupina, kterou v roce 1992 založil Hocine „Elho“ Boukella v pařížském předměstí. Její zvuk spojuje rock a blues s keltsky laděnými baladami a tradičními alžírskými žánry, jako je chaâbi, gnawa a melhoun. Vydala například alba El Bandi, Gourbi Rock nebo Chouf!.\n",
-      "rank": 8
+      "body": "Cheikh Sidi Bémol je rocková skupina, kterou v roce 1992 založil Hocine „Elho“ Boukella v pařížském předměstí. Její zvuk spojuje rock a blues s keltsky laděnými baladami a tradičními alžírskými žánry, jako je chaâbi, gnawa a melhoun. Vydala například alba El Bandi, Gourbi Rock nebo Chouf!.\n"
     },
     {
       "id": "sidi-toure",
@@ -32987,7 +33083,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Tucanas je portugalská ženská bubenická skupina, která od roku 2001 pracuje na projektu spojujícím perkuse, hlasy a akordeon a skládá vlastní písně. Tvoří ji Sara Jónatas, Ana Cláudia Gonçalves, [[catarina|Catarina]] Ribeiro, Marina Henriques a Mónica Rocha. Debutové album Maria Café vyšlo u Farolu a hostují na něm Amélia Muge a dechová skupina [[kumpania-algazarra|Kumpania Algazarra]].\n",
-      "rank": 4
+      "rank": 9
     },
     {
       "id": "tulipa-ruiz",
@@ -33908,8 +34004,7 @@
       "image": "img/bands/vulgargrad.avif",
       "image_source": "https://www.deezer.com/artist/1588639",
       "modified": "2026-11-19",
-      "body": "VulgarGrad je sedmičlenná melbournská kapela, která hraje folkově-funkově-polkově-punkové verze tradičních ruských lidových a zlodějských písní (blatnyje pesni) a punkových klasik z doby perestrojky. Frontmanem je polsky narozený Jacek Koman. Skupina zazněla v roce 2008 v soundtracku australského seriálu Underbelly. Album King of Crooks.\n",
-      "rank": 9
+      "body": "VulgarGrad je sedmičlenná melbournská kapela, která hraje folkově-funkově-polkově-punkové verze tradičních ruských lidových a zlodějských písní (blatnyje pesni) a punkových klasik z doby perestrojky. Frontmanem je polsky narozený Jacek Koman. Skupina zazněla v roce 2008 v soundtracku australského seriálu Underbelly. Album King of Crooks.\n"
     },
     {
       "id": "waaberi",
@@ -35040,7 +35135,7 @@
       "wikipedia": "https://en.wikipedia.org/wiki/Zita_Swoon",
       "modified": "2026-11-19",
       "body": "Zita Swoon je belgická indie rocková skupina, kterou v Antverpách roku 1993 založili Stef Kamil Carlens, člen dEUS, a Aarich Jespers; původně vystupovala jako A Beatband a [[moondog|Moondog]] Jr. Po sporu o jméno Moondog přijala název Zita Swoon. Mezi alba patří I Paint Pictures on a Wedding Dress (1998), Life = A Sexy Sanctuary (2001), Big City (2007) a jako Zita Swoon Group Wait for Me (2012).\n",
-      "rank": 5
+      "rank": 10
     },
     {
       "id": "ziveli-orkestar",
@@ -35113,8 +35208,7 @@
         }
       ],
       "modified": "2026-11-19",
-      "body": "Zoran Predin je slovinský zpěvák, kytarista a skladatel narozený roku 1958 v Mariboru. V osmdesátých letech byl frontmanem rockové kapely Lačni Franz a od té doby vydává sólová alba a skládá pro film, televizi a divadlo. Spoluskládal také hymnu slovinské fotbalové reprezentace pro Euro 2000.\n",
-      "rank": 10
+      "body": "Zoran Predin je slovinský zpěvák, kytarista a skladatel narozený roku 1958 v Mariboru. V osmdesátých letech byl frontmanem rockové kapely Lačni Franz a od té doby vydává sólová alba a skládá pro film, televizi a divadlo. Spoluskládal také hymnu slovinské fotbalové reprezentace pro Euro 2000.\n"
     },
     {
       "id": "zorita",
@@ -35253,7 +35347,7 @@
       ],
       "added": "2026-11-19",
       "body": "",
-      "rank": 1
+      "rank": 3
     },
     {
       "id": "aris-san-sigal-boom-pam-pepeloma",
@@ -35272,7 +35366,7 @@
       ],
       "added": "2026-11-19",
       "body": "",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "bombino-nomad",
@@ -35351,8 +35445,7 @@
       ],
       "added": "2026-11-14",
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "dewey-martino-los-desamores-de-dewey-martino",
@@ -35372,6 +35465,25 @@
         {
           "type": "bandcamp",
           "url": "https://deweymartino2.bandcamp.com/album/los-desamores-de-dewey-martino"
+        }
+      ],
+      "added": "2026-11-23",
+      "body": "",
+      "rank": 2
+    },
+    {
+      "id": "gary-burton-crystal-silence",
+      "name": "Crystal Silence",
+      "bands": [
+        "gary-burton"
+      ],
+      "year": 1973,
+      "image": "img/cds/gary-burton-crystal-silence.avif",
+      "image_source": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
         }
       ],
       "added": "2026-11-23",
@@ -35594,7 +35706,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "lucrecia-dalt-a-danger-to-ourselves",
@@ -35764,7 +35876,7 @@
       ],
       "added": "2026-11-18",
       "body": "",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "robert-plant-saving-grace",
@@ -35783,7 +35895,7 @@
       ],
       "added": "2026-11-18",
       "body": "",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "rosalia-vila-tobella-el-mal-querer",
@@ -35820,6 +35932,25 @@
       "image_source": "lokální soubor (obal alba Motomami)",
       "added": "2026-11-17",
       "body": ""
+    },
+    {
+      "id": "roy-ayers-ubiquity",
+      "name": "Ubiquity",
+      "bands": [
+        "roy-ayers"
+      ],
+      "year": 1970,
+      "image": "img/cds/roy-ayers-ubiquity.avif",
+      "image_source": "https://open.spotify.com/album/5yzOqiGbl3VgoJQF2jk198",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5yzOqiGbl3VgoJQF2jk198"
+        }
+      ],
+      "added": "2026-11-23",
+      "body": "",
+      "rank": 1
     },
     {
       "id": "salami-rose-joe-louis-akousmatikous",
@@ -35909,7 +36040,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "salif-keita-moffou",
@@ -35928,7 +36059,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "salif-keita-tale",
@@ -35947,7 +36078,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "salif-keita-un-autre-blanc",
@@ -35966,7 +36097,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "sara-gioielli-gioielli-neri",
@@ -36013,8 +36144,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 10
+      "body": ""
     }
   ],
   "shelves": [
