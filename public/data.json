@@ -1001,7 +1001,7 @@
       ],
       "modified": "2026-11-18",
       "body": "Brazilský bubeník a perkusionista, který se proslavil koncem šedesátých let v souboru Quarteto Novo. Po přesídlení do USA hrál jazzfusion s Milesem Davisem, Return to Forever, Weather Report a Santanou. Je manželem zpěvačky Flory Purim.\n",
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "aiwa",
@@ -2169,8 +2169,7 @@
         }
       ],
       "modified": "2026-11-18",
-      "body": "Zpěvačka, tamburellistka, tanečnice a badatelka tradiční hudby ze Salenta v jižní Itálii, spojená s městečkem Zollino. S folkovými soubory vystupuje od začátku devadesátých let a učí se od starých zpěváků z malých vesnic. Vydala například alba Ninnamorella (2008), Salento in Dub (2010) a Fimmana, mare e focu.\n",
-      "rank": 11
+      "body": "Zpěvačka, tamburellistka, tanečnice a badatelka tradiční hudby ze Salenta v jižní Itálii, spojená s městečkem Zollino. S folkovými soubory vystupuje od začátku devadesátých let a učí se od starých zpěváků z malých vesnic. Vydala například alba Ninnamorella (2008), Salento in Dub (2010) a Fimmana, mare e focu.\n"
     },
     {
       "id": "anna-rynefors-erik-ask-upmark",
@@ -2544,7 +2543,7 @@
       ],
       "added": "2026-11-19",
       "body": "Aris San (vlastním jménem Aristidis Seisanas, 1940–1992) byl řecko-izraelský zpěvák a majitel nočních klubů, rodák z Kalamaty. V sedmnácti letech odplul do Izraele, kde v klubu v Jaffě hrál na elektrickou kytaru jako na buzuki a spojoval řeckou hudbu s mizrachijskými vlivy, čímž ji v izraelské společnosti zpopularizoval. Proslavily ho písně jako „Sigal“ a „[[boom-pam|Boom Pam]]“. Později žil v New Yorku, kde provozoval klub Sirocco, a zemřel v Budapešti.\n",
-      "rank": 0
+      "rank": 1
     },
     {
       "id": "aristides-moschos",
@@ -3190,7 +3189,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Alžírský zpěvák, textař a hudebník, vlastním jménem Abdelaziz Bekhti, narozený roku 1963 v Cherchellu.\n",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "babatunde-olatunji",
@@ -4891,7 +4890,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Telavivská kapela založená v roce 2003 a pojmenovaná podle písně Arise Sana. Kvarteto s elektrickou kytarou, tubou, klávesami a bicími mísí surf rock s tureckými, balkánskými a středomořskými vlivy. Mezi alba patří Boom Pam (2005), Puerto Rican Nights (2008), Alakazam (2010) a Royal (2023).\n",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "boot",
@@ -8244,6 +8243,30 @@
         }
       ],
       "body": "Americké multiinstrumentální a vokální těleso založené v roce 1997 v Denveru ve státě Colorado. Tvoří ho Nick Urata, Tom Hagerman, Jeanie Schroder a Shawn King.\n"
+    },
+    {
+      "id": "dewey-martino",
+      "name": "Dewey Martino",
+      "countries": [
+        "mexico"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://deweymartino2.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-23",
+      "body": "Mexický hudebník z Mexico City, který si většinu své hudby sám skládá, aranžuje a produkuje. Pohybuje se mezi experimentální a elektronickou hudbou se snovým, minimalistickým zvukem. Debutoval EP Dewey Martino 0 (2021), ve stejném roce vyšlo album Los Desamores de Dewey Martino.\n",
+      "rank": 0
     },
     {
       "id": "dezoriental",
@@ -12101,7 +12124,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Georgia Dagaki je řecká zpěvačka a hráčka na lyru. Na lyru začala hrát ve dvanácti letech a v šestnácti už patřila k uznávaným postavám krétské lidové scény, kde je žen na tento nástroj málo. V roce 2009 se stala členkou kapely Erica [[burdon|Burdona]] a vydala debutové album Secret Love; později natočila i coververze písní významných řeckých skladatelů.\n",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "georgia-ruth",
@@ -14208,7 +14231,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Syrská skupina z Damašku, založená v roce 2002, která spojuje rock s hudbou Blízkého východu. Jádrem je kytarové a oudové duo kolem [[khaled|Khaleda]] Aljaramaniho, který vyučoval na damašské konzervatoři a v roce 2011 odešel do Francie. První album vyšlo v roce 2005, do roku 2013 skupina vydala tři alba a hrála i v Paříži.\n",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "inti-illimani",
@@ -29072,7 +29095,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Cheikh Sidi Bémol je rocková skupina, kterou v roce 1992 založil Hocine „Elho“ Boukella v pařížském předměstí. Její zvuk spojuje rock a blues s keltsky laděnými baladami a tradičními alžírskými žánry, jako je chaâbi, gnawa a melhoun. Vydala například alba El Bandi, Gourbi Rock nebo Chouf!.\n",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "sidi-toure",
@@ -32962,7 +32985,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Tucanas je portugalská ženská bubenická skupina, která od roku 2001 pracuje na projektu spojujícím perkuse, hlasy a akordeon a skládá vlastní písně. Tvoří ji Sara Jónatas, Ana Cláudia Gonçalves, [[catarina|Catarina]] Ribeiro, Marina Henriques a Mónica Rocha. Debutové album Maria Café vyšlo u Farolu a hostují na něm Amélia Muge a dechová skupina [[kumpania-algazarra|Kumpania Algazarra]].\n",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "tulipa-ruiz",
@@ -33884,7 +33907,7 @@
       "image_source": "https://www.deezer.com/artist/1588639",
       "modified": "2026-11-19",
       "body": "VulgarGrad je sedmičlenná melbournská kapela, která hraje folkově-funkově-polkově-punkové verze tradičních ruských lidových a zlodějských písní (blatnyje pesni) a punkových klasik z doby perestrojky. Frontmanem je polsky narozený Jacek Koman. Skupina zazněla v roce 2008 v soundtracku australského seriálu Underbelly. Album King of Crooks.\n",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "waaberi",
@@ -35015,7 +35038,7 @@
       "wikipedia": "https://en.wikipedia.org/wiki/Zita_Swoon",
       "modified": "2026-11-19",
       "body": "Zita Swoon je belgická indie rocková skupina, kterou v Antverpách roku 1993 založili Stef Kamil Carlens, člen dEUS, a Aarich Jespers; původně vystupovala jako A Beatband a [[moondog|Moondog]] Jr. Po sporu o jméno Moondog přijala název Zita Swoon. Mezi alba patří I Paint Pictures on a Wedding Dress (1998), Life = A Sexy Sanctuary (2001), Big City (2007) a jako Zita Swoon Group Wait for Me (2012).\n",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "ziveli-orkestar",
@@ -35089,7 +35112,7 @@
       ],
       "modified": "2026-11-19",
       "body": "Zoran Predin je slovinský zpěvák, kytarista a skladatel narozený roku 1958 v Mariboru. V osmdesátých letech byl frontmanem rockové kapely Lačni Franz a od té doby vydává sólová alba a skládá pro film, televizi a divadlo. Spoluskládal také hymnu slovinské fotbalové reprezentace pro Euro 2000.\n",
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "zorita",
@@ -35228,7 +35251,7 @@
       ],
       "added": "2026-11-19",
       "body": "",
-      "rank": 0
+      "rank": 1
     },
     {
       "id": "aris-san-sigal-boom-pam-pepeloma",
@@ -35247,7 +35270,7 @@
       ],
       "added": "2026-11-19",
       "body": "",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "bombino-nomad",
@@ -35327,7 +35350,31 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 10
+      "rank": 11
+    },
+    {
+      "id": "dewey-martino-los-desamores-de-dewey-martino",
+      "name": "Los Desamores de Dewey Martino",
+      "bands": [
+        "dewey-martino"
+      ],
+      "year": 2021,
+      "image": "img/cds/dewey-martino-los-desamores-de-dewey-martino.avif",
+      "image_source": "https://deweymartino2.bandcamp.com/album/los-desamores-de-dewey-martino",
+      "bandcamp_id": 4119962513,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://deweymartino2.bandcamp.com/album/los-desamores-de-dewey-martino"
+        }
+      ],
+      "added": "2026-11-23",
+      "body": "",
+      "rank": 0
     },
     {
       "id": "gijs-levelt-bustle",
@@ -35397,8 +35444,7 @@
       ],
       "added": "2026-11-14",
       "modified": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "juana-molina-halo",
@@ -35546,7 +35592,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "lucrecia-dalt-a-danger-to-ourselves",
@@ -35716,7 +35762,7 @@
       ],
       "added": "2026-11-18",
       "body": "",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "robert-plant-saving-grace",
@@ -35735,7 +35781,7 @@
       ],
       "added": "2026-11-18",
       "body": "",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "rosalia-vila-tobella-el-mal-querer",
@@ -35861,7 +35907,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "salif-keita-moffou",
@@ -35880,7 +35926,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "salif-keita-tale",
@@ -35899,7 +35945,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "salif-keita-un-autre-blanc",
@@ -35918,7 +35964,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "sara-gioielli-gioielli-neri",
@@ -35966,7 +36012,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 9
+      "rank": 10
     }
   ],
   "shelves": [
@@ -35980,11 +36026,16 @@
         "dawuna",
         "sara-gioielli",
         "kamilya-jubran",
-        "the-growth-eternal"
+        "the-growth-eternal",
+        "dewey-martino"
+      ],
+      "cds": [
+        "dewey-martino-los-desamores-de-dewey-martino"
       ],
       "added": "2026-11-17",
+      "modified": "2026-11-23",
       "body": "",
-      "rank": 1
+      "rank": 0
     },
     {
       "id": "ita",
@@ -36014,7 +36065,7 @@
       "added": "2026-11-13",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 0
+      "rank": 1
     }
   ],
   "countries": [

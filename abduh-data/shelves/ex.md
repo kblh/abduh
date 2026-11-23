@@ -10,4 +10,7 @@ bands:
   - "[[sara-gioielli]]"
   - "[[kamilya-jubran]]"
   - "[[the-growth-eternal]]"
+  - "[[dewey-martino]]"
+cds:
+  - "[[dewey-martino-los-desamores-de-dewey-martino]]"
 ---
