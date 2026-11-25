@@ -31,7 +31,7 @@ export function render({ store, params }) {
     notes ? h('div', null, sectionTitle('Poznámky'), notes) : null,
     others.length ? h('div', null, sectionTitle(`Další od ${bands[0]?.name ?? ''}`), h('div', { class: 'cd-grid' }, others.map((c) => cdCard(store, c)))) : null,
     shelves.length ? h('div', null, sectionTitle('Na poličkách'), h('div', { class: 'chips' }, shelves.map((s) => chip(s.name, `#/shelves/${encodeURIComponent(s.id)}`, 'instrument')))) : null,
-    bandcampPlayer(cd));
+    cdPlayer(cd));
 }
 
 // Bandcamp's embed needs the numeric album id (bandcamp_id), not the album URL.
@@ -42,13 +42,30 @@ const playerSrc = (id) => {
   return `https://bandcamp.com/EmbeddedPlayer/album=${id}/size=large/bgcol=${bg}/linkcol=${link}/tracklist=true/artwork=small/`;
 };
 
-function bandcampPlayer(cd) {
+// Spotify's embed takes the album id from the album link; the theme is a URL param too (0 = dark).
+const spotifyId = (cd) => {
+  for (const l of cd.links ?? []) {
+    const m = l.type === 'spotify' && /open\.spotify\.com\/(?:intl-[a-z]+\/)?album\/([A-Za-z0-9]+)/.exec(l.url);
+    if (m) return m[1];
+  }
+  return null;
+};
+const spotifySrc = (id) => `https://open.spotify.com/embed/album/${id}?theme=${effectiveTheme() === 'dark' ? 0 : 1}`;
+
+// Bandcamp wins when the CD has both; Spotify is the fallback.
+function cdPlayer(cd) {
   const hasLink = (cd.links ?? []).some((l) => l.type === 'bandcamp');
-  if (!hasLink || !Number.isInteger(cd.bandcamp_id)) return null;
-  const frame = h('iframe', { class: 'bandcamp-player', src: playerSrc(cd.bandcamp_id), title: `Bandcamp: ${cd.name}`, loading: 'lazy' });
+  let frame, srcFor;
+  if (hasLink && Number.isInteger(cd.bandcamp_id)) {
+    srcFor = () => playerSrc(cd.bandcamp_id);
+    frame = h('iframe', { class: 'bandcamp-player', src: srcFor(), title: `Bandcamp: ${cd.name}`, loading: 'lazy' });
+  } else if (spotifyId(cd)) {
+    srcFor = () => spotifySrc(spotifyId(cd));
+    frame = h('iframe', { class: 'spotify-player', src: srcFor(), title: `Spotify: ${cd.name}`, loading: 'lazy', allow: 'encrypted-media' });
+  } else return null;
   const refresh = () => {
     if (!frame.isConnected) { observer.disconnect(); mq.removeEventListener('change', refresh); return; }
-    const src = playerSrc(cd.bandcamp_id);
+    const src = srcFor();
     if (frame.getAttribute('src') !== src) frame.setAttribute('src', src);
   };
   const observer = new MutationObserver(refresh);

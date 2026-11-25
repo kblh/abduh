@@ -110,7 +110,7 @@ Pasti, na které jsme narazili:
 - `build.js` – popsáno výše.
 - `add-entity.js` – zapíše kapelu, CD, poličku, tag, styl nebo nástroj (JSON na vstupu, hlídá duplicity; ID jsou unikátní napříč typy, např. `lira` je kapela, a proto nástroj je `lira-nastroj`). `--merge` doplní prázdná pole a připojí nové odkazy, členy, tagy nebo položky na poličku.
 - `add-image.js` – stáhne obrázek (nebo vezme lokální soubor) a převede ho na AVIF 400×400 oříznutím na čtverec. Typy `band`, `cd`, `instrument`. Když server vrátí chybu (např. Wikimedia 429), stáhnout přes `curl -A "Mozilla/5.0"` a předat lokální cestu.
-- `add-bandcamp-ids.js` – každému CD s odkazem na Bandcamp album doplní `bandcamp_id` (číselné ID alba z HTML stránky). Podle něj detail CD na konci stránky ukáže embed přehrávač Bandcampu; bez ID se přehrávač nezobrazí.
+- `add-bandcamp-ids.js` – každému CD s odkazem na Bandcamp album doplní `bandcamp_id` (číselné ID alba z HTML stránky). Podle něj detail CD na konci stránky ukáže embed přehrávač Bandcampu. Nemá-li CD použitelné Bandcamp ID, ukáže se embed přehrávač Spotify (odvozený z odkazu na album, nic se neukládá); má-li obojí, vyhrává Bandcamp.
 - `extract-links.js`, `apple-notes.js` – pomůcky pro skill.
 - `migrate.js` – jednorázový převod ze starého Obsidian vaultu (už proběhl).
 - `serve.js` – lokální server, `make-fixture.mjs` – ukázková data, `make-icons.mjs` – ikony aplikace z loga.

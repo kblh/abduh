@@ -146,6 +146,7 @@
 .home-bands > * { min-width: 0; }
 @media (min-width: 900px) { .home-bands { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .bandcamp-player { display: block; width: 100%; max-width: 350px; height: 472px; border: 0; }
+.spotify-player { display: block; width: 100%; max-width: 350px; height: 352px; border: 0; border-radius: 12px; }
 
 /* mind map */
 body[data-route="map"] .shell { max-width: none; padding: 0 0 0; }
