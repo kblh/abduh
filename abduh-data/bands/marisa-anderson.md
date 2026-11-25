@@ -14,6 +14,8 @@ image_source: https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW
 links:
   - type: spotify
     url: https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW
+  - type: bandcamp
+    url: https://marisaanderson.bandcamp.com
 ---
 
 Americká kytaristka z Portlandu, která v instrumentální hudbě spojuje blues, gospel, lidovou muziku a americkou primitivní kytaru (American primitive).
