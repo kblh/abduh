@@ -2541,8 +2541,7 @@
         }
       ],
       "added": "2026-11-19",
-      "body": "Aris San (vlastním jménem Aristidis Seisanas, 1940–1992) byl řecko-izraelský zpěvák a majitel nočních klubů, rodák z Kalamaty. V sedmnácti letech odplul do Izraele, kde v klubu v Jaffě hrál na elektrickou kytaru jako na buzuki a spojoval řeckou hudbu s mizrachijskými vlivy, čímž ji v izraelské společnosti zpopularizoval. Proslavily ho písně jako „Sigal“ a „[[boom-pam|Boom Pam]]“. Později žil v New Yorku, kde provozoval klub Sirocco, a zemřel v Budapešti.\n",
-      "rank": 7
+      "body": "Aris San (vlastním jménem Aristidis Seisanas, 1940–1992) byl řecko-izraelský zpěvák a majitel nočních klubů, rodák z Kalamaty. V sedmnácti letech odplul do Izraele, kde v klubu v Jaffě hrál na elektrickou kytaru jako na buzuki a spojoval řeckou hudbu s mizrachijskými vlivy, čímž ji v izraelské společnosti zpopularizoval. Proslavily ho písně jako „Sigal“ a „[[boom-pam|Boom Pam]]“. Později žil v New Yorku, kde provozoval klub Sirocco, a zemřel v Budapešti.\n"
     },
     {
       "id": "aristides-moschos",
@@ -3138,6 +3137,30 @@
       "body": "Azúcar Moreno je španělské pěvecké duo sester Antonie a Encarnación Salazarových z Badajozu. Začínaly jako doprovodné zpěvačky svých bratrů Los Chunguitos a v roce 1982 podepsaly smlouvu s EMI Spain. V roce 1990 reprezentovaly Španělsko na Eurovizi písní Bandido a skončily páté. K jejich největším hitům patří Solo se vive una vez a Mambo.\n"
     },
     {
+      "id": "b-b-king",
+      "name": "B.B. King",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "blues"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/b-b-king.avif",
+      "image_source": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký bluesový kytarista a zpěvák (1925-2015) z Mississippi, přezdívaný král blues. Jeho kytaru Lucille a jemný, zpěvný styl hry s vibratem ovlivnily generace kytaristů.\n",
+      "rank": 0
+    },
+    {
       "id": "ba-cissoko",
       "name": "Ba Cissoko",
       "countries": [
@@ -3645,6 +3668,30 @@
         }
       ],
       "body": "Peruánská kapela hrající alternativní tropickou hudbu, která mísí cumbiu, chichu a peruánský folklor s reggae, ska, funkem a rockem. Byla dvakrát nominována na Latin Grammy (2012 a 2016) a koncertovala v mnoha zemích, například ve Španělsku, Francii, Japonsku či USA, a vystoupila i na festivalu Roskilde.\n"
+    },
+    {
+      "id": "barney-kessel",
+      "name": "Barney Kessel",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/barney-kessel.avif",
+      "image_source": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký jazzový kytarista (1923–2004), který hrál v malých jazzových sestavách i jako studiový hudebník. Podílel se na řadě nahrávek, třeba trio Great Guitars.\n",
+      "rank": 1
     },
     {
       "id": "basco",
@@ -4224,6 +4271,34 @@
       "image": "img/bands/bijan-chemirani.avif",
       "image_source": "https://www.deezer.com/artist/2037001",
       "body": "Bijan Chemirani je francouzský perkusionista íránského původu, hráč na zarb, syn Djamchida Chemiraniho, od kterého dostal první zarb v sedmi letech. Hraje také na daf, riq a cajón a účinkuje v souborech [[trio-chemirani|Trio Chemirani]] či Oneira. Nahrál alba Gulistan s Rossem Dalym a Kismet se Steliosem Petrakisem.\n"
+    },
+    {
+      "id": "bill-frisell",
+      "name": "Bill Frisell",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/bill-frisell.avif",
+      "image_source": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "type": "website",
+          "url": "http://www.billfrisell.com/"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký kytarista narozený v roce 1951. V jazzu vyniká atmosférickým, melodickým zvukem a rád ho propojuje s americkou lidovou hudbou, country a bluesem. Za svou kariéru spolupracoval s množstvím hudebníků a vydal desítky alb.\n",
+      "rank": 2
     },
     {
       "id": "bill-whelan",
@@ -5165,7 +5240,8 @@
           "url": "https://en.wikipedia.org/wiki/Buckwheat_Zydeco"
         }
       ],
-      "body": "Stanley Dural Jr. (1947-2016) z Lafayette v Louisianě, akordeonista, který zydeco dostal k širokému publiku. Hrál mimo jiné s Ericem Claptonem a vystoupil na závěrečném ceremoniálu olympiády v Atlantě 1996. Jeho album Lay Your Burden Down získalo Grammy.\n"
+      "modified": "2026-11-25",
+      "body": "Stanley Dural Jr. (1947-2016) z Lafayette v Louisianě, akordeonista, který zydeco dostal k širokému publiku. Hrál mimo jiné s [[eric-clapton|Ericem Claptonem]] a vystoupil na závěrečném ceremoniálu olympiády v Atlantě 1996. Jeho album Lay Your Burden Down získalo Grammy.\n"
     },
     {
       "id": "budapester-klezmer-band",
@@ -5790,8 +5866,7 @@
         }
       ],
       "modified": "2026-11-23",
-      "body": "Caravan Palace je francouzská electro-swingová kapela z Paříže. K jejím vlivům patří [[django-reinhardt|Django Reinhardt]], Vitalic, [[lionel-hampton|Lionel Hampton]] nebo Daft Punk. Debutové album vydala v říjnu 2008 u labelu Wagram a ve Francii se dostalo na 11. místo žebříčku.\n",
-      "rank": 1
+      "body": "Caravan Palace je francouzská electro-swingová kapela z Paříže. K jejím vlivům patří [[django-reinhardt|Django Reinhardt]], Vitalic, [[lionel-hampton|Lionel Hampton]] nebo Daft Punk. Debutové album vydala v říjnu 2008 u labelu Wagram a ve Francii se dostalo na 11. místo žebříčku.\n"
     },
     {
       "id": "carel-kraayenhof",
@@ -7326,6 +7401,30 @@
       "body": "Crooked Still je americká akustická kapela, kterou tvoří zpěvačka Aoife O'Donovan, banjista Gregory Liszt, basista Corey DiMario, violoncellista Tristan Clarridge a houslistka Brittany Haas. Je známá energickým hraním, technickou zdatností a nezvyklým obsazením se smyčcovým violoncellem. Vydala například alba Shaken by a Low Sound a Some Strange Country.\n"
     },
     {
+      "id": "csaba-palotai",
+      "name": "Csaba Palotai",
+      "countries": [
+        "hungary"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/csaba-palotai.avif",
+      "image_source": "https://open.spotify.com/artist/5yygTGc9GsAcdKeiap00sB",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/5yygTGc9GsAcdKeiap00sB"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Maďarský kytarista a skladatel narozený v Budapešti (1972), který studoval na pařížské konzervatoři. Vede soubor Grupa Palotai a pravidelně koncertuje ve Francii a Maďarsku. Alba vydává u maďarského labelu BMC.\n",
+      "rank": 3
+    },
+    {
       "id": "cuarto-poder",
       "name": "Cuarto Poder",
       "countries": [
@@ -7600,8 +7699,7 @@
         }
       ],
       "added": "2026-11-24",
-      "body": "Soulské duo, které rozšiřuje možnosti tradičních korejských citer gayageum a geomungo. Ha Suyean a Hwang Hyeyoung vyrostly ve formální hudbě gugak, ale brzy začaly hledat vlastní cestu – mezi minimalismem, experimentálním folkem a abstraktním jazzem. Název znamená „stále něco sledovat“. Debutovaly albem Similar and Different (2021), následovalo Coexistence (2024).\n",
-      "rank": 0
+      "body": "Soulské duo, které rozšiřuje možnosti tradičních korejských citer gayageum a geomungo. Ha Suyean a Hwang Hyeyoung vyrostly ve formální hudbě gugak, ale brzy začaly hledat vlastní cestu – mezi minimalismem, experimentálním folkem a abstraktním jazzem. Název znamená „stále něco sledovat“. Debutovaly albem Similar and Different (2021), následovalo Coexistence (2024).\n"
     },
     {
       "id": "damba",
@@ -8299,8 +8397,7 @@
         }
       ],
       "added": "2026-11-23",
-      "body": "Mexický hudebník z Mexico City, který si většinu své hudby sám skládá, aranžuje a produkuje. Pohybuje se mezi experimentální a elektronickou hudbou se snovým, minimalistickým zvukem. Debutoval EP Dewey Martino 0 (2021), ve stejném roce vyšlo album Los Desamores de Dewey Martino.\n",
-      "rank": 6
+      "body": "Mexický hudebník z Mexico City, který si většinu své hudby sám skládá, aranžuje a produkuje. Pohybuje se mezi experimentální a elektronickou hudbou se snovým, minimalistickým zvukem. Debutoval EP Dewey Martino 0 (2021), ve stejném roce vyšlo album Los Desamores de Dewey Martino.\n"
     },
     {
       "id": "dezoriental",
@@ -9583,6 +9680,30 @@
       "body": "Budapešťská kapela vedená zpěvačkou Erzsi Kiss, vzniklá v roce 1996. Její hudba spojuje folk, jazz, baladu a šanson sedmdesátých let s vlivy balkánskými, africkými, tureckými i latinskými. Mezi alba patří Egy Kiss Erzsi Zene (1998), Deladela, Röné álma (2004) a Kinono (2006).\n"
     },
     {
+      "id": "eivind-aarset",
+      "name": "Eivind Aarset",
+      "countries": [
+        "norway"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/eivind-aarset.avif",
+      "image_source": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Norský kytarista a skladatel, jedna z klíčových postav nu-jazzu. Je znám atmosférickým zvukem, v němž kytaru kombinuje s elektronikou a smyčkami, a dlouhodobě spolupracuje s labelem ECM.\n",
+      "rank": 4
+    },
+    {
       "id": "eivor-palsdottir",
       "name": "Eivor Palsdottir",
       "countries": [
@@ -10036,6 +10157,33 @@
       "body": "Emily Portman je anglická folková zpěvačka, skladatelka a hráčka na banjo a concertinu, narozená v Glastonbury. Folk studovala na univerzitě v Newcastlu a od počátku 21. století působila v několika kapelách, například v akustickém triu Devil's Interval. Sólově debutovala albem The Glamoury (2010), následovala alba Hatchling (2012) a Coracle (2015) a duo album Time Was Away s Robem Harbronem (2022). Je členkou skupiny The Furrow Collective, která v roce 2017 získala cenu BBC Folk Award pro nejlepší kapelu.\n"
     },
     {
+      "id": "emily-remler",
+      "name": "Emily Remler",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "tags": [
+        "woman"
+      ],
+      "image": "img/bands/emily-remler.avif",
+      "image_source": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americká jazzová kytaristka (1957–1990), v jejíž hře je znát vliv Wese Montgomeryho. Zemřela ve dvaatřiceti letech na turné v Austrálii.\n",
+      "rank": 5
+    },
+    {
       "id": "emir-kusturica-no-smoking-orchestra",
       "name": "Emir Kusturica & No Smoking Orchestra",
       "countries": [
@@ -10335,6 +10483,29 @@
         "pizzica"
       ],
       "body": "Epifani Barbers jsou salentská skupina vedená mandolinistou Mimmem Epifanim, která hraje pizzicu a tradiční hudbu Salenta. Zaměřují se na drnkací nástroje „holičů“ v etnickém pojetí a sídlí v San Vito dei Normanni v provincii Brindisi. Natočili mimo jiné projekt Fado Attarantado s Josém Barrosem a v roce 2017 otevírali festival Notte della Taranta.\n"
+    },
+    {
+      "id": "eric-clapton",
+      "name": "Eric Clapton",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "blues",
+        "rock"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Britský kytarista, zpěvák a skladatel, jedna z největších postav bluesrocku. Hrál v Yardbirds, Cream a Derek and the Dominos a později se věnoval i sólové kariéře.\n",
+      "rank": 6
     },
     {
       "id": "eric-seva",
@@ -12015,8 +12186,7 @@
         }
       ],
       "added": "2026-11-23",
-      "body": "Americký jazzový vibrafonista narozený roku 1943 v Indianě. Proslul čtyřpalicovou technikou hry, díky níž z vibrafonu dělá plnohodnotný akordický nástroj. Hrál mimo jiné s Georgem Shearingem a Stanem Getzem, dlouhodobě spolupracoval s pianistou [[chick-corea|Chickem Coreou]] a později vyučoval na Berklee College of Music.\n",
-      "rank": 2
+      "body": "Americký jazzový vibrafonista narozený roku 1943 v Indianě. Proslul čtyřpalicovou technikou hry, díky níž z vibrafonu dělá plnohodnotný akordický nástroj. Hrál mimo jiné s Georgem Shearingem a Stanem Getzem, dlouhodobě spolupracoval s pianistou [[chick-corea|Chickem Coreou]] a později vyučoval na Berklee College of Music.\n"
     },
     {
       "id": "gasper",
@@ -12136,6 +12306,34 @@
       "body": "Geomungo Factory je jihokorejský soubor hráčů na geomungo, šestistrunnou citeru, který spojuje tradiční a současnou hudbu. Hudebníci si upravili nástroje, například xylofonové, violoncellové a elektrické geomungo. Vydali alba Metamorphosis a Imago a vystupují častěji v zahraničí než doma.\n"
     },
     {
+      "id": "george-benson",
+      "name": "George Benson",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/george-benson.avif",
+      "image_source": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "type": "website",
+          "url": "http://www.georgebenson.com/"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký kytarista a zpěvák narozený v roce 1943 v Pittsburghu. Začínal v soul jazzu, v 70. letech se s albem Breezin' prosadil u širokého publika a jeho kytarová hra se spojila se zpěvem.\n",
+      "rank": 7
+    },
+    {
       "id": "george-brooks",
       "name": "George Brooks",
       "countries": [
@@ -12181,8 +12379,7 @@
         "greece"
       ],
       "modified": "2026-11-19",
-      "body": "Georgia Dagaki je řecká zpěvačka a hráčka na lyru. Na lyru začala hrát ve dvanácti letech a v šestnácti už patřila k uznávaným postavám krétské lidové scény, kde je žen na tento nástroj málo. V roce 2009 se stala členkou kapely Erica [[burdon|Burdona]] a vydala debutové album Secret Love; později natočila i coververze písní významných řeckých skladatelů.\n",
-      "rank": 8
+      "body": "Georgia Dagaki je řecká zpěvačka a hráčka na lyru. Na lyru začala hrát ve dvanácti letech a v šestnácti už patřila k uznávaným postavám krétské lidové scény, kde je žen na tento nástroj málo. V roce 2009 se stala členkou kapely Erica [[burdon|Burdona]] a vydala debutové album Secret Love; později natočila i coververze písní významných řeckých skladatelů.\n"
     },
     {
       "id": "georgia-ruth",
@@ -12800,6 +12997,34 @@
         }
       ],
       "body": "Grannar je švédské folkové trio z jihu Švédska, které hraje tradiční taneční hudbu své domoviny i vlastní skladby v tradičním duchu. Tvoří ho Jon Sirén (housle, harmonika, zpěv), Martin Eriksson (kontrabas, zpěv) a Pär Moberg (saxofon, niněra, zpěv). Vydali alba Glaedjepojkar (2005) a Sofiagatan (2008) a koncertovali ve Švédsku, Norsku, Polsku, USA i Kanadě.\n"
+    },
+    {
+      "id": "grant-green",
+      "name": "Grant Green",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/grant-green.avif",
+      "image_source": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://grantgreen.bandcamp.com/"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký jazzový kytarista (1935–1979), jehož hudba stojí na prostých, blues cítících melodických linkách. Nahrával hlavně pro Blue Note, v soul jazzu a později i ve funku.\n",
+      "rank": 8
     },
     {
       "id": "graveyard-train",
@@ -14288,8 +14513,7 @@
         "syria"
       ],
       "modified": "2026-11-19",
-      "body": "Syrská skupina z Damašku, založená v roce 2002, která spojuje rock s hudbou Blízkého východu. Jádrem je kytarové a oudové duo kolem [[khaled|Khaleda]] Aljaramaniho, který vyučoval na damašské konzervatoři a v roce 2011 odešel do Francie. První album vyšlo v roce 2005, do roku 2013 skupina vydala tři alba a hrála i v Paříži.\n",
-      "rank": 9
+      "body": "Syrská skupina z Damašku, založená v roce 2002, která spojuje rock s hudbou Blízkého východu. Jádrem je kytarové a oudové duo kolem [[khaled|Khaleda]] Aljaramaniho, který vyučoval na damašské konzervatoři a v roce 2011 odešel do Francie. První album vyšlo v roce 2005, do roku 2013 skupina vydala tři alba a hrála i v Paříži.\n"
     },
     {
       "id": "inti-illimani",
@@ -14772,6 +14996,30 @@
       "body": "Americký ukulelista a skladatel z Havaje, proslulý rychlou a technicky náročnou hrou. Jeho hudba mísí jazz, blues, funk, rock, bluegrass, klasiku, folk i flamenco. Složil také hudbu ke dvěma japonským filmům, Hula Girls a Sideways.\n"
     },
     {
+      "id": "jakob-bro",
+      "name": "Jakob Bro",
+      "countries": [
+        "denmark"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/jakob-bro.avif",
+      "image_source": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Dánský jazzový kytarista a skladatel, který vydává u labelu ECM. Jeho hudba je tichá, plynoucí a melodická a hraje s ním řada zahraničních hudebníků.\n",
+      "rank": 9
+    },
+    {
       "id": "jaleo-real",
       "name": "Jaleo Real",
       "countries": [
@@ -15208,6 +15456,34 @@
       "body": "Marocká hudební skupina založená v roce 1972 v Marrákeši studenty múzických umění, která se v sedmdesátých letech proslavila po boku skupin Nass El Ghiwane a Lemchaheb. Čerpala z tradičních marockých forem, jako je malhun a duchovní hudba džilála; její píseň o Zelených pochodu z roku 1976 se stala neoficiální hymnou. V osmdesátých letech ji ovlivnil gnawa hudebník Mustafa Bakbou a od roku 2006 spolupracovala s členy německých [[dissidenten|Dissidenten]].\n"
     },
     {
+      "id": "jim-hall",
+      "name": "Jim Hall",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/jim-hall.avif",
+      "image_source": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        },
+        {
+          "type": "website",
+          "url": "http://www.jimhallmusic.com/"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký jazzový kytarista a skladatel (1930–2013), cenený pro jemný tón a citlivou harmonickou invenci. Dobře se mu dařilo v malých sestavách, třeba v duu s Billem Evansem.\n",
+      "rank": 10
+    },
+    {
       "id": "jimi-tenor-and-kabukabu",
       "name": "Jimi Tenor and Kabukabu",
       "countries": [
@@ -15402,6 +15678,30 @@
       "body": "Duo amerického rappera, beatboxera a písničkáře Joea Driscolla a guinejského hráče na koru Sekoua Kouyatého z Conakry. Setkali se v roce 2010 na festivalu v Marseille bez společného jazyka. Driscollovy živé smyčky z beatboxu, kytary a perkusí se spojují s elektrifikovanou korou; vydali alba Faya a Monistic Theory.\n"
     },
     {
+      "id": "joe-pass",
+      "name": "Joe Pass",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/joe-pass.avif",
+      "image_source": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký jazzový kytarista (1929–1994), který proslul virtuózní sólovou hrou na kytaru, kdy jediný nástroj nese melodii, harmonii i basu. Hrál také s Ellou Fitzgerald a dalšími jazzovými zpěváky.\n",
+      "rank": 11
+    },
+    {
       "id": "joe-zawinul",
       "name": "Joe Zawinul",
       "countries": [
@@ -15441,8 +15741,7 @@
         }
       ],
       "added": "2026-11-23",
-      "body": "Americký vibrafonista a skladatel z Chicaga, který patří k nejvýraznějším tvářím současné jazzové scény. Je členem labelu Blue Note, kde vydal alba jako KingMaker a Who Are You?, a spolupracuje s řadou mladých jazzmanů.\n",
-      "rank": 3
+      "body": "Americký vibrafonista a skladatel z Chicaga, který patří k nejvýraznějším tvářím současné jazzové scény. Je členem labelu Blue Note, kde vydal alba jako KingMaker a Who Are You?, a spolupracuje s řadou mladých jazzmanů.\n"
     },
     {
       "id": "joel-rubin",
@@ -15528,6 +15827,29 @@
         "spain"
       ],
       "body": ""
+    },
+    {
+      "id": "john-scofield",
+      "name": "John Scofield",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/john-scofield.avif",
+      "image_source": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký jazzový kytarista a skladatel narozený v roce 1951. V 80. letech hrál s Milesem Davisem, jeho styl spojuje jazz s bluesem, funkem a fusion.\n"
     },
     {
       "id": "johnny-kowalski-and-the-sexy-weirdos",
@@ -15797,6 +16119,27 @@
       ],
       "modified": "2026-11-18",
       "body": "Libanonská zpěvačka a hudebnice narozená roku 1968, známá také jako humanitární aktivistka. Patří k nejpopulárnějším hlasům arabského světa a zpívá často angažované písně s libanonskou a vlasteneckou tematikou.\n"
+    },
+    {
+      "id": "julian-lage",
+      "name": "Julian Lage",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "links": [
+        {
+          "type": "apple-music",
+          "url": "https://music.apple.com/us/artist/julian-lage/6937093"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký kytarista narozený v roce 1987 v Kalifornii, který jako dítě hrál s předními hudebníky. Pohybuje se mezi jazzem, folkem a evropskou klasickou hudbou.\n"
     },
     {
       "id": "juliette",
@@ -16795,6 +17138,29 @@
       "body": "Slovenská keltská kapela, kterou v roce 1998 založili místní nadšenci do keltské hudby. V roce 2002 měla sedm členů včetně bretaňského zpěváka a hrála keltskou hudbu ovlivněnou slovenským folklorem. Je zároveň občanským sdružením, pořádá festival Beltine a vede keltské večery v bratislavské Keltské pivnici.\n"
     },
     {
+      "id": "kenny-burrell",
+      "name": "Kenny Burrell",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/kenny-burrell.avif",
+      "image_source": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký jazzový kytarista narozený v roce 1931 v Detroitu. Jeho hra spojuje bebop s bluesem a nejznámější je album Midnight Blue (1963) u Blue Note. Později se věnoval i výuce jazzu.\n"
+    },
+    {
       "id": "kepa-junkera",
       "name": "Kepa Junkera",
       "countries": [
@@ -17776,6 +18142,36 @@
       "body": ""
     },
     {
+      "id": "kurt-rosenwinkel",
+      "name": "Kurt Rosenwinkel",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "tags": [
+        "berlin"
+      ],
+      "image": "img/bands/kurt-rosenwinkel.avif",
+      "image_source": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "type": "website",
+          "url": "http://www.kurtrosenwinkel.com/"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký jazzový kytarista a skladatel narozený v roce 1970. Zvuk jeho kytary a skladby ovlivnily dnešní jazzovou generaci, žije v Berlíně.\n"
+    },
+    {
       "id": "kv-express",
       "name": "KV Express",
       "countries": [
@@ -18525,6 +18921,33 @@
       "body": ""
     },
     {
+      "id": "laurel-premo",
+      "name": "Laurel Premo",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "folk"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/laurel-premo.avif",
+      "image_source": "https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://laurelpremo.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americká multiinstrumentalistka z Michiganu, která propojuje americkou old-time muziku se severskou lidovou hudbou. Hraje na housle, banjo a elektrickou i lap steel kytaru; na albu Golden Loam (2021) se představuje sólově s kytarou. Dlouhá léta hraje také v duu Red Tail Ring.\n"
+    },
+    {
       "id": "laurent-cavalie",
       "name": "Laurent Cavalie",
       "countries": [
@@ -19018,8 +19441,27 @@
         }
       ],
       "added": "2026-11-23",
-      "body": "Americký jazzový vibrafonista, bubeník a kapelník (1908–2002). Jako první učinil z vibrafonu významný jazzový nástroj, proslavil se v kvartetu Benny Goodmana a od 40. let vedl vlastní energický big band, známý hitem Flying Home.\n",
-      "rank": 4
+      "body": "Americký jazzový vibrafonista, bubeník a kapelník (1908–2002). Jako první učinil z vibrafonu významný jazzový nástroj, proslavil se v kvartetu Benny Goodmana a od 40. let vedl vlastní energický big band, známý hitem Flying Home.\n"
+    },
+    {
+      "id": "lionel-loueke",
+      "name": "Lionel Loueke",
+      "countries": [
+        "benin"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "tags": [
+        "diaspora"
+      ],
+      "image": "img/bands/lionel-loueke.avif",
+      "image_source": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig",
+      "added": "2026-11-25",
+      "body": "Kytarista a zpěvák narozený v roce 1973 v Beninu, který žije v USA. Jazz u něj nese vlivy západoafrické hudby a typické vokální techniky, hraje a nahrává i s Herbiem Hancockem.\n"
     },
     {
       "id": "lira",
@@ -21592,6 +22034,30 @@
         }
       ],
       "body": "Mário Lúcio Sousa (nar. 1964 v Tarrafalu na ostrově Santiago) je kapverdský zpěvák, skladatel, spisovatel a malíř. Studoval na Kubě, později působil jako právník, poslanec a v letech 2011–2016 jako ministr kultury. Spoluzaložil skupinu Simentera a vydal sólová alba Mar e Luz, Badyo, Kreol či Funanight; napsal také básně, divadelní hry a romány.\n"
+    },
+    {
+      "id": "marisa-anderson",
+      "name": "Marisa Anderson",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "folk",
+        "blues"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/marisa-anderson.avif",
+      "image_source": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americká kytaristka z Portlandu, která v instrumentální hudbě spojuje blues, gospel, lidovou muziku a americkou primitivní kytaru (American primitive).\n"
     },
     {
       "id": "mariza",
@@ -25434,6 +25900,33 @@
       "body": ""
     },
     {
+      "id": "pat-martino",
+      "name": "Pat Martino",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/pat-martino.avif",
+      "image_source": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+        },
+        {
+          "type": "website",
+          "url": "http://patmartino.com/"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký jazzový kytarista (1944–2021) z Filadelfie, známý rychlým a plynulým stylem. Po operaci mozku v 80. letech musel hru na kytaru znovu pracně pochytat a vrátil se na scénu.\n"
+    },
+    {
       "id": "pat-thomas",
       "name": "Pat Thomas",
       "countries": [
@@ -26867,6 +27360,27 @@
       "body": "René Lacaille je akordeonista z ostrova Réunion, který žije ve Francii. Pochází z hudební rodiny a na akordeon se naučil sám v sedmi letech při turné s otcem. Označuje se za neotradicionalistu a hraje mimo jiné séga.\n"
     },
     {
+      "id": "rev-gary-davis",
+      "name": "Rev. Gary Davis",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "blues"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Slepý americký bluesový a gospelový kytarista a kazatel (1896-1972), mistr prstové techniky piedmont blues. Ovlivnil řadu hudebníků folkového oživení 60. let.\n"
+    },
+    {
       "id": "rhodopea-kaba-trio",
       "name": "Rhodopea Kaba Trio",
       "countries": [
@@ -27167,6 +27681,29 @@
         "piano"
       ],
       "body": "Rizan Said je syrský klávesista, skladatel a producent, rodák z města Rás al-Ajn v guvernorátu Hasaka. Dvě desetiletí spolupracoval s [[omar-souleyman|Omarem Souleymanem]] a patří k tvůrcům zvuku syrské dabky a kazetového popu; produkoval stovky nahrávek a psal hudbu pro televizi a film. Sólově vydal alba King of Keyboard (2016) a Saz û Dilan (2019).\n"
+    },
+    {
+      "id": "robert-johnson",
+      "name": "Robert Johnson",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "blues"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/robert-johnson.avif",
+      "image_source": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký delta bluesman (1911-1938), který zanechal jen několik desítek nahrávek z let 1936-37. Přesto patří k nejvlivnějším postavám blues a kolem jeho krátkého života vznikla řada legend.\n"
     },
     {
       "id": "robert-plant",
@@ -27606,6 +28143,32 @@
       "body": "Ross Daly je hudebník irského původu, který se specializuje na krétskou lyru. Na Krétě žije více než třicet pět let.\n"
     },
     {
+      "id": "rotem-sivan",
+      "name": "Rotem Sivan",
+      "countries": [
+        "israel"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "tags": [
+        "new-york"
+      ],
+      "image": "img/bands/rotem-sivan.avif",
+      "image_source": "https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Izraelský jazzový kytarista žijící v New Yorku. Vede vlastní sestavy a vydává alba.\n"
+    },
+    {
       "id": "rotfront",
       "name": "Rotfront",
       "countries": [
@@ -27672,8 +28235,7 @@
         }
       ],
       "added": "2026-11-23",
-      "body": "Americký vibrafonista, zpěvák a skladatel z Los Angeles, narozený roku 1940. Od hard bopu přešel k jazz-funku a soulu a se skupinou Ubiquity natočil hity jako Everybody Loves the Sunshine. Jeho nahrávky patří k nejčastěji samplovaným, hlavně v hip hopu a acid jazzu.\n",
-      "rank": 5
+      "body": "Americký vibrafonista, zpěvák a skladatel z Los Angeles, narozený roku 1940. Od hard bopu přešel k jazz-funku a soulu a se skupinou Ubiquity natočil hity jako Everybody Loves the Sunshine. Jeho nahrávky patří k nejčastěji samplovaným, hlavně v hip hopu a acid jazzu.\n"
     },
     {
       "id": "roy-paci-aretuska",
@@ -30242,6 +30804,24 @@
       "body": "Zpěvačka z Republiky Sacha (Jakutsko), narozená v roce 1950 v ulusu Megino-Kangalasskij. Ovládá celou řadu stylů tradičního jakutského zpěvu, mimo jiné styl tojuk.\n"
     },
     {
+      "id": "steve-arguelles",
+      "name": "Steve Argüelles",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/51Awoa5hLVsQuzWhx8ORSl"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Bubeník a producent žijící v Paříži. Na albu Antiquity (2019) hraje spolu s kytaristou Csabou Palotaïem a saxofonistou Rémim Sciutem; s Palotaïem natočil i duo album Cabane Perchée.\n"
+    },
+    {
       "id": "sto-zvirat",
       "name": "Sto zvirat",
       "countries": [
@@ -32010,6 +32590,34 @@
       "body": "Zimbabwský zpěvák a písničkář narozený roku 1945, který tradiční šonskou hudbu včetně mbirových vzorců převedl na elektrické kytary a rockové nástroje. Stal se tvůrcem a popularizátorem hudby čimurenga, jíž vyjadřoval politický protest; koncem 70. let ho rhodéské úřady zadržely bez obvinění. Se skupinou The Blacks Unlimited nahrává od roku 1981, kvůli kritice Mugabeho vlády žil zhruba dvacet let v americkém exilu a po Mugabeho svržení v roce 2017 se vrátil na koncerty do rodné země.\n"
     },
     {
+      "id": "thomas-naim",
+      "name": "Thomas Naim",
+      "countries": [
+        "france"
+      ],
+      "styles": [
+        "rock",
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/thomas-naim.avif",
+      "image_source": "https://open.spotify.com/artist/7a1kUVqfVog6WvCtb65X6W",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/7a1kUVqfVog6WvCtb65X6W"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://thomasnaim.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Pařížský francouzský kytarista, skladatel a producent. Začínal v duu Tom & Joy, později se vydal vlastní cestou; k nejznámějším projektům patří hold Jimi Hendrixovi Sounds of Jimi (2020). Spolupracoval například s Youn Sun Nah a [[hindi-zahra|Hindi Zahra]].\n"
+    },
+    {
       "id": "ti-coca",
       "name": "Ti-Coca",
       "countries": [
@@ -33114,8 +33722,7 @@
         "portugal"
       ],
       "modified": "2026-11-19",
-      "body": "Tucanas je portugalská ženská bubenická skupina, která od roku 2001 pracuje na projektu spojujícím perkuse, hlasy a akordeon a skládá vlastní písně. Tvoří ji Sara Jónatas, Ana Cláudia Gonçalves, [[catarina|Catarina]] Ribeiro, Marina Henriques a Mónica Rocha. Debutové album Maria Café vyšlo u Farolu a hostují na něm Amélia Muge a dechová skupina [[kumpania-algazarra|Kumpania Algazarra]].\n",
-      "rank": 10
+      "body": "Tucanas je portugalská ženská bubenická skupina, která od roku 2001 pracuje na projektu spojujícím perkuse, hlasy a akordeon a skládá vlastní písně. Tvoří ji Sara Jónatas, Ana Cláudia Gonçalves, [[catarina|Catarina]] Ribeiro, Marina Henriques a Mónica Rocha. Debutové album Maria Café vyšlo u Farolu a hostují na něm Amélia Muge a dechová skupina [[kumpania-algazarra|Kumpania Algazarra]].\n"
     },
     {
       "id": "tulipa-ruiz",
@@ -34175,6 +34782,37 @@
       "body": "Antoine Wendo Kolosoy (1925–2008), známý jako Papa Wendo, byl konžský zpěvák, kytarista a kapelník, někdy nazývaný otec konžské rumby. Zpíval v jazycích nkundo, lingala a svahilština, doprovázel se na kytaru a vynikal chraplavým, zvučným hlasem. Jeho píseň Marie-Louise z roku 1948 je považována za první velký celoafrický hit. Hudební dráhu měl od 40. let až do 2000. let a poslední desku Banaya Papa Wendo vydal v roce 2007.\n"
     },
     {
+      "id": "wes-montgomery",
+      "name": "Wes Montgomery",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "instruments": [
+        "guitar"
+      ],
+      "image": "img/bands/wes-montgomery.avif",
+      "image_source": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://wesmontgomery.bandcamp.com/"
+        },
+        {
+          "type": "website",
+          "url": "http://www.wesmontgomery.com/"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "Americký jazzový kytarista (1923–1968) z Indianapolis. Hrál palcem místo trsátka a oktávovou technikou, která ovlivnila generace kytaristů.\n"
+    },
+    {
       "id": "wild-boar-bull-brass-band",
       "name": "Wild Boar & Bull Brass Band",
       "countries": [
@@ -35166,8 +35804,7 @@
       ],
       "wikipedia": "https://en.wikipedia.org/wiki/Zita_Swoon",
       "modified": "2026-11-19",
-      "body": "Zita Swoon je belgická indie rocková skupina, kterou v Antverpách roku 1993 založili Stef Kamil Carlens, člen dEUS, a Aarich Jespers; původně vystupovala jako A Beatband a [[moondog|Moondog]] Jr. Po sporu o jméno Moondog přijala název Zita Swoon. Mezi alba patří I Paint Pictures on a Wedding Dress (1998), Life = A Sexy Sanctuary (2001), Big City (2007) a jako Zita Swoon Group Wait for Me (2012).\n",
-      "rank": 11
+      "body": "Zita Swoon je belgická indie rocková skupina, kterou v Antverpách roku 1993 založili Stef Kamil Carlens, člen dEUS, a Aarich Jespers; původně vystupovala jako A Beatband a [[moondog|Moondog]] Jr. Po sporu o jméno Moondog přijala název Zita Swoon. Mezi alba patří I Paint Pictures on a Wedding Dress (1998), Life = A Sexy Sanctuary (2001), Big City (2007) a jako Zita Swoon Group Wait for Me (2012).\n"
     },
     {
       "id": "ziveli-orkestar",
@@ -35378,8 +36015,7 @@
         }
       ],
       "added": "2026-11-19",
-      "body": "",
-      "rank": 4
+      "body": ""
     },
     {
       "id": "aris-san-sigal-boom-pam-pepeloma",
@@ -35397,8 +36033,7 @@
         }
       ],
       "added": "2026-11-19",
-      "body": "",
-      "rank": 5
+      "body": ""
     },
     {
       "id": "bombino-nomad",
@@ -35418,6 +36053,44 @@
       ],
       "added": "2026-11-13",
       "body": ""
+    },
+    {
+      "id": "csaba-palotai-soulbread",
+      "name": "Soulbread",
+      "bands": [
+        "csaba-palotai"
+      ],
+      "year": 2025,
+      "image": "img/cds/csaba-palotai-soulbread.avif",
+      "image_source": "https://open.spotify.com/album/2FVOmut1R0n1bhz0twxyCz",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2FVOmut1R0n1bhz0twxyCz"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 0
+    },
+    {
+      "id": "csaba-palotai-the-deserter",
+      "name": "The Deserter",
+      "bands": [
+        "csaba-palotai"
+      ],
+      "year": 2016,
+      "image": "img/cds/csaba-palotai-the-deserter.avif",
+      "image_source": "https://open.spotify.com/album/6Xr5yNarfVmeEqOtLgaoUU",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6Xr5yNarfVmeEqOtLgaoUU"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 1
     },
     {
       "id": "dal-um-coexistence",
@@ -35441,8 +36114,7 @@
         }
       ],
       "added": "2026-11-24",
-      "body": "",
-      "rank": 0
+      "body": ""
     },
     {
       "id": "dawuna-glass-lit-dream",
@@ -35525,6 +36197,44 @@
         }
       ],
       "added": "2026-11-23",
+      "body": ""
+    },
+    {
+      "id": "eivind-aarset-dream-logic",
+      "name": "Dream Logic",
+      "bands": [
+        "eivind-aarset"
+      ],
+      "year": 2012,
+      "image": "img/cds/eivind-aarset-dream-logic.avif",
+      "image_source": "https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 2
+    },
+    {
+      "id": "eric-clapton-riding-with-the-king-20th-anniversary-deluxe-edition",
+      "name": "Riding With The King (20th Anniversary Deluxe Edition)",
+      "bands": [
+        "eric-clapton",
+        "b-b-king"
+      ],
+      "year": 2020,
+      "image": "img/cds/eric-clapton-riding-with-the-king-20th-anniversary-deluxe-edition.avif",
+      "image_source": "https://open.spotify.com/album/7C6mI7TlzE2eyganXsihsI",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7C6mI7TlzE2eyganXsihsI"
+        }
+      ],
+      "added": "2026-11-25",
       "body": "",
       "rank": 3
     },
@@ -35544,8 +36254,7 @@
         }
       ],
       "added": "2026-11-23",
-      "body": "",
-      "rank": 1
+      "body": ""
     },
     {
       "id": "gijs-levelt-bustle",
@@ -35592,6 +36301,44 @@
       ],
       "added": "2026-11-20",
       "body": ""
+    },
+    {
+      "id": "jakob-bro-returnings",
+      "name": "Returnings",
+      "bands": [
+        "jakob-bro"
+      ],
+      "year": 2018,
+      "image": "img/cds/jakob-bro-returnings.avif",
+      "image_source": "https://open.spotify.com/album/0Oko9SZeGlIDRiURyc1f3y",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0Oko9SZeGlIDRiURyc1f3y"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 4
+    },
+    {
+      "id": "jakob-bro-uma-elmo",
+      "name": "Uma Elmo",
+      "bands": [
+        "jakob-bro"
+      ],
+      "year": 2021,
+      "image": "img/cds/jakob-bro-uma-elmo.avif",
+      "image_source": "https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 5
     },
     {
       "id": "juana-molina-doga",
@@ -35762,8 +36509,26 @@
         }
       ],
       "added": "2026-11-17",
+      "body": ""
+    },
+    {
+      "id": "laurel-premo-golden-loam",
+      "name": "Golden Loam",
+      "bands": [
+        "laurel-premo"
+      ],
+      "year": 2021,
+      "image": "img/cds/laurel-premo-golden-loam.avif",
+      "image_source": "https://open.spotify.com/album/5C8gswv4jGbjz54KcgOau5",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5C8gswv4jGbjz54KcgOau5"
+        }
+      ],
+      "added": "2026-11-25",
       "body": "",
-      "rank": 8
+      "rank": 6
     },
     {
       "id": "lucrecia-dalt-a-danger-to-ourselves",
@@ -35860,6 +36625,63 @@
       "body": ""
     },
     {
+      "id": "marisa-anderson-into-the-light",
+      "name": "Into the Light",
+      "bands": [
+        "marisa-anderson"
+      ],
+      "year": 2016,
+      "image": "img/cds/marisa-anderson-into-the-light.avif",
+      "image_source": "https://open.spotify.com/album/6PKMSpHdDkaay6WTBUzxz0",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6PKMSpHdDkaay6WTBUzxz0"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 7
+    },
+    {
+      "id": "marisa-anderson-mercury",
+      "name": "Mercury",
+      "bands": [
+        "marisa-anderson"
+      ],
+      "year": 2013,
+      "image": "img/cds/marisa-anderson-mercury.avif",
+      "image_source": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 8
+    },
+    {
+      "id": "marisa-anderson-still-here",
+      "name": "Still, Here",
+      "bands": [
+        "marisa-anderson"
+      ],
+      "year": 2022,
+      "image": "img/cds/marisa-anderson-still-here.avif",
+      "image_source": "https://open.spotify.com/album/4VbsBmQarXq8y249LaqdGU",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4VbsBmQarXq8y249LaqdGU"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 9
+    },
+    {
       "id": "noura-mint-seymali-arbina",
       "name": "Arbina",
       "bands": [
@@ -35917,6 +36739,25 @@
       "body": ""
     },
     {
+      "id": "rev-gary-davis-harlem-street-singer",
+      "name": "Harlem Street Singer",
+      "bands": [
+        "rev-gary-davis"
+      ],
+      "year": 1992,
+      "image": "img/cds/rev-gary-davis-harlem-street-singer.avif",
+      "image_source": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 10
+    },
+    {
       "id": "robert-plant-lullaby-and-the-ceaseless-roar",
       "name": "lullaby and... The Ceaseless Roar",
       "bands": [
@@ -35932,8 +36773,7 @@
         }
       ],
       "added": "2026-11-18",
-      "body": "",
-      "rank": 6
+      "body": ""
     },
     {
       "id": "robert-plant-saving-grace",
@@ -35951,8 +36791,7 @@
         }
       ],
       "added": "2026-11-18",
-      "body": "",
-      "rank": 7
+      "body": ""
     },
     {
       "id": "rosalia-vila-tobella-el-mal-querer",
@@ -36006,8 +36845,7 @@
         }
       ],
       "added": "2026-11-23",
-      "body": "",
-      "rank": 2
+      "body": ""
     },
     {
       "id": "salami-rose-joe-louis-akousmatikous",
@@ -36096,8 +36934,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "salif-keita-moffou",
@@ -36115,8 +36952,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "salif-keita-tale",
@@ -36134,8 +36970,7 @@
         }
       ],
       "added": "2026-11-17",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "salif-keita-un-autre-blanc",
@@ -36179,6 +37014,27 @@
       "body": ""
     },
     {
+      "id": "steve-arguelles-antiquity",
+      "name": "Antiquity",
+      "bands": [
+        "steve-arguelles",
+        "csaba-palotai"
+      ],
+      "year": 2019,
+      "label": "BMC Records",
+      "image": "img/cds/steve-arguelles-antiquity.avif",
+      "image_source": "https://open.spotify.com/album/51Awoa5hLVsQuzWhx8ORSl",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/51Awoa5hLVsQuzWhx8ORSl"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 11
+    },
+    {
       "id": "the-growth-eternal-bass-tone-paintings",
       "name": "Bass Tone Paintings",
       "bands": [
@@ -36201,9 +37057,57 @@
       ],
       "added": "2026-11-17",
       "body": ""
+    },
+    {
+      "id": "thomas-naim-sounds-of-jimi",
+      "name": "Sounds of Jimi",
+      "bands": [
+        "thomas-naim"
+      ],
+      "year": 2020,
+      "label": "Rootless Blues",
+      "image": "img/cds/thomas-naim-sounds-of-jimi.avif",
+      "image_source": "https://open.spotify.com/album/7tlWqdCwFjIpPRTQrqzR30",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7tlWqdCwFjIpPRTQrqzR30"
+        }
+      ],
+      "added": "2026-11-25",
+      "body": ""
     }
   ],
   "shelves": [
+    {
+      "id": "blues-guitar",
+      "name": "Blues Guitar",
+      "bands": [
+        "laurel-premo",
+        "csaba-palotai",
+        "steve-arguelles",
+        "eivind-aarset",
+        "thomas-naim",
+        "jakob-bro",
+        "marisa-anderson"
+      ],
+      "cds": [
+        "laurel-premo-golden-loam",
+        "csaba-palotai-the-deserter",
+        "steve-arguelles-antiquity",
+        "csaba-palotai-soulbread",
+        "eivind-aarset-dream-logic",
+        "thomas-naim-sounds-of-jimi",
+        "jakob-bro-returnings",
+        "jakob-bro-uma-elmo",
+        "marisa-anderson-still-here",
+        "marisa-anderson-mercury",
+        "marisa-anderson-into-the-light"
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 0
+    },
     {
       "id": "ex",
       "name": "EX",
@@ -36223,7 +37127,7 @@
       "added": "2026-11-17",
       "modified": "2026-11-23",
       "body": "",
-      "rank": 0
+      "rank": 2
     },
     {
       "id": "ita",
@@ -36233,7 +37137,31 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "id": "jazz-guitar",
+      "name": "Jazz Guitar",
+      "bands": [
+        "bill-frisell",
+        "pat-martino",
+        "joe-pass",
+        "wes-montgomery",
+        "grant-green",
+        "jim-hall",
+        "kenny-burrell",
+        "george-benson",
+        "julian-lage",
+        "emily-remler",
+        "lionel-loueke",
+        "john-scofield",
+        "barney-kessel",
+        "kurt-rosenwinkel",
+        "rotem-sivan"
+      ],
+      "added": "2026-11-25",
+      "body": "",
+      "rank": 1
     },
     {
       "id": "poustni-blues",
@@ -36253,7 +37181,7 @@
       "added": "2026-11-13",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 1
+      "rank": 3
     }
   ],
   "countries": [

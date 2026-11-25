@@ -14,4 +14,4 @@ links:
     url: https://en.wikipedia.org/wiki/Buckwheat_Zydeco
 ---
 
-Stanley Dural Jr. (1947-2016) z Lafayette v Louisianě, akordeonista, který zydeco dostal k širokému publiku. Hrál mimo jiné s Ericem Claptonem a vystoupil na závěrečném ceremoniálu olympiády v Atlantě 1996. Jeho album Lay Your Burden Down získalo Grammy.
+Stanley Dural Jr. (1947-2016) z Lafayette v Louisianě, akordeonista, který zydeco dostal k širokému publiku. Hrál mimo jiné s [[eric-clapton|Ericem Claptonem]] a vystoupil na závěrečném ceremoniálu olympiády v Atlantě 1996. Jeho album Lay Your Burden Down získalo Grammy.
