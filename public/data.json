@@ -1071,7 +1071,7 @@
       ],
       "modified": "2026-11-27",
       "body": "Al Akhareen (arabsky „Ti druzí“) je projekt rappera a beatboxera Oslooba a flétnistky [[naissam-jalal|Naïssam Jalal]], který spojuje hip-hop s improvizovanou flétnou a nay. Funguje jako duo, jako trio s DJ Junkaz Lou, nebo jako plná živá kapela. Název odkazuje na téma odlišnosti a „druhých“.\n",
-      "rank": 8
+      "rank": 7
     },
     {
       "id": "al-andaluz-project",
@@ -1340,7 +1340,7 @@
       ],
       "added": "2026-11-27",
       "body": "Alif Hilal, dříve známá jako Lyra Pramuk, je americká multidisciplinární umělkyně žijící v Berlíně. Hudba je oddaná a spirituální, spojuje lidský hlas s vyvíjející se technologií. Na Bandcampu začala zveřejňovat první vokální skladby po přestěhování do Berlína v roce 2013; mezi alba patří Fountain (2020) a Hymnal (2025).\n",
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "alika",
@@ -1816,7 +1816,7 @@
       ],
       "added": "2026-11-27",
       "body": "Amon Tobin je brazilský elektronický hudebník a producent, narozený v Rio de Janeiru, který žil v Brightonu a Montrealu a dnes působí v Los Angeles. Proslul manipulací se zvukem – od raných skladeb postavených na přeskládaných jazzových a bluesových breakbeatech až po nahrávky z vlastních terénních záznamů. Vydával u labelu Ninja Tune a později založil vlastní Nomark Records.\n",
-      "rank": 9
+      "rank": 8
     },
     {
       "id": "amos-hoffman",
@@ -2195,6 +2195,8 @@
       "tags": [
         "woman"
       ],
+      "image": "img/bands/ani-difranco.avif",
+      "image_source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVQd-Xw1rYMdB4iM-4uofWXXRW_Zzln2CitHmWIqdigKK0auAc9--HfAY&s=10",
       "links": [
         {
           "type": "spotify",
@@ -2253,8 +2255,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Anna B Savage je anglická písničkářka narozená v Londýně, dcera dvou klasických zpěváků. Její písně stojí na hlase a kytaře a jsou citlivé a niterné. Vydala alba A Common Turn (2021), In Flux (2023) a You & I Are Earth (2025).\n",
-      "rank": 11
+      "body": "Anna B Savage je anglická písničkářka narozená v Londýně, dcera dvou klasických zpěváků. Její písně stojí na hlase a kytaře a jsou citlivé a niterné. Vydala alba A Common Turn (2021), In Flux (2023) a You & I Are Earth (2025).\n"
     },
     {
       "id": "anna-butterss",
@@ -9231,7 +9232,7 @@
       ],
       "added": "2026-11-27",
       "body": "Dominique Fils-Aimé je montrealská zpěvačka a skladatelka s haitskými kořeny. Pohybuje se mezi jazzem, blues a soulem a proslula trilogií alb *Nameless*, *Stay Tuned!* a *Three Little Words*, která mapuje historii afroamerické hudby. Vydává u vlastního labelu Ensoul Records.\n",
-      "rank": 1
+      "rank": 9
     },
     {
       "id": "domna-samiou",
@@ -11782,6 +11783,8 @@
         "electronic",
         "experimental"
       ],
+      "image": "img/bands/floex.avif",
+      "image_source": "https://www.minorityrecords.com/upload/images/765_765/floex-2[2].png",
       "links": [
         {
           "type": "bandcamp",
@@ -11790,10 +11793,15 @@
         {
           "type": "wikipedia",
           "url": "https://cs.wikipedia.org/wiki/Floex"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://innerfx.bandcamp.com"
         }
       ],
       "added": "2026-11-27",
-      "body": "Floex, vlastním jménem Tomáš Dvořák, je pražský klarinetista, skladatel a producent, narozený 1978. Proslavil se hudbou k hrám studia Amanita Design, například Samorost 2 a Machinarium, a od roku 2013 vydává u labelu Denovali. Mezi jeho alba patří Zorya a A Portrait of John Doe.\n"
+      "body": "Floex, vlastním jménem Tomáš Dvořák, je pražský klarinetista, skladatel a producent, narozený 1978. Proslavil se hudbou k hrám studia Amanita Design, například Samorost 2 a Machinarium, a od roku 2013 vydává u labelu Denovali. Mezi jeho alba patří Zorya a A Portrait of John Doe.\n",
+      "rank": 1
     },
     {
       "id": "flook",
@@ -13925,10 +13933,16 @@
       "tags": [
         "woman"
       ],
+      "image": "img/bands/hannah-peel.avif",
+      "image_source": "https://hannahpeelmusic.bandcamp.com",
       "links": [
         {
           "type": "spotify",
           "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://hannahpeelmusic.bandcamp.com"
         }
       ],
       "added": "2026-11-27",
@@ -14058,6 +14072,8 @@
       "tags": [
         "woman"
       ],
+      "image": "img/bands/hatis-noit.avif",
+      "image_source": "https://f4.bcbits.com/img/0040158564_25.jpg",
       "links": [
         {
           "type": "spotify",
@@ -23643,7 +23659,7 @@
       ],
       "added": "2026-11-27",
       "body": "Milkweed je londýnské experimentální folkové duo. Na albu *Remscéla* (2025) zhudebnilo úvodní „předpříběhy“ irského eposu Táin Bó Cúailnge a spojilo tradiční irské náměty s ambientními a experimentálními prvky. Album vyšlo u labelu Broadside Hacks Recordings.\n",
-      "rank": 4
+      "rank": 10
     },
     {
       "id": "milladoiro",
@@ -24700,6 +24716,8 @@
         "woman",
         "diaspora"
       ],
+      "image": "img/bands/naissam-jalal.avif",
+      "image_source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdfB8EZCgczoalDCGpX4tEnmIWMDscXBkevd_vXy6bwGf9PpOMoOgIPhG&s=10",
       "links": [
         {
           "type": "spotify",
@@ -24708,7 +24726,7 @@
       ],
       "added": "2026-11-27",
       "body": "Naïssam Jalal je francouzsko-syrská flétnistka, hráčka na nej, skladatelka a zpěvačka narozená v Paříži. Spojuje jazz s arabskou hudební tradicí a ve své tvorbě se věnuje i politickým a společenským tématům. Vede vlastní soubor Rhythms of Resistance.\n",
-      "rank": 5
+      "rank": 4
     },
     {
       "id": "najma",
@@ -25031,6 +25049,8 @@
       "tags": [
         "woman"
       ],
+      "image": "img/bands/nico.avif",
+      "image_source": "https://www.gramodesky.cz/storage/images/artist-nico-3.jpg.webp",
       "links": [
         {
           "type": "spotify",
@@ -25039,7 +25059,7 @@
       ],
       "added": "2026-11-27",
       "body": "Nico (vlastním jménem Christa Päffgen, 1938–1988) byla německá zpěvačka, modelka a herečka. Proslavila se hostováním na albu *The Velvet Underground & Nico* (1967) a poté nahrála sólová alba s temným, minimalistickým zvukem, v němž dominuje její hluboký hlas a harmonium.\n",
-      "rank": 6
+      "rank": 5
     },
     {
       "id": "nicolas-krassik",
@@ -29900,6 +29920,8 @@
       "countries": [
         "france"
       ],
+      "image": "img/bands/sarab.avif",
+      "image_source": "https://sarab.bandcamp.com",
       "links": [
         {
           "type": "spotify",
@@ -29912,7 +29934,7 @@
       ],
       "added": "2026-11-27",
       "body": "Sarāb je kapela z Paříže. V únoru 2026 vydala album *Mīt warde* („Sto růží“).\n",
-      "rank": 7
+      "rank": 6
     },
     {
       "id": "sarah-aroeste",
@@ -37147,7 +37169,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 0
+      "rank": 4
     },
     {
       "id": "ani-difranco-revolutionary-love",
@@ -37166,7 +37188,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 1
+      "rank": 5
     },
     {
       "id": "ani-difranco-unprecedented-sh-t",
@@ -37185,7 +37207,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "aris-san-dam-dam",
@@ -37241,7 +37263,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "arushi-jain-under-the-lilac-sky",
@@ -37261,7 +37283,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 4
+      "rank": 8
     },
     {
       "id": "bombino-nomad",
@@ -37443,7 +37465,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 5
+      "rank": 9
     },
     {
       "id": "dominique-fils-aime-nameless",
@@ -37463,7 +37485,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 6
+      "rank": 10
     },
     {
       "id": "dominique-fils-aime-our-roots-run-deep",
@@ -37483,7 +37505,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 7
+      "rank": 11
     },
     {
       "id": "dominique-fils-aime-stay-tuned",
@@ -37502,8 +37524,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 8
+      "body": ""
     },
     {
       "id": "dominique-fils-aime-three-little-words",
@@ -37522,8 +37543,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "eivind-aarset-dream-logic",
@@ -37579,8 +37599,45 @@
         }
       ],
       "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "floex-pocustone",
+      "name": "Pocustone",
+      "bands": [
+        "floex"
+      ],
+      "year": 2001,
+      "image": "img/cds/floex-pocustone.avif",
+      "image_source": "https://innerfx.bandcamp.com/album/pocustone",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://innerfx.bandcamp.com/album/pocustone"
+        }
+      ],
+      "added": "2026-11-27",
       "body": "",
-      "rank": 10
+      "rank": 0
+    },
+    {
+      "id": "floex-zorya",
+      "name": "Zorya",
+      "bands": [
+        "floex"
+      ],
+      "year": 2011,
+      "image": "img/cds/floex-zorya.avif",
+      "image_source": "https://innerfx.bandcamp.com/album/zorya",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://innerfx.bandcamp.com/album/zorya"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Podle Bandcampu jde o dosud nejhlubší album Tomáše Dvořáka. Dál zkoumá spojení akustické hudby, zejména klasického minimalismu, se současnou elektronikou. Symbolem alba je slovanská strážkyně noci Zorja Polunočnaja, a deska tak míří do hlubších, nočních nálad, přitom je zároveň dobrodružná a skoro vyprávěcí.\n",
+      "rank": 1
     },
     {
       "id": "gary-burton-crystal-silence",
@@ -37663,8 +37720,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "hannah-peel-the-endless-dance",
@@ -37675,14 +37731,20 @@
       "year": 2026,
       "image": "img/cds/hannah-peel-the-endless-dance.avif",
       "image_source": "https://open.spotify.com/album/1sqUgnq09kdSWBrxPrqA5F",
+      "bandcamp_id": 3187307566,
       "links": [
         {
           "type": "spotify",
           "url": "https://open.spotify.com/album/1sqUgnq09kdSWBrxPrqA5F"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://hannahpeelmusic.bandcamp.com/album/the-endless-dance"
         }
       ],
       "added": "2026-11-27",
-      "body": ""
+      "body": "První společné album Hannah Peel a čínské perkusionistky Beibei Wang. Procházejí na něm 24 slunečních období čínského kalendáře a spojují syntezátory a preparovaný klavír s tradičními i neobvyklými perkusemi, od vodních bicích a chrámových zvonů po rýžové misky z kuchyně. Nahrávky vznikly během pěti dnů ve studiu Real World, produkoval je Mike Lindsay a album vychází z taoistické myšlenky intuice a hry.\n",
+      "rank": 2
     },
     {
       "id": "hatis-noit-aura",
@@ -38179,7 +38241,8 @@
       "id": "naissam-jalal-al-akhareen",
       "name": "Al Akhareen",
       "bands": [
-        "naissam-jalal"
+        "naissam-jalal",
+        "al-akhareen"
       ],
       "year": 2018,
       "image": "img/cds/naissam-jalal-al-akhareen.avif",
@@ -38191,7 +38254,8 @@
         }
       ],
       "added": "2026-11-27",
-      "body": ""
+      "body": "",
+      "rank": 3
     },
     {
       "id": "naissam-jalal-almot-wala-almazala",
@@ -38940,7 +39004,7 @@
       "added": "2026-11-17",
       "modified": "2026-11-27",
       "body": "",
-      "rank": 5
+      "rank": 0
     },
     {
       "id": "gems",
@@ -38953,7 +39017,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 0
+      "rank": 1
     },
     {
       "id": "indie-orient",
@@ -38966,7 +39030,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "ita",
@@ -39035,7 +39099,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "synth",
@@ -39050,7 +39114,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "voices",
@@ -39065,7 +39129,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 4
+      "rank": 5
     }
   ],
   "countries": [

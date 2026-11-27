@@ -4,6 +4,7 @@ aliases:
   - Al Akhareen
 bands:
   - "[[naissam-jalal]]"
+  - "[[al-akhareen]]"
 year: 2018
 image: cds/naissam-jalal-al-akhareen.avif
 image_source: https://open.spotify.com/album/6u8WiuaPIq7jj4IKYbMrKm

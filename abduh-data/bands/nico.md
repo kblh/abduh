@@ -9,6 +9,8 @@ styles:
   - "[[experimental]]"
 tags:
   - "[[woman]]"
+image: bands/nico.avif
+image_source: https://www.gramodesky.cz/storage/images/artist-nico-3.jpg.webp
 links:
   - type: spotify
     url: https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj

@@ -4,6 +4,8 @@ aliases:
   - Sarāb
 countries:
   - "[[france]]"
+image: bands/sarab.avif
+image_source: https://sarab.bandcamp.com
 links:
   - type: spotify
     url: https://open.spotify.com/artist/7JU6oqxO4X0yU64NYd7QOl

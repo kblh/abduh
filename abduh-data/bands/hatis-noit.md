@@ -8,6 +8,8 @@ styles:
   - "[[experimental]]"
 tags:
   - "[[woman]]"
+image: bands/hatis-noit.avif
+image_source: https://f4.bcbits.com/img/0040158564_25.jpg
 links:
   - type: spotify
     url: https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY

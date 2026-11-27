@@ -13,6 +13,8 @@ instruments:
 tags:
   - "[[woman]]"
   - "[[diaspora]]"
+image: bands/naissam-jalal.avif
+image_source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdfB8EZCgczoalDCGpX4tEnmIWMDscXBkevd_vXy6bwGf9PpOMoOgIPhG&s=10
 links:
   - type: spotify
     url: https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk
