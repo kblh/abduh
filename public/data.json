@@ -1071,7 +1071,7 @@
       ],
       "modified": "2026-11-27",
       "body": "Al Akhareen (arabsky „Ti druzí“) je projekt rappera a beatboxera Oslooba a flétnistky [[naissam-jalal|Naïssam Jalal]], který spojuje hip-hop s improvizovanou flétnou a nay. Funguje jako duo, jako trio s DJ Junkaz Lou, nebo jako plná živá kapela. Název odkazuje na téma odlišnosti a „druhých“.\n",
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "al-andaluz-project",
@@ -1339,8 +1339,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Alif Hilal, dříve známá jako Lyra Pramuk, je americká multidisciplinární umělkyně žijící v Berlíně. Hudba je oddaná a spirituální, spojuje lidský hlas s vyvíjející se technologií. Na Bandcampu začala zveřejňovat první vokální skladby po přestěhování do Berlína v roce 2013; mezi alba patří Fountain (2020) a Hymnal (2025).\n",
-      "rank": 11
+      "body": "Alif Hilal, dříve známá jako Lyra Pramuk, je americká multidisciplinární umělkyně žijící v Berlíně. Hudba je oddaná a spirituální, spojuje lidský hlas s vyvíjející se technologií. Na Bandcampu začala zveřejňovat první vokální skladby po přestěhování do Berlína v roce 2013; mezi alba patří Fountain (2020) a Hymnal (2025).\n"
     },
     {
       "id": "alika",
@@ -1816,7 +1815,7 @@
       ],
       "added": "2026-11-27",
       "body": "Amon Tobin je brazilský elektronický hudebník a producent, narozený v Rio de Janeiru, který žil v Brightonu a Montrealu a dnes působí v Los Angeles. Proslul manipulací se zvukem – od raných skladeb postavených na přeskládaných jazzových a bluesových breakbeatech až po nahrávky z vlastních terénních záznamů. Vydával u labelu Ninja Tune a později založil vlastní Nomark Records.\n",
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "amos-hoffman",
@@ -2205,7 +2204,7 @@
       ],
       "added": "2026-11-27",
       "body": "Ani DiFranco je americká písničkářka a kytaristka z Buffala ve státě New York. Hraje akustický folk s prvky rocku, funku a jazzu, známá je energickým kytarovým stylem a angažovanými texty. Od začátku 90. let vydává u vlastního labelu Righteous Babe Records a patří k ikonám nezávislé hudební scény.\n",
-      "rank": 0
+      "rank": 2
     },
     {
       "id": "aniada-a-noar",
@@ -9232,7 +9231,7 @@
       ],
       "added": "2026-11-27",
       "body": "Dominique Fils-Aimé je montrealská zpěvačka a skladatelka s haitskými kořeny. Pohybuje se mezi jazzem, blues a soulem a proslula trilogií alb *Nameless*, *Stay Tuned!* a *Three Little Words*, která mapuje historii afroamerické hudby. Vydává u vlastního labelu Ensoul Records.\n",
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "domna-samiou",
@@ -11801,7 +11800,7 @@
       ],
       "added": "2026-11-27",
       "body": "Floex, vlastním jménem Tomáš Dvořák, je pražský klarinetista, skladatel a producent, narozený 1978. Proslavil se hudbou k hrám studia Amanita Design, například Samorost 2 a Machinarium, a od roku 2013 vydává u labelu Denovali. Mezi jeho alba patří Zorya a A Portrait of John Doe.\n",
-      "rank": 1
+      "rank": 3
     },
     {
       "id": "flook",
@@ -13947,7 +13946,7 @@
       ],
       "added": "2026-11-27",
       "body": "Hannah Peel je britská skladatelka a hudebnice, která vyrostla v Severním Irsku. Pracuje se syntezátory, orchestrálními aranžemi a nezvyklými nástroji a propojuje elektroniku s klasickou a folkovou tradicí.\n",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "hans-ludemann-trio-ivoire",
@@ -14082,7 +14081,7 @@
       ],
       "added": "2026-11-27",
       "body": "Hatis Noit je japonská vokalistka a skladatelka žijící v Londýně. Její hudba stojí na hlasu: v živém vystoupení ho vrství pomocí looperu, zpívá bez textů a čerpá z tradičního japonského zpěvu i z evropské sborové tradice. Vydává u labelu Erased Tapes.\n",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "haydamaky",
@@ -17975,6 +17974,27 @@
       "image_source": "https://commons.wikimedia.org/wiki/File:2015-07-03_19-24-30_eurocks.jpg",
       "wikipedia": "https://en.wikipedia.org/wiki/King_Ayisoba",
       "body": "King Ayisoba (vlastním jménem Albert Apoozore) je ghanský tradiční hudebník z regionu Upper East, rodák z Bongo Soe. Hraje na kologo, tradiční strunný nástroj, a od roku 2005 vydal alba jako Modern Ghanaians, Africa, Wicked Leaders nebo 1000 Can Die. V roce 2007 získal dvě Ghana Music Awards a vystupoval i na evropských festivalech, například na Eurockéennes.\n"
+    },
+    {
+      "id": "king-crimson",
+      "name": "King Crimson",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "rock"
+      ],
+      "image": "img/bands/king-crimson.avif",
+      "image_source": "https://www.treblezine.com/wp-content/uploads/2019/06/king-crimson-red1.jpg.webp",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "King Crimson vznikli jako druhá sestava skupiny Giles, Giles & Fripp a bývají označováni za vůbec první progresivní rockovou kapelu, hlavně kvůli debutu z roku 1969. Kytarista [[robert-fripp|Robert Fripp]] ji více než padesát let neustále přestavoval: kapela obvykle vydala několik alb během krátké doby, rozpadla se a znovu se sestavila v jiné podobě. Rozsahem progresivních stylů, od jazzrocku přes industriální hudbu až po metal, překonává téměř každého.\n",
+      "rank": 0
     },
     {
       "id": "king-mensah",
@@ -23658,8 +23678,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Milkweed je londýnské experimentální folkové duo. Na albu *Remscéla* (2025) zhudebnilo úvodní „předpříběhy“ irského eposu Táin Bó Cúailnge a spojilo tradiční irské náměty s ambientními a experimentálními prvky. Album vyšlo u labelu Broadside Hacks Recordings.\n",
-      "rank": 10
+      "body": "Milkweed je londýnské experimentální folkové duo. Na albu *Remscéla* (2025) zhudebnilo úvodní „předpříběhy“ irského eposu Táin Bó Cúailnge a spojilo tradiční irské náměty s ambientními a experimentálními prvky. Album vyšlo u labelu Broadside Hacks Recordings.\n"
     },
     {
       "id": "milladoiro",
@@ -24726,7 +24745,7 @@
       ],
       "added": "2026-11-27",
       "body": "Naïssam Jalal je francouzsko-syrská flétnistka, hráčka na nej, skladatelka a zpěvačka narozená v Paříži. Spojuje jazz s arabskou hudební tradicí a ve své tvorbě se věnuje i politickým a společenským tématům. Vede vlastní soubor Rhythms of Resistance.\n",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "najma",
@@ -25059,7 +25078,7 @@
       ],
       "added": "2026-11-27",
       "body": "Nico (vlastním jménem Christa Päffgen, 1938–1988) byla německá zpěvačka, modelka a herečka. Proslavila se hostováním na albu *The Velvet Underground & Nico* (1967) a poté nahrála sólová alba s temným, minimalistickým zvukem, v němž dominuje její hluboký hlas a harmonium.\n",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "nicolas-krassik",
@@ -28601,6 +28620,28 @@
       "body": "Rizan Said je syrský klávesista, skladatel a producent, rodák z města Rás al-Ajn v guvernorátu Hasaka. Dvě desetiletí spolupracoval s [[omar-souleyman|Omarem Souleymanem]] a patří k tvůrcům zvuku syrské dabky a kazetového popu; produkoval stovky nahrávek a psal hudbu pro televizi a film. Sólově vydal alba King of Keyboard (2016) a Saz û Dilan (2019).\n"
     },
     {
+      "id": "robert-fripp",
+      "name": "Robert Fripp",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "rock",
+        "experimental"
+      ],
+      "image": "img/bands/robert-fripp.avif",
+      "image_source": "https://www.gramodesky.cz/storage/images/artist-robert-fripp.jpg.webp",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Robert Fripp je anglický kytarista a skladatel, zakladatel a dlouholetý vůdce skupiny [[king-crimson|King Crimson]]. Mimo ni se věnuje sólové a experimentální tvorbě, například ambientním kytarovým smyčkám.\n",
+      "rank": 1
+    },
+    {
       "id": "robert-johnson",
       "name": "Robert Johnson",
       "countries": [
@@ -29934,7 +29975,7 @@
       ],
       "added": "2026-11-27",
       "body": "Sarāb je kapela z Paříže. V únoru 2026 vydala album *Mīt warde* („Sto růží“).\n",
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "sarah-aroeste",
@@ -37168,8 +37209,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 4
+      "body": ""
     },
     {
       "id": "ani-difranco-revolutionary-love",
@@ -37187,8 +37227,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 5
+      "body": ""
     },
     {
       "id": "ani-difranco-unprecedented-sh-t",
@@ -37206,8 +37245,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 6
+      "body": ""
     },
     {
       "id": "aris-san-dam-dam",
@@ -37262,8 +37300,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 7
+      "body": ""
     },
     {
       "id": "arushi-jain-under-the-lilac-sky",
@@ -37282,8 +37319,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 8
+      "body": ""
     },
     {
       "id": "bombino-nomad",
@@ -37464,8 +37500,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "dominique-fils-aime-nameless",
@@ -37484,8 +37519,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "dominique-fils-aime-our-roots-run-deep",
@@ -37504,8 +37538,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "dominique-fils-aime-stay-tuned",
@@ -37618,7 +37651,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 0
+      "rank": 8
     },
     {
       "id": "floex-zorya",
@@ -37637,7 +37670,7 @@
       ],
       "added": "2026-11-27",
       "body": "Podle Bandcampu jde o dosud nejhlubší album Tomáše Dvořáka. Dál zkoumá spojení akustické hudby, zejména klasického minimalismu, se současnou elektronikou. Symbolem alba je slovanská strážkyně noci Zorja Polunočnaja, a deska tak míří do hlubších, nočních nálad, přitom je zároveň dobrodružná a skoro vyprávěcí.\n",
-      "rank": 1
+      "rank": 9
     },
     {
       "id": "gary-burton-crystal-silence",
@@ -37744,7 +37777,7 @@
       ],
       "added": "2026-11-27",
       "body": "První společné album Hannah Peel a čínské perkusionistky Beibei Wang. Procházejí na něm 24 slunečních období čínského kalendáře a spojují syntezátory a preparovaný klavír s tradičními i neobvyklými perkusemi, od vodních bicích a chrámových zvonů po rýžové misky z kuchyně. Nahrávky vznikly během pěti dnů ve studiu Real World, produkoval je Mike Lindsay a album vychází z taoistické myšlenky intuice a hry.\n",
-      "rank": 2
+      "rank": 10
     },
     {
       "id": "hatis-noit-aura",
@@ -37989,6 +38022,120 @@
       ],
       "added": "2026-11-17",
       "body": ""
+    },
+    {
+      "id": "king-crimson-in-the-court-of-the-crimson-king",
+      "name": "In the Court of the Crimson King",
+      "bands": [
+        "king-crimson"
+      ],
+      "year": 1969,
+      "image": "img/cds/king-crimson-in-the-court-of-the-crimson-king.avif",
+      "image_source": "https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Debut, který bývá řazen mezi nejvlivnější alba všech žánrů. Nahradil bluesový základ evropskějším vyzněním a pomohl rozdělit psychedelii na progresivní rock. Vrcholem jsou těžký riff a saxofon ve skladbě 21st Century Schizoid Man a titulní skladba, považovaná za základní prog epos.\n",
+      "rank": 0
+    },
+    {
+      "id": "king-crimson-larks-tongues-in-aspic",
+      "name": "Larks' Tongues in Aspic",
+      "bands": [
+        "king-crimson"
+      ],
+      "year": 1973,
+      "image": "img/cds/king-crimson-larks-tongues-in-aspic.avif",
+      "image_source": "https://open.spotify.com/album/6ELt0QaMOwPGPzfdEXE839",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6ELt0QaMOwPGPzfdEXE839"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Páté studiové album a čtvrtá sestava (Fripp, Wetton, Cross, Muir, Bruford). Je to hlučný, matematický jazzrockový a progresivní rock; pětidílná titulní skladba album otevírá i zavírá a mezi ní jsou čtyři písně se zpěvem. Sestava stihla jen tuto desku a vyzdvihován je bubeník Bill Bruford.\n",
+      "rank": 1
+    },
+    {
+      "id": "king-crimson-lizard",
+      "name": "Lizard",
+      "bands": [
+        "king-crimson"
+      ],
+      "year": 1970,
+      "image": "img/cds/king-crimson-lizard.avif",
+      "image_source": "https://open.spotify.com/album/4vvx8uOeJE7YR4tORVtYV4",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4vvx8uOeJE7YR4tORVtYV4"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Podivné album, které podle článku na Treble patří spíš k pokročilému poslechu. Jádrem je přibližně půlhodinový titulní epos, v němž hostuje Jon Anderson.\n",
+      "rank": 2
+    },
+    {
+      "id": "king-crimson-red",
+      "name": "Red",
+      "bands": [
+        "king-crimson"
+      ],
+      "year": 1974,
+      "image": "img/cds/king-crimson-red.avif",
+      "image_source": "https://open.spotify.com/album/4mA3RKIoEoX4JlJSHueQae",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4mA3RKIoEoX4JlJSHueQae"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Po odchodu Muira a Crosse zůstala kapela jen trojčlenná. Deska patří k nejlepším progresivním albům vůbec: najdeme na ní titulní instrumentálku, temnější Fallen Angel a One More Red Nightmare i improvizovanou Providence. Středobodem je závěrečná Starless s Wettonovým zpěvem a zlověstným instrumentálním koncem.\n",
+      "rank": 3
+    },
+    {
+      "id": "king-crimson-the-power-to-believe",
+      "name": "The Power to Believe",
+      "bands": [
+        "king-crimson"
+      ],
+      "year": 2003,
+      "image": "img/cds/king-crimson-the-power-to-believe.avif",
+      "image_source": "https://open.spotify.com/album/5D3w5uBWyFouzXYVh5no66",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5D3w5uBWyFouzXYVh5no66"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Poslední studiové album kapely podle stavu v roce 2019, které shrnuje celou její tvorbu. Vrací se k myšlence instrumentální suity a využívá drncavý industriální artmetal (zmiňována je inspirace albem Lateralus od Tool). Zvýrazněny jsou skladby Level Five, Facts of Life a Eyes Wide Open.\n",
+      "rank": 4
+    },
+    {
+      "id": "king-crimson-three-of-a-perfect-pair",
+      "name": "Three of a Perfect Pair",
+      "bands": [
+        "king-crimson"
+      ],
+      "year": 1984,
+      "image": "img/cds/king-crimson-three-of-a-perfect-pair.avif",
+      "image_source": "https://open.spotify.com/album/4eJ3LJl4sHKs3nd8CZ9hq5",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4eJ3LJl4sHKs3nd8CZ9hq5"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Sestava Levin, Belew, Bruford a Fripp. První polovina alba je post-punková a new wavová prog pop hudba, druhá industriální, hlučná a metalová improvizace. Je přístupnější než předchozí Discipline a pokračuje v sérii skladeb Larks' Tongues.\n",
+      "rank": 5
     },
     {
       "id": "laurel-premo-golden-loam",
@@ -38255,7 +38402,7 @@
       ],
       "added": "2026-11-27",
       "body": "",
-      "rank": 3
+      "rank": 11
     },
     {
       "id": "naissam-jalal-almot-wala-almazala",
@@ -38405,6 +38552,44 @@
       ],
       "added": "2026-11-25",
       "body": ""
+    },
+    {
+      "id": "robert-fripp-evening-star",
+      "name": "Evening Star",
+      "bands": [
+        "robert-fripp"
+      ],
+      "year": 1975,
+      "image": "img/cds/robert-fripp-evening-star.avif",
+      "image_source": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 6
+    },
+    {
+      "id": "robert-fripp-no-pussyfooting",
+      "name": "No Pussyfooting",
+      "bands": [
+        "robert-fripp"
+      ],
+      "year": 1973,
+      "image": "img/cds/robert-fripp-no-pussyfooting.avif",
+      "image_source": "https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 7
     },
     {
       "id": "robert-plant-lullaby-and-the-ceaseless-roar",
