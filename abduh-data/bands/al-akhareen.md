@@ -6,7 +6,7 @@ countries:
   - "[[syria]]"
 members:
   - Osloob
-  - Naïssam Jalal
+  - "[[naissam-jalal]]"
 image: bands/al-akhareen.avif
 image_source: https://www.deezer.com/artist/14135503
 links:
@@ -14,4 +14,4 @@ links:
     url: https://naissamjalal.com/ensembles/alakhareen/?lang=en
 ---
 
-Al Akhareen (arabsky „Ti druzí“) je projekt rappera a beatboxera Oslooba a flétnistky Naïssam Jalal, který spojuje hip-hop s improvizovanou flétnou a nay. Funguje jako duo, jako trio s DJ Junkaz Lou, nebo jako plná živá kapela. Název odkazuje na téma odlišnosti a „druhých“.
+Al Akhareen (arabsky „Ti druzí“) je projekt rappera a beatboxera Oslooba a flétnistky [[naissam-jalal|Naïssam Jalal]], který spojuje hip-hop s improvizovanou flétnou a nay. Funguje jako duo, jako trio s DJ Junkaz Lou, nebo jako plná živá kapela. Název odkazuje na téma odlišnosti a „druhých“.

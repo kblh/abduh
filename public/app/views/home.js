@@ -32,7 +32,7 @@ export function render({ store, setQuery, today }) {
       h('span', null, nameOf(e)), isNew(e, today) ? h('span', { class: 'stamp-new' }, 'NOVÉ') : null, h('i', { class: 'leader' }), h('small', null, fmtDate(e.modified ?? e.added)))) : h('p', { class: 'hand-note' }, 'zatím nic');
   };
   const block = (title, key, body) => h('div', null, sectionTitle(title, 'NOVÉ A UPRAVENÉ', key), body);
-  const freshBands = recentlyChanged(store, 'bands', 12);
+  const freshBands = recentlyChanged(store, 'bands', 24);
   return h('section', { class: 'home' },
     bigSearchField('', (v) => setQuery(v)),
     h('p', { class: 'tips' }, 'zkus: ', TIPS.flatMap((t, i) => [i ? ' · ' : '', h('a', { href: `#/search?q=${encodeURIComponent(t)}` }, t)])),

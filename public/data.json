@@ -1056,7 +1056,10 @@
       ],
       "members": [
         "Osloob",
-        "Naïssam Jalal"
+        {
+          "id": "naissam-jalal",
+          "name": "Naïssam Jalal"
+        }
       ],
       "image": "img/bands/al-akhareen.avif",
       "image_source": "https://www.deezer.com/artist/14135503",
@@ -1066,7 +1069,9 @@
           "url": "https://naissamjalal.com/ensembles/alakhareen/?lang=en"
         }
       ],
-      "body": "Al Akhareen (arabsky „Ti druzí“) je projekt rappera a beatboxera Oslooba a flétnistky Naïssam Jalal, který spojuje hip-hop s improvizovanou flétnou a nay. Funguje jako duo, jako trio s DJ Junkaz Lou, nebo jako plná živá kapela. Název odkazuje na téma odlišnosti a „druhých“.\n"
+      "modified": "2026-11-27",
+      "body": "Al Akhareen (arabsky „Ti druzí“) je projekt rappera a beatboxera Oslooba a flétnistky [[naissam-jalal|Naïssam Jalal]], který spojuje hip-hop s improvizovanou flétnou a nay. Funguje jako duo, jako trio s DJ Junkaz Lou, nebo jako plná živá kapela. Název odkazuje na téma odlišnosti a „druhých“.\n",
+      "rank": 8
     },
     {
       "id": "al-andaluz-project",
@@ -1335,7 +1340,7 @@
       ],
       "added": "2026-11-27",
       "body": "Alif Hilal, dříve známá jako Lyra Pramuk, je americká multidisciplinární umělkyně žijící v Berlíně. Hudba je oddaná a spirituální, spojuje lidský hlas s vyvíjející se technologií. Na Bandcampu začala zveřejňovat první vokální skladby po přestěhování do Berlína v roce 2013; mezi alba patří Fountain (2020) a Hymnal (2025).\n",
-      "rank": 0
+      "rank": 10
     },
     {
       "id": "alika",
@@ -1790,12 +1795,15 @@
       "id": "amon-tobin",
       "name": "Amon Tobin",
       "countries": [
+        "brasil",
         "usa"
       ],
       "styles": [
         "electronic",
         "experimental"
       ],
+      "image": "img/bands/amon-tobin.avif",
+      "image_source": "https://www.discogs.com/artist/322-Amon-Tobin",
       "links": [
         {
           "type": "bandcamp",
@@ -1808,7 +1816,7 @@
       ],
       "added": "2026-11-27",
       "body": "Amon Tobin je brazilský elektronický hudebník a producent, narozený v Rio de Janeiru, který žil v Brightonu a Montrealu a dnes působí v Los Angeles. Proslul manipulací se zvukem – od raných skladeb postavených na přeskládaných jazzových a bluesových breakbeatech až po nahrávky z vlastních terénních záznamů. Vydával u labelu Ninja Tune a později založil vlastní Nomark Records.\n",
-      "rank": 1
+      "rank": 9
     },
     {
       "id": "amos-hoffman",
@@ -2175,6 +2183,29 @@
       "body": "Americká zpěvačka, bubenice, kytaristka a skladatelka (nar. 1974 v Bostonu), která od roku 1999 žije v Brooklynu. Hrála mimo jiné s Man or Astro-man?, Dean and Britta, Os Mutantes, Rasputina a [[pistolera|Pistolera]] a vydala sólová alba Recordar (2014), Querido Mundo (2017) a El Machete (2019). V roce 2017 spoluzaložila neziskovou organizaci PRIMA, která pomáhá portorickým hudebníkům a umělcům po hurikánech Irma a Maria.\n"
     },
     {
+      "id": "ani-difranco",
+      "name": "Ani DiFranco",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "folk",
+        "rock"
+      ],
+      "tags": [
+        "woman"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Ani DiFranco je americká písničkářka a kytaristka z Buffala ve státě New York. Hraje akustický folk s prvky rocku, funku a jazzu, známá je energickým kytarovým stylem a angažovanými texty. Od začátku 90. let vydává u vlastního labelu Righteous Babe Records a patří k ikonám nezávislé hudební scény.\n",
+      "rank": 0
+    },
+    {
       "id": "aniada-a-noar",
       "name": "Aniada a Noar",
       "countries": [
@@ -2223,7 +2254,7 @@
       ],
       "added": "2026-11-27",
       "body": "Anna B Savage je anglická písničkářka narozená v Londýně, dcera dvou klasických zpěváků. Její písně stojí na hlase a kytaře a jsou citlivé a niterné. Vydala alba A Common Turn (2021), In Flux (2023) a You & I Are Earth (2025).\n",
-      "rank": 2
+      "rank": 11
     },
     {
       "id": "anna-butterss",
@@ -2247,8 +2278,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Anna Butterss je australská baskytaristka a skladatelka z Adelaide, která od roku 2014 žije a nahrává v Los Angeles. Hraje na kontrabas i basovou kytaru a je členkou kapely SML. Vydala sólová alba Activities (2022) a Mighty Vertebrate (2024) a spolupracovala s [[jeff-parker|Jeffem Parkerem]], Makayou McCravenem, Phoebe Bridgers či Boygenius.\n",
-      "rank": 3
+      "body": "Anna Butterss je australská baskytaristka a skladatelka z Adelaide, která od roku 2014 žije a nahrává v Los Angeles. Hraje na kontrabas i basovou kytaru a je členkou kapely SML. Vydala sólová alba Activities (2022) a Mighty Vertebrate (2024) a spolupracovala s [[jeff-parker|Jeffem Parkerem]], Makayou McCravenem, Phoebe Bridgers či Boygenius.\n"
     },
     {
       "id": "anna-cinzia-villani",
@@ -2758,8 +2788,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Arushi Jain je indická hudebnice a producentka, která kombinuje modulární syntezátory s prvky indické klasické hudby. Debutovala albem Under the Lilac Sky (2021) a následovala deska Delight u labelu Leaving Records.\n",
-      "rank": 4
+      "body": "Arushi Jain je indická hudebnice a producentka, která kombinuje modulární syntezátory s prvky indické klasické hudby. Debutovala albem Under the Lilac Sky (2021) a následovala deska Delight u labelu Leaving Records.\n"
     },
     {
       "id": "arvanitaki-eleftheria",
@@ -2946,8 +2975,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Astrid Engberg je dánská zpěvačka, producentka, skladatelka a DJka z Kodaně. Její hudba spojuje moderní soul, R&B, nu jazz a moderní klasiku. Debutovala albem Tulpa (2020), následovala alba Trust (2023) a Cracks, které se přiklání k současnému folku a akustickému jazzu.\n",
-      "rank": 5
+      "body": "Astrid Engberg je dánská zpěvačka, producentka, skladatelka a DJka z Kodaně. Její hudba spojuje moderní soul, R&B, nu jazz a moderní klasiku. Debutovala albem Tulpa (2020), následovala alba Trust (2023) a Cracks, které se přiklání k současnému folku a akustickému jazzu.\n"
     },
     {
       "id": "at-tambur",
@@ -5642,8 +5670,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "C´Mon Tigre je experimentální duo s italskými kořeny, které na Bandcampu uvádí New York a spolupracuje s hudebníky z celého světa. Jejich debutové album vyšlo v roce 2014, další jsou například Racines (2019), Scenario (2022) a Habitat (2023). Mísí středomořské, africké a blízkovýchodní vlivy s jazzem, afrojazzem, funkem a hip hopem.\n",
-      "rank": 6
+      "body": "C´Mon Tigre je experimentální duo s italskými kořeny, které na Bandcampu uvádí New York a spolupracuje s hudebníky z celého světa. Jejich debutové album vyšlo v roce 2014, další jsou například Racines (2019), Scenario (2022) a Habitat (2023). Mísí středomořské, africké a blízkovýchodní vlivy s jazzem, afrojazzem, funkem a hip hopem.\n"
     },
     {
       "id": "caapora",
@@ -7199,8 +7226,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Church Andrews & Matt Davies je britské duo: Kirk Barley (Church Andrews) obstarává syntézu a Matt Davies hraje na bicí a perkuse. Davisovy bicí spouštějí Barleyho syntezátorová nastavení a vznikají z toho mikrotonální, rytmicky nestandardní skladby. Vydali alba Neighbours (2020), Pollen (2021), Yucca (2024) a Tilt.\n",
-      "rank": 7
+      "body": "Church Andrews & Matt Davies je britské duo: Kirk Barley (Church Andrews) obstarává syntézu a Matt Davies hraje na bicí a perkuse. Davisovy bicí spouštějí Barleyho syntezátorová nastavení a vznikají z toho mikrotonální, rytmicky nestandardní skladby. Vydali alba Neighbours (2020), Pollen (2021), Yucca (2024) a Tilt.\n"
     },
     {
       "id": "cibelle",
@@ -7314,8 +7340,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Clap! Clap! je umělecké jméno italského producenta a DJe Cristiana Criscie, původně jazzového hudebníka. Elektronickou hudbu spojuje s africkými a světovými rytmy; k jeho albům patří Tayi Bebba, A Thousand Skies a Liquid Portraits. Dělal také produkci na třech skladbách alba Paula Simona Stranger to Stranger.\n",
-      "rank": 8
+      "body": "Clap! Clap! je umělecké jméno italského producenta a DJe Cristiana Criscie, původně jazzového hudebníka. Elektronickou hudbu spojuje s africkými a světovými rytmy; k jeho albům patří Tayi Bebba, A Thousand Skies a Liquid Portraits. Dělal také produkci na třech skladbách alba Paula Simona Stranger to Stranger.\n"
     },
     {
       "id": "claude-chalhoub",
@@ -7681,8 +7706,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Cucina Povera je hudební projekt z Helsinek, jehož Bandcamp nese heslo Mind aloft in the imaginary. Mezi vydanými nahrávkami jsou Tuhka, Lumme, Dalmarnock Tapes, Tyyni, Zoom a Hilja.\n",
-      "rank": 9
+      "body": "Cucina Povera je hudební projekt z Helsinek, jehož Bandcamp nese heslo Mind aloft in the imaginary. Mezi vydanými nahrávkami jsou Tuhka, Lumme, Dalmarnock Tapes, Tyyni, Zoom a Hilja.\n"
     },
     {
       "id": "culture-musical-club-of-zanzibar",
@@ -9183,6 +9207,31 @@
       ],
       "modified": "2026-11-18",
       "body": "Dominique Pereira Pinto je brazilská violoncellistka, zpěvačka a skladatelka. Debutové album Ela vydala v lednu 2013 a hraje komorně laděnou, intimní hudbu na pomezí MPB a folku.\n"
+    },
+    {
+      "id": "dominique-fils-aime",
+      "name": "Dominique Fils-Aimé",
+      "countries": [
+        "canada"
+      ],
+      "styles": [
+        "jazz",
+        "blues"
+      ],
+      "tags": [
+        "woman"
+      ],
+      "image": "img/bands/dominique-fils-aime.avif",
+      "image_source": "https://singwithmi.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://singwithmi.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Dominique Fils-Aimé je montrealská zpěvačka a skladatelka s haitskými kořeny. Pohybuje se mezi jazzem, blues a soulem a proslula trilogií alb *Nameless*, *Stay Tuned!* a *Three Little Words*, která mapuje historii afroamerické hudby. Vydává u vlastního labelu Ensoul Records.\n",
+      "rank": 1
     },
     {
       "id": "domna-samiou",
@@ -11080,8 +11129,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Evija Vēbere je lotyšská zpěvačka a skladatelka s jazzovým pěveckým vzděláním. Pohybuje se mezi elektronikou, avant-popem a synthpopem; za album Sirdsbūt (2018) získala lotyšskou hudební cenu v kategorii alternativní album. Společné album Anomālija (2025) nahrála s bubeníkem Ivarsem Arutjunjansem.\n",
-      "rank": 10
+      "body": "Evija Vēbere je lotyšská zpěvačka a skladatelka s jazzovým pěveckým vzděláním. Pohybuje se mezi elektronikou, avant-popem a synthpopem; za album Sirdsbūt (2018) získala lotyšskou hudební cenu v kategorii alternativní album. Společné album Anomālija (2025) nahrála s bubeníkem Ivarsem Arutjunjansem.\n"
     },
     {
       "id": "express-brass-band",
@@ -11745,8 +11793,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Floex, vlastním jménem Tomáš Dvořák, je pražský klarinetista, skladatel a producent, narozený 1978. Proslavil se hudbou k hrám studia Amanita Design, například Samorost 2 a Machinarium, a od roku 2013 vydává u labelu Denovali. Mezi jeho alba patří Zorya a A Portrait of John Doe.\n",
-      "rank": 11
+      "body": "Floex, vlastním jménem Tomáš Dvořák, je pražský klarinetista, skladatel a producent, narozený 1978. Proslavil se hudbou k hrám studia Amanita Design, například Samorost 2 a Machinarium, a od roku 2013 vydává u labelu Denovali. Mezi jeho alba patří Zorya a A Portrait of John Doe.\n"
     },
     {
       "id": "flook",
@@ -13866,6 +13913,29 @@
       "body": "Hanine y Son Cubano je libanonsko-kubánský projekt založený roku 1999 producentem Michelem Elefteriadesem, který spojuje arabskou a kubánskou hudbu. Zpívá Hanine Abou Chakra a debutové album Arabo-Cuban předělává klasiky Abdel Wahhába, Fairúz či Asmahan v rytmech salsy, boleera a cha-cha-chy.\n"
     },
     {
+      "id": "hannah-peel",
+      "name": "Hannah Peel",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "tags": [
+        "woman"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Hannah Peel je britská skladatelka a hudebnice, která vyrostla v Severním Irsku. Pracuje se syntezátory, orchestrálními aranžemi a nezvyklými nástroji a propojuje elektroniku s klasickou a folkovou tradicí.\n",
+      "rank": 2
+    },
+    {
       "id": "hans-ludemann-trio-ivoire",
       "name": "Hans Ludemann & Trio Ivoire",
       "countries": [
@@ -13975,6 +14045,28 @@
         }
       ],
       "body": "Hassan Erraji je marocký multiinstrumentalista a zpěvák, který hraje na loutnu úd, arabskou harfu, nej, housle a perkuse. Arabskou hudbu a písně Severní Afriky provádí sólově i s kapelou Arabesque, jež do tradičních marockých zvuků vnáší jazz. Vydal například album Awal Mara (World Village, 2010) a vede také hudební a taneční workshopy.\n"
+    },
+    {
+      "id": "hatis-noit",
+      "name": "Hatis Noit",
+      "countries": [
+        "japan"
+      ],
+      "styles": [
+        "experimental"
+      ],
+      "tags": [
+        "woman"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Hatis Noit je japonská vokalistka a skladatelka žijící v Londýně. Její hudba stojí na hlasu: v živém vystoupení ho vrství pomocí looperu, zpívá bez textů a čerpá z tradičního japonského zpěvu i z evropské sborové tradice. Vydává u labelu Erased Tapes.\n",
+      "rank": 3
     },
     {
       "id": "haydamaky",
@@ -23530,6 +23622,30 @@
       "body": "Milagro Acustico je italská kapela, kterou v roce 1995 založil Bob Salmieri. Její hudba sleduje středomořské cesty a znovu interpretuje dějiny arabské nadvlády nad Středomořím; zpívá hlavně sicilsky, místy arabsky a turecky. K albům patří Onirico (1998), Rubaiyyat of Omar Khayyam (2004), Poeti Arabi di Sicilia (2005) a Sicilia Araba (2013), na kterém zpívá Marwan Samer tuniského a iráckého původu.\n"
     },
     {
+      "id": "milkweed",
+      "name": "Milkweed",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "folk",
+        "experimental"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2n8wLKXfDnrSoZ9hKffIVW"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://milkweedfolk.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Milkweed je londýnské experimentální folkové duo. Na albu *Remscéla* (2025) zhudebnilo úvodní „předpříběhy“ irského eposu Táin Bó Cúailnge a spojilo tradiční irské náměty s ambientními a experimentálními prvky. Album vyšlo u labelu Broadside Hacks Recordings.\n",
+      "rank": 4
+    },
+    {
       "id": "milladoiro",
       "name": "Milladoiro",
       "countries": [
@@ -24567,6 +24683,34 @@
       "body": "Zpěvačka z malijské oblasti Wassoulou, narozená přibližně v roce 1961, pocházející z kovářské kasty, jejíž členové běžně nezpívali; tabu prolomila vítězstvím v soutěži Radio France Internationale. Debut La Grande Cantatrice Malienne Vol 1 nahrála s kytaristou N'Gou Bagayokem, pozdějším manželem; v roce 2019 vyšel znovu u Awesome Tapes From Africa. Album Kanawa (2021) reaguje na konflikty v Mali.\n"
     },
     {
+      "id": "naissam-jalal",
+      "name": "Naïssam Jalal",
+      "countries": [
+        "france",
+        "syria"
+      ],
+      "styles": [
+        "jazz",
+        "fusion"
+      ],
+      "instruments": [
+        "flute"
+      ],
+      "tags": [
+        "woman",
+        "diaspora"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Naïssam Jalal je francouzsko-syrská flétnistka, hráčka na nej, skladatelka a zpěvačka narozená v Paříži. Spojuje jazz s arabskou hudební tradicí a ve své tvorbě se věnuje i politickým a společenským tématům. Vede vlastní soubor Rhythms of Resistance.\n",
+      "rank": 5
+    },
+    {
       "id": "najma",
       "name": "Najma",
       "countries": [
@@ -24873,6 +25017,29 @@
         "senegal"
       ],
       "body": "Senegalský zpěvák, kapelník a multiinstrumentalista známý afrokubánskou hudbou, narozený počátkem 60. let ve Fatick. Podílel se na vzniku skupiny [[africando|Africando]] a v letech 1992 až 1998 se podílel na několika jejích albech. Podle senegalských médií jeho kariéru roku 2003 přerušila ztráta hlasu při vystoupení v dakarském klubu.\n"
+    },
+    {
+      "id": "nico",
+      "name": "Nico",
+      "countries": [
+        "germany"
+      ],
+      "styles": [
+        "folk",
+        "experimental"
+      ],
+      "tags": [
+        "woman"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Nico (vlastním jménem Christa Päffgen, 1938–1988) byla německá zpěvačka, modelka a herečka. Proslavila se hostováním na albu *The Velvet Underground & Nico* (1967) a poté nahrála sólová alba s temným, minimalistickým zvukem, v němž dominuje její hluboký hlas a harmonium.\n",
+      "rank": 6
     },
     {
       "id": "nicolas-krassik",
@@ -29726,6 +29893,26 @@
         }
       ],
       "body": "Portugalská zpěvačka, skladatelka, kytaristka a perkusionistka (1978–2023), narozená a vyrůstající v Lisabonu v rodině s kapverdskými kořeny. Její world music čerpala z afrických, portugalských i severoamerických vlivů.\n"
+    },
+    {
+      "id": "sarab",
+      "name": "Sarāb",
+      "countries": [
+        "france"
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/7JU6oqxO4X0yU64NYd7QOl"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://sarab.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Sarāb je kapela z Paříže. V únoru 2026 vydala album *Mīt warde* („Sto růží“).\n",
+      "rank": 7
     },
     {
       "id": "sarah-aroeste",
@@ -36944,6 +37131,63 @@
   ],
   "cds": [
     {
+      "id": "amon-tobin-supermodified",
+      "name": "Supermodified",
+      "bands": [
+        "amon-tobin"
+      ],
+      "year": 2000,
+      "image": "img/cds/amon-tobin-supermodified.avif",
+      "image_source": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 0
+    },
+    {
+      "id": "ani-difranco-revolutionary-love",
+      "name": "Revolutionary Love",
+      "bands": [
+        "ani-difranco"
+      ],
+      "year": 2021,
+      "image": "img/cds/ani-difranco-revolutionary-love.avif",
+      "image_source": "https://open.spotify.com/album/2ccmonAIsuOl2smoeNkxW6",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2ccmonAIsuOl2smoeNkxW6"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 1
+    },
+    {
+      "id": "ani-difranco-unprecedented-sh-t",
+      "name": "Unprecedented Sh!t",
+      "bands": [
+        "ani-difranco"
+      ],
+      "year": 2024,
+      "image": "img/cds/ani-difranco-unprecedented-sh-t.avif",
+      "image_source": "https://open.spotify.com/album/6DynXNC1awEv0tk6DGGV1N",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6DynXNC1awEv0tk6DGGV1N"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 2
+    },
+    {
       "id": "aris-san-dam-dam",
       "name": "דם דם",
       "bands": [
@@ -36980,6 +37224,46 @@
       "body": ""
     },
     {
+      "id": "arushi-jain-delight",
+      "name": "Delight",
+      "bands": [
+        "arushi-jain"
+      ],
+      "year": 2024,
+      "image": "img/cds/arushi-jain-delight.avif",
+      "image_source": "https://arushijain.bandcamp.com/album/delight",
+      "bandcamp_id": 4083091729,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://arushijain.bandcamp.com/album/delight"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 3
+    },
+    {
+      "id": "arushi-jain-under-the-lilac-sky",
+      "name": "Under the Lilac Sky",
+      "bands": [
+        "arushi-jain"
+      ],
+      "year": 2021,
+      "image": "img/cds/arushi-jain-under-the-lilac-sky.avif",
+      "image_source": "https://arushijain.bandcamp.com/album/under-the-lilac-sky",
+      "bandcamp_id": 3800737209,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://arushijain.bandcamp.com/album/under-the-lilac-sky"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 4
+    },
+    {
       "id": "bombino-nomad",
       "name": "Nomad",
       "bands": [
@@ -37014,8 +37298,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 5
+      "body": ""
     },
     {
       "id": "csaba-palotai-the-deserter",
@@ -37033,8 +37316,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 6
+      "body": ""
     },
     {
       "id": "dal-um-coexistence",
@@ -37144,6 +37426,106 @@
       "body": ""
     },
     {
+      "id": "dominique-fils-aime-my-world-is-the-sun",
+      "name": "My World Is The Sun",
+      "bands": [
+        "dominique-fils-aime"
+      ],
+      "year": 2026,
+      "image": "img/cds/dominique-fils-aime-my-world-is-the-sun.avif",
+      "image_source": "https://singwithmi.bandcamp.com/album/my-world-is-the-sun",
+      "bandcamp_id": 1004136480,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://singwithmi.bandcamp.com/album/my-world-is-the-sun"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 5
+    },
+    {
+      "id": "dominique-fils-aime-nameless",
+      "name": "Nameless",
+      "bands": [
+        "dominique-fils-aime"
+      ],
+      "year": 2018,
+      "image": "img/cds/dominique-fils-aime-nameless.avif",
+      "image_source": "https://singwithmi.bandcamp.com/album/nameless",
+      "bandcamp_id": 3393237399,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://singwithmi.bandcamp.com/album/nameless"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 6
+    },
+    {
+      "id": "dominique-fils-aime-our-roots-run-deep",
+      "name": "Our Roots Run Deep",
+      "bands": [
+        "dominique-fils-aime"
+      ],
+      "year": 2023,
+      "image": "img/cds/dominique-fils-aime-our-roots-run-deep.avif",
+      "image_source": "https://singwithmi.bandcamp.com/album/our-roots-run-deep",
+      "bandcamp_id": 4148293972,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://singwithmi.bandcamp.com/album/our-roots-run-deep"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 7
+    },
+    {
+      "id": "dominique-fils-aime-stay-tuned",
+      "name": "Stay Tuned!",
+      "bands": [
+        "dominique-fils-aime"
+      ],
+      "year": 2019,
+      "image": "img/cds/dominique-fils-aime-stay-tuned.avif",
+      "image_source": "https://singwithmi.bandcamp.com/album/stay-tuned",
+      "bandcamp_id": 2873982370,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://singwithmi.bandcamp.com/album/stay-tuned"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 8
+    },
+    {
+      "id": "dominique-fils-aime-three-little-words",
+      "name": "Three Little Words",
+      "bands": [
+        "dominique-fils-aime"
+      ],
+      "year": 2021,
+      "image": "img/cds/dominique-fils-aime-three-little-words.avif",
+      "image_source": "https://singwithmi.bandcamp.com/album/three-little-words",
+      "bandcamp_id": 3624440293,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://singwithmi.bandcamp.com/album/three-little-words"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 9
+    },
+    {
       "id": "eivind-aarset-dream-logic",
       "name": "Dream Logic",
       "bands": [
@@ -37159,8 +37541,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 7
+      "body": ""
     },
     {
       "id": "eric-clapton-riding-with-the-king-20th-anniversary-deluxe-edition",
@@ -37179,8 +37560,27 @@
         }
       ],
       "added": "2026-11-25",
+      "body": ""
+    },
+    {
+      "id": "evija-vebere-anomalija",
+      "name": "Anomālija",
+      "bands": [
+        "evija-vebere"
+      ],
+      "year": 2025,
+      "image": "img/cds/evija-vebere-anomalija.avif",
+      "image_source": "https://evijavebere.bandcamp.com/album/anom-lija",
+      "bandcamp_id": 1612564455,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://evijavebere.bandcamp.com/album/anom-lija"
+        }
+      ],
+      "added": "2026-11-27",
       "body": "",
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "gary-burton-crystal-silence",
@@ -37247,6 +37647,81 @@
       "body": ""
     },
     {
+      "id": "goya-gumbani-bean-pie",
+      "name": "Bean Pie",
+      "bands": [
+        "goya-gumbani"
+      ],
+      "year": 2026,
+      "image": "img/cds/goya-gumbani-bean-pie.avif",
+      "image_source": "https://goyagumbani.bandcamp.com/album/bean-pie",
+      "bandcamp_id": 951008511,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://goyagumbani.bandcamp.com/album/bean-pie"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 11
+    },
+    {
+      "id": "hannah-peel-the-endless-dance",
+      "name": "The Endless Dance",
+      "bands": [
+        "hannah-peel"
+      ],
+      "year": 2026,
+      "image": "img/cds/hannah-peel-the-endless-dance.avif",
+      "image_source": "https://open.spotify.com/album/1sqUgnq09kdSWBrxPrqA5F",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1sqUgnq09kdSWBrxPrqA5F"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "hatis-noit-aura",
+      "name": "Aura",
+      "bands": [
+        "hatis-noit"
+      ],
+      "year": 2022,
+      "image": "img/cds/hatis-noit-aura.avif",
+      "image_source": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "holly-herndon-proto",
+      "name": "PROTO",
+      "bands": [
+        "holly-herndon"
+      ],
+      "year": 2019,
+      "image": "img/cds/holly-herndon-proto.avif",
+      "image_source": "https://hollyherndon.bandcamp.com/album/proto",
+      "bandcamp_id": 1999046559,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://hollyherndon.bandcamp.com/album/proto"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
       "id": "jakob-bro-returnings",
       "name": "Returnings",
       "bands": [
@@ -37262,8 +37737,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 9
+      "body": ""
     },
     {
       "id": "jakob-bro-uma-elmo",
@@ -37281,8 +37755,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 10
+      "body": ""
     },
     {
       "id": "juana-molina-doga",
@@ -37476,8 +37949,45 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 0
+      "body": ""
+    },
+    {
+      "id": "lea-maria-fries-cleo",
+      "name": "CLEO",
+      "bands": [
+        "lea-maria-fries"
+      ],
+      "year": 2025,
+      "image": "img/cds/lea-maria-fries-cleo.avif",
+      "image_source": "https://leamariafries.bandcamp.com/album/cleo",
+      "bandcamp_id": 3724429154,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://leamariafries.bandcamp.com/album/cleo"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "leoni-leoni-leoni-leoni",
+      "name": "Leoni Leoni",
+      "bands": [
+        "leoni-leoni"
+      ],
+      "year": 2022,
+      "image": "img/cds/leoni-leoni-leoni-leoni.avif",
+      "image_source": "https://leonileoni.bandcamp.com/album/leoni-leoni",
+      "bandcamp_id": 3001360611,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://leonileoni.bandcamp.com/album/leoni-leoni"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
     },
     {
       "id": "lucrecia-dalt-a-danger-to-ourselves",
@@ -37594,8 +38104,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 1
+      "body": ""
     },
     {
       "id": "marisa-anderson-mercury",
@@ -37618,8 +38127,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 2
+      "body": ""
     },
     {
       "id": "marisa-anderson-still-here",
@@ -37642,8 +38150,103 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 3
+      "body": ""
+    },
+    {
+      "id": "milkweed-remscela",
+      "name": "Remscéla",
+      "bands": [
+        "milkweed"
+      ],
+      "year": 2025,
+      "image": "img/cds/milkweed-remscela.avif",
+      "image_source": "https://open.spotify.com/album/1cRGZJ3uHgg7Hav6SY10jX",
+      "bandcamp_id": 913644722,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1cRGZJ3uHgg7Hav6SY10jX"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://milkweedfolk.bandcamp.com/album/remsc-la-2"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "naissam-jalal-al-akhareen",
+      "name": "Al Akhareen",
+      "bands": [
+        "naissam-jalal"
+      ],
+      "year": 2018,
+      "image": "img/cds/naissam-jalal-al-akhareen.avif",
+      "image_source": "https://open.spotify.com/album/6u8WiuaPIq7jj4IKYbMrKm",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6u8WiuaPIq7jj4IKYbMrKm"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "naissam-jalal-almot-wala-almazala",
+      "name": "Almot Wala Almazala",
+      "bands": [
+        "naissam-jalal"
+      ],
+      "year": 2016,
+      "image": "img/cds/naissam-jalal-almot-wala-almazala.avif",
+      "image_source": "https://open.spotify.com/album/2eYdkHkOEjMHVW90isjZBR",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2eYdkHkOEjMHVW90isjZBR"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "nala-sinephro-space-1-8",
+      "name": "Space 1.8",
+      "bands": [
+        "nala-sinephro"
+      ],
+      "year": 2021,
+      "image": "img/cds/nala-sinephro-space-1-8.avif",
+      "image_source": "https://nalasinephro.bandcamp.com/album/space-18",
+      "bandcamp_id": 2464006717,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://nalasinephro.bandcamp.com/album/space-18"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "nico-desertshore",
+      "name": "Desertshore",
+      "bands": [
+        "nico"
+      ],
+      "year": 1970,
+      "image": "img/cds/nico-desertshore.avif",
+      "image_source": "https://open.spotify.com/album/0zI2zWeDTMPZpVM3APGMTB",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0zI2zWeDTMPZpVM3APGMTB"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
     },
     {
       "id": "noura-mint-seymali-arbina",
@@ -37703,6 +38306,25 @@
       "body": ""
     },
     {
+      "id": "pluhm-sull-assenza",
+      "name": "Sull'Assenza",
+      "bands": [
+        "pluhm"
+      ],
+      "year": 2022,
+      "image": "img/cds/pluhm-sull-assenza.avif",
+      "image_source": "https://pluhmdrone.bandcamp.com/album/sullassenza",
+      "bandcamp_id": 1380302203,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://pluhmdrone.bandcamp.com/album/sullassenza"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
       "id": "rev-gary-davis-harlem-street-singer",
       "name": "Harlem Street Singer",
       "bands": [
@@ -37718,8 +38340,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 11
+      "body": ""
     },
     {
       "id": "robert-plant-lullaby-and-the-ceaseless-roar",
@@ -37978,6 +38599,86 @@
       "body": ""
     },
     {
+      "id": "sarab-mit-warde",
+      "name": "Mīt warde",
+      "bands": [
+        "sarab"
+      ],
+      "year": 2026,
+      "image": "img/cds/sarab-mit-warde.avif",
+      "image_source": "https://sarab.bandcamp.com/album/m-t-warde-2",
+      "bandcamp_id": 1395382926,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5qDy6Q4yYrtwl0wEX5kWnq"
+        },
+        {
+          "type": "bandcamp",
+          "url": "https://sarab.bandcamp.com/album/m-t-warde-2"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "son-lux-tomorrows-i",
+      "name": "Tomorrows I",
+      "bands": [
+        "son-lux"
+      ],
+      "year": 2020,
+      "image": "img/cds/son-lux-tomorrows-i.avif",
+      "image_source": "https://sonlux.bandcamp.com/album/tomorrows-i",
+      "bandcamp_id": 3178220431,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://sonlux.bandcamp.com/album/tomorrows-i"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "son-lux-tomorrows-ii",
+      "name": "Tomorrows II",
+      "bands": [
+        "son-lux"
+      ],
+      "year": 2020,
+      "image": "img/cds/son-lux-tomorrows-ii.avif",
+      "image_source": "https://sonlux.bandcamp.com/album/tomorrows-ii",
+      "bandcamp_id": 2263911247,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://sonlux.bandcamp.com/album/tomorrows-ii"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "son-lux-tomorrows-iii",
+      "name": "Tomorrows III",
+      "bands": [
+        "son-lux"
+      ],
+      "year": 2021,
+      "image": "img/cds/son-lux-tomorrows-iii.avif",
+      "image_source": "https://sonlux.bandcamp.com/album/tomorrows-iii",
+      "bandcamp_id": 3420379330,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://sonlux.bandcamp.com/album/tomorrows-iii"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
       "id": "steve-arguelles-antiquity",
       "name": "Antiquity",
       "bands": [
@@ -37995,6 +38696,43 @@
         }
       ],
       "added": "2026-11-25",
+      "body": ""
+    },
+    {
+      "id": "takeo-watanabe-ambient-soundscape-in-my-life",
+      "name": "Ambient Soundscape in My Life",
+      "bands": [
+        "takeo-watanabe"
+      ],
+      "year": 2024,
+      "image": "img/cds/takeo-watanabe-ambient-soundscape-in-my-life.avif",
+      "image_source": "https://takeowatanabe.bandcamp.com/album/ambient-soundscape-in-my-life",
+      "bandcamp_id": 1407507975,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://takeowatanabe.bandcamp.com/album/ambient-soundscape-in-my-life"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "takeo-watanabe-piece-of-my-scape",
+      "name": "Piece of My Scape",
+      "bands": [
+        "takeo-watanabe"
+      ],
+      "year": 2025,
+      "image": "img/cds/takeo-watanabe-piece-of-my-scape.avif",
+      "image_source": "https://open.spotify.com/album/6mC8qsTSCoC7HnIFjBnNTu",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6mC8qsTSCoC7HnIFjBnNTu"
+        }
+      ],
+      "added": "2026-11-27",
       "body": ""
     },
     {
@@ -38043,8 +38781,81 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "",
-      "rank": 4
+      "body": ""
+    },
+    {
+      "id": "tomas-niesner-becvou",
+      "name": "Bečvou",
+      "bands": [
+        "tomas-niesner"
+      ],
+      "year": 2022,
+      "image": "img/cds/tomas-niesner-becvou.avif",
+      "image_source": "https://tomniesner.bandcamp.com/album/be-vou",
+      "bandcamp_id": 663520511,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://tomniesner.bandcamp.com/album/be-vou"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "ursula-sereghy-cordial",
+      "name": "Cordial",
+      "bands": [
+        "ursula-sereghy"
+      ],
+      "year": 2025,
+      "image": "img/cds/ursula-sereghy-cordial.avif",
+      "image_source": "https://ursulasereghy.bandcamp.com/album/cordial",
+      "bandcamp_id": 380055157,
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://ursulasereghy.bandcamp.com/album/cordial"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "vanishing-twin-ookii-gekkou",
+      "name": "Ookii Gekkou",
+      "bands": [
+        "vanishing-twin"
+      ],
+      "year": 2021,
+      "image": "img/cds/vanishing-twin-ookii-gekkou.avif",
+      "image_source": "https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
+    },
+    {
+      "id": "vanishing-twin-the-age-of-immunology",
+      "name": "The Age of Immunology",
+      "bands": [
+        "vanishing-twin"
+      ],
+      "year": 2019,
+      "image": "img/cds/vanishing-twin-the-age-of-immunology.avif",
+      "image_source": "https://open.spotify.com/album/415aJSNYQzadqE4p5l51NE",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/415aJSNYQzadqE4p5l51NE"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
     }
   ],
   "shelves": [
@@ -38075,7 +38886,7 @@
       ],
       "added": "2026-11-25",
       "body": "",
-      "rank": 0
+      "rank": 6
     },
     {
       "id": "ex",
@@ -38088,15 +38899,74 @@
         "sara-gioielli",
         "kamilya-jubran",
         "the-growth-eternal",
-        "dewey-martino"
+        "dewey-martino",
+        "goya-gumbani",
+        "lea-maria-fries",
+        "ursula-sereghy",
+        "tomas-niesner",
+        "pluhm",
+        "son-lux",
+        "leoni-leoni",
+        "evija-vebere",
+        "nala-sinephro",
+        "vanishing-twin",
+        "holly-herndon",
+        "arushi-jain",
+        "takeo-watanabe",
+        "hatis-noit"
       ],
       "cds": [
-        "dewey-martino-los-desamores-de-dewey-martino"
+        "dewey-martino-los-desamores-de-dewey-martino",
+        "goya-gumbani-bean-pie",
+        "lea-maria-fries-cleo",
+        "ursula-sereghy-cordial",
+        "tomas-niesner-becvou",
+        "pluhm-sull-assenza",
+        "son-lux-tomorrows-i",
+        "son-lux-tomorrows-ii",
+        "son-lux-tomorrows-iii",
+        "leoni-leoni-leoni-leoni",
+        "evija-vebere-anomalija",
+        "nala-sinephro-space-1-8",
+        "vanishing-twin-the-age-of-immunology",
+        "vanishing-twin-ookii-gekkou",
+        "holly-herndon-proto",
+        "arushi-jain-under-the-lilac-sky",
+        "arushi-jain-delight",
+        "takeo-watanabe-piece-of-my-scape",
+        "takeo-watanabe-ambient-soundscape-in-my-life",
+        "hatis-noit-aura"
       ],
       "added": "2026-11-17",
-      "modified": "2026-11-23",
+      "modified": "2026-11-27",
       "body": "",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "id": "gems",
+      "name": "Gems",
+      "bands": [
+        "nico"
+      ],
+      "cds": [
+        "nico-desertshore"
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 0
+    },
+    {
+      "id": "indie-orient",
+      "name": "Indie Orient",
+      "bands": [
+        "sarab"
+      ],
+      "cds": [
+        "sarab-mit-warde"
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 1
     },
     {
       "id": "ita",
@@ -38106,7 +38976,7 @@
       ],
       "added": "2026-11-17",
       "body": "",
-      "rank": 4
+      "rank": 9
     },
     {
       "id": "jazz-guitar",
@@ -38130,7 +39000,7 @@
       ],
       "added": "2026-11-25",
       "body": "",
-      "rank": 1
+      "rank": 7
     },
     {
       "id": "poustni-blues",
@@ -38150,7 +39020,52 @@
       "added": "2026-11-13",
       "modified": "2026-11-17",
       "body": "",
+      "rank": 8
+    },
+    {
+      "id": "quirks",
+      "name": "Quirks",
+      "bands": [
+        "milkweed",
+        "hannah-peel"
+      ],
+      "cds": [
+        "milkweed-remscela",
+        "hannah-peel-the-endless-dance"
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 2
+    },
+    {
+      "id": "synth",
+      "name": "Synth",
+      "bands": [
+        "arushi-jain",
+        "takeo-watanabe"
+      ],
+      "cds": [
+        "takeo-watanabe-piece-of-my-scape",
+        "takeo-watanabe-ambient-soundscape-in-my-life"
+      ],
+      "added": "2026-11-27",
+      "body": "",
       "rank": 3
+    },
+    {
+      "id": "voices",
+      "name": "Voices",
+      "bands": [
+        "dominique-fils-aime",
+        "ani-difranco"
+      ],
+      "cds": [
+        "ani-difranco-revolutionary-love",
+        "ani-difranco-unprecedented-sh-t"
+      ],
+      "added": "2026-11-27",
+      "body": "",
+      "rank": 4
     }
   ],
   "countries": [

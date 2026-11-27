@@ -3,10 +3,13 @@ name: Amon Tobin
 aliases:
   - Amon Tobin
 countries:
+  - "[[brasil]]"
   - "[[usa]]"
 styles:
   - "[[electronic]]"
   - "[[experimental]]"
+image: bands/amon-tobin.avif
+image_source: https://www.discogs.com/artist/322-Amon-Tobin
 links:
   - type: bandcamp
     url: https://amontobin.bandcamp.com
