@@ -46,4 +46,7 @@ cds:
   - "[[takeo-watanabe-piece-of-my-scape]]"
   - "[[takeo-watanabe-ambient-soundscape-in-my-life]]"
   - "[[hatis-noit-aura]]"
+  - "[[salami-rose-joe-louis-akousmatikous]]"
+  - "[[salami-rose-joe-louis-lorings]]"
+  - "[[salami-rose-joe-louis-zdenka-2080]]"
 ---
