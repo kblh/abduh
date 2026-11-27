@@ -1312,6 +1312,32 @@
       "body": ""
     },
     {
+      "id": "alif-hilal",
+      "name": "Alif Hilal",
+      "countries": [
+        "germany"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "image": "img/bands/alif-hilal.avif",
+      "image_source": "https://lyrapramuk.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://lyrapramuk.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lyra_Pramuk"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Alif Hilal, dříve známá jako Lyra Pramuk, je americká multidisciplinární umělkyně žijící v Berlíně. Hudba je oddaná a spirituální, spojuje lidský hlas s vyvíjející se technologií. Na Bandcampu začala zveřejňovat první vokální skladby po přestěhování do Berlína v roce 2013; mezi alba patří Fountain (2020) a Hymnal (2025).\n",
+      "rank": 0
+    },
+    {
       "id": "alika",
       "name": "Alika",
       "countries": [
@@ -1761,6 +1787,30 @@
       "body": "Marocký vedlejší projekt dub/trance/tradiční skupiny Aisha Kandisha's Jarring Effects, na němž se podíleli čtyři členové této kapely a hosté z okruhu Agdal-Garden All Stars. Spojuje tradiční marockou hudbu se samply, rapovými beaty a syntezátory. Aktivní byl v 90. letech.\n"
     },
     {
+      "id": "amon-tobin",
+      "name": "Amon Tobin",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://amontobin.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Amon_Tobin"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Amon Tobin je brazilský elektronický hudebník a producent, narozený v Rio de Janeiru, který žil v Brightonu a Montrealu a dnes působí v Los Angeles. Proslul manipulací se zvukem – od raných skladeb postavených na přeskládaných jazzových a bluesových breakbeatech až po nahrávky z vlastních terénních záznamů. Vydával u labelu Ninja Tune a později založil vlastní Nomark Records.\n",
+      "rank": 1
+    },
+    {
       "id": "amos-hoffman",
       "name": "Amos Hoffman",
       "countries": [
@@ -2149,6 +2199,56 @@
         "mali"
       ],
       "body": ""
+    },
+    {
+      "id": "anna-b-savage",
+      "name": "Anna B Savage",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "folk"
+      ],
+      "image": "img/bands/anna-b-savage.avif",
+      "image_source": "https://annabsavage.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://annabsavage.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anna_B_Savage"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Anna B Savage je anglická písničkářka narozená v Londýně, dcera dvou klasických zpěváků. Její písně stojí na hlase a kytaře a jsou citlivé a niterné. Vydala alba A Common Turn (2021), In Flux (2023) a You & I Are Earth (2025).\n",
+      "rank": 2
+    },
+    {
+      "id": "anna-butterss",
+      "name": "Anna Butterss",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "image": "img/bands/anna-butterss.avif",
+      "image_source": "https://annabutterss.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://annabutterss.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anna_Butterss"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Anna Butterss je australská baskytaristka a skladatelka z Adelaide, která od roku 2014 žije a nahrává v Los Angeles. Hraje na kontrabas i basovou kytaru a je členkou kapely SML. Vydala sólová alba Activities (2022) a Mighty Vertebrate (2024) a spolupracovala s [[jeff-parker|Jeffem Parkerem]], Makayou McCravenem, Phoebe Bridgers či Boygenius.\n",
+      "rank": 3
     },
     {
       "id": "anna-cinzia-villani",
@@ -2640,6 +2740,28 @@
       "body": "Arménský multiinstrumentalista a zpěvák narozený 1957, který žije v USA. Vede skupinu [[armenian-navy-band|Armenian Navy Band]] a je členem kvartetu Night Ark. Než se přestěhoval do Ameriky, objevil se na více než dvou stech nahrávek v Evropě. Jeho hudba spojuje avantgardní folk a jazz.\n"
     },
     {
+      "id": "arushi-jain",
+      "name": "Arushi Jain",
+      "countries": [
+        "india"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "image": "img/bands/arushi-jain.avif",
+      "image_source": "https://arushijain.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://arushijain.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Arushi Jain je indická hudebnice a producentka, která kombinuje modulární syntezátory s prvky indické klasické hudby. Debutovala albem Under the Lilac Sky (2021) a následovala deska Delight u labelu Leaving Records.\n",
+      "rank": 4
+    },
+    {
       "id": "arvanitaki-eleftheria",
       "name": "Arvanitaki Eleftheria",
       "countries": [
@@ -2804,6 +2926,28 @@
         }
       ],
       "body": "Argentinský skladatel, bandoneonista a aranžér (1921–1992). Svými skladbami proměnil tradiční tango v takzvané nuevo tango, do kterého zapojil prvky jazzu a klasické hudby. Jako virtuos na bandoneon hrál své skladby s různými soubory.\n"
+    },
+    {
+      "id": "astrid-engberg",
+      "name": "Astrid Engberg",
+      "countries": [
+        "denmark"
+      ],
+      "styles": [
+        "electronic",
+        "jazz"
+      ],
+      "image": "img/bands/astrid-engberg.avif",
+      "image_source": "https://astridengberg.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://astridengberg.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Astrid Engberg je dánská zpěvačka, producentka, skladatelka a DJka z Kodaně. Její hudba spojuje moderní soul, R&B, nu jazz a moderní klasiku. Debutovala albem Tulpa (2020), následovala alba Trust (2023) a Cracks, které se přiklání k současnému folku a akustickému jazzu.\n",
+      "rank": 5
     },
     {
       "id": "at-tambur",
@@ -3157,8 +3301,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Americký bluesový kytarista a zpěvák (1925-2015) z Mississippi, přezdívaný král blues. Jeho kytaru Lucille a jemný, zpěvný styl hry s vibratem ovlivnily generace kytaristů.\n",
-      "rank": 1
+      "body": "Americký bluesový kytarista a zpěvák (1925-2015) z Mississippi, přezdívaný král blues. Jeho kytaru Lucille a jemný, zpěvný styl hry s vibratem ovlivnily generace kytaristů.\n"
     },
     {
       "id": "ba-cissoko",
@@ -3690,8 +3833,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Americký jazzový kytarista (1923–2004), který hrál v malých jazzových sestavách i jako studiový hudebník. Podílel se na řadě nahrávek, třeba trio Great Guitars.\n",
-      "rank": 2
+      "body": "Americký jazzový kytarista (1923–2004), který hrál v malých jazzových sestavách i jako studiový hudebník. Podílel se na řadě nahrávek, třeba trio Great Guitars.\n"
     },
     {
       "id": "basco",
@@ -4297,8 +4439,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Americký kytarista narozený v roce 1951. V jazzu vyniká atmosférickým, melodickým zvukem a rád ho propojuje s americkou lidovou hudbou, country a bluesem. Za svou kariéru spolupracoval s množstvím hudebníků a vydal desítky alb.\n",
-      "rank": 3
+      "body": "Americký kytarista narozený v roce 1951. V jazzu vyniká atmosférickým, melodickým zvukem a rád ho propojuje s americkou lidovou hudbou, country a bluesem. Za svou kariéru spolupracoval s množstvím hudebníků a vydal desítky alb.\n"
     },
     {
       "id": "bill-whelan",
@@ -5241,8 +5382,7 @@
         }
       ],
       "modified": "2026-11-25",
-      "body": "Stanley Dural Jr. (1947-2016) z Lafayette v Louisianě, akordeonista, který zydeco dostal k širokému publiku. Hrál mimo jiné s [[eric-clapton|Ericem Claptonem]] a vystoupil na závěrečném ceremoniálu olympiády v Atlantě 1996. Jeho album Lay Your Burden Down získalo Grammy.\n",
-      "rank": 4
+      "body": "Stanley Dural Jr. (1947-2016) z Lafayette v Louisianě, akordeonista, který zydeco dostal k širokému publiku. Hrál mimo jiné s [[eric-clapton|Ericem Claptonem]] a vystoupil na závěrečném ceremoniálu olympiády v Atlantě 1996. Jeho album Lay Your Burden Down získalo Grammy.\n"
     },
     {
       "id": "budapester-klezmer-band",
@@ -5481,6 +5621,29 @@
         "burkina-faso"
       ],
       "body": ""
+    },
+    {
+      "id": "c-mon-tigre",
+      "name": "C´Mon Tigre",
+      "countries": [
+        "italy"
+      ],
+      "styles": [
+        "experimental",
+        "funk",
+        "duo"
+      ],
+      "image": "img/bands/c-mon-tigre.avif",
+      "image_source": "https://cmontigrek7.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://cmontigrek7.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "C´Mon Tigre je experimentální duo s italskými kořeny, které na Bandcampu uvádí New York a spolupracuje s hudebníky z celého světa. Jejich debutové album vyšlo v roce 2014, další jsou například Racines (2019), Scenario (2022) a Habitat (2023). Mísí středomořské, africké a blízkovýchodní vlivy s jazzem, afrojazzem, funkem a hip hopem.\n",
+      "rank": 6
     },
     {
       "id": "caapora",
@@ -7013,6 +7176,33 @@
       "body": ""
     },
     {
+      "id": "church-andrews-matt-davies",
+      "name": "Church Andrews & Matt Davies",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "electronic",
+        "experimental",
+        "duo"
+      ],
+      "members": [
+        "Kirk Barley",
+        "Matt Davies"
+      ],
+      "image": "img/bands/church-andrews-matt-davies.avif",
+      "image_source": "https://churchandrews.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://churchandrews.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Church Andrews & Matt Davies je britské duo: Kirk Barley (Church Andrews) obstarává syntézu a Matt Davies hraje na bicí a perkuse. Davisovy bicí spouštějí Barleyho syntezátorová nastavení a vznikají z toho mikrotonální, rytmicky nestandardní skladby. Vydali alba Neighbours (2020), Pollen (2021), Yucca (2024) a Tilt.\n",
+      "rank": 7
+    },
+    {
       "id": "cibelle",
       "name": "Cibelle",
       "countries": [
@@ -7100,6 +7290,32 @@
         "france"
       ],
       "body": ""
+    },
+    {
+      "id": "clap-clap",
+      "name": "Clap! Clap!",
+      "countries": [
+        "italy"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "image": "img/bands/clap-clap.avif",
+      "image_source": "https://clapclap.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://clapclap.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Clap!_Clap!"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Clap! Clap! je umělecké jméno italského producenta a DJe Cristiana Criscie, původně jazzového hudebníka. Elektronickou hudbu spojuje s africkými a světovými rytmy; k jeho albům patří Tayi Bebba, A Thousand Skies a Liquid Portraits. Dělal také produkci na třech skladbách alba Paula Simona Stranger to Stranger.\n",
+      "rank": 8
     },
     {
       "id": "claude-chalhoub",
@@ -7422,8 +7638,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Maďarský kytarista a skladatel narozený v Budapešti (1972), který studoval na pařížské konzervatoři. Vede soubor Grupa Palotai a pravidelně koncertuje ve Francii a Maďarsku. Alba vydává u maďarského labelu BMC.\n",
-      "rank": 5
+      "body": "Maďarský kytarista a skladatel narozený v Budapešti (1972), který studoval na pařížské konzervatoři. Vede soubor Grupa Palotai a pravidelně koncertuje ve Francii a Maďarsku. Alba vydává u maďarského labelu BMC.\n"
     },
     {
       "id": "cuarto-poder",
@@ -7450,6 +7665,24 @@
         }
       ],
       "body": "Cuca Roseta (vlastním jménem Maria Isabel Roseta, nar. 1981) je portugalská fadistka a skladatelka z lisabonské čtvrti Alfama, kde začala zpívat v devatenácti letech. Tradiční fado kombinuje s jazzem, bossa novou a world music. Debutovala albem Raíz (2011), později vydala mimo jiné Luz a poctu Amálii Rodrigues.\n"
+    },
+    {
+      "id": "cucina-povera",
+      "name": "Cucina Povera",
+      "countries": [
+        "finland"
+      ],
+      "image": "img/bands/cucina-povera.avif",
+      "image_source": "https://cucinapovera.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://cucinapovera.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Cucina Povera je hudební projekt z Helsinek, jehož Bandcamp nese heslo Mind aloft in the imaginary. Mezi vydanými nahrávkami jsou Tuhka, Lumme, Dalmarnock Tapes, Tyyni, Zoom a Hilja.\n",
+      "rank": 9
     },
     {
       "id": "culture-musical-club-of-zanzibar",
@@ -9701,8 +9934,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Norský kytarista a skladatel, jedna z klíčových postav nu-jazzu. Je znám atmosférickým zvukem, v němž kytaru kombinuje s elektronikou a smyčkami, a dlouhodobě spolupracuje s labelem ECM.\n",
-      "rank": 6
+      "body": "Norský kytarista a skladatel, jedna z klíčových postav nu-jazzu. Je znám atmosférickým zvukem, v němž kytaru kombinuje s elektronikou a smyčkami, a dlouhodobě spolupracuje s labelem ECM.\n"
     },
     {
       "id": "eivor-palsdottir",
@@ -10181,8 +10413,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Americká jazzová kytaristka (1957–1990), v jejíž hře je znát vliv Wese Montgomeryho. Zemřela ve dvaatřiceti letech na turné v Austrálii.\n",
-      "rank": 7
+      "body": "Americká jazzová kytaristka (1957–1990), v jejíž hře je znát vliv Wese Montgomeryho. Zemřela ve dvaatřiceti letech na turné v Austrálii.\n"
     },
     {
       "id": "emir-kusturica-no-smoking-orchestra",
@@ -10505,8 +10736,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Britský kytarista, zpěvák a skladatel, jedna z největších postav bluesrocku. Hrál v Yardbirds, Cream a Derek and the Dominos a později se věnoval i sólové kariéře.\n",
-      "rank": 8
+      "body": "Britský kytarista, zpěvák a skladatel, jedna z největších postav bluesrocku. Hrál v Yardbirds, Cream a Derek and the Dominos a později se věnoval i sólové kariéře.\n"
     },
     {
       "id": "eric-seva",
@@ -10830,6 +11060,28 @@
         "woman"
       ],
       "body": "Eva Salina, vlastním jménem Eva Salina Primack, je zpěvačka a učitelka balkánského vokálního umění, narozená v Santa Cruz v Kalifornii. Vystudovala etnomuzikologii na UCLA, kde se učila u bulharské zpěvačky Tzvetanky Varimezovy, a od roku 2003 učí na workshopech EEFC. Vydala alba Lema Lema věnované Šabanu Bajramovićovi a Sudbina o Vidě Pavlović a vystupuje v duu s akordeonistou Peterem Stanem.\n"
+    },
+    {
+      "id": "evija-vebere",
+      "name": "Evija Vēbere",
+      "countries": [
+        "latvia-lotyssko"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "image": "img/bands/evija-vebere.avif",
+      "image_source": "https://evijavebere.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://evijavebere.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Evija Vēbere je lotyšská zpěvačka a skladatelka s jazzovým pěveckým vzděláním. Pohybuje se mezi elektronikou, avant-popem a synthpopem; za album Sirdsbūt (2018) získala lotyšskou hudební cenu v kategorii alternativní album. Společné album Anomālija (2025) nahrála s bubeníkem Ivarsem Arutjunjansem.\n",
+      "rank": 10
     },
     {
       "id": "express-brass-band",
@@ -11473,6 +11725,30 @@
       "body": "Flavia Coelho je brazilská zpěvačka a písničkářka, která se z Ria přestěhovala do Paříže, kde většina zdrojů datuje její příchod do roku 2006. Debutové album Bossa Muffin spojilo brazilské a jamajské rytmy a kritici ji často přirovnávají k Manu Chaovi. Spolupracovala s Tonym Allenem a Cheikhem Lôm a album Ginga (2024) jí vyneslo vystoupení v pařížské Olympii.\n"
     },
     {
+      "id": "floex",
+      "name": "Floex",
+      "countries": [
+        "czech"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://floex.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://cs.wikipedia.org/wiki/Floex"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Floex, vlastním jménem Tomáš Dvořák, je pražský klarinetista, skladatel a producent, narozený 1978. Proslavil se hudbou k hrám studia Amanita Design, například Samorost 2 a Machinarium, a od roku 2013 vydává u labelu Denovali. Mezi jeho alba patří Zorya a A Portrait of John Doe.\n",
+      "rank": 11
+    },
+    {
       "id": "flook",
       "name": "Flook",
       "countries": [
@@ -11501,6 +11777,37 @@
         "greece"
       ],
       "body": ""
+    },
+    {
+      "id": "florist",
+      "name": "Florist",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "folk",
+        "rock"
+      ],
+      "members": [
+        "Emily Sprague",
+        "Rick Spataro",
+        "Felix Walworth",
+        "Jonnie Baker"
+      ],
+      "image": "img/bands/florist.avif",
+      "image_source": "https://florist.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://florist.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Florist_(band)"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Florist je americká indie folková kapela z New Yorku, založená v roce 2013 a vedená Emily Sprague. Debutovala albem The Birds Outside Sang (2016) a Sprague vydává i samostatná ambientní alba. Páté album Jellywish vyšlo v roce 2025.\n"
     },
     {
       "id": "flory-jagoda",
@@ -11821,6 +12128,23 @@
         "france"
       ],
       "body": "Frédéric Bélinsky je pařížský kytarista, řazený k předním hráčům manušského jazzu své generace. Spojuje manušský swing s technikou klasické kytary. Mezi jeho alba patří Swing Tzigane (2005), Diamant Blanc (2010) a To Russia with Love (2011).\n"
+    },
+    {
+      "id": "frederika",
+      "name": "FREDERIKA*",
+      "countries": [
+        "france"
+      ],
+      "image": "img/bands/frederika.avif",
+      "image_source": "https://frederika.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://frederika.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "FREDERIKA* je francouzská zpěvačka a hudebnice, která volně míchá žánry i jazyky. V její tvorbě se objevují dlouhé písně, naléhavé sborové plochy, rytmické textury, valčíky s hip-hopovým nádechem i hravé prvky dechovky. Mezi její alba patří - bodi - (2020) a T'es Où (2023).\n"
     },
     {
       "id": "free-planet-radio",
@@ -12331,8 +12655,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Americký kytarista a zpěvák narozený v roce 1943 v Pittsburghu. Začínal v soul jazzu, v 70. letech se s albem Breezin' prosadil u širokého publika a jeho kytarová hra se spojila se zpěvem.\n",
-      "rank": 9
+      "body": "Americký kytarista a zpěvák narozený v roce 1943 v Pittsburghu. Začínal v soul jazzu, v 70. letech se s albem Breezin' prosadil u širokého publika a jeho kytarová hra se spojila se zpěvem.\n"
     },
     {
       "id": "george-brooks",
@@ -12957,6 +13280,26 @@
       "body": ""
     },
     {
+      "id": "goya-gumbani",
+      "name": "Goya Gumbani",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "rap"
+      ],
+      "image": "img/bands/goya-gumbani.avif",
+      "image_source": "https://goyagumbani.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://goyagumbani.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Goya Gumbani je rapper a producent narozený v Brooklynu, který dnes žije v jižním Londýně. Od roku 2018 vydává vlastní tvorbu a spolupracoval například s Pink Siifu, MIKE či Joy Orbisonem. Jeho debutové album Warlord of the Weejuns vyšlo v roce 2025 u Ghostly International.\n"
+    },
+    {
       "id": "grace-jones",
       "name": "Grace Jones",
       "countries": [
@@ -13024,8 +13367,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Americký jazzový kytarista (1935–1979), jehož hudba stojí na prostých, blues cítících melodických linkách. Nahrával hlavně pro Blue Note, v soul jazzu a později i ve funku.\n",
-      "rank": 10
+      "body": "Americký jazzový kytarista (1935–1979), jehož hudba stojí na prostých, blues cítících melodických linkách. Nahrával hlavně pro Blue Note, v soul jazzu a později i ve funku.\n"
     },
     {
       "id": "graveyard-train",
@@ -13711,6 +14053,32 @@
       "body": "Hedningarna (Pohané) je švédská kapela, po určitou dobu částečně finská, která spojuje elektroniku a rock se starou skandinávskou lidovou hudbou, včetně sámského joiku. Založili ji v roce 1987 Hållbus Totte Mattson, Anders Stake (později Norudde) a Björn Tollin. Album Kaksi! (1992) získalo v roce 1993 švédskou cenu Grammis za nejlepší album lidové hudby.\n"
     },
     {
+      "id": "heinali-andriana-yaroslava-saienko",
+      "name": "Heinali & Andriana-Yaroslava Saienko",
+      "countries": [
+        "ukraine"
+      ],
+      "styles": [
+        "electronic",
+        "experimental",
+        "duo"
+      ],
+      "members": [
+        "Heinali",
+        "Andriana-Yaroslava Saienko"
+      ],
+      "image": "img/bands/heinali-andriana-yaroslava-saienko.avif",
+      "image_source": "https://heinali-yasia.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://heinali-yasia.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Duo tvoří kyjevský autor Heinali (Oleh Špudejko), který pracuje s modulárními syntezátory, a zpěvačka Andriana-Yaroslava Saienko z Lvova, jež čerpá z ukrajinské vokální tradice. Společně vydali album Гільдеґарда (Hildegard) z roku 2025, které předělává skladby Hildegardy z Bingenu.\n"
+    },
+    {
       "id": "hekuran-xhamballi",
       "name": "Hekuran Xhamballi",
       "countries": [
@@ -13977,6 +14345,31 @@
         "poland"
       ],
       "body": "Hoboud je polský hudební projekt z Olštyna v oblasti Warmie, který vznikl v letech 2008–2009. Staví na nových aranžích původních tradičních písní z Warmie, zpívaných v místním dialektu, který se dnes považuje za mrtvý jazyk. Název označuje v místním nářečí skřítka, kobolda.\n"
+    },
+    {
+      "id": "holly-herndon",
+      "name": "Holly Herndon",
+      "countries": [
+        "germany"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "image": "img/bands/holly-herndon.avif",
+      "image_source": "https://hollyherndon.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://hollyherndon.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Holly_Herndon"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Holly Herndon je americká elektronická skladatelka a umělkyně žijící v Berlíně, vystudovala Stanford a Mills College. Zabývá se experimentální elektronikou, hlasem a umělou inteligencí, často ve spolupráci s Matem Dryhurstem. Jejím třetím albem je Proto (2019, 4AD).\n"
     },
     {
       "id": "hooshere-bezdikian",
@@ -14632,6 +15025,35 @@
       "body": ""
     },
     {
+      "id": "isan",
+      "name": "Isan",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "electronic",
+        "duo"
+      ],
+      "members": [
+        "Antony Ryan",
+        "Robin Saville"
+      ],
+      "image": "img/bands/isan.avif",
+      "image_source": "https://isan.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://isan.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Isan_(band)"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Isan je anglické elektronické duo, které tvoří Antony Ryan a Robin Saville. Nejvíce je spojováno s labelem Morr Music. Naposledy vydali album Winter Chimes (2024) postavené na zvonkách, zvonech a zvonkohře.\n"
+    },
+    {
       "id": "ismael-lo",
       "name": "Ismael Lo",
       "countries": [
@@ -15017,8 +15439,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Dánský jazzový kytarista a skladatel, který vydává u labelu ECM. Jeho hudba je tichá, plynoucí a melodická a hraje s ním řada zahraničních hudebníků.\n",
-      "rank": 11
+      "body": "Dánský jazzový kytarista a skladatel, který vydává u labelu ECM. Jeho hudba je tichá, plynoucí a melodická a hraje s ním řada zahraničních hudebníků.\n"
     },
     {
       "id": "jaleo-real",
@@ -15341,6 +15762,32 @@
         }
       ],
       "body": "Australský kytarista, písničkář, zpěvák a producent, který kromě kytary hraje také na banjo, mandolínu, cümbüş a bicí. Je trojnásobným držitelem ceny ARIA, a to za alba Rolling Through This World (2002), Djan Djan (2010) a Carried in Mind (2012). Vystupoval na řadě mezinárodních festivalů.\n"
+    },
+    {
+      "id": "jeff-parker",
+      "name": "Jeff Parker",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz",
+        "experimental",
+        "rock"
+      ],
+      "image": "img/bands/jeff-parker.avif",
+      "image_source": "https://jeffparker.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://jeffparker.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Parker_(musician)"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Jeff Parker je americký kytarista a skladatel, který se v Chicagu usadil v roce 1991 a od roku 1996 hraje v post-rockové kapele Tortoise. Je také členem AACM a spoluzakladatelem skupin Isotope 217 a Chicago Underground Trio. Ve své tvorbě propojuje jazz, experimentální hudbu, dub, hip hop a elektroniku; mezi alba patří The Relatives a Suite for Max Brown.\n"
     },
     {
       "id": "jeri-jeri",
@@ -18920,6 +19367,28 @@
       "body": ""
     },
     {
+      "id": "laura-misch",
+      "name": "Laura Misch",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "electronic",
+        "jazz",
+        "experimental"
+      ],
+      "image": "img/bands/laura-misch.avif",
+      "image_source": "https://lauramisch.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://lauramisch.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Laura Misch je saxofonistka, zpěvačka, producentka a autorka terénních nahrávek z jihovýchodního Londýna. V hudbě kombinuje saxofon, hlas a syntezátory s elektroakustickými zvukovými plochami. Debutové album Sample the Sky vzniklo z nahrávek londýnských parků, novější je Lithic.\n"
+    },
+    {
       "id": "laurel-premo",
       "name": "Laurel Premo",
       "countries": [
@@ -19045,6 +19514,26 @@
       "body": "Le Vent du Nord je kanadská folková skupina ze Saint-Antoine-sur-Richelieu v Québecu. Hraje tradiční québeckou hudbu i vlastní skladby ve stejném stylu, ve francouzštině. Jejích prvních osm nahrávek bylo nominováno na řadu cen.\n"
     },
     {
+      "id": "lea-maria-fries",
+      "name": "Lea Maria Fries",
+      "countries": [
+        "switzerland"
+      ],
+      "styles": [
+        "jazz"
+      ],
+      "image": "img/bands/lea-maria-fries.avif",
+      "image_source": "https://leamariafries.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://leamariafries.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Lea Maria Fries je švýcarská zpěvačka a skladatelka narozená v roce 1989, která vystudovala hudbu v Lucernu. Vystupuje se svým projektem 22° Halo a v roce 2025 vydala sólové album Cleo. Žije střídavě ve Švýcarsku a v Paříži.\n"
+    },
+    {
       "id": "lego",
       "name": "Lego",
       "countries": [
@@ -19148,6 +19637,23 @@
         }
       ],
       "body": "Kanadská zpěvačka, skladatelka a kantorka českožidovského původu, narozená roku 1955. Zpívá česky, anglicky, francouzsky, hebrejsky a jidiš.\n"
+    },
+    {
+      "id": "leoni-leoni",
+      "name": "Leoni Leoni",
+      "countries": [
+        "switzerland"
+      ],
+      "image": "img/bands/leoni-leoni.avif",
+      "image_source": "https://leonileoni.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://leonileoni.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
     },
     {
       "id": "les-amazones-de-guinee",
@@ -19527,6 +20033,27 @@
       "body": "Liu Fang (nar. 1974 v Kchun-mingu) je čínsko-kanadská hráčka na pipu a guzheng, žijící v Montrealu. Na pipu hraje od šesti let, studovala na šanghajské konzervatoři a ve dvaceti dvou letech se přestěhovala do Kanady. Její album Silk Sound získalo hlavní cenu Académie Charles Cros a hrála i v hudbě k filmům.\n"
     },
     {
+      "id": "liv-e",
+      "name": "(Liv).e",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "psychedelic",
+        "jazz"
+      ],
+      "image": "img/bands/liv-e.avif",
+      "image_source": "https://o-liv.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://o-liv.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "(Liv).e je zpěvačka a producentka z Dallasu v Texasu, vyrostla v hudební rodině a začínala v dallaském kolektivu Dolfin Records. Její hudba mísí soul, jazz a psychedelii. Vydala alba Couldn't Wait to Tell You... (2020), Girl in the Half Pearl (2023) a PAST FUTUR.e (2024).\n"
+    },
+    {
       "id": "livia-lucas",
       "name": "Livia Lucas",
       "countries": [
@@ -19646,6 +20173,27 @@
         }
       ],
       "body": "Lloyd Miller (1938–2024) byl americký jazzový hudebník, který ve své tvorbě spojoval jazz s orientální a světovou hudbou, například na albu Oriental Jazz z roku 1968. Hrál s Donem Ellisem a Eddiem Harrisem a sedm let žil v Íránu díky Fulbrightovu stipendiu, kde moderoval televizní pořad pod jménem Kurosh Ali Khan. Později získal doktorát z blízkovýchodních studií a napsal knihy o perské a afghánské hudbě.\n"
+    },
+    {
+      "id": "lndfk",
+      "name": "LNDFK",
+      "countries": [
+        "italy"
+      ],
+      "styles": [
+        "jazz",
+        "rap"
+      ],
+      "image": "img/bands/lndfk.avif",
+      "image_source": "https://lndfk.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://lndfk.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "LNDFK je umělecké jméno Lindy Feki, italsko-tuniské zpěvačky, textařky a producentky z Neapole. Její hudba čerpá z jazzu, neo-soulu a hip-hopu. Debutové album Kuni vyšlo v Brooklynu u Bastard Jazz Recordings a spolupracovala s hosty jako Pink Siifu nebo Chester Watson.\n"
     },
     {
       "id": "lo-cor-de-la-plana",
@@ -19868,6 +20416,31 @@
         "france"
       ],
       "body": ""
+    },
+    {
+      "id": "loraine-james",
+      "name": "Loraine James",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "image": "img/bands/loraine-james.avif",
+      "image_source": "https://lorainejames.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://lorainejames.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Loraine_James"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Loraine James je britská elektronická producentka z londýnského Enfieldu, která tvoří také pod jménem Whatever the Weather. Experimentální skladby začala zveřejňovat na Bandcampu v roce 2015 a později podepsala smlouvu u labelu Hyperdub. K jejím albům patří For You and I, Reflection nebo Building Something Beautiful for Me.\n"
     },
     {
       "id": "lord-mouse-the-kalypso-cats",
@@ -20747,6 +21320,33 @@
       "image_source": "https://commons.wikimedia.org/wiki/File:Persian_vocalist_Mahsa_Vahdat_2018.jpg",
       "wikipedia": "https://en.wikipedia.org/wiki/Mahsa_Vahdat",
       "body": "Mahsa Vahdat (nar. 1973 v Teheránu) je íránská zpěvačka perské klasické hudby a world music. Protože ženy nesmějí v Íránu veřejně sólově zpívat, většinu alb natočila v zahraničí; v roce 2010 získala cenu Freemuse. Její sestra Marjan Vahdat s ní často zpívá, společně vydaly například alba I Am Eve (2008), Twinklings of Hope (2012) a Placeless (2019, s [[kronos-quartet|Kronos Quartet]]).\n"
+    },
+    {
+      "id": "maia-barouh",
+      "name": "Maïa Barouh",
+      "countries": [
+        "france",
+        "japan"
+      ],
+      "styles": [
+        "electronic",
+        "rap",
+        "folk"
+      ],
+      "image": "img/bands/maia-barouh.avif",
+      "image_source": "https://maiabarouh.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://maiabarouh.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://fr.wikipedia.org/wiki/Maïa_Barouh"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Maïa Barouh je francouzsko-japonská zpěvačka a flétnistka narozená v Tokiu, dcera francouzského šansoniéra Pierra Barouha a japonské umělkyně Atsuko Ushioda. Spojuje tradiční japonský zpěv, který sama nazývá Nippon Blues, s elektronikou, popem a rapem a zpívá francouzsky a japonsky. V Evropě se prosadila albem Kodama (2014) u labelu Saravah, později vydala Aïda (2022).\n"
     },
     {
       "id": "mairtin-o-connor-seamie-o-dowd-cathal-hayden",
@@ -22060,8 +22660,7 @@
         }
       ],
       "added": "2026-11-25",
-      "body": "Americká kytaristka z Portlandu, která v instrumentální hudbě spojuje blues, gospel, lidovou muziku a americkou primitivní kytaru (American primitive).\n",
-      "rank": 0
+      "body": "Americká kytaristka z Portlandu, která v instrumentální hudbě spojuje blues, gospel, lidovou muziku a americkou primitivní kytaru (American primitive).\n"
     },
     {
       "id": "mariza",
@@ -22312,6 +22911,31 @@
         }
       ],
       "body": "Anglický jazzový trumpetista, skladatel a producent z Manchesteru. V roce 2008 založil nezávislé vydavatelství Gondwana Records a vydal debut Sending My Love; širší pozornost získal albem On the Go (2011). Jeho hudba čerpá ze spirituálního jazzu Alice Coltrane a Pharoaha Anderse i z Milese Davise.\n"
+    },
+    {
+      "id": "matthew-herbert",
+      "name": "Matthew Herbert",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "electronic",
+        "jazz"
+      ],
+      "image": "img/bands/matthew-herbert.avif",
+      "image_source": "https://matthewherbert.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://matthewherbert.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Matthew_Herbert"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Matthew Herbert je britský elektronický hudebník a producent, známý house nahrávkami, jazzem i konceptuálním používáním vzorkovaných zvuků z reálného světa. Nahrává i pod aliasy jako Herbert, Doctor Rockit nebo Wishmountain a debutoval v roce 1996 albem 100 Lbs.\n"
     },
     {
       "id": "matthias-loibner",
@@ -22614,6 +23238,27 @@
         "netherlands"
       ],
       "body": ""
+    },
+    {
+      "id": "me-lost-me",
+      "name": "Me Lost Me",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "folk",
+        "experimental"
+      ],
+      "image": "img/bands/me-lost-me.avif",
+      "image_source": "https://melostme.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://melostme.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Me Lost Me je projekt z Newcastlu upon Tyne, jehož tvář tvoří Jayne Dent. Pohybuje se na pomezí avantgardního folku a experimentální elektroniky. Poslední alba vydává u labelu Upset The Rhythm, mezi nimi RPG (2023) a This Material Moment (2025).\n"
     },
     {
       "id": "meelodi",
@@ -23941,6 +24586,32 @@
         "pizzica"
       ],
       "body": "Nakaira je world a folková skupina ze Sicílie, založená v roce 1999 s cílem oživit sicilskou lidovou hudbu. Název pochází z blízkovýchodního bicího nástroje. V repertoáru má keltské, řecké, balkánské a blízkovýchodní vlivy i vlastní písně v sicilském dialektu. Druhé album Onde sonore dal Mediterraneo vyšlo v roce 2005.\n"
+    },
+    {
+      "id": "nala-sinephro",
+      "name": "Nala Sinephro",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "jazz",
+        "electronic",
+        "experimental"
+      ],
+      "image": "img/bands/nala-sinephro.avif",
+      "image_source": "https://nalasinephro.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://nalasinephro.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nala_Sinephro"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Nala Sinephro je belgická hudebnice narozená v roce 1996, působící v Londýně. Hraje na pedálovou harfu, modulární syntezátor a klávesy a její tvorbu lze označit za ambientní jazz. Debut Space 1.8 (2021) vyšel u Warp Records, druhé album Endlessness v roce 2024 a v roce 2025 složila hudbu k filmu The Smashing Machine.\n"
     },
     {
       "id": "namgar",
@@ -26389,6 +27060,27 @@
       "body": "Velšské rodinné trio ze severního Walesu, které tvoří bratr a dvě sestry. Hraje atmosférický folk s prvky americany a popu, vyznačuje se bohatými vícehlasými harmoniemi a zpívá především velšsky. Mezi alba patří Plu (2013), Tir a Golau (2016) a Tri (2022), všechna nominovaná na velšské album roku.\n"
     },
     {
+      "id": "pluhm",
+      "name": "PLUHM",
+      "countries": [
+        "italy"
+      ],
+      "styles": [
+        "experimental",
+        "electronic"
+      ],
+      "image": "img/bands/pluhm.avif",
+      "image_source": "https://pluhmdrone.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://pluhmdrone.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "PLUHM je italský ambientní a drone projekt, hlavní tvorba hudebníka Lucia Leonardiho, Sicilana žijícího na severu Itálie. Vydal mimo jiné album Canzoni dell'Io Nudo na vinylu u Rum Fixion Records a desky Distanze e Solitudini (2023) a La Caduta (2024).\n"
+    },
+    {
       "id": "poeta-magica",
       "name": "Poeta Magica",
       "countries": [
@@ -26590,6 +27282,24 @@
         }
       ],
       "body": "Liberijská zpěvačka a tanečnice, narozená v roce 1966 v Kakatě a nazývaná „zlatý hlas Libérie“. Ve dvanácti letech vstoupila do Liberijského národního kulturního souboru, jehož se stala hlavní zpěvačkou, a s ním cestovala po světě. V polovině 80. let vydala v Libérii dvě sólová alba; kvůli občanské válce odešla v roce 1989 do Pobřeží slonoviny, později žila v Guineji a nakonec v Pensylvánii. V roce 2014 získala Pew Fellowship in the Arts.\n"
+    },
+    {
+      "id": "proem",
+      "name": "Proem",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "electronic"
+      ],
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://proem.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Proem je pseudonym Richarda Baileyho z Houstonu v Texasu. Elektronickou hudbu vydává od alba Burnplate no.1 (Hydrant Records, 1999) a objevil se na kompilacích undergroundových labelů jako n5md, merck nebo toytronic.\n"
     },
     {
       "id": "projeto-ccoma",
@@ -27494,6 +28204,23 @@
         "pizzica"
       ],
       "body": "Duo toskánského harmonikáře Riccarda Tesiho a francouzského hudebníka Patricka Vaillanta. Společně vydali alba Veranda (1991) a Colline (1994).\n"
+    },
+    {
+      "id": "rich-hinman",
+      "name": "Rich Hinman",
+      "countries": [
+        "usa"
+      ],
+      "image": "img/bands/rich-hinman.avif",
+      "image_source": "https://richhinman.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://richhinman.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": ""
     },
     {
       "id": "richard-bona",
@@ -28674,6 +29401,32 @@
       "body": "Skotská skupina založená roku 1995 hudebníky z jazzové a folkové scény, která spojuje salsu s tradičními skotskými nástroji. V roce 1997 se vypravila na Kubu studovat tamní hudbu a ještě téhož roku vydala debutové album. Hrála na festivalech jako T in the Park a Glastonbury a album El Agua de la Vida (2003) se dostalo na páté místo evropské world music hitparády.\n"
     },
     {
+      "id": "sam-gendel",
+      "name": "Sam Gendel",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "jazz",
+        "experimental",
+        "fusion"
+      ],
+      "image": "img/bands/sam-gendel.avif",
+      "image_source": "https://samgendel.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://samgendel.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sam_Gendel"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Sam Gendel je americký saxofonista a producent z Kalifornie, který se pohybuje na pomezí jazzu a jazzové fúze. K jeho nejznámějším nahrávkám patří Satin Doll (2020), futuristická pocta historickému jazzu, a třípísňové album Fresh Bread. Spolupracoval také s baskytaristou Samem Wilkesem a podílel se na dvou skladbách alba Vampire Weekend Father of the Bride.\n"
+    },
+    {
       "id": "sam-karpienia",
       "name": "Sam Karpienia",
       "countries": [
@@ -28803,6 +29556,32 @@
         }
       ],
       "body": "Samuel Yirga je etiopský klavírista a skladatel, který spojuje etiopskou hudbu (azmari, ethio-jazz) s dubem, reggae, jazzem a latinskoamerickými i klasickými vlivy. V šestnácti letech ho vyloučili z hudební školy Yared v Addis Abebě, protože trval na hraní tradiční a současné etiopské hudby místo klasického programu. Je u labelu Real World Records [[peter-gabriel|Petera Gabriela]], kde v roce 2012 vydal debutové album Guzo, a hraje také v kapelách [[dub-colossus|Dub Colossus]] a Nubian Arc.\n"
+    },
+    {
+      "id": "sanam",
+      "name": "SANAM",
+      "countries": [
+        "lebanon"
+      ],
+      "styles": [
+        "rock",
+        "experimental"
+      ],
+      "members": [
+        "Sandy Chamoun",
+        "Farah Kaddour",
+        "Anthony Sahyoun"
+      ],
+      "image": "img/bands/sanam.avif",
+      "image_source": "https://sanambeirut.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://sanambeirut.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "SANAM je beirútská kapela, která propojuje arabskou poezii a maqámy s krautrockem a volnou rockovou improvizací. Vznikla po společném vystoupení s Hansem Joachimem Irmlerem z kapely Faust na festivalu Irtijal v roce 2022. Debutovala albem Aykathani Malakon (2023), následovalo Sametou Sawtan (2025) u CST Records.\n"
     },
     {
       "id": "sandhya-sanjana",
@@ -30232,6 +31011,27 @@
       "body": "Alžírský zpěvák a skladatel narozený v roce 1973 v Sidi Bel Abbès, tvůrce moderního raï, kterému se přezdívá „princ Raï 2.0“. Spolupracoval například s Acid Arab, [[natacha-atlas|Natachou Atlas]], [[rachid-taha|Rachidem Tahou]] nebo skupinou [[mazalda|Mazalda]]. Vydal alba El Mordjane (2015), El Ndjoum (2017) a Mademoiselle (2023).\n"
     },
     {
+      "id": "sofie-birch",
+      "name": "Sofie Birch",
+      "countries": [
+        "denmark"
+      ],
+      "styles": [
+        "electronic",
+        "experimental"
+      ],
+      "image": "img/bands/sofie-birch.avif",
+      "image_source": "https://sofiebirch.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://sofiebirch.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Sofie Birch je kodaňská skladatelka a syntezátorová hudebnice se zaměřením na ambientní tvorbu a zkoumání zvuku. Spoluzaložila kodaňská studia Pomfrit Sound Wørks. Mezi její nahrávky patří Holotropica (2022), Planetes (2024) a společné album Hiraeth s Antoninou Nowackou (2025).\n"
+    },
+    {
       "id": "sol-i-serena",
       "name": "Sol i serena",
       "countries": [
@@ -30318,6 +31118,38 @@
         }
       ],
       "body": "SonDeSeu je považován za první folkový a tradiční orchestr z Galicie a jeden z prvních současných evropských folkových orchestrů. Má 53 členů a řídí ho Rodrigo Romaní. Repertoár tvoří aranže galicijských lidových písní pro dudy, bicí, niněry, housle, flétny requinta, zpěv, harfy a drnkací nástroje.\n"
+    },
+    {
+      "id": "son-lux",
+      "name": "Son Lux",
+      "countries": [
+        "usa"
+      ],
+      "styles": [
+        "rock",
+        "experimental",
+        "electronic",
+        "trio"
+      ],
+      "members": [
+        "Ryan Lott",
+        "Rafiq Bhatia",
+        "Ian Chang"
+      ],
+      "image": "img/bands/son-lux.avif",
+      "image_source": "https://sonlux.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://sonlux.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Son_Lux"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Son Lux vznikl kolem roku 2008 v New Yorku jako sólový projekt Ryana Lotta. Od roku 2015 je z něj trio s kytaristou Rafiqem Bhatiou a bubeníkem Ianem Changem. Skupina složila hudbu k filmu Všechno, všude, najednou, který získal nominaci na Oscara.\n"
     },
     {
       "id": "sonantes",
@@ -31322,6 +32154,26 @@
         }
       ],
       "body": "Takana Zion, občanským jménem Mohamed Mouctar Soumah, je guinejský zpěvák narozený roku 1986 v Konakry. Zpívá anglicky, francouzsky i v jazycích sosso, pular a malinké.\n"
+    },
+    {
+      "id": "takeo-watanabe",
+      "name": "TAKEO WATANABE",
+      "countries": [
+        "japan"
+      ],
+      "styles": [
+        "electronic"
+      ],
+      "image": "img/bands/takeo-watanabe.avif",
+      "image_source": "https://takeowatanabe.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://takeowatanabe.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "TAKEO WATANABE je japonský hudební projekt, který vychází z ambientních aktivit v přírodě. Převážně znovu zpracovává zvukové záznamy z venkovního prostředí a vydává nahrávky venkovních vystoupení. Cílem je hudba propojená s okolním prostředím.\n"
     },
     {
       "id": "taksim-trio",
@@ -32899,6 +33751,23 @@
       "body": ""
     },
     {
+      "id": "tomaga",
+      "name": "TOMAGA",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "experimental",
+        "duo"
+      ],
+      "members": [
+        "Valentina Magaletti",
+        "Tom Relleen"
+      ],
+      "added": "2026-11-27",
+      "body": "Tomaga bylo londýnské experimentální duo, které od roku 2013 tvořili bubenice Valentina Magaletti a multiinstrumentalista Tom Relleen. Vydali šest alb a sedmé, závěrečné Intimate Immensity (2021), dokončili těsně před Relleenovou smrtí v srpnu 2020.\n"
+    },
+    {
       "id": "tomas-gubitsch",
       "name": "Tomas Gubitsch",
       "countries": [
@@ -32927,6 +33796,27 @@
         }
       ],
       "body": "Moravský písničkář, zpěvák, skladatel a aranžér Tomáš Kočko (nar. 1972 ve Frýdku-Místku) se svým orchestrem čerpá z původní moravské a slovanské tradice a doplňuje ji prvky rocku, folku a jazzu. Orchestr získal dvě ceny Anděl za album roku a koncertuje po Evropě od Ruska po Irsko, na festivalech folklórních, folkových, rockových i metalových.\n"
+    },
+    {
+      "id": "tomas-niesner",
+      "name": "Tomáš Niesner",
+      "countries": [
+        "czech"
+      ],
+      "styles": [
+        "experimental",
+        "folk"
+      ],
+      "image": "img/bands/tomas-niesner.avif",
+      "image_source": "https://tomniesner.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://tomniesner.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Tomáš Niesner je český kytarista a zvukový umělec pocházející z Přerova. Pohybuje se na pomezí akustické kytary hrané prstovou technikou, ambientní a experimentální hudby. K jeho deskám patří Aurora (2021) a Bečvou (2022), inspirovaná řekou u jeho rodiště.\n"
     },
     {
       "id": "tomas-san-miguel-txalaparta",
@@ -34051,6 +34941,26 @@
       "body": "Kapela, která působí od roku 1993.\n"
     },
     {
+      "id": "ursula-sereghy",
+      "name": "Ursula Sereghy",
+      "countries": [
+        "czech"
+      ],
+      "styles": [
+        "electronic"
+      ],
+      "image": "img/bands/ursula-sereghy.avif",
+      "image_source": "https://ursulasereghy.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://ursulasereghy.bandcamp.com"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Ursula Sereghy je pražská elektronická producentka a instrumentalistka. Debutovala EP OK Box (2021) a následně vydala EP Cordial. V roce 2022 získala cenu Vinyl Award jako objev roku.\n"
+    },
+    {
       "id": "uusikuu",
       "name": "Uusikuu",
       "countries": [
@@ -34200,6 +35110,36 @@
       ],
       "modified": "2026-11-18",
       "body": "Brazilská zpěvačka, skladatelka a spisovatelka tvořící v duchu MPB, držitelka Latin Grammy. Z jejích písní se v Brazílii staly jedničkami hity Ai, Ai, Ai, Boa Sorte a Amado.\n"
+    },
+    {
+      "id": "vanishing-twin",
+      "name": "Vanishing Twin",
+      "countries": [
+        "united-kingdom"
+      ],
+      "styles": [
+        "experimental",
+        "psychedelic"
+      ],
+      "members": [
+        "Cathy Lucas",
+        "Valentina Magaletti",
+        "Susumu Mukai"
+      ],
+      "image": "img/bands/vanishing-twin.avif",
+      "image_source": "https://vanishingtwinmusic.bandcamp.com",
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://vanishingtwinmusic.bandcamp.com"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vanishing_Twin"
+        }
+      ],
+      "added": "2026-11-27",
+      "body": "Vanishing Twin je londýnská experimentální kapela, kterou kolem roku 2015 založila zpěvačka a multiinstrumentalistka Cathy Lucas, dříve členka Fanfarlo. Hudba míchá psychedelii, jazz a retro-futuristický pop. Mezi alba patří Choose Your Own Adventure, The Age of Immunology, Ookii Gekkou a Afternoon X.\n"
     },
     {
       "id": "varttina",
