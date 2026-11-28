@@ -40723,7 +40723,7 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "Loutna z Mauretánie se 14 strunami. Ozvučná skříň je z tykve potažené telecí kůží.\n",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "baglamas",
@@ -40744,7 +40744,7 @@
       "image_source": "https://www.afroton.de/media/image/8b/44/23/Afroton_Balafon_12_Toene_Ghana_ca_L_75cm_B_45cm_H_40cm_ABF609.jpg",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "banjo",
@@ -40765,7 +40765,7 @@
       "added": "2026-11-14",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "bolon",
@@ -40774,7 +40774,7 @@
       "image_source": "https://wmic.net/wp-content/uploads/2021/02/Bass-Bolonah450.jpg",
       "added": "2026-11-17",
       "body": "Basová harfa se 3 až 4 strunami. Hraje na ni Sali Sidibe. Není zas tak velká, měl ji například Momo Wandel v Angoulême.\n",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "bouzouki",
@@ -40789,7 +40789,7 @@
       "image_source": "https://r2.gear4music.com/media/59/597075/600/preview.jpg",
       "added": "2026-11-17",
       "body": "Dřevěná bedna, na které hráč sedí a bije do přední desky (tapa); je tenčí než zbytek a tvoří hrací plochu, zadní strana má otvor pro projekci zvuku. Bývá vysoká asi 50 cm a hluboká i široká asi 30 cm. Při horním okraji zní ostře a vysoko, uprostřed basově. Typy se liší strunami, rolničkami nebo strunami od malého bubnu uvnitř za přední deskou, které dávají zvuk podobný malému bubnu (na Kubě se často vynechávají pro čistší zvuk).\n\nCajon je symbolickým nástrojem černošské komunity v Peru a jako mnohé jihoamerické perkuse nahradil africké bubny, které byly otrokům zakázány. Podle tradice byly prvními cajony bedny sběračů ovoce a v přístavech Callao, Pisco, Trujillo a Ica také bedny od piva. Na Kubě existuje v některých stylech rumby, kde se prý hrálo na bedny od ryb. Slyšet je na nahrávkách Susany Baca a prakticky na všech afroperuánských deskách (viz kompilaci The Soul of Black Peru, kterou produkoval David Byrne). Slavní hráči: Julio „Chocolate“ Algendones, Juan „Cotito“ Medrano, Eusebio „Pititi“ Sirio a Caitro Soto.\n\nDo flamenka cajon přivedl v 70. letech Paco de Lucía: Caitro Soto mu ho podle jedné verze představil na turné v Jižní Americe koncem 70. let. Paco dal dva nástroje brazilskému perkusionistovi Rubemu Dantasovi a sevillskému tanečníkovi Manuelu Solerovi, flamenco ho okamžitě přijalo a dnes ho používají téměř všichni mladí flamenkáři jako tradiční nástroj. Susana Baca potvrdila, že se to stalo na večírku, který pro Paca pořádala v Limě. Cajon se hodí do téměř jakéhokoli akustického prostředí, zesílený i k elektronické hudbě, třeba drum'n'bassu, a váží jen asi dvě kila.\n",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "cello",
@@ -40820,7 +40820,7 @@
       "image_source": "https://tucuatro.com/wp-content/uploads/sites/1/2019/12/cuatro-1.png.webp",
       "modified": "2026-11-17",
       "body": "",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "cura",
@@ -40829,7 +40829,7 @@
       "image_source": "https://commons.wikimedia.org/wiki/File:Cura.png",
       "added": "2026-11-17",
       "body": "Nejmenší forma sazu (též baglama), drnkací nástroj. Na rozdíl od sazu má jen šest strun.\n",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "daf",
@@ -40838,7 +40838,7 @@
       "image_source": "https://danse-soufie.com/wp-content/uploads/2025/08/Cours-de-DAF.webp",
       "added": "2026-11-17",
       "body": "Tamburína, na kterou hraje například Alim Qasimov. Také daff, dafli nebo daphli: bubínek, který doprovází qawwali a lidovou hudbu. Řecká obdoba je defi (viz To Meraki).\n",
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "defi",
@@ -40871,7 +40871,7 @@
       "image_source": "https://kora-music.com/pics/Mali,Wassoulou,Hunters,Donso%20Ngoni.jpg",
       "added": "2026-11-17",
       "body": "Lovecká harfa (loutna) z tykve, nástroj lovců. Má 3 struny, novější modely 4, 5 i 6. Z ní vznikla kora a kamele ngoni.\n",
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "drums",
@@ -40929,8 +40929,11 @@
       "id": "harp",
       "name": "harp",
       "icon": "🪉",
-      "modified": "2026-11-17",
-      "body": "info: od Petra Dorůžky - Thomas Loefke, WOMEX 98 \n\nAž do minulého století se užívaly měděné struny, které se dost špatně ladily, a pak po vzoru koncertních harf je nahradily struny ze střev, pedály, \n\nKoncertní harfy, aby obstály vedle ostatních nástrojů, musely být větší a větší - původně vznikly podle  keltské harfy, ale zvětšovaly se, daly k nim pedály, a kvůli pedálům tam museli dát střevové struny, \n\nA teď jsou dva druhy keltský harf, s kovovými a střevovými strunami, na kovové se hraje nehty, a střevové bříšky prstů, \n\nTradiční způsob hry na harfu vymizel v Irsku koncem minulého století, a to se pak změnilo v padesátých letech, kdy lidé začali znovu hrát na harfy, a dnes se hraje na tento nástroj mnohem víc než dříve. \n\nA pak je také nový nástroj, elektrická harfa s nylonovými strunami, pokrok se nedá zastavit."
+      "image": "img/instruments/harp.avif",
+      "image_source": "https://www.thomann.de",
+      "modified": "2026-11-28",
+      "body": "info: od Petra Dorůžky - Thomas Loefke, WOMEX 98 \n\nAž do minulého století se užívaly měděné struny, které se dost špatně ladily, a pak po vzoru koncertních harf je nahradily struny ze střev, pedály, \n\nKoncertní harfy, aby obstály vedle ostatních nástrojů, musely být větší a větší - původně vznikly podle  keltské harfy, ale zvětšovaly se, daly k nim pedály, a kvůli pedálům tam museli dát střevové struny, \n\nA teď jsou dva druhy keltský harf, s kovovými a střevovými strunami, na kovové se hraje nehty, a střevové bříšky prstů, \n\nTradiční způsob hry na harfu vymizel v Irsku koncem minulého století, a to se pak změnilo v padesátých letech, kdy lidé začali znovu hrát na harfy, a dnes se hraje na tento nástroj mnohem víc než dříve. \n\nA pak je také nový nástroj, elektrická harfa s nylonovými strunami, pokrok se nedá zastavit.",
+      "rank": 0
     },
     {
       "id": "hoddu",
@@ -40988,8 +40991,7 @@
       "id": "khomus",
       "name": "khomus",
       "added": "2026-11-17",
-      "body": "V tuvinštině slovo khomus označuje temir-khomus, tedy brumli (jew harp). Chakaský strunný khomus od mistra Topoeva má tvar posvátné labutě.\n",
-      "rank": 11
+      "body": "V tuvinštině slovo khomus označuje temir-khomus, tedy brumli (jew harp). Chakaský strunný khomus od mistra Topoeva má tvar posvátné labutě.\n"
     },
     {
       "id": "kologo",
@@ -41010,7 +41012,7 @@
       "image_source": "https://www.djembemafia.com/397-thickbox_default/kora-2.jpg",
       "modified": "2026-11-17",
       "body": "Harfová loutna z tykve, vzniklá v předkoloniálních dobách z donso ngoni, lovecké harfy. Má 21 strun a rozsah tří oktáv.\n",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "lira-nastroj",
@@ -41146,7 +41148,7 @@
       "added": "2026-11-15",
       "modified": "2026-11-23",
       "body": "",
-      "rank": 0
+      "rank": 1
     },
     {
       "id": "violin",

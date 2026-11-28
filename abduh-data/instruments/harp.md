@@ -3,7 +3,10 @@ name: harp
 aliases:
   - harp
 icon: 🪉
+image: instruments/harp.avif
+image_source: https://www.thomann.de
 ---
+
 info: od Petra Dorůžky - Thomas Loefke, WOMEX 98 
 
 Až do minulého století se užívaly měděné struny, které se dost špatně ladily, a pak po vzoru koncertních harf je nahradily struny ze střev, pedály, 
