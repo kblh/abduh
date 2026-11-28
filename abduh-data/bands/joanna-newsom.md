@@ -6,6 +6,10 @@ countries:
   - "[[usa]]"
 styles:
   - "[[folk]]"
+instruments:
+  - "[[harp]]"
+tags:
+  - "[[woman]]"
 image: bands/joanna-newsom.avif
 image_source: https://en.wikipedia.org/wiki/Joanna_Newsom
 links:

@@ -1071,7 +1071,7 @@
       ],
       "modified": "2026-11-27",
       "body": "Al Akhareen (arabsky „Ti druzí“) je projekt rappera a beatboxera Oslooba a flétnistky [[naissam-jalal|Naïssam Jalal]], který spojuje hip-hop s improvizovanou flétnou a nay. Funguje jako duo, jako trio s DJ Junkaz Lou, nebo jako plná živá kapela. Název odkazuje na téma odlišnosti a „druhých“.\n",
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "al-andaluz-project",
@@ -1815,7 +1815,7 @@
       ],
       "added": "2026-11-27",
       "body": "Amon Tobin je brazilský elektronický hudebník a producent, narozený v Rio de Janeiru, který žil v Brightonu a Montrealu a dnes působí v Los Angeles. Proslul manipulací se zvukem – od raných skladeb postavených na přeskládaných jazzových a bluesových breakbeatech až po nahrávky z vlastních terénních záznamů. Vydával u labelu Ninja Tune a později založil vlastní Nomark Records.\n",
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "amos-hoffman",
@@ -2204,7 +2204,7 @@
       ],
       "added": "2026-11-27",
       "body": "Ani DiFranco je americká písničkářka a kytaristka z Buffala ve státě New York. Hraje akustický folk s prvky rocku, funku a jazzu, známá je energickým kytarovým stylem a angažovanými texty. Od začátku 90. let vydává u vlastního labelu Righteous Babe Records a patří k ikonám nezávislé hudební scény.\n",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "aniada-a-noar",
@@ -9230,8 +9230,7 @@
         }
       ],
       "added": "2026-11-27",
-      "body": "Dominique Fils-Aimé je montrealská zpěvačka a skladatelka s haitskými kořeny. Pohybuje se mezi jazzem, blues a soulem a proslula trilogií alb *Nameless*, *Stay Tuned!* a *Three Little Words*, která mapuje historii afroamerické hudby. Vydává u vlastního labelu Ensoul Records.\n",
-      "rank": 11
+      "body": "Dominique Fils-Aimé je montrealská zpěvačka a skladatelka s haitskými kořeny. Pohybuje se mezi jazzem, blues a soulem a proslula trilogií alb *Nameless*, *Stay Tuned!* a *Three Little Words*, která mapuje historii afroamerické hudby. Vydává u vlastního labelu Ensoul Records.\n"
     },
     {
       "id": "domna-samiou",
@@ -11800,7 +11799,7 @@
       ],
       "added": "2026-11-27",
       "body": "Floex, vlastním jménem Tomáš Dvořák, je pražský klarinetista, skladatel a producent, narozený 1978. Proslavil se hudbou k hrám studia Amanita Design, například Samorost 2 a Machinarium, a od roku 2013 vydává u labelu Denovali. Mezi jeho alba patří Zorya a A Portrait of John Doe.\n",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "flook",
@@ -13946,7 +13945,7 @@
       ],
       "added": "2026-11-27",
       "body": "Hannah Peel je britská skladatelka a hudebnice, která vyrostla v Severním Irsku. Pracuje se syntezátory, orchestrálními aranžemi a nezvyklými nástroji a propojuje elektroniku s klasickou a folkovou tradicí.\n",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "hans-ludemann-trio-ivoire",
@@ -14081,7 +14080,7 @@
       ],
       "added": "2026-11-27",
       "body": "Hatis Noit je japonská vokalistka a skladatelka žijící v Londýně. Její hudba stojí na hlasu: v živém vystoupení ho vrství pomocí looperu, zpívá bez textů a čerpá z tradičního japonského zpěvu i z evropské sborové tradice. Vydává u labelu Erased Tapes.\n",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "haydamaky",
@@ -16139,6 +16138,12 @@
       "styles": [
         "folk"
       ],
+      "instruments": [
+        "harp"
+      ],
+      "tags": [
+        "woman"
+      ],
       "image": "img/bands/joanna-newsom.avif",
       "image_source": "https://en.wikipedia.org/wiki/Joanna_Newsom",
       "links": [
@@ -16147,7 +16152,9 @@
           "url": "https://en.wikipedia.org/wiki/Joanna_Newsom"
         }
       ],
-      "body": "Americká písničkářka, harfenistka a herečka (nar. 1982). Po dvou svépomocně vydaných EP podepsala smlouvu s nezávislým labelem Drag City; debutové album The Milk-Eyed Mender vyšlo roku 2004. Širší pozornost získala albem Ys (2006) a pokračovala deskami Have One on Me (2010) a Divers (2015).\n"
+      "modified": "2026-11-28",
+      "body": "Americká písničkářka, harfenistka a herečka (nar. 1982). Po dvou svépomocně vydaných EP podepsala smlouvu s nezávislým labelem Drag City; debutové album The Milk-Eyed Mender vyšlo roku 2004. Širší pozornost získala albem Ys (2006) a pokračovala deskami Have One on Me (2010) a Divers (2015).\n",
+      "rank": 0
     },
     {
       "id": "joanne-shenandoah",
@@ -17994,7 +18001,7 @@
       ],
       "added": "2026-11-27",
       "body": "King Crimson vznikli jako druhá sestava skupiny Giles, Giles & Fripp a bývají označováni za vůbec první progresivní rockovou kapelu, hlavně kvůli debutu z roku 1969. Kytarista [[robert-fripp|Robert Fripp]] ji více než padesát let neustále přestavoval: kapela obvykle vydala několik alb během krátké doby, rozpadla se a znovu se sestavila v jiné podobě. Rozsahem progresivních stylů, od jazzrocku přes industriální hudbu až po metal, překonává téměř každého.\n",
-      "rank": 0
+      "rank": 1
     },
     {
       "id": "king-mensah",
@@ -24745,7 +24752,7 @@
       ],
       "added": "2026-11-27",
       "body": "Naïssam Jalal je francouzsko-syrská flétnistka, hráčka na nej, skladatelka a zpěvačka narozená v Paříži. Spojuje jazz s arabskou hudební tradicí a ve své tvorbě se věnuje i politickým a společenským tématům. Vede vlastní soubor Rhythms of Resistance.\n",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "najma",
@@ -25078,7 +25085,7 @@
       ],
       "added": "2026-11-27",
       "body": "Nico (vlastním jménem Christa Päffgen, 1938–1988) byla německá zpěvačka, modelka a herečka. Proslavila se hostováním na albu *The Velvet Underground & Nico* (1967) a poté nahrála sólová alba s temným, minimalistickým zvukem, v němž dominuje její hluboký hlas a harmonium.\n",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "nicolas-krassik",
@@ -28639,7 +28646,7 @@
       ],
       "added": "2026-11-27",
       "body": "Robert Fripp je anglický kytarista a skladatel, zakladatel a dlouholetý vůdce skupiny [[king-crimson|King Crimson]]. Mimo ni se věnuje sólové a experimentální tvorbě, například ambientním kytarovým smyčkám.\n",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "robert-johnson",
@@ -29975,7 +29982,7 @@
       ],
       "added": "2026-11-27",
       "body": "Sarāb je kapela z Paříže. V únoru 2026 vydala album *Mīt warde* („Sto růží“).\n",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "sarah-aroeste",
